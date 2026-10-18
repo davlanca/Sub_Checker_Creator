@@ -1,0 +1,7 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@121.127.37.211:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B8%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@121.127.37.211:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?security=tls&serviceName=swedenfeed&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?security=tls&sni=edge-lab-b.10media.top&fp=&type=grpc&serviceName=swedenfeed&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
