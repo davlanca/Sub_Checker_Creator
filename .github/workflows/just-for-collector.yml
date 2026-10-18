@@ -10,6 +10,10 @@ on:
   workflow_dispatch:
   # بخش schedule حذف شد
 
+concurrency:
+  group: without-timer
+  cancel-in-progress: true
+
 permissions:
   contents: write # مجوز نوشتن برای پوش کردن لازم است
 

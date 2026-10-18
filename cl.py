@@ -34,9 +34,8 @@ with open(CONF_PATH,"r") as file_client_set:
 TEXT_PATH="normal.txt"
 LINK_PATH = ["https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt", "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"]
 FIN_PATH="final.txt"
-FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+FILE_HEADER_TEXT = """//profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 """
 FIN_CONF=[]
 CHECK_LOC=True
@@ -1605,43 +1604,23 @@ def should_retry_ip_api(exception):
     print(f"Not retrying for error: {exception}")
     return False
 def fetch_exit_country_code_via_proxy(proxies_to_use: Optional[dict]) -> str:
-    print(f"Fetching EXIT country code using proxy {proxies_to_use.get('http') if proxies_to_use else 'None'}")
-    try:
-        print(f"  Attempting with ipinfo.io/json...")
-        api_url_ipinfo = "https://ipinfo.io/json"
-        response_ipinfo = requests.get(api_url_ipinfo, timeout=10, proxies=proxies_to_use)
-        response_ipinfo.raise_for_status()
-        data_ipinfo = response_ipinfo.json()
-        exit_ip = data_ipinfo.get('ip')
-        country_code = data_ipinfo.get('country')
-        if country_code and isinstance(country_code, str) and len(country_code) == 2 and country_code.isalpha():
-            print(f"  Success with ipinfo.io: Exit IP {exit_ip}, Country {country_code.upper()}")
-            return country_code.upper()
-        else:
-            print(f"  Invalid or missing country from ipinfo.io. Response: {data_ipinfo}")
-            raise ValueError("Invalid data from ipinfo.io")
-    except (requests.exceptions.RequestException, ValueError, json.JSONDecodeError) as e_ipinfo:
-        print(f"  Failed with ipinfo.io: {e_ipinfo}. Proceeding to fallback (ipdata.co)...")
-    try:
-        print(f"  Attempting with ipdata.co (no IP)...")
-        if not IPDATA_API_KEY or IPDATA_API_KEY == "YOUR_IPDATA_API_KEY":
-            print("  Error: IPDATA_API_KEY not configured for ipdata.co. Skipping.")
-            raise ValueError("IPDATA_API_KEY not set")
-        api_url_ipdata = f"https://api.ipdata.co?api-key={IPDATA_API_KEY}"
-        response_ipdata = requests.get(api_url_ipdata, timeout=10, proxies=proxies_to_use)
-        data_ipdata = response_ipdata.json()
-        exit_ip = data_ipdata.get('ip')
-        country_code = data_ipdata.get('country_code')
-        if country_code and isinstance(country_code, str) and len(country_code) == 2 and country_code.isalpha():
-            print(f"  Success with ipdata.co: Exit IP {exit_ip}, Country {country_code.upper()}")
-            return country_code.upper()
-        else:
-            # ...
-            raise ValueError("Invalid data from ipdata.co")
-    except Exception as e_ipdata:
-        print(f"  Failed with ipdata.co as well: {e_ipdata}")
-        print("  All location services failed. Returning XX.")
-        return "XX"
+    """Free, no-key geo APIs (no hard limits). geojs.io -> ipwho.is -> ip-api.com. Returns 2-letter code or XX."""
+    for api in [
+        ("https://get.geojs.io/v1/ip/country.json", "country_code"),
+        ("https://ipwho.is/", "country_code"),
+        ("http://ip-api.com/json/?fields=status,countryCode", "countryCode"),
+    ]:
+        try:
+            r = requests.get(api[0], timeout=8, proxies=proxies_to_use)
+            data = r.json()
+            code = data.get(api[1]) or data.get("country") or data.get("countryCode") or ""
+            if isinstance(code, str) and len(code) == 2 and code.isalpha():
+                print(f"  Geo OK via {api[0]}: country {code.upper()}")
+                return code.upper()
+        except Exception as e:
+            print(f"  Geo failed via {api[0]}: {str(e)[:80]}")
+    print("  All location services failed. Returning XX.")
+    return "XX"
 @retry(
     stop_max_attempt_number=3,
     wait_exponential_multiplier=1000,
@@ -1722,6 +1701,40 @@ def get_ip_details(ip_address: Optional[str], original_config_str: str,proxies_t
     else:
         print(f"IP address not provided for config {original_config_str.strip()[:30]}... Using default country code XX.")
 
+    # ---- حذف کامل سرورهای روسی: выход страна == RU => не сохраняем ----
+    if country_code == "RU":
+        print(f"  DROPPED RU exit: {original_config_str.strip()[:60]}")
+        return
+    if country_code == "XX":
+        try:
+            server_host = ""
+            cs = original_config_str.strip()
+            if cs.startswith("vmess://"):
+                enc = cs.split("://", 1)[1]
+                enc += '=' * ((4 - len(enc) % 4) % 4)
+                server_host = str(json.loads(base64.b64decode(enc)).get("add", ""))
+            else:
+                server_host = cs.split("#", 1)[0].split("@")[-1].split(":")[0]
+            if server_host:
+                for api in [
+                    f"https://get.geojs.io/v1/ip/country.json?ip={server_host}",
+                    f"https://ipwho.is/{server_host}",
+                    f"http://ip-api.com/json/{server_host}?fields=status,countryCode",
+                ]:
+                    try:
+                        data = requests.get(api[0], timeout=6).json()
+                        code = (data.get("country_code") or data.get("countryCode") or "").upper()
+                        if len(code) == 2 and code.isalpha():
+                            if code == "RU":
+                                print(f"  DROPPED RU server: {original_config_str.strip()[:60]}")
+                                return
+                            country_code = code
+                            break
+                    except Exception:
+                        continue
+        except Exception as e:
+            print(f"  Server geo check failed: {e}")
+
     # <<<<<<<<<<<<<<<< تغییر اصلی اینجاست >>>>>>>>>>>>>>>>
     # کد کشور را به ایموجی پرچم تبدیل می‌کنیم
     flag_emoji = country_code_to_emoji(country_code)
@@ -1736,9 +1749,8 @@ def get_ip_details(ip_address: Optional[str], original_config_str: str,proxies_t
             if missing_padding: encoded_part += '=' * (4 - missing_padding)
             vmess_data = json.loads(base64.b64decode(encoded_part).decode('utf-8'))
             
-            # استخراج تگ پایه و اضافه کردن ایموجی
-            base_name = vmess_data.get("ps", "").split("::")[0].strip()
-            new_ps = f"{base_name}::{flag_emoji}"
+            # تگ فقط ایموجی کشور (بدون تبلیغ)
+            new_ps = flag_emoji
             vmess_data["ps"] = new_ps
             
             # انکود کردن مجدد کانفیگ
@@ -1757,10 +1769,8 @@ def get_ip_details(ip_address: Optional[str], original_config_str: str,proxies_t
         config_base = parts[0]
         original_tag = urllib.parse.unquote(parts[1]) if len(parts) > 1 else ""
         
-        current_tag_base = original_tag.split("::")[0].strip()
-        
-        # ساخت تگ جدید با ایموجی
-        new_tag_unencoded = f"{current_tag_base}::{flag_emoji}"
+        # تگ فقط ایموجی کشور (بدون تبلیغ)
+        new_tag_unencoded = flag_emoji
         new_tag_encoded = urllib.parse.quote(new_tag_unencoded)
         final_config_string = f"{config_base}#{new_tag_encoded}"
         
@@ -2017,6 +2027,8 @@ def save_sorted_configs(configs: list):
                 potential_emoji = tag.rsplit('::', 1)[1]
                 if potential_emoji:
                     flag_emoji = potential_emoji
+            elif tag and (tag.startswith("U0001F3F4") or any(127462 <= ord(c) <= 127487 for c in tag)):
+                flag_emoji = tag
         except Exception as e:
             if i < 5: # فقط برای ۵ خطای اول لاگ می‌اندازیم تا خروجی شلوغ نشود
                 print(f"  [عیب‌یابی] خطایی در استخراج تگ رخ داد: {e} | کانفیگ: {config[:40]}...")
