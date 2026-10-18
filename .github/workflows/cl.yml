@@ -33,6 +33,13 @@ jobs:
           rm -f final.txt final_b64.txt vless*.txt vmess*.txt trojan*.txt ss*.txt hy2*.txt wireguard*.txt socks*.txt tuic*.txt ssr*.txt
           rm -rf loc/
 
+      - name: Update Xray core to latest
+        run: |
+          curl -sL -o /tmp/xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          mkdir -p /tmp/xraydir && unzip -o /tmp/xray.zip -d /tmp/xraydir
+          mv -f /tmp/xraydir/xray xray/xray
+          chmod +x xray/xray
+
       - name: Set execute permissions for binaries
         run: |
           chmod +x xray/xray

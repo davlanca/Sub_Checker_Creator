@@ -1,5 +1,10 @@
 import os
 import sys
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 import requests
 import subprocess
 import threading
@@ -35,7 +40,7 @@ FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J
 """
 FIN_CONF=[]
 CHECK_LOC=True
-CHECK_IRAN=True
+CHECK_IRAN=False
 CHECK_HOST_IRANIAN_NODES = [
     "ir1.node.check-host.net",  # Pars Online (پارس آنلاین)
     "ir3.node.check-host.net",  # Derak Cloud (قبلاً رایتل بود - شیراز)
@@ -1763,7 +1768,8 @@ def get_ip_details(ip_address: Optional[str], original_config_str: str,proxies_t
 
 def s_xray(conf_path, t):
     """Starts an Xray process."""
-    xray_abs = os.path.abspath("xray/xray")
+    xray_bin = "xray/xray.exe" if os.name == "nt" else "xray/xray"
+    xray_abs = os.path.abspath(xray_bin)
     proc = subprocess.Popen([xray_abs, 'run', '-c', conf_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     process_manager.add_process(f"xray_{t}", proc.pid)
 
@@ -1864,8 +1870,8 @@ def load_config():
             lines = f.read().splitlines()
             # تمیز کردن و حذف تکراری‌ها قبل از تست
             cleaned_lines = clear_p(lines) 
-            # تنظیم تگ اولیه برای همه
-            tagged_lines = set_initial_tag(cleaned_lines, "hamedp71")
+            # حفظ تگ‌های اصلی کانفیگ‌ها (نام/کشور از ساب لینک)
+            tagged_lines = cleaned_lines
             print(f"Loaded and prepared {len(tagged_lines)} configs from {TEXT_PATH} for testing.")
             return tagged_lines, False # is_dict همیشه False است
     except FileNotFoundError:

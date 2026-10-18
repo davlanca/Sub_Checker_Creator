@@ -47,6 +47,13 @@ jobs:
         # run: pip install -r requirements.txt
         run: pip install requests psutil retrying PyYaml # <--- وابستگی‌های خودت رو اینجا بذار
 
+      - name: Update Xray core to latest
+        run: |
+          curl -sL -o /tmp/xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          mkdir -p /tmp/xraydir && unzip -o /tmp/xray.zip -d /tmp/xraydir
+          mv -f /tmp/xraydir/xray xray/xray
+          chmod +x xray/xray
+
       - name: Set execute permissions
         run: |
           chmod +x xray/xray
