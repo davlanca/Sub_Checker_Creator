@@ -35,7 +35,7 @@ FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J
 """
 FIN_CONF=[]
 CHECK_LOC=True
-CHECK_IRAN=False
+CHECK_IRAN=True
 CHECK_HOST_IRANIAN_NODES = [
     "ir1.node.check-host.net",  # Pars Online (پارس آنلاین)
     "ir3.node.check-host.net",  # Derak Cloud (قبلاً رایتل بود - شیراز)
