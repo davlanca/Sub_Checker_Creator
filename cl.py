@@ -26,7 +26,7 @@ import urllib.request
 import signal
 os.system("chmod +x hy2/hysteria")
 IPDATA_API_KEY = "45d33281a59a93aeb7227414b15038f7a5a591c7e68962aa1c37d159"
-TH_MAX_WORKER=5
+TH_MAX_WORKER=15
 CONF_PATH="config.json"
 with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
@@ -1835,7 +1835,7 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
                 url = test_link_
                 headers = {"Connection": "close"}
                 start = time.time()
-                response = requests.get(url, proxies=proxies, timeout=10, headers=headers)
+                response = requests.get(url, proxies=proxies, timeout=5, headers=headers)
                 elapsed = (time.time() - start) * 1000
                 if response.status_code == 204 or (response.status_code == 200 and len(response.content) == 0):
                     return f"{int(elapsed)}"
