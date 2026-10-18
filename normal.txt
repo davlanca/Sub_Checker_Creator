@@ -1,1 +1,1 @@
-https://github.com/histeenn/VLESS-PO-GRIBI/tree/main/deploy/subscriptions
+https://github.com/histeenn/VLESS-PO-GRIBI/blob/main/deploy/subscriptions/1.txt
