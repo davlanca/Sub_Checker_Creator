@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?authority=&encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=/3f9d322afd1602c&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cdn-01.funvideos.video:443?security=tls&sni=cdn-01.funvideos.video&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cdn-01.funvideos.video:443?security=tls&sni=cdn-01.funvideos.video&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&fp=ios#%F0%9F%87%AB%F0%9F%87%B7
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8444?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-uk&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
+vless://5504eaa8-1395-402f-8e0e-75ecd762e627@eu2.998998.best:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=nat9.outsidemyheart.space&path=/saosaosao&security=tls&sni=nat9.outsidemyheart.space&type=ws#%F0%9F%87%AB%F0%9F%87%B7

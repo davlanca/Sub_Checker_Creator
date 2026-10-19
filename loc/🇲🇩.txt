@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?encryption=none&security=reality&fp=chrome&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&type=grpc&authority=&serviceName=stats.v2.PushService&mode=gun#%F0%9F%87%B2%F0%9F%87%A9
