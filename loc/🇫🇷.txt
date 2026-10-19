@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=redcloudport-bidarbash.sbs&type=ws&headerType=none&host=redcloudport-bidarbash.sbs&path=%2Fzoodi#%F0%9F%87%AB%F0%9F%87%B7
-vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@funvideos.video:443?security=tls&sni=funvideos.video&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=funvideos.video#%F0%9F%87%AB%F0%9F%87%B7
