@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip#%F0%9F%87%A7%F0%9F%87%B7
