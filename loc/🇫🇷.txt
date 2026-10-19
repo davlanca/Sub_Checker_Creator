@@ -1,4 +1,14 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://5504eaa8-1395-402f-8e0e-75ecd762e627@eu2.998998.best:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=nat9.outsidemyheart.space&path=/saosaosao&security=tls&sni=nat9.outsidemyheart.space&type=ws#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?type=ws&security=tls&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&sni=cdn-01.funvideos.video&fp=edge#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cdn-01.funvideos.video:443?security=tls&sni=cdn-01.funvideos.video&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&fp=ios#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?type=ws&security=tls&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&sni=cdn-01.funvideos.video&allowInsecure=0&insecure=0&fp=ios#%F0%9F%87%AB%F0%9F%87%B7
+vless://2bdcf0ac-f84e-471f-98dc-a1807acab1cb@redcloudport-bidarbash.sbs:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=redcloudport-bidarbash.sbs&type=ws&headerType=none&host=redcloudport-bidarbash.sbs&path=%2Fzoodi#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?type=ws&security=tls&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&sni=cdn-01.funvideos.video&allowInsecure=0&insecure=0&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?type=ws&security=tls&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&sni=cdn-01.funvideos.video&allowInsecure=0&insecure=0&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@cdn-01.funvideos.video:443?security=tls&sni=cdn-01.funvideos.video&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=cdn-01.funvideos.video&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?encryption=none&host=cdn-01.funvideos.video&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&security=tls&sni=cdn-01.funvideos.video&type=ws&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?encryption=none&host=cdn-01.funvideos.video&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&security=tls&sni=cdn-01.funvideos.video&type=ws&fp=ios#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.57.92:443?type=ws&security=tls&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&sni=cdn-01.funvideos.video&fp=ios#%F0%9F%87%AB%F0%9F%87%B7
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@funvideos.video:443?security=tls&sni=funvideos.video&type=ws&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&host=funvideos.video#%F0%9F%87%AB%F0%9F%87%B7
