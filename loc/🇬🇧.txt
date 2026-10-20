@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&encryption=none&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=144.48.11.97&sid=725e6ea0#%F0%9F%87%AC%F0%9F%87%A7
-vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=firefox&flow=xtls-rprx-vision&sid=3ba10d9ce34380c9&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU#%F0%9F%87%AC%F0%9F%87%A7
-vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@151.243.101.126:51105?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=chrome&sid=abcd1234&pbk=_DxG0K_Hvw7qfGTtfeYm95vCBS_3E2x1gzVzfJqQGjE#%F0%9F%87%AC%F0%9F%87%A7
-vless://b62e3646-b84d-443c-9c94-718b646502e0@107.181.151.128:443?security=reality&flow=xtls-rprx-vision&sni=www.foxsports.com&type=tcp&fp=edge&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=dda5f542d835#%F0%9F%87%AC%F0%9F%87%A7
+vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?encryption=none&security=reality&type=tcp&sni=www.adobe.com&flow=xtls-rprx-vision&fp=chrome&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo&sid=1625a2a79d01328f#%F0%9F%87%AC%F0%9F%87%A7
