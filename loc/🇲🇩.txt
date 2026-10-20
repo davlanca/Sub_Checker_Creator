@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://d91783af-69e5-4293-9e68-8aad10f29080@md.xenovpn.top:443?security=reality&encryption=none&pbk=KN5Hn9xnsRTCb59M7IZWRLVVALHiiYutZ_knELXmSzU&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=md.xenovpn.top&sid=3d2dfff625978b62#%F0%9F%87%B2%F0%9F%87%A9

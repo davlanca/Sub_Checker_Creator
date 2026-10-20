@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=swedenfeed&allowInsecure=0&sni=edge-lab-b.10media.top#%F0%9F%87%B8%F0%9F%87%AA
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?security=tls&sni=edge-lab-b.10media.top&fp=chrome&type=grpc&serviceName=swedenfeed&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
-vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?security=tls&sni=edge-lab-b.10media.top&fp=&type=grpc&serviceName=swedenfeed&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@sub.merky.top:443?&security=tls&sni=sub.merky.top&type=ws&headerType=none&host=sub.merky.top&path=%2Fmerky-connect%2Fde6%2F#%F0%9F%87%B8%F0%9F%87%AA
