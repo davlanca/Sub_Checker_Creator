@@ -1,0 +1,6 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2Ffdip#%F0%9F%87%A8%F0%9F%87%A6
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?encryption=none&security=tls&type=ws&host=lucasjow.us.ci&path=%2F%3FTelegram---mehrosaboran&sni=lucasjow.us.ci&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.98.0:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip&sni=snip.edgeoneai.cc.cd&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6
