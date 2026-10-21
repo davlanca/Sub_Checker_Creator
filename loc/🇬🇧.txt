@@ -1,4 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4b09d40d-e36a-47c3-baa4-e6bf551b3183@31.59.217.164:443?encryption=none&security=reality&type=tcp&sni=www.adobe.com&flow=xtls-rprx-vision&fp=chrome&pbk=kOkILS7UXUQDNPLYn4SQ65kMIWKXNOttV5Kddw4ZqTo&sid=1625a2a79d01328f#%F0%9F%87%AC%F0%9F%87%A7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%AC%F0%9F%87%A7
+vless://c6cfcc53-9271-4ef7-88c5-5141621c8db1@31.59.216.141:443?encryption=none&security=reality&type=tcp&sni=193.23.216.239.cdn-one.org&flow=xtls-rprx-vision&pbk=7zsU1U-30jh-qqfmqZukMfoqHB75ksKFA5aQFi8LGW4&sid=70b4ca#%F0%9F%87%AC%F0%9F%87%A7
