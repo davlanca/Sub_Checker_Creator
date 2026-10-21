@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://6e05822a-e9da-4135-a9db-71aa07a944af@188.114.98.0:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=fi1.merky.one&type=ws&headerType=none&host=fi1.merky.one&path=%2Fmky-ws-4f19c8a7#%F0%9F%87%AB%F0%9F%87%AE
