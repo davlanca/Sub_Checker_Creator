@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://6e05822a-e9da-4135-a9db-71aa07a944af@188.114.98.0:443?&security=tls&fp=unsafe&alpn=http%2F1.1&sni=fi1.merky.one&type=ws&headerType=none&host=fi1.merky.one&path=%2Fmky-ws-4f19c8a7#%F0%9F%87%AB%F0%9F%87%AE
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc&fp=random#%F0%9F%87%AB%F0%9F%87%AE
