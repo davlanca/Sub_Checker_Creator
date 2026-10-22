@@ -3,3 +3,4 @@
 
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.245.245.16:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%B5%F0%9F%87%B1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.31.77.108:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
+vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&security=reality&sni=360.yandex.ru&fp=random&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7&type=grpc&serviceName=#%F0%9F%87%B5%F0%9F%87%B1
