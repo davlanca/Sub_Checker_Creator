@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@sisipisi.yandex-api.com:443?security=reality&type=tcp&encryption=none&sni=sisipisi.yandex-api.com&sid=a9dc98a7dc87a7dc&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&flow=xtls-rprx-vision&fp=random&headerType=none#%F0%9F%87%B7%F0%9F%87%B4
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@81.181.166.197:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B7%F0%9F%87%B4

@@ -1,6 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@cdn111.whitenw.net:8449/?type=ws&encryption=none&flow=&path=%2Fjournal-sync%2Fe8d4c790&security=tls&sni=foliage.lalibobi.online#%F0%9F%87%AB%F0%9F%87%AE
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc&fp=qq#%F0%9F%87%AB%F0%9F%87%AE
-vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@cdn111.whitenw.net:8449/?encryption=none&flow=&path=%2Fjournal-sync%2Fe8d4c790&security=tls&sni=foliage.lalibobi.online&type=ws&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.118.248.254:2053?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%AB%F0%9F%87%AE
+vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&security=reality&serviceName=0adb9638509b&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%AB%F0%9F%87%AE

@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 
 vless://c6cfcc53-9271-4ef7-88c5-5141621c8db1@31.59.216.141:443?encryption=none&security=reality&type=tcp&sni=193.23.216.239.cdn-one.org&flow=xtls-rprx-vision&pbk=7zsU1U-30jh-qqfmqZukMfoqHB75ksKFA5aQFi8LGW4&sid=70b4ca#%F0%9F%87%AC%F0%9F%87%A7
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&security=reality&type=tcp&sni=144.48.11.97&flow=xtls-rprx-vision&fp=chrome&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#%F0%9F%87%AC%F0%9F%87%A7
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.186.246.8:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%AC%F0%9F%87%A7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@72.56.106.210:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%AC%F0%9F%87%A7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.194.140.26:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
