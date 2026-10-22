@@ -1,8 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?flow=xtls-rprx-vision&fp=random&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&security=reality&sid=9930177816ab09da&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
-vless://1e3d3634-36ac-43ac-a439-9665d885238f@206.206.76.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TqIFzUEEI1pIOR8BEpkNKEXcJ6cPfE5EzHb5joIivig&security=reality&sid=9930177816ab09da&sni=www.cloudflare.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@194.127.192.138:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%B8%F0%9F%87%AC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@89.28.239.57:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.195.195.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC

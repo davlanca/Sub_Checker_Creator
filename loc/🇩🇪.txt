@@ -1,24 +1,21 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@138.124.54.223:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@209.38.254.20:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://261160d5-0343-4b85-8c28-3d40dd681559@147.45.46.148:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.ozon.ru#%F0%9F%87%A9%F0%9F%87%AA
+vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@104.25.5.52:443?security=tls&type=ws&path=/vl/yLWNcuUuw1jlJpkDhGy?ed=2560&host=fornewiran.ade-1000.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=FORnEwIRAn.ADE-1000.worKeRS.dev&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@77.95.206.236:64563?security=reality&encryption=none&pbk=wtTHheIAfyG6Sis8_GC5aHW06QPs9K-LwTqZ15NHX2M&fp=firefox&type=grpc&sni=www.starlink.com&sid=04bc4a55875f#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@93.127.223.238:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@87.120.126.131:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.105.215.151:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@57.131.153.153:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@94.159.100.154:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@77.91.66.41:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@93.127.223.238:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.105.113.205:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@144.31.181.177:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@87.120.126.131:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@89.127.210.245:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@89.127.210.245:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@104.21.70.21:443?security=tls&type=ws&path=/vl/yLWNcuUuw1jlJpkDhGy?ed=2560&host=fornewiran.ade-1000.workers.dev&packetEncoding=xudp&alpn=http/1.1&sni=fornewiran.ade-1000.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.105.113.205:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.28.42.209:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.70.89.136:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.13.211.236:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&alpn=h3%2Ch2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@45.12.114.90:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=wow.eos-shop.online#%F0%9F%87%A9%F0%9F%87%AA
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@77.95.206.236:64563?security=reality&encryption=none&pbk=wtTHheIAfyG6Sis8_GC5aHW06QPs9K-LwTqZ15NHX2M&fp=firefox&type=grpc&sni=www.starlink.com&sid=04bc4a55875f#%F0%9F%87%A9%F0%9F%87%AA
-vless://261160d5-0343-4b85-8c28-3d40dd681559@147.45.46.148:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=de.ozon.ru#%F0%9F%87%A9%F0%9F%87%AA
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@194.87.71.141:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&type=ws&path=%2F&host=cf-1rm.pages.dev&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@194.87.71.141:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&type=ws&path=%2F&host=cf-1rm.pages.dev&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@194.87.71.141:443/?type=ws&encryption=none&flow=&host=cf-1rm.pages.dev&path=/&security=tls&sni=cf-1rm.pages.dev&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@89.127.210.245:2053?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@159.195.45.210:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@138.124.54.223:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.70.89.136:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@144.31.181.177:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%A9%F0%9F%87%AA
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@77.95.206.236:64563?encryption=none&pbk=wtTHheIAfyG6Sis8_GC5aHW06QPs9K-LwTqZ15NHX2M&security=reality&sid=04bc4a55875f&sni=www.starlink.com&type=grpc&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
