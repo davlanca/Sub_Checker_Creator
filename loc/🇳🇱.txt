@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@snow.betust.net:443?encryption=none&security=reality&type=tcp&sni=api37.betust.net&flow=xtls-rprx-vision&fp=chrome&pbk=92lzqaBZnD5IP_subNDLotGMBs4u7STDMhqoBz1OADE&sid=b7a5c406#%F0%9F%87%B3%F0%9F%87%B1
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.192.239.107:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.17.250:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%F0%9F%87%B3%F0%9F%87%B1
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@2.26.91.240:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@31.192.239.107:8443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.17.250:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
