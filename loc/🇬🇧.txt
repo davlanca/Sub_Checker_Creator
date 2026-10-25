@@ -1,10 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.141.118.232:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI&security=reality&sid=570ffeb12f6e4635&sni=node.remnagecsp.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&sni=yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
+vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.141.118.232:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0BVxZKOt6wO0jIB1xRkAAtaFUkmyFAbVWfkkKSJBfEI&security=reality&sid=570ffeb12f6e4635&sni=node.remnagecsp.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&security=reality&type=tcp&sni=www.foxsports.com&flow=xtls-rprx-vision&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f#%F0%9F%87%AC%F0%9F%87%A7
 vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&security=reality&sid=91af08b1ce1f&sni=www.foxsports.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@147.45.47.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ai.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7
 vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@147.45.47.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ai.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=qq#%F0%9F%87%AC%F0%9F%87%A7
+vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@147.45.47.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ai.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7

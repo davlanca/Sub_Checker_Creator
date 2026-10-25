@@ -3,5 +3,5 @@
 
 vless://0b418782-e023-447e-ba99-e66b84ff118d@38.145.220.58:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
-vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none&fp=firefox&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&security=reality&serviceName=grpc_common1&sid=defda00d613c&sni=www.semiconductor.samsung.com&type=grpc#%F0%9F%87%A8%F0%9F%87%A6
 vless://28d7a636-fd0b-489e-bf99-baa5b1bf9f15@213.152.165.200:2093?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&security=reality&sid=8a9725533854a7e8&sni=www.apple.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
+vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none&fp=firefox&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&security=reality&serviceName=grpc_common1&sid=defda00d613c&sni=www.semiconductor.samsung.com&type=grpc#%F0%9F%87%A8%F0%9F%87%A6

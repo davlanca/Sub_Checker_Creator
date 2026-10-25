@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://1ef7d97f-3aa5-4fe6-8521-84cf4794bf7a@2.27.203.251:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QYdQmsVvUj4jwo9gH20nJA5x015gaAL0nGipORe6ZmY&security=reality&sni=edge-fi2.lovely.my&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
