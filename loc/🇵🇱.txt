@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@2.26.224.177:8443?encryption=none&fp=firefox&host=pl.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&security=reality&sid=7b6803a79bba5c52&sni=pl.peregrine-sub.net&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1
-vless://1ef7d97f-3aa5-0001-8521-84cf4794bf7a@92.53.119.212:40849?encryption=none&security=reality&type=tcp&sni=ru-hub10.lovely.my&flow=xtls-rprx-vision&fp=chrome&pbk=jkVcZ_b3iWs2FcSjC8Mb1NoRuwPgCH9HpeOOYAXBSU0#%F0%9F%87%B5%F0%9F%87%B1
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1
+vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@150.251.112.45:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&security=reality&sid=d18f4e&sni=tiktok.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
