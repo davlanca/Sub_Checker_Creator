@@ -2,5 +2,3 @@
 //profile-update-interval: 1
 
 vless://1ef7d97f-3aa5-4fe6-8521-84cf4794bf7a@2.27.203.251:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QYdQmsVvUj4jwo9gH20nJA5x015gaAL0nGipORe6ZmY&security=reality&sni=edge-fi2.lovely.my&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://eeb96fef-4476-4ab0-915e-32e8f014c3b2@213.165.60.177:2096?encryption=none&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
-vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&type=ws&sni=ru.dostupnety.website&path=%2Fws-hidden#%F0%9F%87%AB%F0%9F%87%AE
