@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?encryption=none&security=reality&type=tcp&sni=www.kaidee.com&flow=xtls-rprx-vision&fp=ios&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&sid=cbd39bea0805e2#%F0%9F%87%B9%F0%9F%87%AD
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?security=reality&type=tcp&sni=www.kaidee.com&fp=chrome&flow=xtls-rprx-vision&sid=cbd39bea0805e2&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&encryption=none#%F0%9F%87%B9%F0%9F%87%AD
