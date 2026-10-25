@@ -2,6 +2,3 @@
 //profile-update-interval: 1
 
 vless://1ef7d97f-3aa5-4fe6-8521-84cf4794bf7a@2.27.203.251:443?security=reality&type=tcp&sni=edge-fi2.lovely.my&fp=chrome&flow=xtls-rprx-vision&pbk=QYdQmsVvUj4jwo9gH20nJA5x015gaAL0nGipORe6ZmY&encryption=none#%F0%9F%87%AB%F0%9F%87%AE
-vless://0477e879-f2a7-4b76-aa29-28f36b45d4b6@158.160.243.46:443?type=tcp&security=reality&sni=rutube.ru&flow=xtls-rprx-vision&pbk=y3dqCRYQO7GM7DIdQRG1uDjBNRK2vyXd8RJL160WZz4&sid=8a1f9479&fp=ios#%F0%9F%87%AB%F0%9F%87%AE
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@8fc752g.fi3.h1clayd.click:443?encryption=none&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&security=reality&serviceName=f345a414c040&sid=09d0a94a1c6fc9d5&sni=8fc752g.fi3.h1clayd.click&spx=%2F&type=grpc&fp=ios#%F0%9F%87%AB%F0%9F%87%AE
-vless://0477e879-f2a7-4b76-aa29-28f36b45d4b6@158.160.243.46:443?type=tcp&security=reality&sni=rutube.ru&flow=xtls-rprx-vision&pbk=y3dqCRYQO7GM7DIdQRG1uDjBNRK2vyXd8RJL160WZz4&sid=8a1f9479&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
