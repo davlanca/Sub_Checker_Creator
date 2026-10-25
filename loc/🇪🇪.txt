@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443?encryption=none&fp=firefox&host=dropstyle.lol&path=/service/metrics/51dec2df3071/&security=tls&sni=dropstyle.lol&type=ws#%F0%9F%87%AA%F0%9F%87%AA
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@91.185.83.109:443?encryption=none&fp=firefox&host=ed2e7fkruv.rucdncomp.pro&path=/useraction/collect/9a5e672836b1/&security=tls&sni=ed2e7fkruv.rucdncomp.pro&type=ws#%F0%9F%87%AA%F0%9F%87%AA
