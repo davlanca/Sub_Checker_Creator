@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://aa2a1119-0852-4f62-8d42-3a2cc97e8580@br-ru.pool-a.top-interconnect.com:44002?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cloudbridgecdn.pro&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&sid=c2166e3b&fp=edge#%F0%9F%87%A8%F0%9F%87%AD
+vless://aa2a1119-0852-4f62-8d42-3a2cc97e8580@br-ru.pool-a.top-interconnect.com:44002?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=cloudbridgecdn.pro&pbk=sl0wx4BFdJ7SsfQ6SjkSHU_SQ_0mAhyIlT2eAxWGRyQ&sid=c2166e3b&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD
