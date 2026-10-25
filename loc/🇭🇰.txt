@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://29d23018-3265-494c-b9fe-e320b619b1e2@38.22.88.248:27509?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.suffolk.edu&fp=chrome&pbk=nseaofwmjSciWUI2ZOXft9lUJutKvKEDUc-aSpE3e1M&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiIxNTYuMjQ1LjIzMi4yMzkiLCJwb3J0IjoiMzUwNDMiLCJpZCI6ImIxNWU0ODFkLTE3ZTQtNDFhOC04NGMyLTIzZDRmMDUxNGQ5YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIn0
