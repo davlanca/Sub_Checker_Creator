@@ -2,8 +2,8 @@ name: Sub Checker Creator
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/20 * * * *'
+  repository_dispatch:
+    types: [external_cron_trigger]
 
 concurrency:
   group: ${{ github.workflow }}
@@ -35,7 +35,7 @@ jobs:
 
       - name: Update Xray core to latest
         run: |
-          curl -sL -o /tmp/xray.zip https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
+          curl -sL -o /tmp/xray.zip https://github.com
           mkdir -p /tmp/xraydir && unzip -o /tmp/xray.zip -d /tmp/xraydir
           mv -f /tmp/xraydir/xray xray/xray
           chmod +x xray/xray
@@ -51,7 +51,7 @@ jobs:
       - name: Commit and Push new results
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "41898282+github-actions[bot]@://github.com"
           
           # راه حل نهایی: همه تغییرات را اضافه کن...
           git add .
