@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@bgye0.guardora.pro:443?encryption=none&type=ws&security=tls&sni=bgye0.guardora.pro&fp=chrome&alpn=http/1.1&path=/api/ws#%F0%9F%87%AA%F0%9F%87%AA
