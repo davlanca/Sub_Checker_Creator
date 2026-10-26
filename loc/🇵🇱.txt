@@ -4,4 +4,3 @@
 vless://32daf25d-9ffa-4f43-b6a3-2ebc21014681@201.58.179.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MN2XIVlIusdWaGwyyrGZ7Ti3jzqjDlpMmc12WcrV1nU&security=reality&sni=www.tradingview.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?encryption=none&security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
