@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.149.68.152:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=affil.eosapp.net#%F0%9F%87%AE%F0%9F%87%B1
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@168.113.172.128:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=a12.eosshop.net#%F0%9F%87%AE%F0%9F%87%B1
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.149.68.152:443?security=reality&encryption=none&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=affil.eosapp.net#%F0%9F%87%AE%F0%9F%87%B1
