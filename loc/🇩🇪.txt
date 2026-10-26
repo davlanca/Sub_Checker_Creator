@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@177.3.222.100:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ge-s-1.pythonmakemigreat.wiki&fp=firefox&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@198.202.146.51:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B5DMtKe8wjH_WeM8M8IEuKwPqJ6-Ku98JH_LifwehEY&security=reality&sid=6fe2994a0e208408&sni=198.202.146.51.sslip.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://659ffdfa-47d2-47d7-af40-5afe0907eead@162.55.242.208:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4d14da19b19cfc8c&pbk=jeS6Zu-p1Gf6GtraIAbpgQoSeT26Xq3GqgqVxccbVhY#%F0%9F%87%A9%F0%9F%87%AA
-vless://36c3dcc2-17b6-4478-b8a7-3978e6d5afe9@157.90.175.178:2112?encryption=none&fp=firefox&pbk=p8pUe3hwND5rhAti-yRQ5qMaIkNdhxOV1K1jpbtJlEQ&security=reality&sid=125ba3&sni=play.google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@198.202.146.51:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=B5DMtKe8wjH_WeM8M8IEuKwPqJ6-Ku98JH_LifwehEY&security=reality&sid=6fe2994a0e208408&sni=198.202.146.51.sslip.io&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@64.188.66.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&security=reality&sid=2c9a2790ad5900b2&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://20dd9433-389e-4573-ba7b-689619cf13da@89.169.53.176:4443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=YIyohkkCU5kw6J5iZYZkhILyDwlfftFPDTkbITlrAUw&security=reality&sid=df3aff719526dc5a&sni=gateway.icloud.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@de4.pad-sservice.lat:8443?path=/D14E&security=tls&encryption=none&insecure=0&host=de4.pad-service.com&type=ws&allowInsecure=0&sni=de4.pad-sservice.lat#%F0%9F%87%A9%F0%9F%87%AA
