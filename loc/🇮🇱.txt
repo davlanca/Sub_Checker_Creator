@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@31.130.150.37:443?flow=xtls-rprx-vision&security=reality&sni=a1a1.vkusnews.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#%F0%9F%87%AE%F0%9F%87%B1
