@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@176.65.134.34:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m1RKLrXKJKrXnyr3qXmXi43eSMF0PXz2oFzBh--OimU&security=reality&sid=a4ff4747c26a52e2&sni=lamilami.lamibeauty.site&type=tcp#%F0%9F%87%B8%F0%9F%87%AE
