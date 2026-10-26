@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://32daf25d-9ffa-4f43-b6a3-2ebc21014681@201.58.179.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MN2XIVlIusdWaGwyyrGZ7Ti3jzqjDlpMmc12WcrV1nU&security=reality&sni=www.tradingview.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?encryption=none&security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1

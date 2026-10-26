@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?encryption=none&security=reality&sni=36a466g.fi1.h1clayd.click&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&spx=%2F&type=grpc&authority=&serviceName=0adb9638509b&mode=gun&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@fin2.pad-sservice.lat:8443?path=/fin2-1&security=tls&encryption=none&insecure=0&host=fin2.pad-service.com&type=ws&allowInsecure=0&sni=fin2.pad-sservice.lat#%F0%9F%87%AB%F0%9F%87%AE
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@94.156.181.168:443?flow=xtls-rprx-vision&security=reality&sni=math.videoticher.com&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU#%F0%9F%87%AB%F0%9F%87%AE

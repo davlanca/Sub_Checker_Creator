@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@13.143.239.69:8443?&security=tls&fp=firefox&sni=ee4.pad-sservice.lat&type=ws&headerType=none&host=ee4.pad-sservice.lat&path=%2FEE4W#%F0%9F%87%AA%F0%9F%87%AA
