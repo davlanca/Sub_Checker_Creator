@@ -3,6 +3,7 @@
 
 vless://64c05afc-ce81-4ba0-b697-afa04da1427e@195.72.166.251:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.lloydsbankinggroup.com&fp=firefox&flow=xtls-rprx-vision&sid=25349b36802f&pbk=RKDT6fVgcZS8Qfzhv5rbeHRIflA3UTKD_HNLJyOoUwk#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&sni=yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@51.38.71.147:8443?encryption=none&security=tls&sni=node-uk.connectsuite.org&fp=firefox&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&type=tcp&packetEncoding=xudp&sni=144.48.11.97&fp=chrome&flow=xtls-rprx-vision&sid=725e6ea0&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@tr.pad-sservice.lat:8443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=tr.pad-sservice.lat&type=ws&headerType=none&host=tr.pad-service.com&path=%2FTR1#%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@87.236.166.178:56137#%F0%9F%87%AC%F0%9F%87%A7
