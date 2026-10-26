@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@45.151.71.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=abuse.ozon.ru&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
 vless://aaa9aa95-0251-4239-bad5-f5f4460e9914@185.126.67.8:1932?flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
 vless://aaa9aa95-0251-4239-bad5-f5f4460e9914@185.126.67.6:443?flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
 vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@tr.peregrine-sub.net:8443?encryption=none&type=xhttp&security=reality&sni=tr.peregrine-sub.net&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&sid=7b6803a79bba5c52&fp=chrome&path=/&host=tr.peregrine-sub.net&mode=auto#%F0%9F%87%B9%F0%9F%87%B7
