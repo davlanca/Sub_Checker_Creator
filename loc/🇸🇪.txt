@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://5a519754-a673-4462-83f6-5eb25d2af141@se3.h1cloud.net:25387/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=_nrnGiJUdyeLv2afSwe6P4j02AMayY34WFMjUJp5Kwc&sid=9608a9c65d315d52#%F0%9F%87%B8%F0%9F%87%AA
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@pl4-node.rumedia-cdn.com:2096?encryption=none&security=tls&type=ws&path=%2Fcdn%2Fv3%2Flive&sni=stb6390.rumedia-cdn.com#%F0%9F%87%B8%F0%9F%87%AA
