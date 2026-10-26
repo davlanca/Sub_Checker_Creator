@@ -2,9 +2,10 @@
 //profile-update-interval: 1
 
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#%20t.me%2Frjsxrd
+vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://b872771d-e9d1-42d7-ad29-a9acff49ea2d@88.218.170.236:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=qC4VE5jv0q0ALYAfCNtAHU-kN32OdA-cqJmXpL4Y2VY&sid=3199b70105c62ce0&sni=www.sun6-21.userapi.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&security=tls&sni=wsru1.wba-pn.ru&fp=random&type=ws&path=%2F&host=194.87.143.165#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?security=tls&type=ws&sni=wsru1.wba-pn.ru&path=%2F&host=wsru1.wba-pn.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443?encryption=none&type=ws&path=%2F&security=tls&sni=wsru1.wba-pn.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://7c464358-6c89-4623-bd20-7c7bcd51bc55@vd2.outlinevpn.cc:12213?security=reality&type=tcp&sni=music.yandex.ru&host=music.yandex.ru&flow=xtls-rprx-vision&pbk=kTKM-s7XF0s878Ydmq1KeZFiGT6k1Bw_rLE79s1l1jI&sid=6a29a03b21&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://32b5ca9b-3f81-4031-965d-e8b074216e8d@201.24.121.243:443?encryption=none&security=tls&sni=kk-ru24a1.testkknegr.online&fp=chrome&alpn=h2&type=grpc&serviceName=vlgrpc#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
