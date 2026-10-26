@@ -1,7 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://32daf25d-9ffa-4f43-b6a3-2ebc21014681@45.12.63.81:443?encryption=none&security=reality&type=tcp&sni=www.vk.ru&flow=xtls-rprx-vision&fp=chrome&pbk=MN2XIVlIusdWaGwyyrGZ7Ti3jzqjDlpMmc12WcrV1nU#%F0%9F%87%B5%F0%9F%87%B1
 vless://1ef7d97f-3aa5-0001-8521-84cf4794bf7a@92.53.119.212:40849?encryption=none&security=reality&type=tcp&sni=ru-hub10.lovely.my&flow=xtls-rprx-vision&fp=chrome&pbk=jkVcZ_b3iWs2FcSjC8Mb1NoRuwPgCH9HpeOOYAXBSU0#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?alpn=h2%2Chttp%2F1.1&security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
