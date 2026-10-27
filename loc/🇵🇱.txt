@@ -5,5 +5,5 @@ vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tl
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-pl&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-pl#%F0%9F%87%B5%F0%9F%87%B1
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?alpn=h2%2Chttp%2F1.1&security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-pl&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?alpn=h2%2Chttp%2F1.1&security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
