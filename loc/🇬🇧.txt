@@ -4,4 +4,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5BQDM3LjE1My4xNTguMTM2OjU2MTM3#%F0%9F%87%AC%F0%9F%87%A7
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?security=reality&encryption=none&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru11.oshost.network&sid=97a15f5af85c4a30#%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5BQDM3LjE1My4xNTguMTY3OjU2MTM3#%F0%9F%87%AC%F0%9F%87%A7
-vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?encryption=none&security=reality&sni=ap-author.led.samsung.com&fp=chrome&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&sid=aacd5d42a33b2a4e&type=grpc&authority=&serviceName=grpc_common1&mode=gun#%F0%9F%87%AC%F0%9F%87%A7
