@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@45.91.53.228:443?encryption=none&flow=xtls-rprx-vision&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%A6
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@45.91.53.228:443?encryption=none&flow=xtls-rprx-vision&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%A6
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@45.91.53.228:443?encryption=none&flow=xtls-rprx-vision&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6
 vless://e0216964-ffa1-4d39-82c4-0e40879a470d@45.91.53.228:443?encryption=none&flow=xtls-rprx-vision&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&security=reality&sid=c31f187b&sni=stable.nullo.pro&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6
