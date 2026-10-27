@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://c9c219dc-50da-4135-8e5b-67020291f0ec@81.19.136.167:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v2qvr3dsv5e.altrexon-net76.cfd&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE
