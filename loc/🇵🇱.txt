@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@168.222.193.184:443?security=reality&encryption=none&pbk=lvq2jh6X7yT88vvcV9GUriwtWL0HeqaLHr773Vgb5ks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=168.222.193.184.sslip.io&sid=b8307998cdaf0d55#%F0%9F%87%B5%F0%9F%87%B1
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&alpn=h2%2Chttp%2F1.1&sni=ru1.radiolumens.uk&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B1
+vless://252b4a9c-520d-459c-9dbc-366995206089@31.184.253.134:53869?flow=xtls-rprx-vision&pbk=rtc2Krk2fVhHCRG82EsUc4_mlw304HKHkl6MggQZEAU&security=reality&sid=0f2cc340a69ed7&sni=www.moddb.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
+vless://252b4a9c-520d-459c-9dbc-366995206089@31.184.253.134:53869?flow=xtls-rprx-vision&pbk=rtc2Krk2fVhHCRG82EsUc4_mlw304HKHkl6MggQZEAU&security=reality&sid=0f2cc340a69ed7&sni=www.moddb.com&type=tcp&fp=qq#%F0%9F%87%B5%F0%9F%87%B1

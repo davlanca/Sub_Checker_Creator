@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 
 vless://711c018e-2692-4aa8-93f3-544d83fcd16c@152.53.127.214:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&sid=7a76f3c4b9dd&sni=www.cloudflare.com#%F0%9F%87%A9%F0%9F%87%AA
-vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.113:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=dlx-2.viralforge.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
+vless://711c018e-2692-4aa8-93f3-544d83fcd16c@jdwadgw.cvewfjg.shop:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=7a76f3c4b9dd&pbk=HyVSZ2OyySwXT-xRhTAqoiuYflIaj_b0Jxm7S1Iq9hs&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@64.188.66.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ge-s-1.pythonmakemigreat.wiki&fp=firefox&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@ge-s-1.pythonmakemigreat.wiki:443?&security=reality&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&fp=chrome&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp&headerType=none&host=ge-s-1.pythonmakemigreat.wiki&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@45.142.106.121:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=dlx.viralforge.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
