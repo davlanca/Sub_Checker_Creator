@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 
 vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&security=tls#%F0%9F%87%B5%F0%9F%87%B1
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?encryption=none&security=tls&fp=ios&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1
-vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&fp=firefox&sni=2.26.6.1&encryption=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&alpn=h2%2Chttp%2F1.1&sni=ru1.radiolumens.uk&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
+vless://b9fdc03f-389b-4cda-9be4-155b623bee15@2.26.6.1:2087?security=tls&fp=firefox&sni=2.26.6.1&encryption=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
