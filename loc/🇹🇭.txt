@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 
 vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?security=reality&encryption=none&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=3c032a7e#%F0%9F%87%B9%F0%9F%87%AD
-vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?security=tls&type=ws&path=/ws&host=v2ray.simspeedup.com&packetEncoding=xudp&sni=v2ray.simspeedup.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%AD
 vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.111.193:443?encryption=none&security=tls&sni=v2ray.simspeedup.com&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=v2ray.simspeedup.com&path=%2Fws#%F0%9F%87%B9%F0%9F%87%AD
+vless://3c52e091-6714-4915-949f-2149fe69951b@104.16.10.2:443?security=tls&type=ws&path=/ws&host=v2ray.simspeedup.com&packetEncoding=xudp&sni=v2ray.simspeedup.com&fp=chrome&encryption=none#%F0%9F%87%B9%F0%9F%87%AD
 vless://3c52e091-6714-4915-949f-2149fe69951b@104.18.26.90:443?fp=firefox&host=v2ray.simspeedup.com&path=%2Fws&security=tls&sni=v2ray.simspeedup.com&type=ws#%F0%9F%87%B9%F0%9F%87%AD
