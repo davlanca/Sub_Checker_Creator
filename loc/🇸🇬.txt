@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
 vless://38d3d211-cc9f-491a-a8ab-9a5be57bb712@213.152.180.55:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
+vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
 vless://38d3d211-cc9f-491a-a8ab-9a5be57bb712@213.152.165.206:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
 vless://38d3d211-cc9f-491a-a8ab-9a5be57bb712@213.152.165.202:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
 vless://2a6dfad2-921c-4593-b572-69ceeec78d99@213.152.165.194:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
