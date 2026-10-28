@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://9a92729a-7b89-475b-a651-cfd246524403@213.152.165.194:2090?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&sid=bb472a184677af64&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5

@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://19456d94-8f54-4f82-ae9c-0e19afb5c29c@213.152.165.202:2093?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6
-vless://19456d94-8f54-4f82-ae9c-0e19afb5c29c@213.152.165.206:2093?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6
