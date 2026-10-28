@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@168.222.193.184:443?security=reality&encryption=none&pbk=lvq2jh6X7yT88vvcV9GUriwtWL0HeqaLHr773Vgb5ks&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=168.222.193.184.sslip.io&sid=b8307998cdaf0d55#%F0%9F%87%B5%F0%9F%87%B1
