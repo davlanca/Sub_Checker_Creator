@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-new.failspace.top:443?encryption=none&security=tls&sni=poland-new-new.failspace.top&fp=firefox&alpn=h2&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
