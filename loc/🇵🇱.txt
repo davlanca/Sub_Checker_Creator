@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://252b4a9c-520d-459c-9dbc-366995206089@31.184.253.134:53869?flow=xtls-rprx-vision&pbk=rtc2Krk2fVhHCRG82EsUc4_mlw304HKHkl6MggQZEAU&security=reality&sid=0f2cc340a69ed7&sni=www.moddb.com&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
-vless://252b4a9c-520d-459c-9dbc-366995206089@31.184.253.134:53869?flow=xtls-rprx-vision&pbk=rtc2Krk2fVhHCRG82EsUc4_mlw304HKHkl6MggQZEAU&security=reality&sid=0f2cc340a69ed7&sni=www.moddb.com&type=tcp&fp=qq#%F0%9F%87%B5%F0%9F%87%B1

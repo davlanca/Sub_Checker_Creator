@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@hahahaarmenia.redemshenvpn.site:24694?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sni=metrika.yandex.ru&fp=firefox&sid=58301280#%F0%9F%87%A6%F0%9F%87%B2
