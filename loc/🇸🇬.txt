@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://5f11c240-89df-494c-9c81-8b619023bb58@104.21.13.229:443?type=ws&security=tls&fp=chrome&sni=789156.xyz&host=789156.xyz#%F0%9F%87%B8%F0%9F%87%AC
