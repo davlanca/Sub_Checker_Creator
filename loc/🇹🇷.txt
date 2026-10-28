@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.195.113:20064?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=94.183.195.113&fp=safari#%F0%9F%87%B9%F0%9F%87%B7
+vless://f439e4fe-139b-4882-ad8b-a16176d09c88@94.183.195.113:20064?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=94.183.195.113&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7
