@@ -3,5 +3,3 @@
 
 vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&security=reality&sni=144.48.11.97&fp=chrome&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&sni=yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
-vless://8cc7d0fc-1b83-4ee3-b51d-8a03a9b19435@webdisk.jaggyslawa.org:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.microsoft.com&fp=chrome&flow=xtls-rprx-vision&sid=87174b37ce3b&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru11.oshost.network:443?security=reality&encryption=none&pbk=52fsWySqEpUvCt-jbEy2rYjVIZBYwoqsGfmSef8_UgI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ru11.oshost.network&sid=97a15f5af85c4a30#%F0%9F%87%AC%F0%9F%87%A7
