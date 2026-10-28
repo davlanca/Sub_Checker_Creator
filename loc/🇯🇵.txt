@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://4af07c53-a386-49d7-9f84-6c439e53b701@79.137.197.212:2105?encryption=none&security=tls&type=ws&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5
+vless://a1598f4a-2b90-4367-998e-f2ab77452436@79.137.197.212:2105?encryption=none&security=tls&type=ws&host=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&path=%2F%40Marisa_kristi&sni=3t1yvbyla-rj740g.28m7r63dttya6gazmhoo.workers.dev&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5
