@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@poland-new-new.failspace.top:443?encryption=none&security=tls&sni=poland-new-new.failspace.top&fp=firefox&alpn=h2&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
-vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&type=grpc&mode=gun&serviceName=beru-pl&alpn=h2%2Chttp%2F1.1&sni=ru1.radiolumens.uk&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
