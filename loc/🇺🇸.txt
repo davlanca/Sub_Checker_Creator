@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?security=reality&encryption=none&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare-dns.com#%F0%9F%87%BA%F0%9F%87%B8
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?security=reality&encryption=none&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=swedenafteraventura.space#%F0%9F%87%BA%F0%9F%87%B8
 vless://d6b6461a-59b1-4aaf-89a0-6e051e7f215c@62.233.33.44:443?encryption=none&fp=firefox&pbk=Jlu3ZYGtXSuj-Q-RhwifmGmRajmdcxSmX5qoS9U3AFA&security=reality&serviceName=community.events.v1&sid=d1bf27e64c82aad2&sni=uk-room08.filesnap.tech&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gemsubbgem.world&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8
