@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@45.32.117.217:443?type=tcp&security=tls&fp=firefox&sni=sg003.zestapp778.com&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
