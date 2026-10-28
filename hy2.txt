@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-hysteria2://e7291b0e-e02f-4475-b1db-2785e60302f9@82.202.157.79:4443?sni=ru.nextdump.friedshrimp.xyz&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE

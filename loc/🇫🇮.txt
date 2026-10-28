@@ -1,8 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@8fc752g.fi3.h1clayd.click:443?encryption=none&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&security=reality&serviceName=f345a414c040&sid=09d0a94a1c6fc9d5&sni=8fc752g.fi3.h1clayd.click&spx=%2F&type=grpc&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
-vless://cadb0528-e6fb-4896-8973-bb83f3d8eec5@vip.minecraftkrim.ru:8443?alpn=http%2F1.1&flow=xtls-rprx-vision&security=tls&sni=vip.minecraftkrim.ru&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
-vless://cadb0528-e6fb-4896-8973-bb83f3d8eec5@vip.minecraftkrim.ru:8443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=vip.minecraftkrim.ru&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://e7291b0e-e02f-4475-b1db-2785e60302f9@82.202.157.79:4443?sni=ru.nextdump.friedshrimp.xyz&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE
+vless://5f09ffe7-fbff-411f-b68f-2a0677626a44@telatviast.link:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&sni=telatviast.link&fp=qq#%F0%9F%87%AB%F0%9F%87%AE
 vless://5f09ffe7-fbff-411f-b68f-2a0677626a44@telatviast.link:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc&sni=telatviast.link&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
