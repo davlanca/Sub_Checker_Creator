@@ -1,9 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
 vless://38d3d211-cc9f-491a-a8ab-9a5be57bb712@213.152.165.206:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
 vless://38d3d211-cc9f-491a-a8ab-9a5be57bb712@213.152.180.55:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
+vless://ca678d26-5435-4d13-b378-06c4c3b070ff@5.34.177.164:443?flow=xtls-rprx-vision&fp=firefox&pbk=cwWhNuekusD1iPZZ--7G891dU9PCacxyCYwsZxOApHA&security=reality&sid=b2efed6d157e7bb0&sni=gateway.icloud.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
 vless://38d3d211-cc9f-491a-a8ab-9a5be57bb712@213.152.165.202:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
+vless://2a6dfad2-921c-4593-b572-69ceeec78d99@213.152.165.194:2089?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=oRmj7gTi5H2oIClNYxxgOjqp8-j5kFYtGFU8CNuMj34&sid=deccc6fac1ddb0ff&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9
 vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@snp.bsh-net.ru:443?security=reality&encryption=none&pbk=iE4sTz-Q2Frkm7WM32P1wm4at49Wpaj5vo-2FsLcN1M&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=snp.bsh-net.ru&sid=8854f17e2a5af2d8#%F0%9F%87%B8%F0%9F%87%AC
