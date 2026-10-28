@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?encryption=none&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%BF
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?&security=reality&flow=xtls-rprx-vision&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=rusbid.de&type=tcp&headerType=none&host=rusbid.de&path=%2F#%F0%9F%87%A8%F0%9F%87%BF
