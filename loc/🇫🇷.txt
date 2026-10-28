@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?type=ws&security=tls&encryption=none&path=%2Flive.stream.v1.Broadcast%2F&sni=broadcast.liveflow.space&fp=android&headerType=none#%F0%9F%87%AB%F0%9F%87%B7
 vless://13212914-5cc0-487b-9966-606b731bcd45@213.152.165.194:2092?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7
 vless://4d8cc1c2-2605-43c4-8e17-dcafa86d9757@213.152.165.202:2092?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7
 vless://4d8cc1c2-2605-43c4-8e17-dcafa86d9757@213.152.165.206:2092?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7
