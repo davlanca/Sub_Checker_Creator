@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?fp=firefox&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws#%F0%9F%87%A8%F0%9F%87%B3
 vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@104.21.91.49:443?security=tls&sni=vpn.cintaku.qzz.io&type=ws&host=vpn.cintaku.qzz.io&path=%2Fvlessws&fp=unsafe#%F0%9F%87%A8%F0%9F%87%B3
+vless://fc7d2cfe-f5ef-40c8-a848-a0bdc11f6349@vpn.cintaku.qzz.io:443?fp=firefox&host=vpn.cintaku.qzz.io&path=%2Fvlessws&security=tls&sni=vpn.cintaku.qzz.io&type=ws#%F0%9F%87%A8%F0%9F%87%B3
