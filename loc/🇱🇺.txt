@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?flow=&type=ws&host=br1.centermass.net&path=media.playback.v1.SessionGateway&security=tls&sni=br1.centermass.net&alpn=http%2F1.1&allowInsecure=0&echfq=none&fp=edge#%F0%9F%87%B1%F0%9F%87%BA
-vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?security=tls&sni=br1.centermass.net&alpn=http%2F1.1&type=ws&path=%2Fmedia.playback.v1.SessionGateway&host=br1.centermass.net&fp=qq#%F0%9F%87%B1%F0%9F%87%BA
 vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?flow=&type=ws&host=br1.centermass.net&path=media.playback.v1.SessionGateway&security=tls&sni=br1.centermass.net&alpn=http/1.1&fp=qq&allowInsecure=0&echfq=none#%F0%9F%87%B1%F0%9F%87%BA
+vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?security=tls&sni=br1.centermass.net&alpn=http%2F1.1&type=ws&path=%2Fmedia.playback.v1.SessionGateway&host=br1.centermass.net&fp=qq#%F0%9F%87%B1%F0%9F%87%BA
+vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?flow=&type=ws&host=br1.centermass.net&path=media.playback.v1.SessionGateway&security=tls&sni=br1.centermass.net&alpn=http%2F1.1&allowInsecure=0&echfq=none&fp=edge#%F0%9F%87%B1%F0%9F%87%BA
 vless://ddc27ad2-631e-4431-b380-0045547acef4@82.202.157.123:5002?security=tls&sni=br1.centermass.net&alpn=http%2F1.1&type=ws&path=%2Fmedia.playback.v1.SessionGateway&host=br1.centermass.net&fp=chrome#%F0%9F%87%B1%F0%9F%87%BA
