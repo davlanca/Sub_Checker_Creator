@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://684bf9c1-c40a-42cb-b982-623982fc2732@45.81.154.16:443?encryption=none&flow=xtls-rprx-vision&pbk=y69l6zReCOjJrqYoDjSiBYAWP1VmFPBgS7PP5sqSaW8&security=reality&sid=b6798bbbfb18587e&sni=can.kramiliantha.sbs&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ca001.zestapp778.com:32355?security=tls&type=tcp&sni=ca001.zestapp778.com&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6
