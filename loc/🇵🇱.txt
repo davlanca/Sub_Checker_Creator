@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?security=reality&encryption=none&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=50#%F0%9F%87%B5%F0%9F%87%B1
