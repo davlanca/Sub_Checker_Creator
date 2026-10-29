@@ -2,5 +2,3 @@
 //profile-update-interval: 1
 
 vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?sni=ru1.radiolumens.uk&type=grpc&serviceName=beru-pl&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%B1
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@77.110.113.17:443?security=reality&encryption=none&pbk=rfehgktZ-XuOYnHhfpPonWMrw9JoQCZawFI-WZ-2KBw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=xpc3.waspnest.space&sid=ae97223a8f799871&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@77.110.113.17:443?security=reality&encryption=none&pbk=rfehgktZ-XuOYnHhfpPonWMrw9JoQCZawFI-WZ-2KBw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=xpc3.waspnest.space&sid=ae97223a8f799871&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
