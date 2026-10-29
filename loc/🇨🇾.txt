@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@217.150.197.67:443?security=tls&sni=cdn2.rucdncomp.pro&alpn=http%2F1.1&type=ws&path=%2Fplayer%2Fmetrics%2Fe9e65ce193c2%2F&host=cdn2.rucdncomp.pro&fp=firefox#%F0%9F%87%A8%F0%9F%87%BE
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@217.150.197.67:443?security=tls&sni=cdn2.rucdncomp.pro&alpn=http%2F1.1&type=ws&path=%2Fplayer%2Fmetrics%2Fe9e65ce193c2%2F&host=cdn2.rucdncomp.pro&fp=edge#%F0%9F%87%A8%F0%9F%87%BE
+vless://c720cb74-4c84-4fce-b8ae-637dbaa16199@217.150.197.67:443?security=tls&sni=cdn2.rucdncomp.pro&alpn=http%2F1.1&type=ws&path=%2Fplayer%2Fmetrics%2Fe9e65ce193c2%2F&host=cdn2.rucdncomp.pro&fp=firefox#%F0%9F%87%A8%F0%9F%87%BE
