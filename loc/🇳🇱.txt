@@ -2,13 +2,11 @@
 //profile-update-interval: 1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?flow=xtls-rprx-vision&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1
 vless://d9fe2431-8351-41eb-b956-75d96dec5d4a@2.27.118.10:443?encryption=none&type=tcp&security=reality&sni=ph-nl-s3784.cybercat.network&pbk=goey7Sc4Xm6Nvdukb_DuoUnrkPSV0p4hPWbAmk2_AHc&sid=ecf1d9f7caa6ba67#%F0%9F%87%B3%F0%9F%87%B1
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?encryption=none&security=reality&sni=sw.golangwikito.cfd&fp=chrome&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&sid=a1037b25dcef6aa7&type=tcp&headerType=none&host=sw.golangwikito.cfd&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1
-vless://b2847c3b-5278-4b06-9c66-bc919d2dfec7@186.246.9.29:443?fp=firefox&pbk=MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA&security=reality&sid=50ad5564&sni=wordpress.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@hollandlanzerotte.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=hollandlanzerotte.xyz&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&fp=qq#%F0%9F%87%B3%F0%9F%87%B1
-vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@185.86.145.37:443?security=tls&sni=pulse-resume.pro&type=ws&path=%2Famws&host=pulse-resume.pro#%F0%9F%87%B3%F0%9F%87%B1
-vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@185.86.145.37:443?security=tls&sni=pulse-resume.pro&type=ws&path=%2Famws&host=pulse-resume.pro&fp=android#%F0%9F%87%B3%F0%9F%87%B1
-vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@185.86.145.37:443?security=tls&sni=pulse-resume.pro&type=ws&path=%2Famws&host=pulse-resume.pro&fp=safari#%F0%9F%87%B3%F0%9F%87%B1
-vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@pulse-resume.pro:443?security=tls&sni=pulse-resume.pro&insecure=0&allowInsecure=0&type=ws&host=pulse-resume.pro&path=%2Famws&encryption=none#%F0%9F%87%B3%F0%9F%87%B1
+vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@185.86.145.37:443?encryption=none&host=pulse-resume.pro&path=%2Famws&security=tls&sni=pulse-resume.pro&type=ws&fp=safari#%F0%9F%87%B3%F0%9F%87%B1
+vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@185.86.145.37:443?encryption=none&host=pulse-resume.pro&path=%2Famws&security=tls&sni=pulse-resume.pro&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1
+vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@pulse-resume.pro:443?security=tls&sni=pulse-resume.pro&insecure=0&allowInsecure=0&type=ws&host=pulse-resume.pro&path=%2Famws&encryption=none&fp=qq#%F0%9F%87%B3%F0%9F%87%B1
+vless://34ec30ca-c499-46c5-a0b9-20638e5197e9@pulse-resume.pro:443?security=tls&sni=pulse-resume.pro&insecure=0&allowInsecure=0&type=ws&host=pulse-resume.pro&path=%2Famws&encryption=none&fp=android#%F0%9F%87%B3%F0%9F%87%B1
