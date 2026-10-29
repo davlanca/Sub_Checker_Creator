@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UiLCJhZGQiOiIxNzIuMTExLjE0Ni42NCIsInBvcnQiOiI4MCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIn0
