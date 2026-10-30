@@ -1,4 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://2f7aeef7-6b91-48e6-a44c-304b65a0442b@212.113.117.172:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=de1.duck-proxy.com#%F0%9F%87%A6%F0%9F%87%B9
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?type=grpc&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality&fp=ios#%F0%9F%87%A6%F0%9F%87%B9
+vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@ss.ll0ll.vip:2096?type=grpc&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&serviceName=vless-grpc-reality#%F0%9F%87%A6%F0%9F%87%B9
