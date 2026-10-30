@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF
-vless://f27b6f65-6e59-4f89-b929-afa397ca587f@188.114.98.0:443?sni=n.bitpulse.me&alpn=http/1.1&type=ws&host=n.bitpulse.me&path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed=2560fp=unsafe&security=tls#%F0%9F%87%A8%F0%9F%87%BF
