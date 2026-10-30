@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@45.132.176.61:443?flow=xtls-rprx-vision&security=reality&sni=sopelka.yandex-api.com&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#%F0%9F%87%AE%F0%9F%87%AA
