@@ -1,15 +1,14 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@178.236.26.179:8475?security=reality&encryption=none&pbk=utnaPfWs-8DrJIP5p0gaQ9ix9VfRvUvoR1ZSE25uTWY&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=10aff1a6#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?type=tcp&security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?type=tcp&security=tls&sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
 vless://7a0348d6-55d3-4c23-b22f-6277fcb2264c@159.194.229.161:8475?security=reality&encryption=none&pbk=utnaPfWs-8DrJIP5p0gaQ9ix9VfRvUvoR1ZSE25uTWY&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=10aff1a6#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&fp=qq&sni=hvtlr-ru-47sb.fade.mom#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
 vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?encryption=none&security=tls&sni=hvtlr-ru-47sb.fade.mom&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?security=tls&sni=hvtlr-ru-47sb.fade.mom&alpn=http%2F1.1%2Ch2&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
