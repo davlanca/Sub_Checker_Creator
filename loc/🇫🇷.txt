@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://3eb47299-50cd-46ee-9511-49115c56ed37@82.202.178.138:443?encryption=none&fp=firefox&mode=gun&pbk=w_hrubefrDzoh5rEB3jFTx4j-t7o1HMyyo1bAE1a8D0&security=reality&serviceName=google.storage.v2.Storage&sid=316d0a3751f3122d&sni=h5.smart-life.agency&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
 vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#%F0%9F%87%AB%F0%9F%87%B7
+vless://3eb47299-50cd-46ee-9511-49115c56ed37@82.202.178.138:443?encryption=none&fp=firefox&mode=gun&pbk=w_hrubefrDzoh5rEB3jFTx4j-t7o1HMyyo1bAE1a8D0&security=reality&serviceName=google.storage.v2.Storage&sid=316d0a3751f3122d&sni=h5.smart-life.agency&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
 vless://1ba0439d-384c-4a6e-9560-0439698beb2a@82.202.178.138:443?encryption=none&fp=firefox&mode=gun&pbk=w_hrubefrDzoh5rEB3jFTx4j-t7o1HMyyo1bAE1a8D0&security=reality&serviceName=google.storage.v2.Storage&sid=316d0a3751f3122d&sni=h5.smart-life.agency&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
