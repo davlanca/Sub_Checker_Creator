@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://0806e6e2-e01d-482c-b530-be3b57d486d4@31.76.230.158:8447?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yY1fkI_LuyCUjEiJcdltWRSegNPQVEGe8RT_1-e-8kI&security=reality&sid=55f184e2a4067714&sni=mosdownloand.song69.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BE
-vless://0806e6e2-e01d-482c-b530-be3b57d486d4@31.76.230.158:10448?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yY1fkI_LuyCUjEiJcdltWRSegNPQVEGe8RT_1-e-8kI&security=reality&sid=55f184e2a4067714&sni=mosdownloand.song69.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%BE
