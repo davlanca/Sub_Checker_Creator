@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://ab035da3-2bd9-4479-bbd0-fa5208116c83@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff53849b81e6&sni=kookas.fi&type=tcp#%F0%9F%87%B1%F0%9F%87%BA
 vless://7b822cbc-2bce-4381-bb1e-cdd058c89294@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff52289b81e6&sni=kookas.fi&type=tcp#%F0%9F%87%B1%F0%9F%87%BA
 vless://6f2ca1b9-b8e6-4a12-bd4c-becfa8739b7a@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff52289b81e6&sni=kookas.fi&type=tcp#%F0%9F%87%B1%F0%9F%87%BA
-vless://ab035da3-2bd9-4479-bbd0-fa5208116c83@191.44.47.164:25565?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qB_eMu3ZO_wGITnyIqJ7Kt39-h9oHFnHlQQEqA-r3VA&security=reality&sid=43dcff53849b81e6&sni=kookas.fi&type=tcp#%F0%9F%87%B1%F0%9F%87%BA
