@@ -1,6 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?flow=xtls-rprx-vision&fp=chrome&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YiLCJhZGQiOiJ3d3cud2luZG93c21zaWRvd25sb2Fkcy5jb20iLCJwb3J0IjoiNDQzIiwiaWQiOiI4MGJlMmRlYi0zYjI3LTQ3NzUtOWJkMS03ZjJhMmI5YzI2MWIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Ind3dy53aW5kb3dzbXNpZG93bmxvYWRzLmNvbSIsInBhdGgiOiIvdHJ1dGgiLCJob3N0Ijoid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?flow=xtls-rprx-vision&fp=chrome&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6

@@ -3,5 +3,5 @@
 
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&security=reality&sni=sundaylanzgem.site&fp=qq&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AA
-vless://50414e45-4c5f-5a45-5553-52108a2d5224@188.114.98.0:443?security=tls&type=ws&path=%2Fapi%2Fws&host=web-app-nr6wpa.app-tp57xz.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=web-app-nr6wpa.app-tp57xz.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6oiLCJhZGQiOiJ3d3cuZ3B0Y2xvdWRhaS5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImU3MGE1YjcwLWY2M2MtNDQ1MC1hZjhiLTk0OTkwY2RmODBjMCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdHJ1dGgiLCJob3N0Ijoid3d3LmdwdGNsb3VkYWkuY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://5c331d12-f0b0-48d8-ba6e-ec945ef889ea@188.241.241.36:8443?security=reality&encryption=none&pbk=GUqm415-hOCPsm5OJnca6iwSmgMUbX_UmEqWT9Ch60I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=d100.relay.logicnova.ru#%F0%9F%87%A9%F0%9F%87%AA
