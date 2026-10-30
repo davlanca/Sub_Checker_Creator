@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.187.54:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&security=reality&sni=swedenafteraventura.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
