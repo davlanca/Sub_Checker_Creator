@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?&security=tls&fp=firefox&sni=n.bitpulse.me&type=ws&headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%BF
