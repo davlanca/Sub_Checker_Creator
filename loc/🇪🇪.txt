@@ -1,4 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?type=tcp&security=reality&path=%2F&host=www.samsung.com&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&fp=ios#%F0%9F%87%AA%F0%9F%87%AA
+vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@188.225.83.133:443?security=reality&sni=xnodtwx.artemida.live&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&type=grpc&serviceName=#%F0%9F%87%AA%F0%9F%87%AA
+vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@188.225.83.133:443?encryption=none&fp=firefox&mode=gun&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&security=reality&sid=a1b2c3d4e5f6a7b8&sni=xnodtwx.artemida.live&type=grpc#%F0%9F%87%AA%F0%9F%87%AA
 vless://265db9a9-1a90-4d41-9375-02a9fbc41def@163.245.52.140:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R5Q-oKGFqq8tZlp5oJ5Qv48qDq2rlkPXUaIqW1hDsH0&security=reality&sid=66826a572267d996&sni=majuas.rivohost.cc&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
+vless://5f1c2e83-d4aa-4f10-81e9-e0ccc018974c@188.225.75.96:443?security=reality&sni=xnodtw2x.artemida.live&fp=firefox&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&type=grpc&serviceName=#%F0%9F%87%AA%F0%9F%87%AA
