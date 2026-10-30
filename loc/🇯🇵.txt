@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a6be8b6d-3033-4a99-b9bd-75e2ab12cfd0@31.76.91.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OnFi4-dm6Pf7o5CboFwfhbIA539vVtsd7ZYlPnWJVxo&security=reality&sid=f336420d3cd15950&sni=japan.selfsteal.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%F0%9F%87%AF%F0%9F%87%B5
