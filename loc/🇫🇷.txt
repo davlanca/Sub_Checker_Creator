@@ -3,6 +3,8 @@
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sni=fuck.rkn&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?encryption=none&fp=firefox&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
+vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.178.142:443?encryption=none&fp=firefox&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&security=reality&serviceName=google.storage.v2.Storage&sid=70c20a2f5a7d542e&sni=h9.smart-life.agency&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
 vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?encryption=none&fp=firefox&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&security=reality&sid=d3feff5d570d6b&sni=delivery.mp.microsoft.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@82.22.2.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&security=reality&sid=7be1e9c243451b14&sni=b-wl.fr-2.bnc-gt.co.uk&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+vless://1ba0439d-384c-4a6e-9560-0439698beb2a@82.202.178.142:443?encryption=none&fp=firefox&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&security=reality&serviceName=google.storage.v2.Storage&sid=70c20a2f5a7d542e&sni=h9.smart-life.agency&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
