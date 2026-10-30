@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=steamcommunity.com&fp=chrome&pbk=DNCphTaL7BtXj1HybzMFir0ki_IiM62kr6ddIZYxagw&sid=5c56a4cfea5866c0&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6
+vless://13bf9403-22d1-4221-939b-f6606c423139@66.163.113.238:443?security=reality&type=tcp&packetEncoding=xudp&sni=steamcommunity.com&fp=chrome&flow=xtls-rprx-vision&sid=5c56a4cfea5866c0&pbk=DNCphTaL7BtXj1HybzMFir0ki_IiM62kr6ddIZYxagw&encryption=none#%F0%9F%87%A8%F0%9F%87%A6
