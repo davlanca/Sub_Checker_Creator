@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://2f7aeef7-6b91-48e6-a44c-304b65a0442b@212.113.117.172:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=de1.duck-proxy.com#%F0%9F%87%A6%F0%9F%87%B9
