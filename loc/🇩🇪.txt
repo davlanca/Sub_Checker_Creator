@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a0052f4f-4c63-485a-a16f-ab2d5d718cd3@vivozim.vyvoz-musora.cc:443?encryption=none&security=tls&sni=vivozim.vyvoz-musora.cc&fp=edge&alpn=http%2F1.1&type=ws&host=vivozim.vyvoz-musora.cc&path=%2Fe8ws#%F0%9F%87%A9%F0%9F%87%AA
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#%F0%9F%87%A9%F0%9F%87%AA
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@150.241.79.124:443?&security=reality&flow=xtls-rprx-vision&pbk=dlhvkjq7Sj-TT__FLwUJzFLMDCk8bgi85Uz4qDU-5FM&sid=5212dad2aa9723d7&fp=firefox&sni=de1.waspnest.space&type=tcp&headerType=none&host=de1.waspnest.space&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
@@ -12,6 +11,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&e
 vless://9ad899f2-b00b-4cd9-a1f8-72c59e216f19@189.74.106.115:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@213.165.60.187:443?security=reality&encryption=none&pbk=3yddqUiJeYh6absBxMNR6OSMRjvi_-wVXy1GGS5K-y0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=xpc2.waspnest.space&sid=ae97223a8f799872&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@213.165.60.187:443?security=reality&encryption=none&pbk=3yddqUiJeYh6absBxMNR6OSMRjvi_-wVXy1GGS5K-y0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=xpc2.waspnest.space&sid=ae97223a8f799872&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
-vless://9ad899f2-b00b-4cd9-a1f8-72c59e216f19@189.74.106.115:443?flow=xtls-rprx-vision&security=reality&sni=api.setevoypriliv.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@213.165.60.187:443?security=reality&encryption=none&pbk=3yddqUiJeYh6absBxMNR6OSMRjvi_-wVXy1GGS5K-y0&headerType=&type=tcp&flow=xtls-rprx-vision&sni=xpc2.waspnest.space&sid=ae97223a8f799872&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?security=reality&flow=xtls-rprx-vision&pbk=2IylNqpuTBeUvd333tXWY6i0l8nkH6o5qfRVKZm6FA0&sid=e0aadc6f38ff06a8&sni=tm6.24convertflow.ru&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
