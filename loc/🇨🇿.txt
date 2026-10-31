@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?sni=rusbid.de&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sid=#%F0%9F%87%A8%F0%9F%87%BF
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF
 vless://f27b6f65-6e59-4f89-b929-afa397ca587f@188.114.98.0:443?sni=n.bitpulse.me&alpn=http/1.1&type=ws&host=n.bitpulse.me&path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed=2560fp=unsafe&security=tls#%F0%9F%87%A8%F0%9F%87%BF
+vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@31.77.13.22:2063?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rusbid.de&fp=firefox&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BF
