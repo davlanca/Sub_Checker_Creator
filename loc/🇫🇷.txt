@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 
 vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?encryption=none&security=reality&sni=delivery.mp.microsoft.com&fp=chrome&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&sid=d3feff5d570d6b&spx=/a38e5cd3c84c243&type=tcp&headerType=none&host=/#%F0%9F%87%AB%F0%9F%87%B7
-vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&host=TELEGRAM--BYA--CHANEL---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray&headerType=none&fp=chrome&spx=/bfd751485ce44a9&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#%F0%9F%87%AB%F0%9F%87%B7
 vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#%F0%9F%87%AB%F0%9F%87%B7
 vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#%F0%9F%87%AB%F0%9F%87%B7

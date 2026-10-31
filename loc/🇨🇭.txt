@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://241306b3-9f27-4ed3-9524-6c0792c55856@83.171.241.254:25879?encryption=none&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&security=reality&sid=f1a7a14461a3f389&sni=www.bing.com&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD
+vless://241306b3-9f27-4ed3-9524-6c0792c55856@83.171.241.254:25879?encryption=none&pbk=XuI492LMe1OPIwQH5TQlIo33JRqMM3kfnto62tbx5FU&security=reality&sid=f1a7a14461a3f389&sni=www.bing.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD
