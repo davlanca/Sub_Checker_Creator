@@ -3,3 +3,4 @@
 
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:8443?sni=vp17.1145678.xyz&type=ws&host=vp17.1145678.xyz&path=/class/toolfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8
 vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:2083?sni=vp25.1145678.xyz&type=ws&host=vp25.1145678.xyz&path=/comics/ads/threadfp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%B8
+vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@s12.bsh-net.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s12.bsh-net.ru&fp=chrome&pbk=QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk&sid=51079f144d661484&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8
