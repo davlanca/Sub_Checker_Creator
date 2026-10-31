@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=firefox#%F0%9F%87%B8%F0%9F%87%A8
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=ios#%F0%9F%87%B8%F0%9F%87%A8
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=chrome#%F0%9F%87%B8%F0%9F%87%A8
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.74:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=patch-25.topp-con.xyz&fp=firefox#%F0%9F%87%B8%F0%9F%87%A8
