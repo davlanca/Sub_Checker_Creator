@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://fafc7c16-f890-45ee-a856-02df225172dd@c3f630g.es4.h1clayd.click:443?encryption=none&pbk=BzM-6A4DGbjpquuwUmotiamNZlamur11IXX5Xyh_wBg&security=reality&serviceName=7e802b075a7c&sid=2d2d5faf568b584d&sni=c3f630g.es4.h1clayd.click&type=grpc&fp=safari#%F0%9F%87%AA%F0%9F%87%B8
-vless://fafc7c16-f890-45ee-a856-02df225172dd@83.171.241.199:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=qF1f5MNrOiov0tyPftS96_Osal5sWTL4keXlW32UtV8&sni=898305t.es4.h1clayd.click&sid=f06b6d8a57f5fd8f&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%B8
-vless://fafc7c16-f890-45ee-a856-02df225172dd@c3f630g.es4.h1clayd.click:443?encryption=none&pbk=BzM-6A4DGbjpquuwUmotiamNZlamur11IXX5Xyh_wBg&security=reality&serviceName=7e802b075a7c&sid=2d2d5faf568b584d&sni=c3f630g.es4.h1clayd.click&type=grpc&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8
 vless://fafc7c16-f890-45ee-a856-02df225172dd@c3f630g.es4.h1clayd.click:443?encryption=none&pbk=BzM-6A4DGbjpquuwUmotiamNZlamur11IXX5Xyh_wBg&security=reality&serviceName=7e802b075a7c&sid=2d2d5faf568b584d&sni=c3f630g.es4.h1clayd.click&type=grpc&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8
