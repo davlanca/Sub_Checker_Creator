@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://8fa83828-9777-4a5b-a951-60a4523f3e3d@46.17.45.116:443?security=tls&sni=fvphlc.syncpointbase.online&type=ws&path=%2Fws&host=fvphlc.syncpointbase.online&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
+vless://8fa83828-9777-4a5b-a951-60a4523f3e3d@46.17.45.116:443?security=tls&sni=fvphlc.syncpointbase.online&type=ws&path=%2Fws&host=fvphlc.syncpointbase.online&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
