@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://572b3d30-3ced-4b88-9e06-4241f124cc88@178.72.185.235:40446?security=reality&type=tcp&sni=www.booking.com&fp=qq&flow=xtls-rprx-vision&sid=d4e5f60718293a4b&pbk=EbXSjwJKAI1cmU2TK3af62qS2k58x8Rnct1525c0m1I#%F0%9F%87%AB%F0%9F%87%AE
