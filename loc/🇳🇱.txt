@@ -2,9 +2,10 @@
 //profile-update-interval: 1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%B3%F0%9F%87%B1
 vless://95fe46c3-6cfb-5116-beb7-459d4c7db0ad@153.75.86.200:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=edge&flow=xtls-rprx-vision&sid=7e7434c068cbef5a&pbk=JNp0hUDwHZQw9kbwd-D1WfIOdqCtdJeBv1WTNp37V0M&encryption=none#%F0%9F%87%B3%F0%9F%87%B1
+vless://e37ebf3b-ac32-48a8-8f56-d113967eaf29@185.86.145.37:443?security=tls&sni=ara.rtkdvbr.cc&alpn=http%2F1.1&fp=qq&type=ws&path=%2Famws&host=ara.rtkdvbr.cc#%F0%9F%87%B3%F0%9F%87%B1
 vless://e37ebf3b-ac32-48a8-8f56-d113967eaf29@185.86.145.37:443?encryption=none&fp=firefox&host=ara.rtkdvbr.cc&path=/amws&security=tls&sni=ara.rtkdvbr.cc&type=ws#%F0%9F%87%B3%F0%9F%87%B1
