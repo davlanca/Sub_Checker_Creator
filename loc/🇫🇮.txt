@@ -1,9 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?security=reality&encryption=none&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&fp=chrome&type=grpc&serviceName=0adb9638509b&sni=36a466g.fi1.h1clayd.click&sid=b3c9d0c6bdd114a6#%F0%9F%87%AB%F0%9F%87%AE
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=ios#%F0%9F%87%AB%F0%9F%87%AE
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=qq#%F0%9F%87%AB%F0%9F%87%AE
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?security=reality&encryption=none&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&type=grpc&serviceName=cas-fi&sni=s3.storage.selcloud.ru&sid=c1db0a1b&fp=ios#%F0%9F%87%AB%F0%9F%87%AE
