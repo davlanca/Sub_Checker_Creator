@@ -1,6 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://09c10f40-6992-4b33-8d4a-6d8feb01323e@57.131.21.102:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.I8cgpaz5mHJF9FbDB6uFHSmJM7gWe39FURKzBjAqaVc&pbk=Lew0Y0hNzQyEeLxBpBxC2QnshUrtPvSdkLykPZcqLHs&host=TELEGRAM--BYA--CHANEL---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray---@ixV2ray&headerType=none&fp=chrome&spx=/bfd751485ce44a9&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=b10dd5#%F0%9F%87%AB%F0%9F%87%B7
-vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#%F0%9F%87%AB%F0%9F%87%B7
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#%F0%9F%87%AB%F0%9F%87%B7
+vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=086bf957&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@186.246.9.62:443?flow=xtls-rprx-vision&security=reality&sni=media-27.topp-con.xyz&fp=chrome&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&sid=b9120cd53ffd7bba#%F0%9F%87%AB%F0%9F%87%B7
