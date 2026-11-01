@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@83.166.237.167:52251?flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=qq&pbk=1A6Rv3MjIbi_0B2WchTlrS2k2IkDw-UxmTuV6A6S3Ew#%F0%9F%87%AA%F0%9F%87%AA
+vless://24b5a8bc-3648-42e1-b02d-227ceeead1c9@31.77.143.70:443?flow=xtls-rprx-vision&security=reality&sni=ru3.ghostyconnect.org&fp=firefox&pbk=gyxmHhZGVwv__xhL9xgbC5IViZ4SOqp3Naosi-CPqQs#%F0%9F%87%AA%F0%9F%87%AA
