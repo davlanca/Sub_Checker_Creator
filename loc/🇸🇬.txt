@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://a8b1d666-d3ba-4b17-90c4-ba7514c74f78@188.114.97.6:443?sni=xstack.mahanfixe.workers.dev&type=ws&host=xstack.mahanfixe.workers.dev&path=/xironfp=unsafe&security=tls#%F0%9F%87%B8%F0%9F%87%AC
