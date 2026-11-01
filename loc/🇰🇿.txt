@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kz1.waspnest.space&fp=chrome&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%BF
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@95.56.251.12:47443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=z1GSwCEACvO9RLcMVpcURiT8er4oeIdeSJhraw_0cGU&sid=ae97223a8f799877&sni=kz1.waspnest.space#%F0%9F%87%B0%F0%9F%87%BF
