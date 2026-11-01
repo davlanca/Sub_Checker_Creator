@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&security=reality&sni=sundaylanzgem.site&fp=qq&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&type=tcp&headerType=none&insecure=0&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA
-vless://6036c28a-8db2-432e-8118-ff0c16641ad0@200.169.184.168:443?flow=xtls-rprx-vision&pbk=2IylNqpuTBeUvd333tXWY6i0l8nkH6o5qfRVKZm6FA0&security=reality&sid=e0aadc6f38ff06a8&sni=tm6.24convertflow.ru&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA

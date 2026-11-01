@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 
 vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?security=reality&encryption=none&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=media2.usicloid.my&sid=953e2426ac9a7c0e#%F0%9F%87%B5%F0%9F%87%B1
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&sid=953e2426ac9a7c0e&sni=media2.usicloid.my#%F0%9F%87%B5%F0%9F%87%B1
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@185.50.202.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=UW2KCNPSvGsHK2UXmcFveOY17nWWo3CoCk8ydVT7A3s&security=reality&sid=953e2426ac9a7c0e&sni=media2.usicloid.my&type=tcp&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://39b9f02c-a53d-0001-a535-8e779923d48b@87.242.119.253:443?sni=hvtlr-ru-47sb.fade.mom&fp=firefox&alpn=h3#%F0%9F%87%B5%F0%9F%87%B1
