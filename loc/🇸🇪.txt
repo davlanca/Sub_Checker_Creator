@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://9c55c7eb-d53e-40fa-a0c9-e25d2a345073@23.94.123.231:443?&security=tls&fp=random&sni=se-sto.862400.xyz&type=ws&headerType=none&host=se-sto.862400.xyz&path=%2Fannouncement%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AA
-vless://0ef03752-c8bf-4482-8710-e563ca4808f9@179.253.179.109:54083?&security=tls&fp=chrome&sni=177.3.215.54&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%AA
