@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@swedenafteraventura.space:443?encryption=none&type=tcp&security=reality&fp=chrome&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&sni=swedenafteraventura.space&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@83.166.237.167:443?security=reality&encryption=none&pbk=oKG1EhkfIvBM6xLEk7ck51ZbjvUKDR22RNjTJR_7sTU&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pine.gaznw.my&sid=46da9a2868751b85#%F0%9F%87%B8%F0%9F%87%AA
