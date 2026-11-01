@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+trojan://460c410a-7d68-5128-a1b0-6484d43dc893@45.151.101.43:28880?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=51009%2FZcaMzBHUB4&sni=fi1.24magic-up.ru#%F0%9F%87%AB%F0%9F%87%AE
