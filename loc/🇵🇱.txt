@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@direct-nl.bachidze.com:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&sni=direct-nl.bachidze.com&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
+vless://aba9cdd4-026c-0001-87a9-9b3e5f24dd82@87.242.119.253:443?alpn=http%2F1.1%2Ch2&host=hvtlr-ru-47sb.fade.mom&path=%2F&security=tls&sni=hvtlr-ru-47sb.fade.mom&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
