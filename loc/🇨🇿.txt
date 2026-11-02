@@ -3,3 +3,4 @@
 
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#%F0%9F%87%A8%F0%9F%87%BF
 vless://b34a52cb-cd52-49a8-9362-b8e97c151d49@212.102.38.25:443?security=reality&type=tcp&packetEncoding=xudp&sni=udemy.com&fp=ios&flow=xtls-rprx-vision&sid=e90360ec7cc61b20&pbk=23cb4W9THzBKsrECsLh-A_FcKZfkAtUONoDze8-GnQE&encryption=none#%F0%9F%87%A8%F0%9F%87%BF
+vless://3dc76b67-6d26-4446-b542-0254b073bd8a@46.8.100.28:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tnEAM-61f1idRp0_FNf01mVdV1Ks8l1j55KIHJEcY28&security=reality&sid=48aca154137f7419&sni=swdist.apple.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BF
