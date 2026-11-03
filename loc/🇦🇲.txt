@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.64:31060?encryption=none&security=reality&type=tcp&sni=usher.ttvnw.net&fp=edge&pbk=TfK-Nynk6bvDTbpXK593-F-hydqfXUyTgEcNlNlNyX0&sid=ce3a1a6f798b1a3c&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B2
