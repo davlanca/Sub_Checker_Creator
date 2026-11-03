@@ -2,11 +2,10 @@
 //profile-update-interval: 1
 
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#%F0%9F%87%A8%F0%9F%87%BF
-vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?mode=gun&security=tls&alpn=h2&encryption=none&authority=cz.ahuel.net&insecure=0&type=grpc&serviceName=catalog-sync&allowInsecure=0&sni=cz.ahuel.net&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF
 vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?mode=gun&security=tls&alpn=h2&encryption=none&authority=cz.ahuel.net&insecure=0&type=grpc&serviceName=catalog-sync&allowInsecure=0&sni=cz.ahuel.net&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF
 vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?mode=gun&security=tls&alpn=h2&encryption=none&authority=cz.ahuel.net&insecure=0&type=grpc&serviceName=catalog-sync&allowInsecure=0&sni=cz.ahuel.net&fp=qq#%F0%9F%87%A8%F0%9F%87%BF
+vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?mode=gun&security=tls&alpn=h2&encryption=none&authority=cz.ahuel.net&insecure=0&type=grpc&serviceName=catalog-sync&allowInsecure=0&sni=cz.ahuel.net&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF
 vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&alpn=h2&type=grpc&serviceName=catalog-sync&mode=gun&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF
-vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&type=grpc&serviceName=catalog-sync&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF
 vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&alpn=h2&type=grpc&serviceName=catalog-sync&mode=gun&fp=ios#%F0%9F%87%A8%F0%9F%87%BF
+vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&type=grpc&serviceName=catalog-sync&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF
 vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&type=grpc&serviceName=catalog-sync&fp=safari#%F0%9F%87%A8%F0%9F%87%BF
-vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@176.108.243.235:9570?security=tls&sni=cz.ahuel.net&type=grpc&serviceName=catalog-sync&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF
