@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://326227e2-f2d1-4f43-8715-9da854f5f4c0@px2.5ibtc.cn:443?&security=tls&fp=chrome&sni=px2.5ibtc.cn&type=ws&headerType=none&host=px2.5ibtc.cn&path=%2F326227e2-f2d1-4f43-8715-9da854f5f4c0#%F0%9F%87%AD%F0%9F%87%B0

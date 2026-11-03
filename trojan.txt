@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-trojan://NesTjEDLXnCeVn0ZLb2hsE3oeZWHHaKR@45.146.131.92:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ar-d-s-290.freedomcdnhelloworld.com&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA
 trojan://NesTjEDLXnCeVn0ZLb2hsE3oeZWHHaKR@45.146.131.92:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ar-d-s-290.freedomcdnhelloworld.com&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA
-trojan://NesTjEDLXnCeVn0ZLb2hsE3oeZWHHaKR@45.146.131.92:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ar-d-s-290.freedomcdnhelloworld.com&fp=android#%F0%9F%87%B5%F0%9F%87%B1
+trojan://NesTjEDLXnCeVn0ZLb2hsE3oeZWHHaKR@45.146.131.92:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ar-d-s-290.freedomcdnhelloworld.com&fp=firefox#%F0%9F%87%A6%F0%9F%87%AA
+trojan://NesTjEDLXnCeVn0ZLb2hsE3oeZWHHaKR@45.146.131.92:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ar-d-s-290.freedomcdnhelloworld.com&fp=android#%F0%9F%87%A6%F0%9F%87%AA
