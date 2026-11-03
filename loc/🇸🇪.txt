@@ -2,3 +2,5 @@
 //profile-update-interval: 1
 
 vless://3bb97d46-789b-4229-88f6-9beb222a4137@smart.bachidze.com:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=vzRgIP8Mvd9V6krwKxw5EwwzvC4uiaW3wo0Y2ri2_Wc&sni=smart.bachidze.com&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA
+vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.53:34008?encryption=none&security=reality&type=grpc&sni=usher.ttvnw.net&fp=edge&pbk=gip1KcHK3wRnljRcr_r-DtH5O1hyGwF7st3l7-oyBVQ&sid=7e8890d40b5a328d&serviceName=cosmos-reserve-226-8#%F0%9F%87%B8%F0%9F%87%AA
+vless://c9c029e2-5d7a-490a-89ad-298e05182dc3@46.8.158.64:31036?encryption=none&security=reality&type=tcp&sni=usher.ttvnw.net&fp=edge&pbk=OrEdAJmvHQOm_Pdljj77cZ1z-TueA-Y_k7nqqY6HsnE&sid=d7334ee1f8679c01&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA
