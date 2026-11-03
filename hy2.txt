@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-hysteria2://982c68b1-b0eb-4182-9581-2c6072a140ab@188.225.77.106:443?sni=hcccipmj.mtrxnet.click&alpn=h3#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
