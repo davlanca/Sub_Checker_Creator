@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@45.132.176.239:9552?mode=gun&security=tls&alpn=h2&encryption=none&authority=lt.ahuel.net&insecure=0&type=grpc&serviceName=catalog-sync&allowInsecure=0&sni=lt.ahuel.net&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9
-vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@45.132.176.239:9552?mode=gun&security=tls&alpn=h2&encryption=none&authority=lt.ahuel.net&insecure=0&type=grpc&serviceName=catalog-sync&allowInsecure=0&sni=lt.ahuel.net&fp=ios#%F0%9F%87%B1%F0%9F%87%B9
+vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@45.132.176.239:9552?security=tls&sni=lt.ahuel.net&type=grpc&serviceName=catalog-sync&fp=safari#%F0%9F%87%B1%F0%9F%87%B9
+vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@45.132.176.239:9552?security=tls&sni=lt.ahuel.net&alpn=h2&type=grpc&serviceName=catalog-sync&mode=gun&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9
+vless://9a8e6575-0564-4c3a-8b46-8f723828daf6@45.132.176.239:9552?security=tls&sni=lt.ahuel.net&alpn=h2&type=grpc&serviceName=catalog-sync&mode=gun&fp=edge#%F0%9F%87%B1%F0%9F%87%B9
