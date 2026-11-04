@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision&fp=safari#%F0%9F%87%A6%F0%9F%87%B2
+vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%A6%F0%9F%87%B2

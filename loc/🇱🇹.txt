@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://10648cb6-f394-4ab2-8623-c36032ba32f6@skelmoridianservice.com:443?encryption=none&type=grpc&serviceName=moktana.net.v1.StreamService&mode=gun&security=reality&sni=www.velunatrixes.com&fp=firefox&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=a1b2c3d4e5f6a7b8#%F0%9F%87%B1%F0%9F%87%B9
