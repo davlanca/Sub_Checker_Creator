@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://780fab9a-e5be-470c-8c31-51640779ba2c@162.4.172.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=ZVMW8jnFE_zxUQjSsZVDaqOY13RGrdnHivXWdXxFhxg&sid=d7fd&spx=%2Fa9942fb003e9d0e&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
