@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&spx=%2F&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AA
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&spx=%2F&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&security=reality&sid=b20168a5&sni=apply.betust.net&spx=%2F&type=tcp&fp=safari#%F0%9F%87%B8%F0%9F%87%AA
