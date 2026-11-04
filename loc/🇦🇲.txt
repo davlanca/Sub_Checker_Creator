@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect4.accessgate.link:1085?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=chrome#%F0%9F%87%A6%F0%9F%87%B2
-vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect4.accessgate.link:1085?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&sni=unpkg.com&fp=edge#%F0%9F%87%A6%F0%9F%87%B2
