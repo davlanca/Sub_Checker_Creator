@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA
