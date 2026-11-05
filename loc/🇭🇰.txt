@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://ebc368f4-c13c-4bd2-849b-4d245615728f@210.0.244.227:443?encryption=none&fp=firefox&pbk=HhYjpNgNw0X_Qrjv9R5aHfV92hHbZmlY1u12DMTPrVw&security=reality&sni=cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
