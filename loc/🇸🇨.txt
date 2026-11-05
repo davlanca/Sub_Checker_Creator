@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@45.159.144.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kqFDKE3z7o9a2KoFM4IEHzoaeU-vYCAU5-jspLY1cH4&security=reality&sid=37f7ef1f627f1c29&sni=at-85-10.cdn-lab.online&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
