@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://ebc368f4-c13c-4bd2-849b-4d245615728f@210.0.244.227:443?encryption=none&fp=firefox&pbk=HhYjpNgNw0X_Qrjv9R5aHfV92hHbZmlY1u12DMTPrVw&security=reality&sni=cloudflare.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDIyIiwicHMiOiLwn4et8J+HsCIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ

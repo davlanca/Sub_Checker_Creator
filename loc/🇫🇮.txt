@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?encryption=mlkem768x25519plus.random.0rtt.xeb-laivvHb_XcYpR8DzPf2KUGyaFnAqzMD5rnWbSkY&headerType=none&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&security=reality&sid=cb&sni=www.semiconductor.samsung.com&spx=%2F914f5d7e3339bb7&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
-vless://e1acad9b-e14e-4995-b2d6-5721823cb0a7@mein-1.octavia.dpdns.org:6600?encryption=mlkem768x25519plus.random.0rtt.xeb-laivvHb_XcYpR8DzPf2KUGyaFnAqzMD5rnWbSkY&headerType=none&pbk=boqqUp4qxwRfu_Wp3QB4m1rLyeWh2NA7C7uEV3nq_go&security=reality&sid=cb&sni=www.semiconductor.samsung.com&spx=%2F914f5d7e3339bb7&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
