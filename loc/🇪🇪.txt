@@ -1,5 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA
 vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%AA
-vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?security=reality&type=tcp&packetEncoding=xudp&sni=files.porsche.com&fp=chrome&flow=xtls-rprx-vision&sid=1a2b3c4d&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&encryption=none#%F0%9F%87%AA%F0%9F%87%AA
+vless://5c32201a-6c0e-451b-8f0a-24b4bd40df59@31.77.236.114:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA
