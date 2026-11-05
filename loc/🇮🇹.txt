@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.87:2092?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=G16EKGpV35sUVK9pkuLvnWd2IGX2tcajNnV7w5bI4ig&sid=2423df4e&serviceName=cas-it#%F0%9F%87%AE%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9
