@@ -1,4 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&sni=basterdym.asia&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=ios#%F0%9F%87%B9%F0%9F%87%B7
+vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?security=tls&sni=basterdym.asia&alpn=h2&type=grpc&serviceName=glush.de1.v1&mode=gun&fp=safari#%F0%9F%87%B9%F0%9F%87%B7
+vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?type=grpc&security=tls&sni=basterdym.asia&mode=gun&serviceName=glush.de1.v1&fp=qq#%F0%9F%87%B9%F0%9F%87%B7
+vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?alpn=h2&mode=gun&security=tls&serviceName=glush.de1.v1&sni=basterdym.asia&type=grpc&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7
 vless://7feec880-56f0-4425-9313-e2e340206284@200.169.184.140:443?alpn=h2&mode=gun&security=tls&serviceName=glush.de1.v1&sni=basterdym.asia&type=grpc&fp=safari#%F0%9F%87%B9%F0%9F%87%B7
