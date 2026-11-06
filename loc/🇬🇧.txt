@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.253.27:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H1sjO_zvh52PtQeGfeRnBhatbgfsGUoD7CNW4hbZqkQ&security=reality&sid=7a5b31200dfd3a92&sni=at-87-10.cdn-lab.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@91.192.157.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uGtQk4urIy_ZLpplfmw4cEwMJL6nL7sqJPr1tJxnmw8&security=reality&sid=e9346d3ee07ff914&sni=fi-92-10.cdn-lab.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@at-87-10.cdn-lab.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=at-87-10.cdn-lab.online&pbk=H1sjO_zvh52PtQeGfeRnBhatbgfsGUoD7CNW4hbZqkQ&sid=7a5b31200dfd3a92&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@fi-92-10.cdn-lab.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fi-92-10.cdn-lab.online&pbk=uGtQk4urIy_ZLpplfmw4cEwMJL6nL7sqJPr1tJxnmw8&sid=e9346d3ee07ff914&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7
 vless://49fdd350-6ffb-4343-b467-14e269bb95de@82.148.255.201:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=360.yandex.ru&pbk=DvNpCmas0_0MO91s70vlkAxZxnnIt1NE0zqCC4trURQ&sid=2bf10fc0a85601e5&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7
