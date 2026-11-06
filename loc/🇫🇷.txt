@@ -1,4 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=chrome&ech=AF%2F%2BDQBbAAAgACCtCCV2%2BT2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA%3D%3D&type=tcp&allowInsecure=0&sni=w.geogame.ir#%F0%9F%87%AB%F0%9F%87%B7
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?sni=w.geogame.ir&alpn=h2%2Chttp/1.1&fp=chrome&security=tls#%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7ciLCJhZGQiOiJ3d3cud2luZG93c3NlYXJjaHRvb2xzLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6ImJhMTExNmUyLThjMmYtNGUzZC04ZTUwLWM5NTQzNjBjZjk3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoid3d3LndpbmRvd3NzZWFyY2h0b29scy5jb20iLCJwYXRoIjoiL3RydXRoIiwiaG9zdCI6Ind3dy53aW5kb3dzc2VhcmNodG9vbHMuY29tIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&headerType=&fp=chrome&ech=AF/+DQBbAAAgACCtCCV2+T2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA==&type=tcp&allowInsecure=0&sni=w.geogame.ir#%F0%9F%87%AB%F0%9F%87%B7
