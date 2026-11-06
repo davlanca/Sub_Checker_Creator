@@ -3,4 +3,3 @@
 
 vless://3125236e-ea1b-4f88-b7a8-f7e1ee02d659@ultra-vector-y3jwzsth.expresshost.cloud:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=HFgpbxzk696TYGPx93VcFNGLnCdu01xaMG_xFxVV8hM&security=reality&sid=983b54fb2cfc68ac&sni=ultra-vector-y3jwzsth.expresshost.cloud&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
 vless://3125236e-ea1b-4f88-b7a8-f7e1ee02d659@217.60.182.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HFgpbxzk696TYGPx93VcFNGLnCdu01xaMG_xFxVV8hM&security=reality&sid=983b54fb2cfc68ac&sni=ultra-vector-y3jwzsth.expresshost.cloud&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
-vless://cd138479-c87a-4d4c-b6ea-4beeb6ef2b47@rapira-dof.whitenw.net:8445?security=reality&encryption=none&pbk=l06r0clkHjHk7HRGpkDBJwZ1JJscSqfwHUQOrV3v3hQ&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=passport.yandex.ru#%F0%9F%87%AA%F0%9F%87%AA
