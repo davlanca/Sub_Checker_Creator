@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://41ff2b37-7fbf-420d-9713-fbe4b350ebb7@138.124.36.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yCwoksWL5L6bU15u4eQYiQT0J3BYhZkHkaIjkrW061k&security=reality&sni=wizard.friedshrimp.xyz&type=tcp#%F0%9F%87%A8%F0%9F%87%BF
