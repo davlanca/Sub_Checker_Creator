@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?security=reality&encryption=none&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7205d9079521832c#%F0%9F%87%B8%F0%9F%87%AC
-vless://b8d8a5b0-867f-4491-b4e4-30edc04bb10e@212.119.43.76:443?encryption=none&fp=firefox&host=u.srilankangrill.online&security=tls&sni=u.srilankangrill.online&type=ws#%F0%9F%87%B8%F0%9F%87%AC
