@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://c3647117-baf4-4072-a872-fc762fc24ec9@188.114.98.5:443?security=tls&type=ws&path=%2F9ea36182644d0f1f%3Fed%3D2560&host=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
