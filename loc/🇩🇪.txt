@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?encryption=none&flow=xtls-rprx-vision&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&security=reality&sni=tiktok2.transitbp2systems.com&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at1.japancase.site&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gemsubbgem.world&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@130.49.177.193:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=de-2.ffpn.pro&fp=chrome&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&sid=681fc2dd643bc2f3&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
