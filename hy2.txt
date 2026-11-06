@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?sni=wl11.white-dns.cloud&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7
