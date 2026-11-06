@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 
 vless://0dcefe19-a42a-4d57-96be-83dcbffd425f@200.96.106.2:9889?encryption=none&flow=xtls-rprx-vision&pbk=GPwEGfRBoztNbcAvfX4ojY9FJ1vaMD3v21tnIrN2xyE&security=reality&sni=tiktok2.transitbp2systems.com&type=tcp&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at1.japancase.site&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@88.216.70.128:443?security=reality&encryption=none&pbk=TRaUsnzFf-AhWUuW4RQUQOBYTdM-qJdLDTTkzQNkcRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tickets.betust.net&sid=f70764f8#%F0%9F%87%A9%F0%9F%87%AA
-vless://caedb3a1-6395-40b9-a9a8-4b9694eb224a@13.143.192.200:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kulek.tech&fp=firefox&pbk=gOzBi_a99jyGQyM5tVwDpi7EQ_3eaj-v15mHOTs9xkY&type=tcp&headerType=none&host=kulek.tech#%F0%9F%87%A9%F0%9F%87%AA
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?security=reality&encryption=none&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sundaylanzgem.site#%F0%9F%87%A9%F0%9F%87%AA
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@178.22.31.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at1.japancase.site&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@sundaylanzgem.site:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sundaylanzgem.site&pbk=-BN9yCN0ECqxOPoJOan1-CIMEYc5e7wdJwaeDxsUM20&fp=qq#%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA
