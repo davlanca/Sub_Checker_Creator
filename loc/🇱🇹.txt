@@ -2,3 +2,5 @@
 //profile-update-interval: 1
 
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@admin.betust.net:443?security=reality&encryption=none&pbk=zZjrHRzULoXKVccVdPqtrtXLEUPJXwqdE1138vu5x3w&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=admin.betust.net&sid=3e137406#%F0%9F%87%B1%F0%9F%87%B9
+vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@83.171.241.142:443?encryption=none&flow=xtls-rprx-vision&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&security=reality&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%B9
+vless://1fc053ed-e9e8-49f2-b7c1-fde68d722dff@83.171.241.142:443?encryption=none&flow=xtls-rprx-vision&pbk=y_pzv7NPwU8d4gAC3r6f6FZN5vFmaKJK9YPEGOjSYB0&security=reality&sid=51e7ad7303dba560&sni=162afct.lt2.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%B1%F0%9F%87%B9
