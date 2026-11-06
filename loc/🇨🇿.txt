@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://c3647117-baf4-4072-a872-fc762fc24ec9@188.114.98.5:443?security=tls&type=ws&path=%2F9ea36182644d0f1f%3Fed%3D2560&host=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn-edge-2fba99-gw.eng-ops-7084b7.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%BF
 vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=23d0950d60bc0d5b&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw#%F0%9F%87%A8%F0%9F%87%BF
 vless://f27b6f65-6e59-4f89-b929-afa397ca587f@104.16.188.34:443?&security=tls&fp=unsafe&sni=n.bitpulse.me&type=ws&headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%BF
 vless://f27b6f65-6e59-4f89-b929-afa397ca587f@172.66.128.146:443?&security=tls&fp=unsafe&sni=n.bitpulse.me&type=ws&headerType=none&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed#%F0%9F%87%A8%F0%9F%87%BF
