@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://eb92918e-b1a0-450a-af99-337d76b3fa0d@www.speedtest.net:443?security=tls&type=ws&path=%2Fb16c0b57857ff8c3%3Fed%3D2560&host=net-bridge-88f351-gw.9yzm3yekuoys.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=net-bridge-88f351-gw.9yzm3yekuoys.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%B6
