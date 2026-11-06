@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA
