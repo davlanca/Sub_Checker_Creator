@@ -1,12 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&fp=firefox&path=/static/js/runtime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws#%F0%9F%87%B5%F0%9F%87%B1
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&host=lte-v2-ws.gacvpn.site#%F0%9F%87%B5%F0%9F%87%B1
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?encryption=none&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&fp=firefox&path=/static/js/runtime.9d03c7.js&encryption=none#%F0%9F%87%B5%F0%9F%87%B1
-vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
 vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@lte-v2-ws.gacvpn.site:8443?type=ws&security=tls&sni=lte-v2-ws.gacvpn.site&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&encryption=none&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?encryption=none&fp=firefox&path=/static/js/runtime.9d03c7.js&security=tls&sni=lte-v2-ws.gacvpn.site&type=ws#%F0%9F%87%B5%F0%9F%87%B1
+vless://981c7ccc-2b17-473c-8358-7fd1d6eec1b4@72.56.233.10:8443?security=tls&sni=lte-v2-ws.gacvpn.site&type=ws&path=%2Fstatic%2Fjs%2Fruntime.9d03c7.js&host=lte-v2-ws.gacvpn.site#%F0%9F%87%B5%F0%9F%87%B1
