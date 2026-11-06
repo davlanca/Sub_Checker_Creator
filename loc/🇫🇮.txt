@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@37.153.65.137:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
+vless://e07a6d05-f665-4811-91f0-9b3dc1094e4d@37.153.65.137:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=tradingview.com&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&sid=8f3c6e2a1b5d4f09&flow=xtls-rprx-vision&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
