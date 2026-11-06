@@ -2,6 +2,3 @@
 //profile-update-interval: 1
 
 hysteria2://72dc58e9-2583-4905-9a32-0635217a0ad9@37.18.15.116:5555?sni=wl11.white-dns.cloud&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://snR6OL9rudFpqTAo2OZ6hhvZxf0lat7n4BAey84fatA@84.252.100.138:2443?sni=de.vip-get.ru&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://zWqQKhzHQOeuIcQleiAC2Ld8j0eZSjZXEAgTKwGaP9c@84.252.100.138:2443?sni=de.vip-get.ru#%F0%9F%87%A9%F0%9F%87%AA
