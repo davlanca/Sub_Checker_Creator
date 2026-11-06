@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://02e7f01e-c9cf-4f96-816d-3b7cb97b289b@13.143.199.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ii5nFqaXeYMOc3I_blPZ3AB8msCtXjSvU48A_ESRETc&security=reality&sid=80b48feefe869150&sni=serbiya.worldfly.io&type=tcp#%F0%9F%87%B7%F0%9F%87%B8
