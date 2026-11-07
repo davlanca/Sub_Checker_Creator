@@ -1,10 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@212.183.88.53:443?encryption=none&fp=firefox&host=19.baklajann.ru&security=tls&sni=19.baklajann.ru&type=ws#%F0%9F%87%AB%F0%9F%87%B7
-vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@192.200.160.122:443?encryption=none&fp=firefox&host=51.baklajann.ru&security=tls&sni=51.baklajann.ru&type=ws#%F0%9F%87%AB%F0%9F%87%B7
-vless://86c7af80-c9cf-4265-ab77-da12b0bf8bb6@194.156.26.125:443?encryption=none&fp=firefox&host=186.baklajann.ru&security=tls&sni=186.baklajann.ru&type=ws#%F0%9F%87%AB%F0%9F%87%B7
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?fp=chrome&host=%2F%3Ftelegram%CE%B3%C3%A7%C3%B6v2ray_confiig&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&security=reality&sid=086bf957&sni=www.cloudflare.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=%2F%3FTELEGRAM%D0%B2%D2%96%E2%80%9DV2ray_confiig&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7
-vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7
 vless://086bf957-9cd0-4e55-8280-bbef10435b41@ai.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&sid=086bf957&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?security=reality&encryption=none&pbk=R-w7BpNgtryZRBMyRoHx81OnjzAwrKhVtV1EUKLFJzc&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=086bf957#%F0%9F%87%AB%F0%9F%87%B7
