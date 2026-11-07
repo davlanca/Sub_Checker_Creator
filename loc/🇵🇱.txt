@@ -1,0 +1,6 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@144.31.4.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hoHauvrxv1_BDg4CmiDMUSHUGQT1gAr8zochHEqPQx0&security=reality&sid=aa86e6cc3bf04e78&sni=kla.xvanta.online&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://71b566cb-78c4-48e4-af5b-720e4f7884f2@kla.xvanta.online:443?security=reality&encryption=none&pbk=hoHauvrxv1_BDg4CmiDMUSHUGQT1gAr8zochHEqPQx0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kla.xvanta.online&sid=aa86e6cc3bf04e78#%F0%9F%87%B5%F0%9F%87%B1
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@77.83.246.232:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=COvqGpB7lUdZshmbn5zdqiVi81n8Iyha8RbEHtK93xc&security=reality&sid=5037f0423dc4e4ff&sni=pl3.japancase.site&type=tcp#%F0%9F%87%B5%F0%9F%87%B1

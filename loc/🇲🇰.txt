@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://fd1f71b0-9b51-4aef-8c1e-97b132fb4531@31.59.83.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&security=reality&sid=b868b87c347a451e&sni=mk.global-cdn.org&type=tcp#%F0%9F%87%B2%F0%9F%87%B0
-vless://fd1f71b0-9b51-4aef-8c1e-97b132fb4531@31.59.83.4:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&security=reality&sid=b868b87c347a451e&sni=mk.global-cdn.org&spx=%2F&type=tcp&fp=chrome#%F0%9F%87%B2%F0%9F%87%B0
