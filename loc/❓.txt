@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 vless://4054fdc2-ee80-4419-8a8e-d937df4719e2@qq.utiltools.site:443?encryption=none&flow=xtls-rprx-vision&headerType=none&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI&security=reality&sni=qq.utiltools.site&type=tcp&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@46.17.47.58:18443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=prime.jarbook.net&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&fp=firefox&host=aiartstudios.best&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
