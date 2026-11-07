@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://d027b485-4e11-4485-9d0f-2ef1f1129eff@172.67.219.189:443?encryption=none&fp=firefox&host=cdn4.salamfox.ir&path=/d027b485-4e11-4485-9d0f-2ef1f1129eff&security=tls&sni=cdn4.salamfox.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
+vless://d027b485-4e11-4485-9d0f-2ef1f1129eff@172.67.219.189:443?encryption=none&fp=firefox&host=cdn4.salamfox.ir&path=/d027b485-4e11-4485-9d0f-2ef1f1129eff&security=tls&sni=cdn4.salamfox.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6
