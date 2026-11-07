@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@81.177.215.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%BB
