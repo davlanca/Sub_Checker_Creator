@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://5ad13ef8-ced8-43b5-9d8c-f046a3ce9ddc@185.103.100.211:443?flow=xtls-rprx-vision&pbk=sRmbdpwZ5gtUVEu1BMXE71DRHDWhBLCoLh6QiFazm2U&security=reality&sid=1b2a3f&sni=msk2e.g-magnum.icu&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE
