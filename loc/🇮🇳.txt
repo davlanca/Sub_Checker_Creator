@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@in1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=in1.japancase.site&fp=ios&pbk=lDBwW08dYwPP-7dVxYQ_clzfFwsDHLlclz9K2cEV6DM&sid=df7b054cfc29800c&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B3

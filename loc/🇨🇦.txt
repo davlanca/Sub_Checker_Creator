@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
-vless://d027b485-4e11-4485-9d0f-2ef1f1129eff@172.67.219.189:443?encryption=none&fp=firefox&host=cdn4.salamfox.ir&path=/d027b485-4e11-4485-9d0f-2ef1f1129eff&security=tls&sni=cdn4.salamfox.ir&type=ws#%F0%9F%87%A8%F0%9F%87%A6
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@81.19.140.181:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zN5buqMK95hn0mv3vKlfoOAi99ehuvP73cUuyNbZNWc&security=reality&sid=dbd6b473c7038dd5&sni=ca1.japancase.site&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
+vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp#%F0%9F%87%A8%F0%9F%87%A6

@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=prime.jarbook.net&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8&fp=firefox&spx=/#%F0%9F%87%AC%F0%9F%87%A7
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&type=tcp&security=reality&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sni=yandex.ru&sid=b28db60d77c50b4f&flow=xtls-rprx-vision#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@2.56.127.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=j0nNe2IsutcOHKVT-wYNowgggntYn0ZDmzjZGz_DilQ&security=reality&sid=fb98af2912de58f0&sni=fr1.xshoponline.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@82.148.247.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zZvOJ5dL9qvOjzg4u6f_Zo2j37cM6HOnOeUG02kcKCQ&security=reality&sid=5c3639b7&sni=nl1.xshoponline.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
