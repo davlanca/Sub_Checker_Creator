@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD
-vless://90157e25-cee1-4217-921e-91f300bc1a24@179.43.166.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=perevodchiki.su&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
+vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-3-z.473221.xyz:33169?security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=A9EF_1fUwOcGSP6bmSmuAIls4XpgciihICNTarLZ-2o&sid=01f2513112301a&sni=download-porter.hoyoverse.com&servername=download-porter.hoyoverse.com&spx=%2F&fp=edge#%F0%9F%87%A8%F0%9F%87%AD

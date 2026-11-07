@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@88.216.129.233:443?encryption=none&extra={"mode":"stream-one","xmux":{"cMaxReuseTimes":"64-128","maxConnections":"2-3","hKeepAlivePeriod":25,"hMaxRequestTimes":"64-128","hMaxReusableSecs":"120-300"},"noSSEHeader":true,"noGRPCHeader":true,"xPaddingBytes":"100-1000"}&fp=firefox&host=art-media.live&pbk=AJxMbMVTdXPGHeyla_rG9EW_ICt1nqAVdnCB6qnlrgU&security=reality&sid=94289e3f4774195d&sni=art-media.live&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@88.216.129.233:443?encryption=none&fp=firefox&host=art-media.live&pbk=AJxMbMVTdXPGHeyla_rG9EW_ICt1nqAVdnCB6qnlrgU&security=reality&sid=94289e3f4774195d&sni=art-media.live&type=xhttp#%F0%9F%87%B8%F0%9F%87%AA

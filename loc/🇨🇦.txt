@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmFtZSI6IvCfh6jwn4emIENBIDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE4MDAwLCJwcyI6IvCfh6jwn4emIiwic2N5IjpudWxsLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGwsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
+vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
