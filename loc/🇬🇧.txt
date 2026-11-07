@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=prime.jarbook.net&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
-vless://7ee8000e-209e-4d88-8a0f-e963edfe45b2@193.151.108.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aDPUHTNsFayZUVXWHtlXjbRuiZmWsMFbOTKZoBBRQRw&security=reality&sid=cedd9e53fc8e7777&sni=bananapococoho.izzzyvpn.space&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://95d0e214-eab0-4701-93ed-fea4f1b56062@50.7.193.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&security=reality&sid=77a8c8c8&sni=prime.jarbook.net&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
 vless://109852f2-4591-498c-9a96-f1d9206ce804@52.56.166.118:1412?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bNpg56GtTArrVyrnonNlMA-3JyYIAFATdgsH_wn0gmc&security=reality&sid=4ea6a183&sni=www.dhl.de&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://5fa16fdf-5b3c-4f57-988d-b24c6722c91a@82.148.253.27:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H1sjO_zvh52PtQeGfeRnBhatbgfsGUoD7CNW4hbZqkQ&security=reality&sid=7a5b31200dfd3a92&sni=at-87-10.cdn-lab.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://7ee8000e-209e-4d88-8a0f-e963edfe45b2@193.151.108.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aDPUHTNsFayZUVXWHtlXjbRuiZmWsMFbOTKZoBBRQRw&security=reality&sid=cedd9e53fc8e7777&sni=bananapococoho.izzzyvpn.space&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://49fdd350-6ffb-4343-b467-14e269bb95de@82.148.255.201:8444?encryption=none&fp=firefox&pbk=DvNpCmas0_0MO91s70vlkAxZxnnIt1NE0zqCC4trURQ&security=reality&serviceName=grpc-reality&sid=2bf10fc0a85601e5&sni=360.yandex.ru&type=grpc#%F0%9F%87%AC%F0%9F%87%A7
