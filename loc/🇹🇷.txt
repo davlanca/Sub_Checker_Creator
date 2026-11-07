@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@198.105.123.233:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&security=reality&sid=41ae8e266bc3346f&sni=tr1.japancase.site&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
