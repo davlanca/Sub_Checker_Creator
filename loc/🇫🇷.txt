@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?security=tls&fp=chrome&path=%2F#%F0%9F%87%AB%F0%9F%87%B7
-vless://fbda2834-b1e7-4148-afb9-deda31036a30@w.geogame.ir:2053?type=tcp&security=tls&fp=chrome&sni=w.geogame.ir&ech=AF%2F+DQBbAAAgACCtCCV2+T2TCcNWgmmXvltmj5tzoKlieBzbAPbBAF0eIQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAx3Lmdlb2dhbWUuaXIAAA%3D%3D#%F0%9F%87%AB%F0%9F%87%B7
