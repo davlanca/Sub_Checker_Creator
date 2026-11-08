@@ -1,11 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
 vless://4ad9f982-b56a-444a-9684-35ce51307a36@188.120.242.217:2058?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=perevodchiki.su&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%AD
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%AD
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%AD
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=qq#%F0%9F%87%A8%F0%9F%87%AD
-vless://4ad9f982-b56a-444a-9684-35ce51307a36@157.22.185.58:2058?encryption=none&flow=xtls-rprx-vision&pbk=lJBsn9ndieTIUBzXkJUhf6O0OE8pm29_z1fUtARwL0s&security=reality&sid=937255313d6ce673&sni=www.cloudflare.com&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%AD
+vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=reality&fp=chrome&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd&sni=www.apple.com#%F0%9F%87%A8%F0%9F%87%AD
