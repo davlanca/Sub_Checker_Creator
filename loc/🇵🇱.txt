@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@77.83.246.232:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=COvqGpB7lUdZshmbn5zdqiVi81n8Iyha8RbEHtK93xc&security=reality&sid=5037f0423dc4e4ff&sni=pl3.japancase.site&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://92b79c22-f68b-4713-8b21-52f264cb92f5@177.3.252.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&security=reality&sid=0c774b50&sni=pl1.song69.fun&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@pl3.japancase.site:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl3.japancase.site&fp=chrome&pbk=COvqGpB7lUdZshmbn5zdqiVi81n8Iyha8RbEHtK93xc&sid=5037f0423dc4e4ff&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1
+vless://69e41e64-a832-471a-b740-94577ca85520@2.26.255.215:443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=50&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&encryption=none#%F0%9F%87%B5%F0%9F%87%B1
