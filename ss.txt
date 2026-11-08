@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%87%B1%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0QUdHemdSQ2k2Vzk1VXdHMHFlcmY2@87.228.61.175:1443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
