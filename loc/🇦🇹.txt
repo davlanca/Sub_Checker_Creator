@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://90157e25-cee1-4217-921e-91f300bc1a24@fdat.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=banket-restoran.su&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9
-vless://90157e25-cee1-4217-921e-91f300bc1a24@fdat.titun.su:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=banket-restoran.su&type=tcp&fp=safari#%F0%9F%87%A6%F0%9F%87%B9
