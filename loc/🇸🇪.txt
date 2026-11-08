@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=get.jarbook.net&fp=firefox&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.202.74.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
