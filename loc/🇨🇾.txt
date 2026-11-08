@@ -4,11 +4,11 @@
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=%5Bh2%252Chttp%252F1.1%5D&flow=xtls-rprx-vision&host=ripelever.net&security=tls&sni=ripelever.net&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=qq#%F0%9F%87%A8%F0%9F%87%BE
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ripelever.net#%F0%9F%87%A8%F0%9F%87%BE
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1#%F0%9F%87%A8%F0%9F%87%BE
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&headerType=&insecure=0&security=tls&sni=ripelever.net&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%BE
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%BE
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=%5Bh2%252Chttp%252F1.1%5D#%F0%9F%87%A8%F0%9F%87%BE
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=edge#%F0%9F%87%A8%F0%9F%87%BE
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=safari#%F0%9F%87%A8%F0%9F%87%BE
 vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?type=tcp&security=tls&flow=xtls-rprx-vision&sni=ripelever.net&fp=safari#%F0%9F%87%A8%F0%9F%87%BE
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=edge#%F0%9F%87%A8%F0%9F%87%BE
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%BE
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%BE
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1#%F0%9F%87%A8%F0%9F%87%BE
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&headerType=&insecure=0&security=tls&sni=ripelever.net&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%BE
