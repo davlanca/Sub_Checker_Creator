@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://d9cc5c37-b53c-1131-b4e1-1b9f7fbea1b1@6b9iw.guardora.pro:443?encryption=none&security=tls&alpn=http%2F1.1&sni=6b9iw.guardora.pro&type=ws&path=%2FogVAL8moh5SB&fp=ios#%F0%9F%87%B1%F0%9F%87%B9
 vless://d9cc5c37-b53c-1131-b4e1-1b9f7fbea1b1@6b9iw.guardora.pro:443?encryption=none&security=tls&alpn=http%2F1.1&sni=6b9iw.guardora.pro&type=ws&path=%2FogVAL8moh5SB&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9
+vless://d9cc5c37-b53c-1131-b4e1-1b9f7fbea1b1@6b9iw.guardora.pro:443?encryption=none&security=tls&alpn=http%2F1.1&sni=6b9iw.guardora.pro&type=ws&path=%2FogVAL8moh5SB&fp=ios#%F0%9F%87%B1%F0%9F%87%B9
