@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://7051be15-386d-4bb2-a35a-fd6085befc43@179.255.184.95:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
 vless://7051be15-386d-4bb2-a35a-fd6085befc43@179.255.184.95:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=ca.api.bzzzq.fun&type=grpc#%F0%9F%87%A8%F0%9F%87%A6
 vless://ed1d539a-8507-45de-8253-cbc272161473@185.218.17.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&security=reality&sid=be7d0c9dda4dd4e6&sni=canwec.kramiliantha.sbs&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6
