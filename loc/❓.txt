@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTE1IiwiYWRkIjoiNjIuOTMuMTY2LjE4NCIsInBvcnQiOiIxMjcwIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRlc3RfbmFtZSI6IjExNSJ9#%20t.me%2Frjsxrd
+vless://5d978525-bfa5-4b1e-b807-c4e2ac2db56d@147.45.104.86:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KbjX7IJnVtwq2USeRmLgXzACOtFCiA5lnsXhIFOX3ho&sid=a7eb8a4e&sni=max.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJ2IjoiMiIsInBzIjoiVVMyIiwiYWRkIjoiMzguMTI4LjY2LjIxMiIsInBvcnQiOiIxMjcwIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRlc3RfbmFtZSI6IlVTMiJ9#%20t.me%2Frjsxrd
 vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6MCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoxODAwMCwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggSm9pbitUZWxlZ3JhbTpAU29sVlBOIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9#%20t.me%2Frjsxrd
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ripelever.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?security=tls&type=tcp&sni=ripelever.net&host=ripelever.net&flow=xtls-rprx-vision&alpn=h2%252Chttp%252F1.1&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
