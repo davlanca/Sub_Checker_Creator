@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@plov.plus-hit.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&security=reality&sid=bf8b003cb32c968b&sni=plov.plus-hit.ru&spx=%2F&type=tcp&fp=ios#%F0%9F%87%AD%F0%9F%87%B0
+vless://9f9c913b-0b78-4d14-a4db-560794cbc90f@plov.plus-hit.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=QsUgVxHyjCKdtYBnBGoEM74F3k9uc2kimLPbf_qAAAM&security=reality&sid=bf8b003cb32c968b&sni=plov.plus-hit.ru&spx=%2F&type=tcp&fp=safari#%F0%9F%87%AD%F0%9F%87%B0
