@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19453?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA
