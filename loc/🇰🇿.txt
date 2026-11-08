@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?security=reality&encryption=none&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz-cdn-prsv-forum.keno.su&sid=14324280#%F0%9F%87%B0%F0%9F%87%BF
+vless://dc95c1dd-2cd3-414c-8cf1-71ae86dad666@90.156.230.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&sid=14324280&sni=kz-cdn-prsv-forum.keno.su&type=tcp#%F0%9F%87%B0%F0%9F%87%BF
