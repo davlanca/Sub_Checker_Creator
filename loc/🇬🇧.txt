@@ -3,3 +3,5 @@
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
+vless://a941243b-4b25-465f-ba2c-1dc4e1d16217@212.69.135.27:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk-room05.filesnap.tech&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&sid=7da3ba09a037e956&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
+vless://16f5041e-7a72-44a0-afbf-744ec2bf1cc9@2.56.127.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=j0nNe2IsutcOHKVT-wYNowgggntYn0ZDmzjZGz_DilQ&security=reality&sid=fb98af2912de58f0&sni=fr1.xshoponline.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
