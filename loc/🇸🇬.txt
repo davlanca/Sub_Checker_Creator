@@ -3,6 +3,5 @@
 
 vless://65ec84f5-0dd4-4582-8b4f-592e50b22116@dddz-1-x.473221.xyz:43113?encryption=none&flow=xtls-rprx-vision&security=reality&sni=v1-dy.ixigua.com&fp=edge&pbk=EK3prcfF8VKm3CoTXWQguRj67LxGbkPIpKmEUKsMKGs&sid=ff2c978a0b&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://49c0aac1-5e05-4f04-b624-248fc59e03c4@54.169.200.246:41688?security=reality&encryption=none&pbk=srwIElIGTPs0kshpN1vvPsn4wixV_pLd56y_v9m0sTk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7f342137c20387#%F0%9F%87%B8%F0%9F%87%AC
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?security=reality&type=tcp&packetEncoding=xudp&sni=sg-sin.probe.geomyip.com&fp=chrome&flow=xtls-rprx-vision&sid=2e96bf6afa823abb&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk#%F0%9F%87%B8%F0%9F%87%AC
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&host=www.apple.com#%F0%9F%87%B8%F0%9F%87%AC
 vless://a8d9c86f-cddb-4fa5-96f7-f68eb48b3cb3@sg01.cf.sh-cloudflare.sbs:8443?&security=tls&fp=chrome&sni=sg01.cdn00.top&type=ws&headerType=none&host=sg01.cdn00.top&path=%2Fshanhai%2Fsg01#%F0%9F%87%B8%F0%9F%87%AC
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.0.111.82:17623?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&host=www.apple.com#%F0%9F%87%B8%F0%9F%87%AC
