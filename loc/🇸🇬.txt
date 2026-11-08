@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@188.114.97.6:443?security=tls&type=ws&path=/eyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=ezaccess-project-f62c30.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=ezaccess-project-f62c30.pages.dev&fp=unsafe&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?type=tcp&security=reality&sni=sg.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%87%B8%F0%9F%87%AC
