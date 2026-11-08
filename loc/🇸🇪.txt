@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6oiLCJhZGQiOiI2Mi45My4xNjYuMTg0IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyIsInNuaSI6InhtZmhscHkuY29tIiwidGVzdF9uYW1lIjoiOTcifQ
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.202.74.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&security=reality&sni=gembeforeshoping.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
