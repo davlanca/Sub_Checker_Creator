@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?flow=xtls-rprx-vision&security=tls&sni=ripelever.net&type=tcp&fp=ios#%F0%9F%87%A7%F0%9F%87%AC
