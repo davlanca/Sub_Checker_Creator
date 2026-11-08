@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top#%F0%9F%87%A6%F0%9F%87%AA
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?&security=tls&fp=firefox&sni=bhjolq0d0l.flowersgood.top&type=ws&headerType=none&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F#%F0%9F%87%A6%F0%9F%87%AA
