@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@31.77.129.151:443?&security=reality&flow=xtls-rprx-vision&pbk=5fkwwCKZzMsE6Eb_b3iqluu-1AWIfnYl-p0N3EL9Al8&sid=2c9a2790ad5900b2&fp=chrome&sni=ge-s-1.pythonmakemigreat.wiki&type=tcp&headerType=none&host=ge-s-1.pythonmakemigreat.wiki&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=64c1fe36c7846400&sni=anyfile2file.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?&security=tls&fp=chrome&sni=xsru2.freeddns.org&type=ws&headerType=none&host=xsru2.freeddns.org&path=%2Fwsru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://899ba5dc-3872-4905-bf8d-fd63c4ee7020@144.31.51.81:33517?encryption=none&fp=firefox&pbk=baHq6sp0MwdJZbXy6AQGHi6szdmUzx6Xk5RRiTQ1XUw&security=reality&sid=6f&sni=api15.yandex-cdn-mirror.ru&type=xhttp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk10.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl3-edge.gacvpn.site&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb&fp=qq#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://68a67906-5b37-4779-a6cc-58a1655f18b4@188.225.73.226:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=api-germany-2.locallynet.org&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
