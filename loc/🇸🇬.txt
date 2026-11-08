@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://eb92918e-b1a0-450a-af99-337d76b3fa0d@www.speedtest.net:443?security=tls&type=ws&path=%2Fb16c0b57857ff8c3%3Fed%3D2560&host=net-bridge-88f351-gw.9yzm3yekuoys.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=net-bridge-88f351-gw.9yzm3yekuoys.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?type=tcp&security=reality&sni=sg.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%87%B8%F0%9F%87%AC
