@@ -1,6 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&extra={"mode":"stream-one","xmux":{"cMaxReuseTimes":"64-128","maxConnections":"2-3","hKeepAlivePeriod":25,"hMaxRequestTimes":"64-128","hMaxReusableSecs":"120-300"},"noSSEHeader":true,"noGRPCHeader":true,"xPaddingBytes":"100-1000"}&fp=firefox&host=aiartstudios.best&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&fp=firefox&host=aiartstudios.best&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@5.199.174.25:443?encryption=none&fp=firefox&pbk=DFR6MJcTN1bhukm7KS3IQSBDGPhTiPBwhZ3_brvwSlM&security=reality&sid=db724eb12631c05f&sni=aiartstudios.best&type=xhttp#%F0%9F%87%B1%F0%9F%87%B9

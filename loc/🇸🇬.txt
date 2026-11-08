@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfh7jwn4esIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@3.0.70.13:1114?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&security=reality&sid=79a1e14b&sni=yahoo.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c&sni=www.intel.com#%F0%9F%87%B8%F0%9F%87%AC
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c&sni=www.intel.com#%F0%9F%87%B8%F0%9F%87%AC
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443?type=tcp&security=reality&sni=sg.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%87%B8%F0%9F%87%AC
