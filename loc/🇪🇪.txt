@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://3ffb5b28-2ae2-4d56-8ac9-37007008f991@179.253.81.74:17417?encryption=none&fp=firefox&host=yandex-cdn-mirror.ru&pbk=yhOC-2sFjE59lY3n0IA0AAluzIpjoJiL0QH1SQ_ZZQ8&security=reality&sid=728f3f459ddf&sni=yandex-cdn-mirror.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA
