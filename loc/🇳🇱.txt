@@ -1,21 +1,22 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%F0%9F%87%B3%F0%9F%87%B1
 vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@ams2.shtil.io:444?sni=ams2.shtil.io&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B3%F0%9F%87%B1
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws#%F0%9F%87%B3%F0%9F%87%B1
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=qq#%F0%9F%87%B3%F0%9F%87%B1
-vless://95f85937-7b95-45c4-8d69-95da6a978569@chat.gpt.prem-ai.shop:443?alpn=http%2F1.1&encryption=none&path=%2Fgateway%2Fv1%2Fws%2F791f9a4d19f715c2ffaedfbaf99d88bd&security=tls&sni=chat.gpt.prem-ai.shop&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&headerType=none&fp=android#%F0%9F%87%B3%F0%9F%87%B1
-vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&headerType=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
-vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?encryption=none&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
-vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
-vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?encryption=none&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1
-vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=safari#%F0%9F%87%B3%F0%9F%87%B1
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=safari#%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?encryption=none&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
+vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&headerType=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
 vless://18b99163-5196-4ddc-85f8-8fdf5efdcd53@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&headerType=none&fp=edge#%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?encryption=none&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=stechnostore.life&sni=stechnostore.life&alpn=http%2F1.1&headerType=none&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1
+vless://8a4fe9f3-4da3-4004-b721-cae64ff0d018@185.178.208.167:443?encryption=none&host=stechnostore.life&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&security=tls&sni=stechnostore.life&type=ws&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
