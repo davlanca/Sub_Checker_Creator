@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.248.210:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5
