@@ -2,5 +2,3 @@
 //profile-update-interval: 1
 
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@188.225.42.208:443?flow=xtls-rprx-vision&pbk=CfHPtlNvqfK3QPvYfV7u-NjZcQh-buXZTA9gaGwvKmI&security=reality&sid=b781a152ee&sni=shop.okhta-mebel.site&fp=edge#%F0%9F%87%A8%F0%9F%87%BF
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@188.225.42.208:443?flow=xtls-rprx-vision&pbk=CfHPtlNvqfK3QPvYfV7u-NjZcQh-buXZTA9gaGwvKmI&security=reality&sid=b781a152ee&sni=shop.okhta-mebel.site&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@188.225.42.208:443?flow=xtls-rprx-vision&pbk=CfHPtlNvqfK3QPvYfV7u-NjZcQh-buXZTA9gaGwvKmI&security=reality&sid=b781a152ee&sni=shop.okhta-mebel.site&fp=ios#%F0%9F%87%A8%F0%9F%87%BF

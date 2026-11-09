@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://6eb642a2-f8ee-47cc-9c13-fabb0a50350d@45.139.24.91:2083?flow=xtls-rprx-vision&security=tls&sni=flatknot.net&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
 vless://6eb642a2-f8ee-47cc-9c13-fabb0a50350d@168.113.128.70:20103?flow=xtls-rprx-vision&security=tls&sni=flatknot.net&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
+vless://6eb642a2-f8ee-47cc-9c13-fabb0a50350d@45.139.24.91:2083?flow=xtls-rprx-vision&security=tls&sni=flatknot.net&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
