@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://18669c97-4d3e-03e9-a94e-b250e7aac408@85.198.80.164:8443?flow=xtls-rprx-vision&security=reality&sni=ya.ru&pbk=DulhUFMYzxIsucjtPONJQMszzyi9V6bqQ9WI3GjGFAY&sid=abc123&fp=safari#%F0%9F%87%AB%F0%9F%87%B7
