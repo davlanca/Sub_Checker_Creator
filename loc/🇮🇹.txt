@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@216.106.191.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=suK-MYTtZhJ9IJgsxPLTHLQadNotDqYslQcd5BNV_EQ&sid=6aa50b0cc8d23464&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.72:19999#%F0%9F%87%AE%F0%9F%87%B9
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2092?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=DAmuGIDPePcOcjrme7P9mSurDbw3TJMpb7xjFMyixnc&sid=53823c70&serviceName=cas-it#%F0%9F%87%AE%F0%9F%87%B9
 vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:12443?encryption=none&type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=H2OZHvueEdgPOrpYR7KoD6o10l7mak7dvxn0Sdq1MHE&sid=10700887&fp=chrome&serviceName=cas-it#%F0%9F%87%AE%F0%9F%87%B9
