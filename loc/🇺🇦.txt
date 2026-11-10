@@ -3,6 +3,6 @@
 
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?flow=xtls-rprx-vision&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&security=reality&sid=9f05c35b73b47d53&sni=nl4.japancase.site&type=tcp&fp=ios#%F0%9F%87%BA%F0%9F%87%A6
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?flow=xtls-rprx-vision&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&security=reality&sid=9f05c35b73b47d53&sni=nl4.japancase.site&type=tcp&fp=safari#%F0%9F%87%BA%F0%9F%87%A6
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?flow=xtls-rprx-vision&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&security=reality&sid=9f05c35b73b47d53&sni=nl4.japancase.site&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?flow=xtls-rprx-vision&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&security=reality&sid=9f05c35b73b47d53&sni=nl4.japancase.site&type=tcp&fp=edge#%F0%9F%87%BA%F0%9F%87%A6
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?security=reality&type=tcp&packetEncoding=xudp&sni=nl4.japancase.site&fp=ios&flow=xtls-rprx-vision&sid=9f05c35b73b47d53&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI#%F0%9F%87%BA%F0%9F%87%A6
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@nl4.japancase.site:443?flow=xtls-rprx-vision&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&security=reality&sid=9f05c35b73b47d53&sni=nl4.japancase.site&type=tcp&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6
