@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@46.250.248.210:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#%F0%9F%87%AF%F0%9F%87%B5
-vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:14443?encryption=none&pbk=6ire5xfQhZ2rq-fMvnm_f3AzHOkY0LXBh-3msGfK0jw&security=reality&serviceName=cas-jp&sid=be69581b&sni=s3.storage.selcloud.ru&type=grpc&fp=safari#%F0%9F%87%AF%F0%9F%87%B5
 vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:14443?encryption=none&pbk=6ire5xfQhZ2rq-fMvnm_f3AzHOkY0LXBh-3msGfK0jw&security=reality&serviceName=cas-jp&sid=be69581b&sni=s3.storage.selcloud.ru&type=grpc&fp=edge#%F0%9F%87%AF%F0%9F%87%B5
