@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%F0%9F%87%B9%F0%9F%87%B7
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:10443?security=reality&sni=s3.storage.selcloud.ru&fp=firefox&pbk=8_nRAlcICkHpdasp0BvKiikAwJ0NSdboULleT2iiuEM&sid=f4316f4e&type=grpc&mode=gun&serviceName=cas-tr&encryption=none#%F0%9F%87%B9%F0%9F%87%B7
