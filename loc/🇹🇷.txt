@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://db57c865-2318-4fd2-8aea-e8ba58ec696d@212.41.9.190:10443?security=reality&sni=s3.storage.selcloud.ru&fp=firefox&pbk=8_nRAlcICkHpdasp0BvKiikAwJ0NSdboULleT2iiuEM&sid=f4316f4e&type=grpc&mode=gun&serviceName=cas-tr&encryption=none#%F0%9F%87%B9%F0%9F%87%B7
