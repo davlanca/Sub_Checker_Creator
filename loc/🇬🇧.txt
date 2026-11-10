@@ -1,8 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&encryption=none&sni=yandex.ru&flow=xtls-rprx-vision&fp=random&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7
+vless://95d0e214-eab0-4701-93ed-fea4f1b56062@prime.jarbook.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=prime.jarbook.net&fp=firefox&pbk=oAX7soFKfN3xURgCD26trmjeF-e-eEjW3pBVXuuvW0k&sid=77a8c8c8&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=b28db60d77c50b4f&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
+vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?security=reality&encryption=none&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&fp=chrome&spx=%2Fbc0e0e3d3d4f532&type=grpc&serviceName=grpc_common1&sni=ap-author.led.samsung.com&sid=aacd5d42a33b2a4e#%F0%9F%87%AC%F0%9F%87%A7
