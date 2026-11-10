@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://a88f8516-c843-4099-ac58-1875f503b1bb@188.225.35.186:8005?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sh-pl2.baboon.digital&pbk=xCzzkA_jU8dOnTEau0ZeZSs_sk8UO8mG0-Im1Koht2A&sid=d295a38037c9d8cc&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1

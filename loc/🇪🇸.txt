@@ -2,4 +2,7 @@
 //profile-update-interval: 1
 
 vless://585a421d-d782-4420-912e-dd58ff5966d7@156.252.229.203:8443?encryption=none&fp=&pbk=7jPluypHwPilf_Mq7JOY96SwKkbK35WuIlN1HwGQ_0A&security=reality&sid=974f7f8f&sni=play.googleapis.com&type=tcp#%F0%9F%87%AA%F0%9F%87%B8
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20026?encryption=none&type=tcp&security=reality&sni=eu64.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#%F0%9F%87%AA%F0%9F%87%B8
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20026?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=edge#%F0%9F%87%AA%F0%9F%87%B8
+vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20026?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=ios#%F0%9F%87%AA%F0%9F%87%B8
 vless://2f094d48-7186-47ca-9e57-e977bbac3b08@eu90.cdn77.icu:20026?encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%B8
