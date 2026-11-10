@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://03440720-a4ee-4dfe-917a-e699cedadead@45.151.101.151:8444?flow=xtls-rprx-vision&security=reality&sni=amazon.com&fp=random&pbk=XAgtlMYY1aqEH5wud540D7lPIokZOgkpHy2ch-DS0DM&sid=3805#%F0%9F%87%AE%F0%9F%87%B3
-vless://03440720-a4ee-4dfe-917a-e699cedadead@45.151.101.151:8443?security=reality&sni=queuev4.vk.com&fp=random&pbk=XAgtlMYY1aqEH5wud540D7lPIokZOgkpHy2ch-DS0DM&sid=74a327dfbff4f9fa#%F0%9F%87%AE%F0%9F%87%B3
