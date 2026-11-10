@@ -1,18 +1,17 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?&security=reality&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=qq&sni=music.3apes.online&type=tcp&headerType=none&host=music.3apes.online&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.108:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?security=reality&type=tcp&packetEncoding=xudp&sni=music.3apes.online&fp=qq&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@lt.krevetkabs111.net:14443?security=tls&sni=lt.krevetkabs111.net&fp=firefox&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@nlf2.krevetkabs111.net:14443?security=tls&sni=nlf2.krevetkabs111.net&fp=firefox&type=ws&host=nlf2.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
-vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gembeforeshoping.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gembeforeshoping.space&pbk=lY9sPrXzj3Dlsj6JTP5UolK1RmIAlstuAy3dBJ97ag0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@gemsubbgem.world:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=6PJlXT9xrgJP8RXfhpWDMKPh4eqGt_IZmenc_a6v0gg&security=reality&sni=gemsubbgem.world&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@138.16.249.118:14443?security=tls&sni=lt.krevetkabs111.net&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@lt.krevetkabs111.net:14443?security=tls&sni=lt.krevetkabs111.net&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none&fp=android#%F0%9F%87%A9%F0%9F%87%AA
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@138.16.249.118:14443?security=tls&sni=lt.krevetkabs111.net&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
+vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@lt.krevetkabs111.net:14443?security=tls&sni=lt.krevetkabs111.net&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none&fp=android#%F0%9F%87%A9%F0%9F%87%AA
 vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@lt.krevetkabs111.net:14443?security=tls&sni=lt.krevetkabs111.net&type=ws&host=lt.krevetkabs111.net&path=%2Fapi%2Fgenerate&encryption=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
