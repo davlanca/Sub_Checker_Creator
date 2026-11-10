@@ -3,5 +3,3 @@
 
 vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?encryption=none&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&security=reality&serviceName=grpc&sid=17b6feb4481539d2&sni=deepl.com&type=grpc&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
 vless://a3583bf4-ec07-4fe8-bca3-6881353ca2c5@2.27.175.229:446?encryption=none&pbk=1_4w5OxAZZeAoT_m1LNMcKmk7yvNrJjf6P7QDHF15VE&security=reality&serviceName=grpc&sid=17b6feb4481539d2&sni=deepl.com&type=grpc&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2089?type=grpc&security=reality&sni=s3.storage.selcloud.ru&pbk=4Ba7EKm90gUC57U-0WtkSVXgmeLzR9TG5Qw3dqgjbDQ&sid=c1db0a1b&serviceName=cas-fi&encryption=none&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#%F0%9F%87%AB%F0%9F%87%AE
