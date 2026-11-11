@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f#%F0%9F%87%AC%F0%9F%87%A7
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?security=tls&sni=api.neuroblur.top&alpn=http%2F1.1&fp=firefox&type=ws&host=api.neuroblur.top&path=%2Fapi%2Fgenerate&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&sni=yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
+vless://c2f1f999-365f-42a7-87e7-726cbd0753ae@188.114.98.0:443?security=tls&type=ws&path=%2F294dd38929bdec5b%3Fed%3D2560&host=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?alpn=http%2F1.1&host=api.neuroblur.top&path=%2Fapi%2Fgenerate&security=tls&sni=api.neuroblur.top&type=ws&fp=edge#%F0%9F%87%AC%F0%9F%87%A7
