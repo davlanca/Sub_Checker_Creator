@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.37.43:443?encryption=none&fp=firefox&host=torvani.cyou&path=/api/boards/live&security=tls&sni=torvani.cyou&type=ws#%F0%9F%87%B9%F0%9F%87%B7
