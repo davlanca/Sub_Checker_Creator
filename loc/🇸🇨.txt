@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://8bbde034-a0de-4e8c-8be3-b16a99689380@152.234.163.154:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&sid=5b2e7a14c0d9f832&sni=amam.sprooty.fun&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
 vless://8bbde034-a0de-4e8c-8be3-b16a99689380@152.234.163.154:8443?encryption=none&fp=firefox&pbk=NHhxrPoUGT0Wijle1ODvqOqGLMfetU7Px4K1S9FL-hE&security=reality&serviceName=grpc&sid=5b2e7a14c0d9f832&sni=amam.sprooty.fun&type=grpc#%F0%9F%87%B8%F0%9F%87%A8
