@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.81:19999#%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.90:19999#%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.36:19999#%F0%9F%87%AE%F0%9F%87%B9
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrvCfh7kiLCJhZGQiOiIxNDkuNTAuMjE1LjI0MCIsInBvcnQiOiIxMjcwIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRlc3RfbmFtZSI6IjM0In0
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@84.38.184.126:2092?type=grpc&security=reality&encryption=none&sni=s3.storage.selcloud.ru&fp=chrome&pbk=DAmuGIDPePcOcjrme7P9mSurDbw3TJMpb7xjFMyixnc&sid=53823c70&serviceName=cas-it#%F0%9F%87%AE%F0%9F%87%B9
