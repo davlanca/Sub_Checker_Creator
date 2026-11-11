@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://bdcf9e2b-f160-439c-852d-713da9d0a447@84.32.215.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IJzC9Xw5pp5-TCcQQBejuNaPVGIqnuYSEv4Tc3GQEzY&security=reality&sid=31e6443f&sni=ltmst1.goonars.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9
