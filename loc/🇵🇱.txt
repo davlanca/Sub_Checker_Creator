@@ -2,3 +2,5 @@
 //profile-update-interval: 1
 
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://f807208f-27ed-465a-8736-b63732ea88c6@95.167.57.129:7444?flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&fp=firefox&pbk=uxWBM2b-QHbLSKWZ_Zy29c7tcrw0pLM7AaAFTo_R6lc&sid=298938469938#%F0%9F%87%B5%F0%9F%87%B1
+trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn12.yabenzin.app&security=tls&sni=cdn12.yabenzin.app&fp=firefox&alpn=h2#%F0%9F%87%B5%F0%9F%87%B1
