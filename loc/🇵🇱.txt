@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
+vless://f807208f-27ed-465a-8736-b63732ea88c6@95.167.57.129:7444?flow=xtls-rprx-vision&security=reality&sni=ligastavok.ru&fp=firefox&pbk=uxWBM2b-QHbLSKWZ_Zy29c7tcrw0pLM7AaAFTo_R6lc&sid=298938469938#%F0%9F%87%B5%F0%9F%87%B1
