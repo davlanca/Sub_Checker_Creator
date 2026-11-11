@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://fdb8b6ce-cc8a-4d84-86de-22b8ee30307c@5febc5g.fi16.h1clayd.click:443?type=grpc&security=reality&serviceName=d97908bd03b7&sni=5febc5g.fi16.h1clayd.click&fp=firefox&pbk=Q8ahFoY3Ki5gO37-y_q5oG1-EAcCFAvwU2VBQB6euEE&sid=a6dc47e87ba10b83&spx=%2F&encryption=none#%F0%9F%87%AB%F0%9F%87%AE
