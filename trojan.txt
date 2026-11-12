@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 
 trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn6.yabenzin.app&security=tls&sni=cdn6.yabenzin.app&alpn=h2&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8
+trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn6.yabenzin.app&security=tls&sni=cdn6.yabenzin.app&alpn=h2&fp=safari#%F0%9F%87%BA%F0%9F%87%B8
 trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn12.yabenzin.app&security=tls&sni=cdn12.yabenzin.app&alpn=h2&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
 trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn12.yabenzin.app&security=tls&sni=cdn12.yabenzin.app&fp=firefox&alpn=h2#%F0%9F%87%B5%F0%9F%87%B1
-trojan://duJyVGgB2y0tCFs37Y89NE1fMHXk8C5j@stream.yabenzin.app:443?type=grpc&serviceName=TrojanGRPC&mode=gun&authority=cdn6.yabenzin.app&security=tls&sni=cdn6.yabenzin.app&alpn=h2&fp=safari#%F0%9F%87%BA%F0%9F%87%B8
