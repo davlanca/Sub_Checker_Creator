@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://c1208c5a-2350-0003-affd-fc41b4319286@decdn-28.nome-rkp.net:443?encryption=none&security=tls&sni=decdn-28.nome-rkp.net&fp=chrome&type=ws&host=decdn-28.nome-rkp.net&path=/media/ws/#%F0%9F%87%AE%F0%9F%87%B3
