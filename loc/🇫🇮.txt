@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://622654a4-b666-000b-9260-fb717e05154f@169.40.34.41:443?encryption=none&flow=xtls-rprx-vision&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=key-master-saver.com&type=tcp&fp=ios#%F0%9F%87%AB%F0%9F%87%AE
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?encryption=none&flow=xtls-rprx-vision&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&security=reality&sni=2veos3wvwtx8.cdn.cachefleet.com&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
