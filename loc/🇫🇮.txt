@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F#%F0%9F%87%AB%F0%9F%87%AE
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&security=reality&sni=2veos3wvwtx8.cdn.cachefleet.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
