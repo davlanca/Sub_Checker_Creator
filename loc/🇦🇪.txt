@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.45:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cH5ij6-s09W0Dx3Bnxhh4fHeVnjM_TrS1rZWfdgBPi8&security=reality&sid=0268c715cf2f61e7&sni=dune-falcon.cdn.cachefleet.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?alpn=http%2F1.1&encryption=none&host=bhjolq0d0l.flowersgood.top&insecure=0&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=edge#%F0%9F%87%A6%F0%9F%87%AA
