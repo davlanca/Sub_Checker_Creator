@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.80:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sp_KKjJjc7cyVd8jkaPNfRtB9UxyZT6CfF62uYqcMlI&security=reality&sid=69828f96b0fcc801&sni=cedar-tide.cdn.cachefleet.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7
+vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IvCfh7Dwn4e3Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
 vless://a7250cf9-5ea3-429d-93fe-70d0bd9ac845@3.34.5.188:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7wI0UsM_xv7YfQ1yfBRVEaSpegvoGZeCzPgz_4kmDxY&security=reality&sid=d9268fe1f028239e&sni=www.coway.com&type=tcp#%F0%9F%87%B0%F0%9F%87%B7
