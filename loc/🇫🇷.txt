@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 vless://90157e25-cee1-4217-921e-91f300bc1a24@67.159.44.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=bestgif.su&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4bnJwdDJpbDA0cHRjaTJq@54.37.240.40:8080#%F0%9F%87%AB%F0%9F%87%B7
 vless://90157e25-cee1-4217-921e-91f300bc1a24@67.159.44.219:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=67.159.44.219&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
