@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.182.11:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PTIRbxzUvuwon8uDA2LjTtIJc9nItRvnGqQxS4K9pgg&security=reality&sni=2veos3wvwtx8.cdn.cachefleet.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://875802fc-7b02-4ef7-8815-53dac0966f6a@81.27.107.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=permuimserversw.wizardxray.net&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
