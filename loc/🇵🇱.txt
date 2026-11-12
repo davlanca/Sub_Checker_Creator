@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://4d30ffc2-c917-407b-b71f-6a7ca09e939f@213.21.232.4:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N3MUCErqyQmpQEwMzDPwz2mZERG0Q2dopPNX-3PpE2M&security=reality&sid=455152c2797fea2b&sni=mytubeproxy10.duckdns.org&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@201.58.139.66:443?encryption=none&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&sni=57aac2t.pl7.h1clayd.click&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
