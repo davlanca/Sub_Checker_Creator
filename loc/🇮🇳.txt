@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://98b845d5-853b-45d4-ac13-3fd76cfbbb87@217.60.148.38:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2F1v5VK_bJbhml6ea6FpxL0perCg1U1U5yoK1YMoCY&security=reality&sid=5ead4aa77fa6f875&sni=in.static-s3.org&type=tcp#%F0%9F%87%AE%F0%9F%87%B3
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320#%F0%9F%87%AE%F0%9F%87%B3
+vless://98b845d5-853b-45d4-ac13-3fd76cfbbb87@217.60.148.38:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=i2F1v5VK_bJbhml6ea6FpxL0perCg1U1U5yoK1YMoCY&security=reality&sid=5ead4aa77fa6f875&sni=in.static-s3.org&type=tcp#%F0%9F%87%AE%F0%9F%87%B3
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@103.172.116.191:10303?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f96b3b17a0f5b1fe&pbk=mjWmmSvs0D3V3130FT7MVbRs94pPuWXR7ffaQ_3A4kU&encryption=none#%F0%9F%87%AE%F0%9F%87%B3

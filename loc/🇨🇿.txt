@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://b5b85c5b-8ccc-4f7e-ac05-083e9782c722@45.88.176.101:5443?encryption=none&fp=firefox&pbk=bGdUaTQLMq-lyZrhkiG5YOzRKYrHjJynN7FW4kIK8m0&security=reality&serviceName=grpc&sni=files.nyx53.shop&type=grpc#%F0%9F%87%A8%F0%9F%87%BF
