@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.118.11:443?type=grpc&security=tls&sni=cz.mediastvor.cc&mode=gun&serviceName=r7Kp4mN9tQ2v&fp=safari#%F0%9F%87%A8%F0%9F%87%BF
 vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.118.11:443?type=grpc&security=tls&sni=cz.mediastvor.cc&mode=gun&serviceName=r7Kp4mN9tQ2v&fp=qq#%F0%9F%87%A8%F0%9F%87%BF
+vless://27b9f6d7-1668-4b8a-acf1-11398febcfee@189.74.118.11:443?type=grpc&security=tls&sni=cz.mediastvor.cc&mode=gun&serviceName=r7Kp4mN9tQ2v&fp=safari#%F0%9F%87%A8%F0%9F%87%BF
