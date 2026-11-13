@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://41a382b8-6d2f-482e-abf2-954a56456e8c@141.98.191.115:443?flow=xtls-rprx-vision&security=reality&sni=31.76.7.128.sslip.io&pbk=zvOXkaCzQIFA5H6_gpK2_IMDnkwBkw8nch5AODNsAiY&sid=88086e66870f03e6&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF

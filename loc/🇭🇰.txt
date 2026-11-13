@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://b6058894-f212-4926-9e19-f65713cca4a4@45.192.203.44:10976?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yXPPzfUp2T-BiLIGriVsi1zL7xqyWPvHDI9Fs4lgPyg&security=reality&sni=www.nit.ac.jp&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
-vmess://eyJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIxMDIwIiwicHMiOiLwn4et8J+HsCIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
