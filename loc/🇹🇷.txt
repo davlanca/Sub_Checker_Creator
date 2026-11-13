@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://fa081e9f-7574-0001-8928-31aa5ac923c7@45.92.176.81:443?security=reality&sni=rus7-b.sbcweb.net&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=344f83372596eea2&type=grpc&serviceName=grpc&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7
+vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.37.43:443?encryption=none&fp=firefox&host=torvani.cyou&path=%2Fapi%2Fboards%2Flive&security=tls&sni=torvani.cyou&type=ws#%F0%9F%87%B9%F0%9F%87%B7
