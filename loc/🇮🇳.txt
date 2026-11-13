@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?encryption=none&type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320#%F0%9F%87%AE%F0%9F%87%B3
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@103.172.116.191:10303?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f96b3b17a0f5b1fe&pbk=mjWmmSvs0D3V3130FT7MVbRs94pPuWXR7ffaQ_3A4kU&encryption=none#%F0%9F%87%AE%F0%9F%87%B3
