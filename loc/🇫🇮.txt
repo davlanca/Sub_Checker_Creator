@@ -2,3 +2,5 @@
 //profile-update-interval: 1
 
 vless://875802fc-7b02-4ef7-8815-53dac0966f6a@81.27.107.3:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=permuimserversw.wizardxray.net&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@188.225.46.162:443?security=tls&sni=filnex.baby&alpn=h2&type=grpc&serviceName=lalibobi.tw.de1.Connect&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@188.225.46.162:443?security=tls&sni=filnex.baby&alpn=h2&type=grpc&serviceName=lalibobi.tw.de1.Connect&fp=qq#%F0%9F%87%AB%F0%9F%87%AE
