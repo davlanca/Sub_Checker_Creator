@@ -3,5 +3,4 @@
 
 vless://510a4a35-54ac-41fa-a972-8d010995c8f7@206.166.251.70:52901?security=reality&encryption=none&pbk=Wllsn04C4xvPzega8LO2P4t-2wsV_YIdDCYO5w_NrSQ&headerType=none&fp=firefox&spx=%2FscOQJVHfs5D0jGg&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=8770eaf663#%F0%9F%87%B3%F0%9F%87%B1
 vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=vkvd754.okcdn.ru&fp=qq&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=ef1d3554c652a436&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1
-vless://26843758-24de-4f76-b5d0-624038e353c4@179.254.115.118:443?encryption=none&fp=firefox&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&security=reality&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@201.8.64.226:443?encryption=none&fp=firefox&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
