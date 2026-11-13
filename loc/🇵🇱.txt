@@ -2,3 +2,5 @@
 //profile-update-interval: 1
 
 vless://f37d32d0-ca5a-464f-8c32-92dc33f71408@81.90.20.203:443?encryption=none&fp=firefox&pbk=qVU44SZtoG7cKR3ZCg4Ipf5rPefL5cbrto2OpzZNoU8&security=reality&sni=instance-103.nolimited.space&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
