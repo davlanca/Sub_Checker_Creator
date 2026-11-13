@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://facb802c-de2e-11f1-9a22-a3404e852f3b@185.39.204.117:10002?encryption=none&fp=firefox&path=/vpnjantit&security=tls&sni=tr2.vpnjantit.com&type=ws#%F0%9F%87%B9%F0%9F%87%B7
