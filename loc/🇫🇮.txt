@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
 vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=qq#%F0%9F%87%AB%F0%9F%87%AE
+vless://5159ee41-1fb8-42e9-8c09-160aa3fc3160@176.108.241.72:443?security=reality&flow=xtls-rprx-vision&pbk=mZjATY7nGyp_ikhe2PakXak5JWk2ORn9vl_lO2WpICs&sid=ad0cb77acd87a7ca&sni=ru-cdn.cdn-ozon.icu&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
