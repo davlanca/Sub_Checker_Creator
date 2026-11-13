@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.37.43:443?&security=tls&fp=firefox&sni=torvani.cyou&type=ws&headerType=none&host=torvani.cyou&path=%2Fapi%2Fboards%2Flive#%F0%9F%87%B9%F0%9F%87%B7
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.37.43:443?encryption=none&fp=firefox&host=torvani.cyou&path=%2Fapi%2Fboards%2Flive&security=tls&sni=torvani.cyou&type=ws#%F0%9F%87%B9%F0%9F%87%B7
 vless://a346c521-7a7f-452b-9356-a4893feb5982@62.133.63.45:8444?security=reality&encryption=none&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&fp=chrome&type=grpc&serviceName=GunService&sni=github.com&sid=457fab2ac885dbe0#%F0%9F%87%B9%F0%9F%87%B7
+vless://5191d3d6-56d0-46a1-ae79-ddf2b2460559@193.151.152.30:2085?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BF26WqOIARMEEiD5I3qkq_QFCRIeYAjf99_WS6kXeiE&security=reality&sni=dl.google.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
