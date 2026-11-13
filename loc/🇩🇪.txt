@@ -1,13 +1,19 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@188.137.178.174:8443?sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=/fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AA
+vless://26843758-24de-4f76-b5d0-624038e353c4@153.56.229.218:443?encryption=none&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&security=reality&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@n1.topingr.ir:443?security=tls&type=ws&path=%2Fapi%2Fv3%2Fpulse&host=cdn2.zovip2.ir&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn2.zovip2.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?type=grpc&security=tls&sni=luminexorizon.ink&mode=gun&serviceName=glush.de3.v1&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
 vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@gallery.merlano.monster:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de2.v1&security=tls&sni=grove.moltex.click&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ivory.filnex.baby:443?encryption=none&type=ws&security=tls&sni=ivory.filnex.baby&fp=firefox&alpn=http/1.1&path=/api/de4/stream&host=ivory.filnex.baby#%F0%9F%87%A9%F0%9F%87%AA
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&type=ws&path=%2Fapi%2Fde1%2Fstream&host=falmero.store&security=tls&sni=falmero.store&alpn=http%2F1.1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&type=ws&host=canvas.merlano.monster&path=%2Fapi%2Fde7%2Fstream&packetEncoding=xudp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
 vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&type=ws&path=%2Fapi%2Fde1%2Fstream&host=falmero.store&security=tls&sni=falmero.store&alpn=http%2F1.1&fp=qq#%F0%9F%87%A9%F0%9F%87%AA
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
+vless://820fa845-a1eb-4a83-b613-e6714cea8a1a@ws3.falmero.store:443?encryption=none&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&type=ws&host=canvas.merlano.monster&path=%2Fapi%2Fde7%2Fstream&packetEncoding=xudp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?security=tls&type=grpc&sni=luminexorizon.ink&serviceName=glush.de3.v1&fp=safari#%F0%9F%87%A9%F0%9F%87%AA
