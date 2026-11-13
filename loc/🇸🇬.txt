@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://c2f1f999-365f-42a7-87e7-726cbd0753ae@188.114.98.0:443?security=tls&type=ws&path=%2F294dd38929bdec5b%3Fed%3D2560&host=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
