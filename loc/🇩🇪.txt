@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 
 vless://84be02cf-c5c5-4b33-ba26-31b5f8320033@n1.topingr.ir:443?security=tls&type=ws&path=%2Fapi%2Fv3%2Fpulse&host=cdn2.zovip2.ir&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn2.zovip2.ir&fp=chrome&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
-vless://26843758-24de-4f76-b5d0-624038e353c4@153.56.229.218:443?security=reality&fp=firefox&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click#%F0%9F%87%A9%F0%9F%87%AA
+vless://12776e55-6230-48b9-b069-1bb8a04b4237@music.3apes.online:443?encryption=none&flow=xtls-rprx-vision&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
