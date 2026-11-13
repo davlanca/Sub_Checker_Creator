@@ -1,6 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@80.47.11.123:443?encryption=none&flow=xtls-rprx-vision&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=pl8.lazeroe.com&type=tcp&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
 vless://6b5af4eb-fc4b-447a-bc4b-56c218e069ca@177.202.76.129:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&security=tls&encryption=none&insecure=0&host=bhjolq0d0l.flowersgood.top&type=ws&allowInsecure=0&sni=bhjolq0d0l.flowersgood.top&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
 vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@80.47.11.123:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=pl8.lazeroe.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://ccb8ff48-3934-4250-b4ec-bb76b95d154f@pl3.fox-lisa.ru:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=NaCZ-sS4poEbFwKmD7ePAVyc5OhHxsD9nkAStjXkoWs&security=reality&sid=027af64166562b09&sni=pl3.fox-lisa.ru&type=tcp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
+vless://f37d32d0-ca5a-464f-8c32-92dc33f71408@81.90.20.203:443?encryption=none&fp=firefox&pbk=qVU44SZtoG7cKR3ZCg4Ipf5rPefL5cbrto2OpzZNoU8&security=reality&sni=instance-103.nolimited.space&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
