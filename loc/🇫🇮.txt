@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://34dd3340-5cf6-4d61-bc60-b8b13ee2b3c1@207.89.17.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=oImt0TW4JPXoVLCHkqjwr042kXLs1_HwIYKMWlQGdjs&security=reality&sid=2cba5882b6a81b07&sni=www.twitch.tv&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
