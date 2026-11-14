@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.56:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=4935e4t.de25.h1clayd.click&fp=chrome&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://fe1988d0-077c-4865-8b03-ffde242a109f@my.nehtar.ru:443?path=%2Fgateway%2Fv1%2Fws%2Fa10af91503cf8cbe55f42a7e5264c498&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=my.nehtar.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
