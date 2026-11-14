@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@5.180.20.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0RvqC4mdt_dzWm5hzpbn2tOjCmw0lmTFn40kpayZAQ8&security=reality&sni=kaz1.angelsleep9.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF
 vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@kaz1.angelsleep9.com:443?security=reality&encryption=none&pbk=0RvqC4mdt_dzWm5hzpbn2tOjCmw0lmTFn40kpayZAQ8&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kaz1.angelsleep9.com#%F0%9F%87%B0%F0%9F%87%BF
-vless://bbb918c0-a510-45f9-ac94-4d449aef6498@194.58.60.217:443?encryption=none&fp=firefox&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=7e47d44f1b532321&sni=node43.lmdscdn.ru&type=grpc#%F0%9F%87%B0%F0%9F%87%BF
