@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 
 vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@177.177.215.45:444?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ams2.shtil.io&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.101.0:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2LiT1OqXbnWbNAop15NSe0OL3dK2i8EIkiY4EB_3PV8&security=reality&sid=2e9cd36a&sni=chmstnd21.jarvesitw.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
 vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@ams2.shtil.io:444?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ams2.shtil.io&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
+vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?packetEncoding=xudp&type=tcp&security=reality&sni=www.sony.co.uk&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&sid=1174&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1
 vless://02655447-4659-41df-8d0e-d23a3035b7cb@217.60.35.236:24443?encryption=none&fp=firefox&pbk=ezJe4QPFWQq9qPAKTGCVABy1rSXje4E1IJIMr062iAk&security=reality&serviceName=grpc&sid=f5bfc7701f467dcc&sni=nl.nebulaguard.org&type=grpc#%F0%9F%87%B3%F0%9F%87%B1
