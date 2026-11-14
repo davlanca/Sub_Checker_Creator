@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40701?security=tls&sni=ro.nebulaguard.org&alpn=http%2F1.1&fp=firefox&type=ws&host=ro.nebulaguard.org&path=%2Ff9797f64d9#%F0%9F%87%B7%F0%9F%87%B4
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@176.108.245.73:443?flow=xtls-rprx-vision&security=reality&sni=pawuk.belka.tv&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#%F0%9F%87%B7%F0%9F%87%B4
