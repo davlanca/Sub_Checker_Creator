@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://8458e1a5-cf44-46d5-9b6b-41888e55d19e@31.56.187.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4KolZT8ceL7zivti6ZKAucKjGo_QF_C16E5rAjTC914&security=reality&sid=b6f0baf4126ada5f&sni=api-les.tihoe-mesto.xyz&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
-vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@141.133.185.6:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=files.vpvi.store&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA
