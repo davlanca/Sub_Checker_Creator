@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://bccf444b-f156-4cdb-80ab-4bc5da3a451c@94.228.173.123:443?security=reality&sni=silvermatrix.space&fp=qq&pbk=XbK3dHP4uN0LmQVmtvpx3E9aH8QrUja7Z5P-u4ZfBDk&sid=c64bfc3226e6e0f3&type=grpc&serviceName=grpc#%F0%9F%87%A8%F0%9F%87%BE
