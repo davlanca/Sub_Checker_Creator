@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40101?security=tls&sni=de.nebulaguard.org&alpn=h2%2Ch3%2Chttp%2F1.1&type=ws&host=de.nebulaguard.org&path=%2Ftrojan%2F&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
