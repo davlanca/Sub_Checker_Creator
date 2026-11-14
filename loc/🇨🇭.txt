@@ -2,6 +2,9 @@
 //profile-update-interval: 1
 
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#%F0%9F%87%A8%F0%9F%87%AD
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2%2Chttp%2F1.1&security=tls&sni=de.nebulaguard.org#%F0%9F%87%A8%F0%9F%87%AD
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2%2Chttp%2F1.1&security=tls&sni=de.nebulaguard.org&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40101?alpn=h2%2Ch3%2Chttp%2F1.1&host=de.nebulaguard.org&path=%2Ftrojan%2F&security=tls&sni=de.nebulaguard.org&type=ws#%F0%9F%87%A8%F0%9F%87%AD
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2%2Chttp%2F1.1&security=tls&sni=de.nebulaguard.org&fp=edge#%F0%9F%87%A8%F0%9F%87%AD
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40101?security=tls&sni=de.nebulaguard.org&alpn=h2%2Ch3%2Chttp%2F1.1&fp=firefox&type=ws&host=de.nebulaguard.org&path=%2Ftrojan%2F#%F0%9F%87%A8%F0%9F%87%AD
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2%2Chttp%2F1.1&security=tls&sni=de.nebulaguard.org&fp=safari#%F0%9F%87%A8%F0%9F%87%AD
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2%2Chttp%2F1.1&security=tls&sni=de.nebulaguard.org&fp=firefox#%F0%9F%87%A8%F0%9F%87%AD
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40103?alpn=h2%2Chttp%2F1.1&security=tls&sni=de.nebulaguard.org#%F0%9F%87%A8%F0%9F%87%AD
