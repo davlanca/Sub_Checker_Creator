@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@5.253.29.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3sF41PdW-wOrqEmJpag66KvWX6Fl_SkDMhUvz9UzbBU&security=reality&sni=indi.angelsleep9.com&type=tcp#%F0%9F%87%A8%F0%9F%87%BE
-vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@indi.angelsleep9.com:443?security=reality&encryption=none&pbk=3sF41PdW-wOrqEmJpag66KvWX6Fl_SkDMhUvz9UzbBU&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=indi.angelsleep9.com#%F0%9F%87%A8%F0%9F%87%BE
