@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@msk-01.freegate.win:443?encryption=none&flow=xtls-rprx-vision&pbk=wDDyZZJfgJHB6OOrdpLgAk18P2j9tZrxgOxOB_s7Sws&security=reality&sni=msk-01.freegate.win&spx=%2F&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%AA
+vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@msk-02.freegate.win:443?encryption=none&flow=xtls-rprx-vision&pbk=z1Z2yIWBdFlCT3ofwGNntS63c9VYZLrqTVTeURq7r2U&security=reality&sni=msk-02.freegate.win&spx=%2F&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
