@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 
 vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@150.251.142.237:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_fj3yllgCnLnZNTPCKDg3ckS9ljMrWYVJvr30fy3Miw&security=reality&sid=187a61e1c662e8be&sni=150.251.142.35&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://2db48a26-c97d-40c3-b8e2-8f04f1cfb512@217.144.184.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bg.edgemedia.lol&pbk=t7dd2ar4QX4JaQz2FvVjE44XLT0jj7Z-0raaAQ6Y9As&sid=f822140f54644166&fp=firefox&spx=/#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@141.0.187.239:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=4Zzm9Ac34AEy-3PcT_T6UWvRJLnZvmEnvwmRLRc0328&security=reality&sid=e5d7a4874e7e74d4&sni=141.0.187.22&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://2462c208-e2e8-4071-95a7-afaae3ab9f0d@150.251.142.238:11443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=H-TXyDA4N-r8DVzMNs8DX12D1bfGD4mDT9dxO6c17Us&security=reality&sid=ef80cd78cc03f606&sni=89.105.218.116&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyIsImFkZCI6IjE3Mi42NC4xNDUuOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIn0
