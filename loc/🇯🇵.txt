@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://36c06e11-028b-40a1-a91f-c8f38f03e829@jp.yi-yi.xyz:8443?encryption=none&security=reality&pbk=g3T4dVyrbNixv7HvSMlh91cYBa5kEsZCEInB7Xc_AEY&sid=956d8072a694ff37&sni=www.cloudflare.com&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5
