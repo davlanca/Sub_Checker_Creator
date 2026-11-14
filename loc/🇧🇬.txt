@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://2db48a26-c97d-40c3-b8e2-8f04f1cfb512@g4.staticedge.cfd:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=t7dd2ar4QX4JaQz2FvVjE44XLT0jj7Z-0raaAQ6Y9As&sid=f822140f54644166&sni=bg.edgemedia.lol#%F0%9F%87%A7%F0%9F%87%AC
