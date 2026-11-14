@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@129.101.107.246:443?flow=xtls-rprx-vision&security=reality&sni=larpeveryday.win&fp=firefox&pbk=qF7BhHMny3nxNjHeKJ6sQseWJfIcRCUP0wi3WT-87xk&sid=777684f26ec30fd8#%F0%9F%87%AB%F0%9F%87%B7
 vless://e193931a-bc40-41e3-abc4-467fef7fe957@46.226.166.17:13363?security=reality&sni=it.nvidia.com&fp=firefox&pbk=WKRNa0TE5486P9wI_sVaw1GhGFPTbNLTGtf6DfZ4bCU&sid=93297486&type=grpc&serviceName=&mode=gun#%F0%9F%87%AB%F0%9F%87%B7
-vless://f5a049c3-2c0a-4056-a780-8ef2327cb6c2@87.242.95.226:443?security=tls&sni=kedrovyi-bereg.online&alpn=http%2F1.1&fp=firefox&type=ws&host=kedrovyi-bereg.online&path=%2Fcart%2Fsync%2FIvDzdZGhhPr-#%F0%9F%87%AB%F0%9F%87%B7
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40603?security=tls&sni=fr.nebulaguard.org&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40601?security=tls&sni=fr.nebulaguard.org&alpn=http%2F1.1&fp=firefox&type=ws&host=fr.nebulaguard.org&path=%2F459005d860%2F#%F0%9F%87%AB%F0%9F%87%B7
