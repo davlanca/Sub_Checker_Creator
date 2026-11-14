@@ -1,8 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?&security=reality&flow=xtls-rprx-vision&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&fp=chrome&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
-vless://e50e6851-a29a-45a1-811d-1e9230c1512a@nl1.slowframe.org:8443?security=reality&encryption=none&pbk=lQn0k9GCrG7Hh34b8ezAyVjc9KBCxQm3oP0xdxKGy0U&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl1.slowframe.org&sid=35cb85e41b041622#%F0%9F%87%B3%F0%9F%87%B1
-vless://e50e6851-a29a-45a1-811d-1e9230c1512a@13.143.172.78:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lQn0k9GCrG7Hh34b8ezAyVjc9KBCxQm3oP0xdxKGy0U&security=reality&sid=35cb85e41b041622&sni=nl1.slowframe.org&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
 vless://8f9c04c9-5c94-495e-9452-ab8b7a8af1bc@amsterdam.freegate.win:443?encryption=none&flow=xtls-rprx-vision&pbk=K9fsQw4pSymGPsVxy2TDES6Lgl_1L8qcp0LhOZitflY&security=reality&sni=amsterdam.freegate.win&spx=%2F&type=tcp&fp=edge#%F0%9F%87%B3%F0%9F%87%B1
-vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?security=tls&sni=uwugirl.dev&alpn=http%2F1.1&fp=firefox&type=ws&host=speakpro.lol&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F#%F0%9F%87%B3%F0%9F%87%B1
