@@ -7,4 +7,3 @@ vless://2ed1ddca-a5cf-41ba-86f1-677501db9d11@1.235c235.abrdns.com:4041?encryptio
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.98.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vgTPwRwzomcTax4QzCIyGdKr7U5-paaH9SL0XfshiVM&security=reality&sid=0c17df97&sni=cors.jarbook.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?encryption=none&type=grpc&mode=gun&serviceName=glush.de3.v1&security=tls&sni=luminexorizon.ink&alpn=h2&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
 vless://667016ca-f02e-4b5f-bfc3-3d8ed81e9bec@base.hosamobenl.co.uk:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=base.hosamobenl.co.uk#%F0%9F%87%A9%F0%9F%87%AA
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=cache.sync.v1&allowInsecure=0&sni=cadrin.wtf#%F0%9F%87%A9%F0%9F%87%AA
