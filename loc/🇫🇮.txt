@@ -3,4 +3,3 @@
 
 vless://e460e79d-5dd9-451d-8d1a-a84c8b70c9a7@fi4.h1cloud.net:25749?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=80aa2br.fi4.h1clayd.click&pbk=nmjOhfpVZtk9W-3GZk5JY0B-OvCFkjP2RvTVBNZO7lE&sid=f6b3841eabafff9a&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
 vless://e569a7c2-d5ba-4b19-a04e-ab2e619c069a@f0f0bet.fi2.h1clayd.click:443?encryption=none&mode=gun&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&serviceName=&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
-vless://e569a7c2-d5ba-4b19-a04e-ab2e619c069a@f0f0bet.fi2.h1clayd.click:443?encryption=none&mode=gun&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&serviceName=&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&type=grpc&fp=ios#%F0%9F%87%AB%F0%9F%87%AE
