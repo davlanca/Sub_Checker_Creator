@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 
 vless://254f28cb-d0c1-41e9-a06b-f2155213ff04@ams2.shtil.io:444?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ams2.shtil.io&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
-vless://15ed8f34-4d31-4ef9-810c-3858ea862c1b@193.233.231.32:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fBCQLpALpiKvwNynMD9PRfHN8fb_SI8iCIAkte0Knlo&security=reality&sid=6b09de272cdc81f4&sni=yandex.lt&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
 vless://441caaf2-aae6-4883-8af9-1e5770395ae8@188.116.27.6:443?packetEncoding=xudp&type=tcp&security=reality&sni=www.sony.co.uk&fp=chrome&pbk=mprwTEsQ9nJ78qG7BJskAWXaVfDxeMHBkQHbReVfMnc&sid=1174&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.185.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R7fjHN3-O-rbrgUhzQFXmiUzjGoyUZwlvCJCL19nQS8&security=reality&sid=9ad6f1fb&sni=house.goonars.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
