@@ -3,5 +3,3 @@
 
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@163.245.42.56:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mother-earth.fyi&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=box.vpvi.store&alpn=http%2F1.1&fp=safari#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=box.vpvi.store&alpn=http%2F1.1&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
