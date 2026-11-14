@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://92783040-4bfb-4f1c-ba21-c06458d8df4c@hkg1.angelsleep9.com:443?security=reality&encryption=none&pbk=A91HOwdYKriuetB8xMyjhK2m6ntHaAA4KNDZaAJVRTQ&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hkg1.angelsleep9.com#%F0%9F%87%AD%F0%9F%87%B0
