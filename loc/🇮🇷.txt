@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?encryption=none&security=tls&type=ws&path=/service/telemetry/0294da469190/&host=nguyxejonb.flowersgood.top&sni=nguyxejonb.flowersgood.top&fp=chrome&alpn=http/1.1#%F0%9F%87%AE%F0%9F%87%B7
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nguyxejonb.flowersgood.top&type=ws&allowInsecure=0&sni=nguyxejonb.flowersgood.top&fp=android#%F0%9F%87%AE%F0%9F%87%B7

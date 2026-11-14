@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://e193931a-bc40-41e3-abc4-467fef7fe957@46.226.166.17:13363?security=reality&sni=it.nvidia.com&fp=firefox&pbk=WKRNa0TE5486P9wI_sVaw1GhGFPTbNLTGtf6DfZ4bCU&sid=93297486&type=grpc&serviceName=&mode=gun#%F0%9F%87%AB%F0%9F%87%B7
