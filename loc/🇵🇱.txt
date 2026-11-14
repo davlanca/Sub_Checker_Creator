@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@79.98.38.24:443?encryption=none&fp=firefox&pbk=tKzo0qk-NJCNnmxmSgP7uGmd9VHKiTG2L-YqXYGj4Dc&security=reality&serviceName=shop.v1.Catalog&sid=203242200f9d16be&sni=api.alder.lalibobi.online&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
 vless://7d718630-7a1a-4af8-9332-aa0610634e8a@api.alder.lalibobi.online:443?type=grpc&headerType=none&security=reality&encryption=none&sni=api.alder.lalibobi.online&fp=firefox&pbk=tKzo0qk-NJCNnmxmSgP7uGmd9VHKiTG2L-YqXYGj4Dc&sid=203242200f9d16be&serviceName=shop.v1.Catalog&mode=gun#%F0%9F%87%B5%F0%9F%87%B1
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&allowInsecure=0&insecure=0&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&alpn=http%2F1.1&fp=ios#%F0%9F%87%B5%F0%9F%87%B1
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@79.98.38.24:443?encryption=none&fp=firefox&pbk=tKzo0qk-NJCNnmxmSgP7uGmd9VHKiTG2L-YqXYGj4Dc&security=reality&serviceName=shop.v1.Catalog&sid=203242200f9d16be&sni=api.alder.lalibobi.online&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&type=ws&path=/service/telemetry/045d381f1166/&host=bhjolq0d0l.flowersgood.top&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
