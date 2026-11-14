@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?security=reality&sni=psstatic.cdn.bcebos.com&fp=safari&flow=xtls-rprx-vision&pbk=1SefqLQXrqkiUdf7cTMF53hrMZyo684_uneRC8-qTxI&sid=8f6683a234d3&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&sni=psstatic.cdn.bcebos.com#%F0%9F%87%B8%F0%9F%87%AC
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?security=reality&sni=psstatic.cdn.bcebos.com&fp=safari&flow=xtls-rprx-vision&pbk=1SefqLQXrqkiUdf7cTMF53hrMZyo684_uneRC8-qTxI&sid=8f6683a234d3&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?security=reality&encryption=none&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=psstatic.cdn.bcebos.com&sid=6a60e7e382d6#%F0%9F%87%B8%F0%9F%87%AC
