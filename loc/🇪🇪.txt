@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://7d718630-7a1a-4af8-9332-aa0610634e8a@95.85.243.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Oc8iFCgfl2hRU3yCf2aaZOxiuK5GLwxct3lYy6sw7nk&security=reality&sni=saar-est3.lalibobi.online&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
