@@ -1,6 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.118.3:443?encryption=none&fp=firefox&security=tls&serviceName=r7Kp4mN9tQ2v&sni=cz-next.mediastvor.cc&type=grpc#%F0%9F%87%A8%F0%9F%87%BF
-vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.118.3:443?security=tls&sni=cz-next.mediastvor.cc&alpn=h2&fp=qq&type=grpc&serviceName=r7Kp4mN9tQ2v#%F0%9F%87%A8%F0%9F%87%BF
-vless://9c36e2b4-db6d-400f-9755-3046b981698b@189.74.118.3:443?type=grpc&security=tls&fp=qq&sni=cz-next.mediastvor.cc&serviceName=r7Kp4mN9tQ2v#%F0%9F%87%A8%F0%9F%87%BF
