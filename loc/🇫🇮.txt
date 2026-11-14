@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 
 vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:443?security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//&headerType=none&fp=chrome&spx=/api/v1/video/init&type=tcp&flow=xtls-rprx-vision&sni=lywd3zccl0w7a4ih.customer.velacdn.com&sid=f3bc3272312b46e9#%F0%9F%87%AB%F0%9F%87%AE
-vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.228.99:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=/api/v1/live&security=tls&sni=5674-4.seenode.app&type=ws#%F0%9F%87%AB%F0%9F%87%AE
 vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:443?flow=xtls-rprx-vision&security=reality&sni=lywd3zccl0w7a4ih.customer.velacdn.com&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9#%F0%9F%87%AB%F0%9F%87%AE
