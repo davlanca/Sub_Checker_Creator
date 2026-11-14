@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.168.217.188:443?security=tls&type=ws&path=%2F&host=d2ex4nxd2e01ub.cloudfront.net&packetEncoding=xudp&alpn=http%2F1.1&sni=d2ex4nxd2e01ub.cloudfront.net&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
