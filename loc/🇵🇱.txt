@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7d718630-7a1a-4af8-9332-aa0610634e8a@31.59.143.23:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=udljvtKYKYz9NOpsEdmvt-IuBJMkQLGeyAohrSeItmY&security=reality&sid=5faef98b08cf055c&sni=tamm.lalibobi.online&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&fp=firefox&encryption=none#%F0%9F%87%B5%F0%9F%87%B1
