@@ -1,0 +1,6 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40503?alpn=h2%2Chttp%2F1.1&security=tls&sni=al.nebulaguard.org&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40501?alpn=http%2F1.1&host=al.nebulaguard.org&path=%2F0cadd58edb%2F&security=tls&sni=al.nebulaguard.org&type=ws&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1
+trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@136.234.33.32:40503?alpn=h2%2Chttp%2F1.1&security=tls&sni=al.nebulaguard.org&fp=ios#%F0%9F%87%A6%F0%9F%87%B1
