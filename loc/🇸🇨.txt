@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@83.171.241.181:443?encryption=none&fp=firefox&host=3b3377x.es5.h1clayd.click&pbk=N4cPAkl5hvo7SchiN_WHEwLBLICAXGtq85BP7S_6ORI&security=reality&sid=dfd8d9d06bd8ce60&sni=3b3377x.es5.h1clayd.click&type=xhttp#%F0%9F%87%B8%F0%9F%87%A8

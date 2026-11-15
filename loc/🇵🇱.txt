@@ -1,8 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@177.3.252.61:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl1.absolute.beer&pbk=hWoXr8IOaVZWINjSddWxpVKzS1DkcKl0QXrgAAY_oy8&sid=a6e5087bd9cd56ed&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
 vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@338817x.pl8.h1clayd.click:443?encryption=none&type=xhttp&security=reality&sni=338817x.pl8.h1clayd.click&pbk=-P7rHFWtKuCHcvH-YxkTtR-9iRpOR8csAh7PsoBulyY&sid=91897e1e8a0373e2&fp=firefox&path=/#%F0%9F%87%B5%F0%9F%87%B1
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@0yw3zvxfyy.hat.autos:8881?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl1.absolute.beer&pbk=hWoXr8IOaVZWINjSddWxpVKzS1DkcKl0QXrgAAY_oy8&sid=a6e5087bd9cd56ed&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@177.3.252.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hWoXr8IOaVZWINjSddWxpVKzS1DkcKl0QXrgAAY_oy8&security=reality&sid=a6e5087bd9cd56ed&sni=pl1.absolute.beer&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@d58daft.plp1.h1cloud.net:443?encryption=none&type=tcp&security=reality&sni=d58daft.plp1.h1cloud.net&pbk=ixnCbdlT5sAVd-ilp2nG11CvnNsBCf9xPD56TlXxlR4&sid=a91531ad58c8611c&fp=chrome&spx=/#%F0%9F%87%B5%F0%9F%87%B1
