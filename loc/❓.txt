@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&security=reality&sid=64c1fe36c7846400&sni=anyfile2file.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@84.32.185.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=R7fjHN3-O-rbrgUhzQFXmiUzjGoyUZwlvCJCL19nQS8&security=reality&sid=9ad6f1fb&sni=house.goonars.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
