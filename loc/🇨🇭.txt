@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#%F0%9F%87%A8%F0%9F%87%AD
-vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?mode=auto&path=%2F&security=reality&encryption=none&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&fp=chrome&type=xhttp&sni=yandex.ru&sid=77#%F0%9F%87%A8%F0%9F%87%AD
+vless://963f72cf-8465-46f5-996c-df45500b57a3@153.52.85.240:443?encryption=none&fp=firefox&pbk=syYaWsZJOf114XAoEcIQodriOW8pyCjP5x_KEq38ozs&security=reality&sid=7ded0da1ef58b7e2&sni=a813d5t.ch5.h1clayd.click&type=tcp#%F0%9F%87%A8%F0%9F%87%AD

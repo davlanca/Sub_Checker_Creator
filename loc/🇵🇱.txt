@@ -1,12 +1,11 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?encryption=none&host=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F&security=tls&sni=speakpro.lol&type=ws&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@speakpro.lol:443?security=tls&type=ws&sni=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@speakpro.lol:443?encryption=none&security=tls&sni=speakpro.lol&type=ws&host=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
 vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@46.243.233.165:59715?security=tls&sni=wn-pl4.static-s3.org&alpn=h2&fp=firefox&type=grpc&serviceName=wn-adaptcloud#%F0%9F%87%B5%F0%9F%87%B1
-vless://7a321b5c-521a-0001-a902-32716218a804@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession#%F0%9F%87%B5%F0%9F%87%B1
 vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
-vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
-vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
-vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
 vless://c85a7342-06c8-0001-a2d4-c62c5fbd7345@176.109.101.18:443?security=tls&sni=qyeep-ru-60sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
+vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
+vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
+vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
+vless://7a321b5c-521a-0001-a902-32716218a804@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession#%F0%9F%87%B5%F0%9F%87%B1
