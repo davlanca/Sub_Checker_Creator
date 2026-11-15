@@ -1,0 +1,8 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&security=reality&sid=91313fc9f7571857&sni=230b29t.es8.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%AA%F0%9F%87%B8
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&security=reality&sid=91313fc9f7571857&sni=230b29t.es8.h1clayd.click&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%B8
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?type=grpc&security=reality&fp=chrome&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&sni=49930ag.es8.h1clayd.click&mode=gun&serviceName=61c20be08f4f&spx=/#%F0%9F%87%AA%F0%9F%87%B8
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?security=reality&type=tcp&sni=230b29t.es8.h1clayd.click&host=230b29t.es8.h1clayd.click&fp=random&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&sid=91313fc9f7571857#%F0%9F%87%AA%F0%9F%87%B8
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@230b29t.es8.h1clayd.click:443?type=tcp&security=reality&fp=firefox&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&sid=91313fc9f7571857&sni=230b29t.es8.h1clayd.click#%F0%9F%87%AA%F0%9F%87%B8
