@@ -5,4 +5,3 @@ vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@129.101.100.219:443?flow=xtls-rprx-
 vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&fp=firefox&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&spx=%2Fa4ab4cc7452faca&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://ed8dda30-5751-4655-acca-4a4066c46e41@ns2.irts.lol:443?security=tls&type=tcp&packetEncoding=xudp&sni=ns2.irts.lol&fp=chrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE
 vless://ed8dda30-5751-4655-acca-4a4066c46e41@ns2.irts.lol:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ns2.irts.lol#%F0%9F%87%AB%F0%9F%87%AE
-vless://b525921f-1902-0001-9b18-34aa847f5b57@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession#%F0%9F%87%AB%F0%9F%87%AE
