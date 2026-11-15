@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?alpn=http/1.1&encryption=none&fp=firefox&host=speakpro.lol&path=/player/collect/9c8514f9552d/&security=tls&sni=uwugirl.dev&type=ws#%F0%9F%87%AE%F0%9F%87%B7
