@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7ciLCJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsInBvcnQiOiI4MCIsImlkIjoiMmJjODBlNzctOTU5MC00ZGVkLWE0OGItMGVkYTQ5M2Y2MTFiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4iLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6Imdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmZvcnRyZXNzaG9zdC5pci4iLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
+vless://cfcec551-255a-9dea-361e-6779db9e2dab@13.140.208.59:443?encryption=none&fp=firefox&host=xray-usnhvg5k-rapid-canyon-9.cloady.io&path=/8405ed7d6e78bd7e&security=tls&sni=xray-usnhvg5k-rapid-canyon-9.cloady.io&type=ws#%F0%9F%87%AB%F0%9F%87%B7
+vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?mode=auto&path=%2F&security=reality&encryption=none&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&fp=chrome&type=xhttp&sni=yandex.ru&sid=77#%F0%9F%87%AB%F0%9F%87%B7
