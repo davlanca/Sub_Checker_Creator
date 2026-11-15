@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@speakpro.lol:443?security=tls&type=ws&sni=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
 vless://555b35c4-30f9-40c6-a61a-7f53ab1bea45@83.141.92.190:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kBTMVLCNE0jjwuJF6H5-65l5Pe0QToS0Hg-9Tmaa7Sk&security=reality&sid=1a2b3c4d&sni=files.porsche.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@speakpro.lol:443?security=tls&type=ws&sni=speakpro.lol&path=%2Fuseraction%2Fmetrics%2F4c907dfe0305%2F&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
