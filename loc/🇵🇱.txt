@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 
 vless://3ecbd833-40d8-4ddb-b80b-a7c4628ec7e5@46.243.233.165:59715?security=tls&sni=wn-pl4.static-s3.org&alpn=h2&fp=firefox&type=grpc&serviceName=wn-adaptcloud#%F0%9F%87%B5%F0%9F%87%B1
-vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
-vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
 vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
 vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
+vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
+vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
 vless://c85a7342-06c8-0001-a2d4-c62c5fbd7345@176.109.101.18:443?security=tls&sni=qyeep-ru-60sb.my-fade.cloud#%F0%9F%87%B5%F0%9F%87%B1
