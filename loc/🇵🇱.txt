@@ -1,12 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://f87e553a-009d-0001-9aa3-4e737a4d0192@84.54.57.122:443?&security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B1
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@338817x.pl8.h1clayd.click:443?encryption=none&type=xhttp&security=reality&sni=338817x.pl8.h1clayd.click&pbk=-P7rHFWtKuCHcvH-YxkTtR-9iRpOR8csAh7PsoBulyY&sid=91897e1e8a0373e2&fp=firefox&path=/#%F0%9F%87%B5%F0%9F%87%B1
 vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@177.3.252.61:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl1.absolute.beer&pbk=hWoXr8IOaVZWINjSddWxpVKzS1DkcKl0QXrgAAY_oy8&sid=a6e5087bd9cd56ed&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
-vless://aea7b0f0-c7bd-0001-a2d9-79683eba69ef@84.54.57.122:443?&security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B1
+vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@338817x.pl8.h1clayd.click:443?encryption=none&type=xhttp&security=reality&sni=338817x.pl8.h1clayd.click&pbk=-P7rHFWtKuCHcvH-YxkTtR-9iRpOR8csAh7PsoBulyY&sid=91897e1e8a0373e2&fp=firefox&path=/#%F0%9F%87%B5%F0%9F%87%B1
 vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@177.3.252.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hWoXr8IOaVZWINjSddWxpVKzS1DkcKl0QXrgAAY_oy8&security=reality&sid=a6e5087bd9cd56ed&sni=pl1.absolute.beer&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@0yw3zvxfyy.hat.autos:8881?encryption=none&type=grpc&security=tls&sni=g-pl1.absolute.beer&alpn=h2&serviceName=lx.sync.v1.Relay&fp=qq#%F0%9F%87%B5%F0%9F%87%B1
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@0yw3zvxfyy.hat.autos:8881?encryption=none&type=grpc&security=tls&sni=g-pl1.absolute.beer&alpn=h2&serviceName=lx.sync.v1.Relay&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://b1144653-40cb-0001-87ff-d12c1299f675@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://b1144653-40cb-0001-87ff-d12c1299f675@185.178.208.167:443?security=tls&sni=api.14887277.xyz&type=ws&host=api.14887277.xyz&path=%2Fsession&fp=android#%F0%9F%87%B5%F0%9F%87%B1

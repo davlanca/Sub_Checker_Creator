@@ -1,11 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?encryption=none&fp=random&mode=gun&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&security=reality&serviceName=cas-us&sid=55a57f74&sni=s3.storage.selcloud.ru&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7giLCJhZGQiOiIzOC45MS4xMDAuMTYiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJ0ZXN0X25hbWUiOiJVUzE3In0
 vless://5cbc4b74-5352-4e64-af65-bcbabf46a18a@172.233.201.244:61635?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=U7t4RFE9MSMtC-o1DoJ8pYzKMfgVpTg6ZhTTknBrVkU&security=reality&sid=1f2519bb96e5589c&sni=www.cloudflare.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?encryption=none&fp=firefox&mode=gun&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&security=reality&serviceName=cas-us&sid=55a57f74&sni=s3.storage.selcloud.ru&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
-vless://b0511969-f769-460b-963b-70c6b84b6967@p11real3.greewebservices.ir:1040?security=reality&type=tcp&sni=play.googleapis.com&fp=chrome&sid=9b60d3&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
 vless://b7ecbf4c-7d74-429a-b998-f1c57e213714@89.125.175.66:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FdZlh9FC4ay9OGnKG6K_iNqhz1I3tWDfNZhxrDYuQl8&security=reality&sid=7da3ba09a037e956&sni=uk-room05.filesnap.tech&type=tcp#%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJhZGQiOiI4NC4xNy40MS4yIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuYW1lIjoi8J+HuvCfh7ggVVMgNTAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjE4MDAwLCJwcyI6IvCfh7rwn4e4Iiwic2N5IjpudWxsLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOm51bGwsInRscyI6IiIsInR5cGUiOm51bGwsInYiOm51bGx9
 vless://b7ecbf4c-7d74-429a-b998-f1c57e213714@89.125.175.30:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=48j01Jsa4o8zfmCGEFoVjn-YeALM80-DSG_-nAZUBDM&security=reality&sid=dbef98744832b751&sni=uk-room07.filesnap.tech&type=tcp#%F0%9F%87%BA%F0%9F%87%B8
