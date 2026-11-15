@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 
 vless://301a34b9-4352-4094-a169-39ad7cd7622c@212.193.10.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k-zB-Tf6HyT7kocUU8UDvFoHxw9r-JTonmYVpe4RT3U&security=reality&sid=a5fe10fba46b8613&sni=fr-212-193-10-79.sslip.io&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@0yw3zvxfyy.hat.autos:8888?encryption=none&type=grpc&security=tls&sni=g-fr1.absolute.beer&alpn=h2&serviceName=lx.sync.v1.Relay&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7
 vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@46.243.232.61:8888?security=tls&sni=g-fr1.absolute.beer&alpn=h2&type=grpc&serviceName=lx.sync.v1.Relay&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
+vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@0yw3zvxfyy.hat.autos:8888?encryption=none&type=grpc&security=tls&sni=g-fr1.absolute.beer&alpn=h2&serviceName=lx.sync.v1.Relay&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
 vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@46.243.232.61:8888?security=tls&sni=g-fr1.absolute.beer&alpn=h2&type=grpc&serviceName=lx.sync.v1.Relay&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7
