@@ -3,4 +3,3 @@
 
 vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@196.245.153.110:443?encryption=none&fp=firefox&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&security=reality&sid=91313fc9f7571857&sni=230b29t.es8.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8
 vless://b082567f-6291-4abf-be72-acdda82d4351@153.56.229.39:443?&security=reality&pbk=cxyrz3HGwHEptrO2fvz6EiikFoEDgTl0SQkrNyj5yRc&sid=74f848c51d8139d1&fp=ios&sni=b6d267t.es10.h1clayd.shop&type=tcp&headerType=none&host=b6d267t.es10.h1clayd.shop&path=%2F#%F0%9F%87%AA%F0%9F%87%B8
-vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@83.171.241.220:443?security=reality&sni=230b29t.es8.h1clayd.click&fp=edge&pbk=JvnTbjxkV9nXKoDRA_tmeY6aeOTnJXSBU3yNp9ZUnH0&sid=91313fc9f7571857#%F0%9F%87%AA%F0%9F%87%B8

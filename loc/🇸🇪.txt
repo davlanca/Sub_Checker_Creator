@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@84.32.154.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get.jarbook.net&fp=ios&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA
 vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@132.243.163.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se1.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@84.32.154.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=get.jarbook.net&fp=ios&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&sid=c6f97313&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA
 vless://632cd343-1e8f-4bf6-a9a2-20ada1f6970f@201.8.64.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se1.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://07df3711-07a1-4649-9a61-3f16cb931d02@132.243.163.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&security=reality&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#%F0%9F%87%B8%F0%9F%87%AA
