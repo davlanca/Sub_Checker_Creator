@@ -1,10 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?encryption=none&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&security=reality&serviceName=cas-us&sid=55a57f74&sni=s3.storage.selcloud.ru&type=grpc&fp=safari#%F0%9F%87%BA%F0%9F%87%B8
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?encryption=none&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&security=reality&serviceName=cas-us&sid=55a57f74&sni=s3.storage.selcloud.ru&type=grpc&fp=random#%F0%9F%87%BA%F0%9F%87%B8
+vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?encryption=none&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&security=reality&serviceName=cas-us&sid=55a57f74&sni=s3.storage.selcloud.ru&type=grpc&fp=safari#%F0%9F%87%BA%F0%9F%87%B8
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.209:23576?security=reality&type=tcp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#%F0%9F%87%BA%F0%9F%87%B8
-vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?encryption=none&flow=xtls-rprx-vision&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&security=reality&sid=c1064ddb&sni=user.betust.net&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?encryption=none&fp=random&mode=gun&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&security=reality&serviceName=cas-us&sid=55a57f74&sni=s3.storage.selcloud.ru&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
+vless://33f3c1ee-f026-4f3f-bed3-8c7c01de8a96@user.betust.net:443?encryption=none&flow=xtls-rprx-vision&pbk=TXP6hQVE4PdXDEdDk2k_5_f92jcOKZ15Fuw14jCJTQg&security=reality&sid=c1064ddb&sni=user.betust.net&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8
 vless://369360e9-ff90-43c3-b81b-ebac420fce73@ws137.mydosss.ccwu.cc:443?fp=chrome&host=ws137.mydosss.ccwu.cc&path=/3b575ddc8596&security=tls&sni=ws137.mydosss.ccwu.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8
 vless://a628c583-24a8-4ce5-98ad-c6458abf1cc4@212.41.8.76:14443?security=reality&sni=s3.storage.selcloud.ru&fp=firefox&pbk=rVt9_jYmjD8R-DjRQrX7uRPJ2803fRXf9quNOqfxJQM&sid=55a57f74&type=grpc&serviceName=cas-us#%F0%9F%87%BA%F0%9F%87%B8
