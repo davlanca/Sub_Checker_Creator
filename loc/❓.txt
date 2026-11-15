@@ -1,7 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://ebd1c0d6-7ff4-4b9f-8692-237517a27a64@tgfree.rush-server.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=anyfile2file.com&fp=chrome&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=64c1fe36c7846400&allowinsecure=0&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyIsImFkZCI6IjEwNC4xOC40Mi4xNjMiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwic25pIjoiZ3VhbndhbmcuYXdzbm8uY29tIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsImhvc3QiOiJndWFud2FuZy5hd3Nuby5jb20ifQ
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?security=reality&encryption=none&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=absolute-disaster.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyIsImFkZCI6IjE4OC4xMTQuOTkuMTM3IiwicG9ydCI6IjQ0MyIsImlkIjoiNmE4OWEyMTUtMjJiZi00YmQ3LTk2NDItYjk1YjJlMDk1ODNhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIn0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyIsImFkZCI6IjE3Mi42NC4xNDUuOTMiLCJwb3J0IjoiNDQzIiwiaWQiOiI2YTg5YTIxNS0yMmJmLTRiZDctOTY0Mi1iOTViMmUwOTU4M2EiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiZ3VhbndhbmcuYXdzbm8uY29tIn0
-vless://474638a5-dc58-4453-9e40-70bcaa4ef74c@196.245.153.112:443?encryption=none&fp=firefox&pbk=RjoTK5x2_y3hb4nsOUnjii7IAu6gy5GrC-VN-H_AIh0&security=reality&sid=c10f4100fa3a8d47&sni=b998f03d.de-p2.h1clayd.click&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://b076877c-0485-0001-b8da-3e58b09b7961@82.202.138.240:443?security=tls&sni=etqtd-ru-41sb.fade.mom#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://b076877c-0485-0001-b8da-3e58b09b7961@82.202.138.240:443?security=tls&fp=chrome&sni=etqtd-ru-41sb.fade.mom#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
