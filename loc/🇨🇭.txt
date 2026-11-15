@@ -3,5 +3,5 @@
 
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#%F0%9F%87%A8%F0%9F%87%AD
 vless://963f72cf-8465-46f5-996c-df45500b57a3@153.52.85.240:443?encryption=none&fp=firefox&pbk=syYaWsZJOf114XAoEcIQodriOW8pyCjP5x_KEq38ozs&security=reality&sid=7ded0da1ef58b7e2&sni=a813d5t.ch5.h1clayd.click&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
-vless://7b3150b4-7581-0001-8131-6f94fe3fd206@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%A8%F0%9F%87%AD
 vless://7b3150b4-7581-0001-8131-6f94fe3fd206@84.54.57.122:443?security=tls&fp=chrome&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%A8%F0%9F%87%AD
+vless://7b3150b4-7581-0001-8131-6f94fe3fd206@84.54.57.122:443?security=tls&sni=minjd-ru-61sb.my-fade.cloud#%F0%9F%87%A8%F0%9F%87%AD
