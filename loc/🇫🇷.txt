@@ -2,6 +2,3 @@
 //profile-update-interval: 1
 
 vless://ce8faf30-b1d6-4a53-95a0-8520dc609db3@85.208.69.43:33055?mode=auto&path=%2F&security=reality&encryption=none&pbk=1rvxGeCvBMccFM2LKGJ4SqezdkMxS4ZZagHR1MGdCgo&fp=chrome&type=xhttp&sni=yandex.ru&sid=77#%F0%9F%87%AB%F0%9F%87%B7
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@0yw3zvxfyy.hat.autos:8888?encryption=none&type=grpc&security=tls&sni=g-fr1.absolute.beer&alpn=h2&serviceName=lx.sync.v1.Relay&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@46.243.232.61:8888?security=tls&sni=g-fr1.absolute.beer&alpn=h2&type=grpc&serviceName=lx.sync.v1.Relay&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
-vless://a31b6d17-1c4a-44e3-9402-ce78f1fb7eb5@46.243.232.61:8888?security=tls&sni=g-fr1.absolute.beer&alpn=h2&type=grpc&serviceName=lx.sync.v1.Relay&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7
