@@ -3,5 +3,3 @@
 
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@129.101.100.219:443?flow=xtls-rprx-vision&security=tls&sni=db-28.topp-con.xyz&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
 vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&fp=firefox&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&spx=%2Fa4ab4cc7452faca&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://52dc9262-08e0-0001-ab7e-83a68e7379c1@176.109.101.18:443?security=tls&fp=chrome&sni=qyeep-ru-60sb.my-fade.cloud#%F0%9F%87%AB%F0%9F%87%AE
-vless://52dc9262-08e0-0001-ab7e-83a68e7379c1@176.109.101.18:443?security=tls&sni=qyeep-ru-60sb.my-fade.cloud#%F0%9F%87%AB%F0%9F%87%AE
