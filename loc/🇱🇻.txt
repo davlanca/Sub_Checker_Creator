@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp&fp=edge#%F0%9F%87%B1%F0%9F%87%BB
 vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=edge#%F0%9F%87%B1%F0%9F%87%BB
 vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%BB
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp&fp=safari#%F0%9F%87%B1%F0%9F%87%BB
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&type=tcp&fp=firefox#%F0%9F%87%B1%F0%9F%87%BB
-vless://c9722094-0f55-4678-96db-3b88953a46da@83.141.68.185:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=d3yQvdpwFHpLkl0ZbTnMH4uihCTKn4CAHy0W6so0VTI&security=reality&sid=7c8e3d4a9b1f26d3&sni=latino.plus-hit.ru&spx=%2F&type=tcp&fp=ios#%F0%9F%87%B1%F0%9F%87%BB
