@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=box.vpvi.store&alpn=http%2F1.1&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA
+vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=box.vpvi.store&fp=ios#%F0%9F%87%AA%F0%9F%87%AA
+vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=box.vpvi.store&alpn=http%2F1.1&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA
