@@ -2292,8 +2292,9 @@ def _run_git(args, timeout=60):
 
 
 def _write_incremental_files(configs):
-    """Write results.json + strict final.txt + final_NoRus.txt from the
-    current FIN_CONF/RESULTS state. Returns True if any RU verdict exists."""
+    """Write results.json + final_all.txt + strict final.txt +
+    final_NoRus.txt from the current FIN_CONF/RESULTS state. Returns True
+    if any RU verdict exists."""
     old_text = None
     old_rows = None
     if os.path.exists(RESULTS_PATH):
@@ -2309,6 +2310,12 @@ def _write_incremental_files(configs):
         # correctly sees "nothing changed" instead of a new timestamp.
         with open(RESULTS_PATH, "w", encoding="utf-8") as f:
             f.write(old_text)
+    # final_all.txt - все живые через прокси (пинг+скорость прошли), без
+    # фильтра по России: то же, что в results.json, но конфигами в строки.
+    # Пишется на каждой публикации, без привязки к RU-вердиктам.
+    with open("final_all.txt", "w", encoding="utf-8") as f:
+        for c in configs:
+            f.write(c.strip() + "\n")
     has_verdicts = any(
         RESULTS.get(result_key(c), {}).get("ru_ok") in (True, False)
         for c in configs)
@@ -2329,7 +2336,8 @@ def _write_incremental_files(configs):
     with open("final_NoRus.txt", "w", encoding="utf-8") as f:
         for c in no_rus:
             f.write(c.strip() + "\n")
-    print(f"Incremental files: final.txt {len(strict)} servers, "
+    print(f"Incremental files: final_all.txt {len(configs)} servers, "
+          f"final.txt {len(strict)} servers, "
           f"final_NoRus.txt {len(no_rus)}.")
     return True
 
@@ -2352,7 +2360,7 @@ def _publish_incremental(force=False):
         if not configs:
             return
         has_verdicts = _write_incremental_files(configs)
-        files = ["results.json"]
+        files = ["results.json", "final_all.txt"]
         if has_verdicts:
             files += [FIN_PATH, "final_b64.txt", "final_NoRus.txt",
                       "normal.txt", RU_CHECK_CACHE_FILE]
@@ -2626,6 +2634,14 @@ if __name__ == "__main__":
         for _c in no_rus:
             _f.write(_c.strip() + "\n")
     print(f"final_NoRus.txt: kept {len(no_rus)} servers alive via proxy but not reachable from Russia.")
+
+    # final_all.txt - все живые через прокси (пинг+скорость прошли), без
+    # фильтра по России: то же, что в results.json, но конфигами в строки.
+    # Пишется ДО строгой обрезки FIN_CONF.
+    with open("final_all.txt", "w", encoding="utf-8") as _f:
+        for _c in FIN_CONF:
+            _f.write(_c.strip() + "\n")
+    print(f"final_all.txt: kept {len(FIN_CONF)} servers alive via proxy (all, regardless of Russia).")
 
     # final.txt - строгий набор: только живые + подтвержденно доступные из России.
     # Непроверенные (ru_ok=None) в final.txt не попадают.
