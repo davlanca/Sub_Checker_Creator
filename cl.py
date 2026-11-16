@@ -27,6 +27,20 @@ import signal
 os.system("chmod +x hy2/hysteria")
 IPDATA_API_KEY = "45d33281a59a93aeb7227414b15038f7a5a591c7e68962aa1c37d159"
 TH_MAX_WORKER=15
+# --- patch: honest check ---
+# Unique loopback IP per test. Old code built "127.0.0.<n>" and wrapped the
+# test index at 100, so tests #1 and #101 shared one IP, one temp file and one
+# process key and killed each other's xray. This maps any n to a valid unique
+# 127/8 address (127.0.<n//250>.<n%250+2>), no wrapping needed.
+def loopback_ip(n: int) -> str:
+    return f"127.0.{n // 250}.{(n % 250) + 2}"
+# Ping timeout (was 5s - too short for a loaded free server doing a Reality handshake)
+PING_TIMEOUT = 10
+# Speed test: 1 MB download through the proxy, minimum usable speed.
+# Servers slower than this feel dead on the phone even if one empty 204 passes.
+SPEED_URL = "https://speed.cloudflare.com/__down?bytes=1048576"
+SPEED_TIMEOUT = 20
+SPEED_MIN_KBPS = 100
 CONF_PATH="config.json"
 with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
@@ -38,6 +52,21 @@ FILE_HEADER_TEXT = """//profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 """
 FIN_CONF=[]
+# --- patch: results.json for the site ---
+# Per-server measurements (ping, speed, RU verdict) so the static site can
+# show real checker data without any backend.
+RESULTS_PATH = "results.json"
+RESULTS = {}  # (protocol, host, port) -> {"ping_ms": int, "speed_kbps": int, "ru_ok": True/False/None}
+RESULTS_LOCK = threading.Lock()
+def result_key(config_str: str):
+    try:
+        proto = config_str.strip().split("://", 1)[0].lower()
+        host, port = extract_host_port(config_str)
+        if host is None or port is None:
+            return None
+        return (proto, host, port)
+    except Exception:
+        return None
 CHECK_LOC=True
 CHECK_IRAN=False
 CHECK_HOST_IRANIAN_NODES = [
@@ -49,6 +78,24 @@ CHECK_HOST_IRANIAN_NODES = [
     "ir7.node.check-host.net",  # Pishgaman / Mahan Cloud (پیشگامان)
     "ir8.node.check-host.net",  # Respina / Pasargad (رسپینا)
 ]
+# --- patch: check-host RU reachability ---
+# The proxy test runs on GitHub Actions (US/EU) and cannot see Russian DPI
+# blocks. This checks, via check-host.net, whether the server IP:port answers
+# a TCP connect from Russian nodes (Moscow + Saint Petersburg). It only
+# filters configs that already passed the proxy + speed test, and it fails
+# OPEN: on any API problem the config is kept, never dropped.
+CHECK_RU = True
+CHECK_HOST_RU_NODES = [
+    "ru2.node.check-host.net",  # Moscow, Russia
+    "ru3.node.check-host.net",  # Saint Petersburg, Russia
+]
+RU_CHECK_CACHE_FILE = "ru_check_cache.json"
+RU_CHECK_CACHE_TTL = 6 * 3600  # re-check a server at most every 6 hours
+RU_CHECK_MAX_NODES = 2  # try nodes in order, stop at the first success
+_ru_check_cache = None
+_ru_check_cache_dirty = False
+_ru_check_rate_limited = False
+
 def remove_empty_strings(input_list):
     return [item for item in input_list if item and item != "\n" ]
 def clear_p(configs_list: list) -> list:
@@ -486,7 +533,7 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
     conifg=urllib.parse.unquote(conifg)
     dict_conf=parse_configs_by_get(conifg)
     print("the cv is"+ str(cv))
-    LOCAL_HOST="127.0.0."+str(cv)
+    LOCAL_HOST = loopback_ip(cv)
     DEFAULT_PORT = 443
     DEFAULT_SECURITY = "auto"
     DEFAULT_LEVEL = 8
@@ -1561,13 +1608,183 @@ def is_ip_accessible_from_iran_via_check_host(ip_to_check_on_checkhost: str,
     else:
         print(f"CH_PROXY: No Iranian node completed the test for {ip_to_check_on_checkhost} without service errors (when accessed via proxy {proxy_display}). Concluding issue with proxy or check-host access.")
         return None
+def _ru_cache_load():
+    global _ru_check_cache
+    if _ru_check_cache is not None:
+        return _ru_check_cache
+    _ru_check_cache = {}
+    try:
+        with open(RU_CHECK_CACHE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            _ru_check_cache = data
+    except Exception:
+        pass
+    return _ru_check_cache
+
+def _ru_cache_save():
+    global _ru_check_cache_dirty
+    if not _ru_check_cache_dirty or _ru_check_cache is None:
+        return
+    try:
+        with open(RU_CHECK_CACHE_FILE, "w", encoding="utf-8") as f:
+            json.dump(_ru_check_cache, f, ensure_ascii=False)
+        _ru_check_cache_dirty = False
+    except Exception as e:
+        print(f"RU check cache save failed: {e}")
+
+def extract_host_port(config_str: str):
+    """Return (host, port) of a proxy link, or (None, None) if unparsable."""
+    try:
+        cs = config_str.strip()
+        if cs.startswith("vmess://"):
+            enc = cs.split("://", 1)[1].split("#", 1)[0]
+            enc += '=' * ((4 - len(enc) % 4) % 4)
+            data = json.loads(base64.b64decode(enc))
+            return str(data.get("add", "")), int(data.get("port", 0))
+        main = cs.split("#", 1)[0].split("?", 1)[0]
+        if "@" not in main:
+            return None, None
+        hostport = main.rsplit("@", 1)[1]
+        if ":" not in hostport:
+            return None, None
+        host, port = hostport.rsplit(":", 1)
+        return host, int(port)
+    except Exception:
+        return None, None
+
+def is_host_port_accessible_from_ru(host: str, port: int):
+    """TCP-connect check of host:port from Russian check-host.net nodes.
+    Returns True (reachable), False (blocked on every tried node),
+    None (inconclusive / rate limited - caller must keep the config)."""
+    global _ru_check_cache_dirty, _ru_check_rate_limited
+    if _ru_check_rate_limited:
+        return None
+    if not host or not port:
+        return None
+    cache = _ru_cache_load()
+    key = f"{host}:{port}"
+    entry = cache.get(key)
+    if isinstance(entry, dict) and entry.get("ok") in (True, False):
+        if time.time() - float(entry.get("ts", 0)) < RU_CHECK_CACHE_TTL:
+            print(f"  RU check cache hit {key}: {'OK' if entry['ok'] else 'BLOCKED'}")
+            return entry["ok"]
+    headers = {"Accept": "application/json", "User-Agent": "SubChecker/1.0"}
+    checked_any_node = False
+    for node in CHECK_HOST_RU_NODES[:RU_CHECK_MAX_NODES]:
+        try:
+            init_url = (f"https://check-host.net/check-tcp?host={host}&port={port}"
+                        f"&node={node}&max_nodes=1")
+            r = requests.get(init_url, headers=headers, timeout=10)
+            if r.status_code == 429:
+                print(f"  RU check: rate limited by check-host.net, skipping remaining RU checks this run.")
+                _ru_check_rate_limited = True
+                return None
+            r.raise_for_status()
+            data = r.json()
+            if data.get("ok") != 1:
+                print(f"  RU check init error for {key} ({node}): {data.get('error')}")
+                continue
+            request_id = data.get("request_id")
+            if not request_id:
+                continue
+            result_url = f"https://check-host.net/check-result/{request_id}"
+            deadline = time.time() + 20
+            node_done = False
+            while time.time() < deadline:
+                time.sleep(2)
+                try:
+                    rr = requests.get(result_url, headers=headers, timeout=5)
+                    if rr.status_code == 429:
+                        print(f"  RU check: rate limited while polling, skipping remaining RU checks this run.")
+                        _ru_check_rate_limited = True
+                        return None
+                    rr.raise_for_status()
+                    res = rr.json()
+                except requests.exceptions.RequestException:
+                    continue
+                if not res:
+                    continue
+                lst = res.get(node)
+                if lst is None:
+                    continue
+                checked_any_node = True
+                node_done = True
+                if isinstance(lst, list) and lst and isinstance(lst[0], dict):
+                    if "time" in lst[0]:
+                        print(f"  RU check: {key} REACHABLE from Russia via {node} ({lst[0].get('time')}s).")
+                        cache[key] = {"ok": True, "ts": time.time()}
+                        _ru_check_cache_dirty = True
+                        return True
+                    if "error" in lst[0]:
+                        print(f"  RU check: {key} failed via {node}: {lst[0].get('error')}")
+                        break
+                break
+            if node_done:
+                continue
+        except requests.exceptions.RequestException as e:
+            print(f"  RU check request error for {key} ({node}): {e}")
+            continue
+        except Exception as e:
+            print(f"  RU check error for {key} ({node}): {e}")
+            continue
+        time.sleep(0.5)
+    if checked_any_node:
+        print(f"  RU check: {key} BLOCKED from Russia (all tried nodes failed).")
+        cache[key] = {"ok": False, "ts": time.time()}
+        _ru_check_cache_dirty = True
+        return False
+    print(f"  RU check: {key} inconclusive, keeping.")
+    return None
+
+def filter_configs_by_ru_check(configs: list) -> list:
+    """Drop configs whose server does not answer TCP from Russia.
+    Runs sequentially over unique (host, port) pairs, with a 6h cache,
+    so a 15-minute run only checks servers it has not seen recently."""
+    if not CHECK_RU:
+        return configs
+    by_server = {}
+    for c in configs:
+        host, port = extract_host_port(c)
+        if host is None or port is None:
+            continue
+        by_server.setdefault((host, port), []).append(c)
+    print(f"RU check: {len(by_server)} unique servers to verify from Russia...")
+    blocked = set()
+    ru_verdict = {}
+    for (host, port) in by_server:
+        _v = is_host_port_accessible_from_ru(host, port)
+        ru_verdict[(host, port)] = _v
+        if _v is False:
+            blocked.add((host, port))
+    with RESULTS_LOCK:
+        for _c in configs:
+            _rk = result_key(_c)
+            if _rk is not None and _rk in RESULTS:
+                RESULTS[_rk]["ru_ok"] = ru_verdict.get((_rk[1], _rk[2]))
+    _ru_cache_save()
+    if not blocked:
+        print("RU check: nothing blocked, keeping all.")
+        return configs
+    kept = []
+    dropped = 0
+    for c in configs:
+        host, port = extract_host_port(c)
+        if (host, port) in blocked:
+            dropped += 1
+            print(f"  DROPPED RU-blocked: {c.strip()[:60]}")
+        else:
+            kept.append(c)
+    print(f"RU check: dropped {dropped} configs blocked from Russia, kept {len(kept)}.")
+    return kept
+
 def get_public_ipv4(t, port) -> Optional[str]:
     urls = [
         "http://v4.ipv6-test.com/api/myip.php",
         "https://api.ipify.org",
         "https://icanhazip.com"
     ]
-    proxy_host = f"127.0.0.{t}"
+    proxy_host = loopback_ip(t)
     proxies = {"http": f"http://{proxy_host}:{port}", "https": f"http://{proxy_host}:{port}"}
     headers = {"Connection": "close", "User-Agent": "Mozilla/5.0"}
     for url in urls:
@@ -1793,9 +2010,6 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
     global FIN_CONF
     print(f"Testing config #{t}: {i.strip()[:60]}...") # لاگ بهتر برای دنبال کردن
     
-    while t > 100:
-        t -= 100
-        
     path_test_file = f"xray/config_test_ping{t}.json"
     hy2_path_test_file = f"hy2/config{t}.yaml"
     
@@ -1825,8 +2039,8 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
             os.remove(hy2_path_test_file)
 
         proxies = {
-            "http": f"http://127.0.0.{t+2}:{port}",
-            "https": f"http://127.0.0.{t+2}:{port}"
+            "http": f"http://{loopback_ip(t + 2)}:{port}",
+            "https": f"http://{loopback_ip(t + 2)}:{port}"
         }
 
         @retry(stop_max_attempt_number=3, wait_fixed=500, retry_on_exception=lambda x: isinstance(x, Exception))
@@ -1835,7 +2049,7 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
                 url = test_link_
                 headers = {"Connection": "close"}
                 start = time.time()
-                response = requests.get(url, proxies=proxies, timeout=5, headers=headers)
+                response = requests.get(url, proxies=proxies, timeout=PING_TIMEOUT, headers=headers)
                 elapsed = (time.time() - start) * 1000
                 if response.status_code == 204 or (response.status_code == 200 and len(response.content) == 0):
                     return f"{int(elapsed)}"
@@ -1843,7 +2057,7 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
                     raise IOError(f"Connection test error, status code: {response.status_code}")
             except RequestException as e:
                 print(f"Ping failed for config #{t}: {e}")
-                return "-1"
+                raise  # let @retry retry instead of giving up on the first transient failure
 
         result = "-1"
         try:
@@ -1854,6 +2068,28 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
 
         if result != "-1":
             print(f"SUCCESS: Config #{t} is alive with ping {result}ms.")
+            # Speed test: one empty 204 does not prove the server can carry traffic.
+            try:
+                _t0 = time.time()
+                _r = requests.get(SPEED_URL, proxies=proxies, timeout=SPEED_TIMEOUT, stream=True, headers={"Connection": "close"})
+                _total = 0
+                for _chunk in _r.iter_content(chunk_size=65536):
+                    _total += len(_chunk)
+                _dt = time.time() - _t0
+                _kbps = (_total / 1024) / _dt if _dt > 0 else 0
+                print(f"Speed for config #{t}: {_kbps:.0f} KB/s ({_total} bytes in {_dt:.1f}s).")
+                if _kbps < SPEED_MIN_KBPS:
+                    print(f"TOO SLOW: Config #{t} is below {SPEED_MIN_KBPS} KB/s, dropping.")
+                    result = "-1"
+            except Exception as _e:
+                print(f"Speed test failed for config #{t}: {_e}, dropping.")
+                result = "-1"
+        if result != "-1":
+            _rk = result_key(i)
+            if _rk is not None:
+                with RESULTS_LOCK:
+                    RESULTS.setdefault(_rk, {}).update({"ping_ms": int(result), "speed_kbps": int(_kbps)})
+        if result != "-1":
             if CHECK_LOC:
                 public_ip = get_public_ipv4(t + 2, port)
                 if CHECK_IRAN:
@@ -1969,6 +2205,48 @@ def country_code_to_emoji(code: str) -> str:
 # ==============================================================================
 # تابع save_sorted_configs (نسخه نهایی، اصلاح‌شده و ضد خطا)
 # ==============================================================================
+def save_results_json(configs: list):
+    """Write results.json for the static site: one row per server with the
+    real measurements from this run (ping, speed, RU verdict)."""
+    import datetime
+    rows = []
+    seen = set()
+    for c in configs:
+        rk = result_key(c)
+        if rk is None or rk in seen:
+            continue
+        seen.add(rk)
+        m = RESULTS.get(rk, {})
+        proto, host, port = rk
+        tag = ""
+        try:
+            if c.strip().startswith("vmess://"):
+                enc = c.strip().split("://", 1)[1]
+                enc += '=' * ((4 - len(enc) % 4) % 4)
+                tag = json.loads(base64.b64decode(enc)).get("ps", "")
+            else:
+                tag = urllib.parse.unquote(c.strip().split("#", 1)[1]) if "#" in c else ""
+        except Exception:
+            tag = ""
+        rows.append({
+            "protocol": proto,
+            "host": host,
+            "port": port,
+            "tag": tag,
+            "ping_ms": m.get("ping_ms"),
+            "speed_kbps": m.get("speed_kbps"),
+            "ru_ok": m.get("ru_ok"),
+            "config": c.strip(),
+        })
+    payload = {
+        "generated_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+        "count": len(rows),
+        "results": rows,
+    }
+    with open(RESULTS_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    print(f"results.json written: {len(rows)} servers.")
+
 def save_sorted_configs(configs: list):
     """
     کانفیگ‌ها را بر اساس پروتکل و موقعیت (ایموجی) تفکیک کرده و ذخیره می‌کند.
@@ -2105,6 +2383,12 @@ if __name__ == "__main__":
 
     # مرحله ۲: اجرای فرآیند اصلی تست (که از normal.txt می‌خواند)
     ping_all()
+
+    # مرحله ۲.۵: отсечь серверы, не отвечающие из России (check-host.net, RU ноды)
+    FIN_CONF[:] = filter_configs_by_ru_check(FIN_CONF)
+
+    # مرحله ۲.۷: results.json для сайта (пинг, скорость, RU-вердикт)
+    save_results_json(FIN_CONF)
 
     # مرحله ۳: ذخیره نتایج نهایی به صورت مرتب‌شده
     save_sorted_configs(FIN_CONF)
