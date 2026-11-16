@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://71327a90-b9c4-4385-b850-4d3c5832d9cc@91.213.186.45:38521?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=5Uk63lFOn1Z3gmImXWrXbvQ0b9gXTOiY_VWuI898Vmk&fp=firefox&type=tcp&sni=www.paypal.com#%F0%9F%87%B8%F0%9F%87%AC
