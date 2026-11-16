@@ -34,8 +34,11 @@ TH_MAX_WORKER=15
 # 127/8 address (127.0.<n//250>.<n%250+2>), no wrapping needed.
 def loopback_ip(n: int) -> str:
     return f"127.0.{n // 250}.{(n % 250) + 2}"
-# Ping timeout (was 5s - too short for a loaded free server doing a Reality handshake)
-PING_TIMEOUT = 10
+# Connection-style ping (like v2box "Connection"): a full HTTP roundtrip
+# through the proxy to Google, not just an empty 204. A server whose
+# outbound to Google is dead or crawling fails here even if a 204 passes.
+PING_URL = "https://www.google.com/"
+PING_TIMEOUT = 8
 # Speed test: 1 MB download through the proxy, minimum usable speed.
 # Servers slower than this feel dead on the phone even if one empty 204 passes.
 SPEED_URL = "https://speed.cloudflare.com/__down?bytes=1048576"
@@ -100,6 +103,7 @@ def remove_empty_strings(input_list):
     return [item for item in input_list if item and item != "\n" ]
 def clear_p(configs_list: list) -> list:
     unique_configs = {}
+    seen_hosts = set()
     for config_line in configs_list:
         config_line = config_line.strip()
         if not config_line:
@@ -118,6 +122,20 @@ def clear_p(configs_list: list) -> list:
                 unique_key = config_line
         else:
             unique_key = config_line.split('#', 1)[0]
+        # One config per server: the lists pad one host with dozens of
+        # near-identical links (same UUID, same Reality keys, different
+        # query params). Keep the first config per (protocol, host, port);
+        # the rest only clutter final.txt and v2box.
+        try:
+            _scheme = config_line.split("://", 1)[0].lower()
+            _host, _port = extract_host_port(config_line)
+        except Exception:
+            _host, _port = None, None
+        if _host and _port:
+            _host_key = (_scheme, _host, _port)
+            if _host_key in seen_hosts:
+                continue
+            seen_hosts.add(_host_key)
         if unique_key not in unique_configs:
             unique_configs[unique_key] = config_line
     final_list = [f"{config}\n" for config in unique_configs.values()]
@@ -2067,12 +2085,14 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
         @retry(stop_max_attempt_number=3, wait_fixed=500, retry_on_exception=lambda x: isinstance(x, Exception))
         def pingg():
             try:
-                url = test_link_
+                url = PING_URL
                 headers = {"Connection": "close"}
                 start = time.time()
                 response = requests.get(url, proxies=proxies, timeout=PING_TIMEOUT, headers=headers)
                 elapsed = (time.time() - start) * 1000
-                if response.status_code == 204 or (response.status_code == 200 and len(response.content) == 0):
+                # Full page counts: 200 with a body is the expected success
+                # for a Google homepage roundtrip (204 is kept for safety).
+                if response.status_code in (200, 204):
                     return f"{int(elapsed)}"
                 else:
                     raise IOError(f"Connection test error, status code: {response.status_code}")
