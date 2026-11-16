@@ -2460,6 +2460,15 @@ if __name__ == "__main__":
     # مرحله ۲.۷: results.json для сайта (пинг, скорость, RU-вердикт)
     save_results_json(FIN_CONF)
 
+    # final_NoRus.txt - живые через прокси (пинг+скорость прошли), но НЕ
+    # доступные из России (ru_ok is False). Пишется ДО строгой обрезки
+    # FIN_CONF. Непроверенные (ru_ok=None) никуда не попадают.
+    no_rus = [c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is False]
+    with open("final_NoRus.txt", "w", encoding="utf-8") as _f:
+        for _c in no_rus:
+            _f.write(_c.strip() + "\n")
+    print(f"final_NoRus.txt: kept {len(no_rus)} servers alive via proxy but not reachable from Russia.")
+
     # final.txt - строгий набор: только живые + подтвержденно доступные из России.
     # Непроверенные (ru_ok=None) в final.txt не попадают.
     ru_states = [m.get("ru_ok") for m in RESULTS.values()]
