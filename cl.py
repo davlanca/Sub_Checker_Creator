@@ -115,6 +115,11 @@ def clear_p(configs_list: list) -> list:
         config_line = config_line.strip()
         if not config_line:
             continue
+        # Comment/header lines from the subscription lists (e.g. the
+        # igareck "# profile-title:" line) are not configs; without this
+        # they get "tested" against a proxy that never starts.
+        if config_line.startswith("#") or config_line.startswith("//"):
+            continue
         unique_key = None
         if config_line.startswith("vmess://"):
             try:
@@ -1171,6 +1176,11 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
         else:
             return d
     ID,ADDRESS,PORT,SECURITY,ALPN,FP,SNI,SPX,HEADER_TYPE,ENCRYPTION,TYPE,MODE,FLOW,ALTERID,R_HOST,PATH,SCY,PASS,SID,METHOD,OBFS_PASSWORD,INSECURE,PORTHOPINGINTERVAL,PINSHA256,OBFS,USER,WNOISE,WNOISECOUNT,WNOISEDELAY,WPAYLOADSIZE,KEEPALIVE,MTU,ENDPOINT,RESERVED,PBK,SECERKEY,REMARKS,protocol_c=(dict_conf.id, dict_conf.address,dict_conf.port,dict_conf.security,dict_conf.alpn,dict_conf.fp,dict_conf.sni,dict_conf.spx,dict_conf.header_type,dict_conf.encryption,dict_conf.type,dict_conf.mode,dict_conf.flow,dict_conf.alter_id,dict_conf.host,dict_conf.path,dict_conf.scy,dict_conf.ss_password,dict_conf.sid,dict_conf.ss_method,dict_conf.hy2_obfs_password,dict_conf.hy2_insecure,dict_conf.hy2_hop_interval,dict_conf.hy2_pinsha256,dict_conf.hy2_obfs,dict_conf.socks_user,dict_conf.wnoise,dict_conf.wnoisecount,dict_conf.wnoisedelay,dict_conf.wpayloadsize,dict_conf.wg_keep_alive,dict_conf.wg_mtu,dict_conf.address,dict_conf.wg_reserved,dict_conf.pbk,dict_conf.wg_secret_key,dict_conf.tag,dict_conf.protocol)
+    # VLESS type=raw is plain TCP (no transport); the stream builder below
+    # has no "raw" branch, so without this the config dies with
+    # UnboundLocalError on outboundBean_Stream_tcp and is never tested.
+    if TYPE == "raw":
+        TYPE = "tcp"
     if SECURITY=="none":
             SECURITY=""
     if INSECURE=="0": INSECURE=False
@@ -1827,7 +1837,6 @@ def filter_configs_by_ru_check(configs: list, drop_blocked=True) -> list:
 
 def get_public_ipv4(t, port) -> Optional[str]:
     urls = [
-        "http://v4.ipv6-test.com/api/myip.php",
         "https://api.ipify.org",
         "https://icanhazip.com"
     ]
