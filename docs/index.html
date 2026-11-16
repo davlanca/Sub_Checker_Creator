@@ -157,7 +157,10 @@ function parseLinks(text) {
       }
     } catch (e) { continue; }
     if (!host || !port || port < 1 || port > 65535) continue;
-    const k = proto + "://" + host + ":" + port;
+    // Один хост - не один сервер: разные UUID/пути/SNI на том же host:port
+    // это разные конфиги, и в v2box они ведут себя по-разному. Поэтому
+    // схлопываем только точные дубли (без учета имени после #).
+    const k = line.split("#")[0];
     if (seen.has(k)) continue;
     seen.add(k);
     out.push({ protocol: proto || "unknown", host, port, tag: "", ping_ms: null, speed_kbps: null, ru_ok: null, config: line });
@@ -335,12 +338,16 @@ async function runPhoneCheck() {
   let done = 0;
   setProgress(0, total);
   log("Старт проверки с телефона: " + total + " серверов, таймаут " + (PHONE_TIMEOUT_MS / 1000) + " с.");
+  const probeCache = {};
   let idx = 0;
   async function worker() {
     while (idx < list.length) {
       const s = list[idx++];
-      const r = await probeOne(s);
-      phoneResults[keyOf(s)] = r;
+      const k = keyOf(s);
+      // Один хост:порт проверяем один раз, вердикт общий для всех его конфигов.
+      if (!probeCache[k]) probeCache[k] = probeOne(s);
+      const r = await probeCache[k];
+      phoneResults[k] = r;
       done++;
       setProgress(done, total);
       if (done % 10 === 0 || done === total) renderTable();
