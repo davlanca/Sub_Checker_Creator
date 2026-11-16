@@ -65,8 +65,8 @@
 
   <div class="card">
     <h3 style="margin:0 0 6px">Своя подписка (необязательно)</h3>
-    <p>Если хочешь проверить не список из репозитория, а свою подписку - вставь ее сюда (ссылки vless/vmess/trojan/ss или просто host:port, каждая с новой строки). Проверка с телефона пойдет по ней.</p>
-    <textarea id="customSub" placeholder="vless://...&#10;178.172.227.228:10444"></textarea>
+    <p>Если хочешь проверить не список из репозитория, а свою подписку - вставь ее сюда: ссылку на файл подписки (https://...), сами ссылки vless/vmess/trojan/ss или просто host:port, каждая с новой строки. Проверка с телефона пойдет по ней.</p>
+    <textarea id="customSub" placeholder="https://raw.githubusercontent.com/.../list.txt&#10;vless://...&#10;178.172.227.228:10444"></textarea>
   </div>
 
   <div class="card">
@@ -283,12 +283,45 @@ function setProgress(done, total) {
   $("progress").textContent = "Готово " + done + " из " + total + ", " + pct + "%";
 }
 
+// Если вставлен base64-текст подписки (один blob без ссылок) - декодируем его.
+function maybeB64(text) {
+  const t = text.trim();
+  if (t.includes("://")) return text;
+  try {
+    let b = t.replace(/\s+/g, "").replace(/-/g, "+").replace(/_/g, "/");
+    while (b.length % 4) b += "=";
+    const dec = atob(b);
+    if (dec.includes("://")) return dec;
+  } catch (e) { /* не base64 */ }
+  return text;
+}
+
+// В поле "Своя подписка" может быть ссылка на файл подписки, сам текст
+// подписки или base64-blob. Ссылку скачиваем (нужен CORS на стороне хоста,
+// у raw.githubusercontent.com он есть) и парсим скачанное.
+async function resolveCustomInput(text) {
+  const t = text.trim();
+  if (/^https?:\/\/\S+$/i.test(t)) {
+    log("Скачиваю подписку по ссылке...");
+    try {
+      const r = await fetch(t + (t.includes("?") ? "&" : "?") + "t=" + Date.now());
+      if (!r.ok) { log("Ссылка ответила " + r.status + ". Проверь адрес."); return []; }
+      const body = await r.text();
+      return parseLinks(maybeB64(body));
+    } catch (e) {
+      log("Не удалось скачать подписку: " + e.message + ". Хост должен разрешать запросы из браузера (CORS).");
+      return [];
+    }
+  }
+  return parseLinks(maybeB64(t));
+}
+
 async function runPhoneCheck() {
   const custom = $("customSub").value.trim();
   let list = servers;
   if (custom) {
-    list = parseLinks(custom);
-    if (!list.length) { log("В своей подписке ничего не распознано. Проверь формат."); return; }
+    list = await resolveCustomInput(custom);
+    if (!list.length) { log("В своей подписке ничего не распознано. Проверь формат или ссылку."); return; }
     log("Проверяю свою подписку: " + list.length + " серверов.");
   } else if (!servers.length) {
     log("Нет списка серверов. Сначала загрузи данные.");
