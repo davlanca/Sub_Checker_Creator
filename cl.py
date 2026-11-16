@@ -1653,6 +1653,36 @@ def extract_host_port(config_str: str):
     except Exception:
         return None, None
 
+def _ru_fetch_json(url, headers, timeout):
+    """GET JSON from check-host.net with one retry on 429 / bad body.
+    Returns (data, rate_limited). data is None on failure."""
+    for attempt in (1, 2):
+        try:
+            r = requests.get(url, headers=headers, timeout=timeout)
+        except requests.exceptions.RequestException as e:
+            print(f"  RU check request error: {e}")
+            return None, False
+        if r.status_code == 429:
+            if attempt == 1:
+                print("  RU check: rate limited (429), waiting 30s and retrying once...")
+                time.sleep(30)
+                continue
+            print("  RU check: still rate limited, skipping remaining RU checks this run.")
+            return None, True
+        try:
+            r.raise_for_status()
+            return r.json(), False
+        except Exception as e:
+            # HTML challenge page or other non-JSON body: retry once.
+            if attempt == 1:
+                print(f"  RU check: bad response ({e}), retrying once...")
+                time.sleep(2)
+                continue
+            print(f"  RU check: bad response, giving up on this check: {e}")
+            return None, False
+    return None, False
+
+
 def is_host_port_accessible_from_ru(host: str, port: int):
     """TCP-connect check of host:port from Russian check-host.net nodes.
     Returns True (reachable), False (blocked on every tried node),
@@ -1669,64 +1699,49 @@ def is_host_port_accessible_from_ru(host: str, port: int):
         if time.time() - float(entry.get("ts", 0)) < RU_CHECK_CACHE_TTL:
             print(f"  RU check cache hit {key}: {'OK' if entry['ok'] else 'BLOCKED'}")
             return entry["ok"]
-    headers = {"Accept": "application/json", "User-Agent": "SubChecker/1.0"}
+    headers = {"Accept": "application/json",
+               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
     checked_any_node = False
     for node in CHECK_HOST_RU_NODES[:RU_CHECK_MAX_NODES]:
-        try:
-            init_url = (f"https://check-host.net/check-tcp?host={host}&port={port}"
-                        f"&node={node}&max_nodes=1")
-            r = requests.get(init_url, headers=headers, timeout=10)
-            if r.status_code == 429:
-                print(f"  RU check: rate limited by check-host.net, skipping remaining RU checks this run.")
+        init_url = (f"https://check-host.net/check-tcp?host={host}&port={port}"
+                    f"&node={node}&max_nodes=1")
+        data, limited = _ru_fetch_json(init_url, headers, 10)
+        if limited:
+            _ru_check_rate_limited = True
+            return None
+        if not data or data.get("ok") != 1:
+            print(f"  RU check init error for {key} ({node}): {(data or {}).get('error')}")
+            continue
+        request_id = data.get("request_id")
+        if not request_id:
+            continue
+        result_url = f"https://check-host.net/check-result/{request_id}"
+        deadline = time.time() + 20
+        node_done = False
+        while time.time() < deadline:
+            time.sleep(2)
+            res, limited = _ru_fetch_json(result_url, headers, 5)
+            if limited:
                 _ru_check_rate_limited = True
                 return None
-            r.raise_for_status()
-            data = r.json()
-            if data.get("ok") != 1:
-                print(f"  RU check init error for {key} ({node}): {data.get('error')}")
+            if not res:
                 continue
-            request_id = data.get("request_id")
-            if not request_id:
+            lst = res.get(node)
+            if lst is None:
                 continue
-            result_url = f"https://check-host.net/check-result/{request_id}"
-            deadline = time.time() + 20
-            node_done = False
-            while time.time() < deadline:
-                time.sleep(2)
-                try:
-                    rr = requests.get(result_url, headers=headers, timeout=5)
-                    if rr.status_code == 429:
-                        print(f"  RU check: rate limited while polling, skipping remaining RU checks this run.")
-                        _ru_check_rate_limited = True
-                        return None
-                    rr.raise_for_status()
-                    res = rr.json()
-                except requests.exceptions.RequestException:
-                    continue
-                if not res:
-                    continue
-                lst = res.get(node)
-                if lst is None:
-                    continue
-                checked_any_node = True
-                node_done = True
-                if isinstance(lst, list) and lst and isinstance(lst[0], dict):
-                    if "time" in lst[0]:
-                        print(f"  RU check: {key} REACHABLE from Russia via {node} ({lst[0].get('time')}s).")
-                        cache[key] = {"ok": True, "ts": time.time()}
-                        _ru_check_cache_dirty = True
-                        return True
-                    if "error" in lst[0]:
-                        print(f"  RU check: {key} failed via {node}: {lst[0].get('error')}")
-                        break
-                break
-            if node_done:
-                continue
-        except requests.exceptions.RequestException as e:
-            print(f"  RU check request error for {key} ({node}): {e}")
-            continue
-        except Exception as e:
-            print(f"  RU check error for {key} ({node}): {e}")
+            checked_any_node = True
+            node_done = True
+            if isinstance(lst, list) and lst and isinstance(lst[0], dict):
+                if "time" in lst[0]:
+                    print(f"  RU check: {key} REACHABLE from Russia via {node} ({lst[0].get('time')}s).")
+                    cache[key] = {"ok": True, "ts": time.time()}
+                    _ru_check_cache_dirty = True
+                    return True
+                if "error" in lst[0]:
+                    print(f"  RU check: {key} failed via {node}: {lst[0].get('error')}")
+                    break
+            break
+        if node_done:
             continue
         time.sleep(0.5)
     if checked_any_node:
@@ -1736,8 +1751,7 @@ def is_host_port_accessible_from_ru(host: str, port: int):
         return False
     print(f"  RU check: {key} inconclusive, keeping.")
     return None
-
-def filter_configs_by_ru_check(configs: list) -> list:
+def filter_configs_by_ru_check(configs: list, drop_blocked=True) -> list:
     """Drop configs whose server does not answer TCP from Russia.
     Runs sequentially over unique (host, port) pairs, with a 6h cache,
     so a 15-minute run only checks servers it has not seen recently."""
@@ -1757,6 +1771,10 @@ def filter_configs_by_ru_check(configs: list) -> list:
         ru_verdict[(host, port)] = _v
         if _v is False:
             blocked.add((host, port))
+        if _ru_check_rate_limited:
+            print("RU check: stopped early (rate limited), the rest stay unverified.")
+            break
+        time.sleep(1)
     with RESULTS_LOCK:
         for _c in configs:
             _rk = result_key(_c)
@@ -1765,6 +1783,9 @@ def filter_configs_by_ru_check(configs: list) -> list:
     _ru_cache_save()
     if not blocked:
         print("RU check: nothing blocked, keeping all.")
+        return configs
+    if not drop_blocked:
+        print(f"RU check: {len(blocked)} blocked from Russia, kept in results with verdicts.")
         return configs
     kept = []
     dropped = 0
@@ -2205,7 +2226,7 @@ def country_code_to_emoji(code: str) -> str:
 # ==============================================================================
 # تابع save_sorted_configs (نسخه نهایی، اصلاح‌شده و ضد خطا)
 # ==============================================================================
-def save_results_json(configs: list):
+def save_results_json(configs: list, path=None):
     """Write results.json for the static site: one row per server with the
     real measurements from this run (ping, speed, RU verdict)."""
     import datetime
@@ -2243,9 +2264,10 @@ def save_results_json(configs: list):
         "count": len(rows),
         "results": rows,
     }
-    with open(RESULTS_PATH, "w", encoding="utf-8") as f:
+    out_path = path or RESULTS_PATH
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-    print(f"results.json written: {len(rows)} servers.")
+    print(f"{out_path} written: {len(rows)} servers.")
 
 def save_sorted_configs(configs: list):
     """
@@ -2356,8 +2378,19 @@ def save_sorted_configs(configs: list):
 # بخش اصلی اجرای اسکریپت (بازگشته به حالت استفاده از normal.txt)
 # ==============================================================================
 if __name__ == "__main__":
+    # Custom run (GitHub dispatch with a subscription URL): test only that
+    # list and write custom_results.json, without touching final.txt.
+    CUSTOM_URL = os.environ.get("CUSTOM_URL", "").strip()
+    CUSTOM_OUT = os.environ.get("CUSTOM_OUT", "custom_results.json").strip() or "custom_results.json"
     # مرحله ۱: دریافت تمام کانفیگ‌ها از لینک‌ها و نوشتن در normal.txt
     TEXT_PATH = "normal.txt"
+    if CUSTOM_URL:
+        if not CUSTOM_URL.lower().startswith(("http://", "https://")):
+            print(f"!!! CUSTOM_URL is not http(s), aborting custom run: {CUSTOM_URL}")
+            save_results_json([], CUSTOM_OUT)
+            process_manager.stop_all()
+            sys.exit()
+        LINK_PATH = [CUSTOM_URL]
     if LINK_PATH:
         print(f"Fetching from {len(LINK_PATH)} link(s) and writing to {TEXT_PATH}...")
         headers = {
@@ -2383,12 +2416,31 @@ if __name__ == "__main__":
 
     # مرحله ۲: اجرای فرآیند اصلی تست (که از normal.txt می‌خواند)
     ping_all()
+    if CUSTOM_URL:
+        # Custom run: record RU verdicts but keep blocked servers in the
+        # results (the site shows them as blocked), and never touch final.txt.
+        filter_configs_by_ru_check(FIN_CONF, drop_blocked=False)
+        save_results_json(FIN_CONF, CUSTOM_OUT)
+        process_manager.stop_all()
+        print("Custom check finished successfully.")
+        sys.exit()
 
-    # مرحله ۲.۵: отсечь серверы, не отвечающие из России (check-host.net, RU ноды)
-    FIN_CONF[:] = filter_configs_by_ru_check(FIN_CONF)
+    # مرحله ۲.۵: RU-вердикты записываем, но ничего не выбрасываем:
+    # results.json - полный аудит выживших после прокси+скорость, с вердиктами.
+    filter_configs_by_ru_check(FIN_CONF, drop_blocked=False)
 
     # مرحله ۲.۷: results.json для сайта (пинг, скорость, RU-вердикт)
     save_results_json(FIN_CONF)
+
+    # final.txt - строгий набор: только живые + подтвержденно доступные из России.
+    # Непроверенные (ru_ok=None) в final.txt не попадают.
+    ru_states = [m.get("ru_ok") for m in RESULTS.values()]
+    if any(v in (True, False) for v in ru_states):
+        verified_n = len([c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is True])
+        FIN_CONF[:] = [c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is True]
+        print(f"Strict final.txt: kept {verified_n} servers verified alive and reachable from Russia.")
+    else:
+        print("!!! RU check produced NO verdicts at all (check-host.net unreachable?) - keeping proxy-tested survivors unverified in final.txt instead of emptying it.")
 
     # مرحله ۳: ذخیره نتایج نهایی به صورت مرتب‌شده
     save_sorted_configs(FIN_CONF)
