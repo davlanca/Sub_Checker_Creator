@@ -22,7 +22,7 @@
         "block": ""
       },
       "fragment": {
-        "enabled": true,
+        "enabled": false,
         "packets": "tlshello",
         "length": "10-30",
         "interval": "1-5"

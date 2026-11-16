@@ -1810,6 +1810,7 @@ def filter_configs_by_ru_check(configs: list, drop_blocked=True) -> list:
         if _ru_check_rate_limited:
             print("RU check: stopped early (rate limited), the rest stay unverified.")
             break
+        _publish_incremental()
         time.sleep(1)
     with RESULTS_LOCK:
         for _c in configs:
@@ -1817,6 +1818,7 @@ def filter_configs_by_ru_check(configs: list, drop_blocked=True) -> list:
             if _rk is not None and _rk in RESULTS:
                 RESULTS[_rk]["ru_ok"] = ru_verdict.get((_rk[1], _rk[2]))
     _ru_cache_save()
+    _publish_incremental(force=True)
     if not blocked:
         print("RU check: nothing blocked, keeping all.")
         return configs
@@ -2263,6 +2265,141 @@ def country_code_to_emoji(code: str) -> str:
 # ==============================================================================
 # تابع save_sorted_configs (نسخه نهایی، اصلاح‌شده و ضد خطا)
 # ==============================================================================
+# --- incremental publish: final.txt / results.json по мере проверки ---
+# Прогон с новыми ссылками идет ~3 часа, а final.txt раньше писался только
+# в конце. Пока прогон идет, файл на GitHub устаревает: серверы, живые
+# в начале прогона, к моменту коммита уже мертвы. Поэтому публикуем
+# промежуточные результаты по ходу прогона: каждые 10 минут (и в конце
+# RU-фазы) пишем results.json + final.txt + final_NoRus.txt и пушим
+# в репозиторий. Публикация best-effort: любая ошибка git только
+# логируется и не роняет проверку. Коммит помечен [skip ci], чтобы пуш
+# не запускал without-timer. Пока нет ни одного RU-вердикта, final.txt
+# не трогаем (строгий набор еще пуст) - публикуем только results.json.
+INCREMENTAL_PUBLISH = os.environ.get("INCREMENTAL_PUBLISH", "1") != "0"
+INCREMENTAL_PUBLISH_INTERVAL = 600  # seconds between publishes
+_PUBLISH_LOCK = threading.Lock()
+_last_publish_ts = 0.0
+
+
+def _run_git(args, timeout=60):
+    """Run a git command, return (ok, output). Never raises."""
+    try:
+        p = subprocess.run(["git"] + args, capture_output=True, text=True,
+                           timeout=timeout)
+        return p.returncode == 0, (p.stdout + p.stderr).strip()
+    except Exception as e:
+        return False, str(e)
+
+
+def _write_incremental_files(configs):
+    """Write results.json + strict final.txt + final_NoRus.txt from the
+    current FIN_CONF/RESULTS state. Returns True if any RU verdict exists."""
+    old_text = None
+    old_rows = None
+    if os.path.exists(RESULTS_PATH):
+        try:
+            old_text = open(RESULTS_PATH, encoding="utf-8").read()
+            old_rows = json.loads(old_text).get("results")
+        except Exception:
+            old_text = None
+            old_rows = None
+    new_rows = save_results_json(configs)
+    if old_rows is not None and new_rows == old_rows and old_text is not None:
+        # Rows unchanged: keep the old file (and its generated_at) so git
+        # correctly sees "nothing changed" instead of a new timestamp.
+        with open(RESULTS_PATH, "w", encoding="utf-8") as f:
+            f.write(old_text)
+    has_verdicts = any(
+        RESULTS.get(result_key(c), {}).get("ru_ok") in (True, False)
+        for c in configs)
+    if not has_verdicts:
+        return False
+    strict = [c for c in configs
+              if RESULTS.get(result_key(c), {}).get("ru_ok") is True]
+    no_rus = [c for c in configs
+              if RESULTS.get(result_key(c), {}).get("ru_ok") is False]
+    with open(FIN_PATH, "w", encoding="utf-8") as f:
+        f.write(FILE_HEADER_TEXT)
+        for c in strict:
+            f.write(c.strip() + "\n")
+    with open("final_b64.txt", "w", encoding="utf-8") as f:
+        f.write(FILE_HEADER_TEXT)
+        for c in strict:
+            f.write(base64.b64encode(c.strip().encode("utf-8")).decode("utf-8") + "\n")
+    with open("final_NoRus.txt", "w", encoding="utf-8") as f:
+        for c in no_rus:
+            f.write(c.strip() + "\n")
+    print(f"Incremental files: final.txt {len(strict)} servers, "
+          f"final_NoRus.txt {len(no_rus)}.")
+    return True
+
+
+def _publish_incremental(force=False):
+    """Publish the current state to the repo (best-effort, never fatal)."""
+    global _last_publish_ts
+    if not INCREMENTAL_PUBLISH:
+        return
+    if os.environ.get("CUSTOM_URL", "").strip():
+        return  # custom run: never touch final.txt / results.json
+    if not os.path.isdir(".git"):
+        return
+    if not force and time.time() - _last_publish_ts < INCREMENTAL_PUBLISH_INTERVAL:
+        return
+    if not _PUBLISH_LOCK.acquire(blocking=False):
+        return  # another publish is running
+    try:
+        configs = list(FIN_CONF)
+        if not configs:
+            return
+        has_verdicts = _write_incremental_files(configs)
+        files = ["results.json"]
+        if has_verdicts:
+            files += [FIN_PATH, "final_b64.txt", "final_NoRus.txt",
+                      "normal.txt", RU_CHECK_CACHE_FILE]
+        existing = [f for f in files if os.path.exists(f)]
+        ok, out = _run_git(["add"] + existing)
+        if not ok:
+            print(f"Incremental publish: git add failed: {out[:200]}")
+            return
+        ok, out = _run_git(["diff", "--cached", "--quiet"])
+        if ok:
+            print("Incremental publish: nothing changed, skipping push.")
+            _last_publish_ts = time.time()
+            return
+        ok, out = _run_git(["-c", "user.name=github-actions[bot]",
+                            "-c", "user.email=41898282+github-actions[bot]@users.noreply.github.com",
+                            "commit", "-m",
+                            "chore: incremental results (checker) [skip ci]"])
+        if not ok:
+            print(f"Incremental publish: git commit failed: {out[:200]}")
+            return
+        ok, out = _run_git(["push"])
+        if not ok:
+            print(f"Incremental publish: push failed, trying pull --rebase: {out[:200]}")
+            ok2, out2 = _run_git(["pull", "--rebase"])
+            if not ok2:
+                _run_git(["rebase", "--abort"])
+                print(f"Incremental publish: rebase failed, will retry later: {out2[:200]}")
+                return
+            ok, out = _run_git(["push"])
+            if not ok:
+                print(f"Incremental publish: push still failed: {out[:200]}")
+                return
+        _last_publish_ts = time.time()
+        print(f"Incremental publish: pushed {len(configs)} rows "
+              f"({'with' if has_verdicts else 'without'} RU verdicts).")
+    except Exception as e:
+        print(f"Incremental publish: unexpected error (ignored): {e}")
+    finally:
+        _PUBLISH_LOCK.release()
+
+
+def _incremental_publisher_loop(stop_event):
+    """Background thread: publish every INCREMENTAL_PUBLISH_INTERVAL."""
+    while not stop_event.wait(INCREMENTAL_PUBLISH_INTERVAL):
+        _publish_incremental()
+
+
 def save_results_json(configs: list, path=None):
     """Write results.json for the static site: one row per server with the
     real measurements from this run (ping, speed, RU verdict)."""
@@ -2305,6 +2442,7 @@ def save_results_json(configs: list, path=None):
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
     print(f"{out_path} written: {len(rows)} servers.")
+    return rows
 
 def save_sorted_configs(configs: list):
     """
@@ -2452,6 +2590,12 @@ if __name__ == "__main__":
                     print(f"!!! Failed to fetch {link}: {e}")
 
     # مرحله ۲: اجرای فرآیند اصلی تست (که از normal.txt می‌خواند)
+    # Incremental publisher: держим final.txt / results.json свежими на
+    # GitHub по ходу долгого прогона (см. _publish_incremental).
+    _pub_stop = threading.Event()
+    _pub_thread = threading.Thread(target=_incremental_publisher_loop,
+                                   args=(_pub_stop,), daemon=True)
+    _pub_thread.start()
     ping_all()
     if CUSTOM_URL:
         # Custom run: record RU verdicts but keep blocked servers in the
@@ -2465,6 +2609,11 @@ if __name__ == "__main__":
     # مرحله ۲.۵: RU-вердикты записываем, но ничего не выбрасываем:
     # results.json - полный аудит выживших после прокси+скорость, с вердиктами.
     filter_configs_by_ru_check(FIN_CONF, drop_blocked=False)
+    # Останавливаем фоновую публикацию: дальше - финальная запись
+    # в одном потоке, чтобы не было гонок за results.json.
+    _pub_stop.set()
+    _pub_thread.join(timeout=120)
+    _publish_incremental(force=True)
 
     # مرحله ۲.۷: results.json для сайта (пинг, скорость, RU-вердикт)
     save_results_json(FIN_CONF)
