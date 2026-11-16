@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/&type=grpc&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
-vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=362c1eg.se1.h1clayd.click&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&spx=/#%F0%9F%87%B8%F0%9F%87%AA
 vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=%2F&type=grpc&fp=edge#%F0%9F%87%B8%F0%9F%87%AA
+vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/&type=grpc&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
 vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@362c1eg.se1.h1clayd.click:443?type=grpc&security=reality&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&spx=/#%F0%9F%87%B8%F0%9F%87%AA
+vless://4618cebd-e1e9-45c3-be98-d9d6e3ee8bef@362c1eg.se1.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=362c1eg.se1.h1clayd.click&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&spx=/#%F0%9F%87%B8%F0%9F%87%AA
