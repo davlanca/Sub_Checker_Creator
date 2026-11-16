@@ -1,6 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@195.133.10.140:2087?security=reality&sni=ed-ru24.dotinfo.cfd&fp=firefox&pbk=OUmIdU5YvDmOCjq08E3ZSIZt8H4HewohK3LyHwNjbEQ&sid=c682b4f6b42cbfe3&type=grpc&serviceName=grpc#%F0%9F%87%B5%F0%9F%87%B1
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@92.63.192.9:2053?flow=xtls-rprx-vision&security=reality&sni=ed-ru46.edgehubnet.com&fp=firefox&pbk=3ExL8xvKbq7iMOea3ahfvNA5ihBnbmu0gF2NUhoUdVE&sid=6ab0fc17574bc853#%F0%9F%87%B5%F0%9F%87%B1
 vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=tls&sni=box.vpvi.store&alpn=http%2F1.1&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
+vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@159.194.210.102:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=ios&sni=box.vpvi.store#%F0%9F%87%B5%F0%9F%87%B1
