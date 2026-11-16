@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://97ab2e86-83c5-0a32-4914-5dbe1af97839@178.20.28.4:8443?encryption=none&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&serviceName=TunService&sni=res.cdn.office.net&type=grpc#%F0%9F%87%AE%F0%9F%87%B1
