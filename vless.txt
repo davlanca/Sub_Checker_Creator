@@ -1,12 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&headerType=none&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@129.101.100.219:443?flow=xtls-rprx-vision&security=tls&sni=db-28.topp-con.xyz&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
-vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs&sid=81959fce&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@85.192.49.126:443?&security=reality&flow=xtls-rprx-vision&pbk=ATdIZVxBUo5bVQJtcoWBU1k8qlHdNniJ2gF1iDc8rEQ&sid=76efb045&fp=firefox&sni=fi3.gofizzin.com&type=tcp&headerType=none&host=fi3.gofizzin.com&path=%2F#%F0%9F%87%AB%F0%9F%87%AE
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?alpn=h2%2Chttp%2F1.1&flow=xtls-rprx-vision&security=tls&sni=mosaic.topp-con.xyz&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
+vless://88a558b1-9645-42f3-89e5-341570d8486d@157.180.98.124:49659?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=bBVqro8tG6swTNoAkjwUzcu4Ew4N4VcyDHzADcGviCs&sid=81959fce&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@81.171.14.72:443?&security=reality&flow=xtls-rprx-vision&pbk=OH9jKzqAqEg98VDxmxReqrC_jbJWNwr-ipj2cNRgazc&sid=2237b916&fp=firefox&sni=zovira.me&type=tcp&headerType=none&host=zovira.me&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@104.171.133.213:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=mirror-75.topp-con.xyz&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?&security=reality&flow=xtls-rprx-vision&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&fp=chrome&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@72.56.19.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru5.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@188.225.73.41:443?encryption=none&security=tls&type=grpc&serviceName=cache.sync.v1&mode=gun&sni=cadrin.wtf&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA
-vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@557e58g.pl8.h1clayd.click:443?encryption=none&pbk=ms5yeTlBCbAEEeWIbn_bV72Q9SQfpcJz6_VqNgF7ABY&security=reality&sid=43a5ba8f49a5e91a&sni=557e58g.pl8.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
