@@ -102,6 +102,7 @@ let totalLines = 0;
 let phoneResults = {}; // "host:port" -> {verdict, ms}
 let generatedAt = null;
 let reportText = "";
+let lastTested = null; // список последней проверки (своя подписка или основной)
 
 const $ = (id) => document.getElementById(id);
 function log(msg) { const el = $("log"); el.textContent += msg + "\n"; el.scrollTop = el.scrollHeight; }
@@ -346,6 +347,7 @@ async function runPhoneCheck() {
     }
   }
   await Promise.all(Array.from({ length: Math.min(PHONE_CONCURRENCY, total) }, worker));
+  lastTested = list;
   renderStats();
   renderTable();
   buildReport(list);
@@ -394,7 +396,8 @@ $("btnCopy").addEventListener("click", async () => {
   catch (e) { log("Не удалось скопировать автоматически. Скачай отчет файлом."); }
 });
 $("btnDownload").addEventListener("click", () => {
-  const alive = servers.filter((s) => {
+  const src = lastTested || servers;
+  const alive = src.filter((s) => {
     const r = phoneResults[keyOf(s)];
     return r && (r.verdict === "ok" || r.verdict === "answered") && s.ru_ok !== false;
   });
