@@ -34,6 +34,13 @@ TH_MAX_WORKER=15
 # 127/8 address (127.0.<n//250>.<n%250+2>), no wrapping needed.
 def loopback_ip(n: int) -> str:
     return f"127.0.{n // 250}.{(n % 250) + 2}"
+
+def _b64decode_padded(s: str) -> bytes:
+    # SS links use unpadded (and often URL-safe) base64; plain b64decode
+    # raises "Incorrect padding" on those and the config gets dropped.
+    s = s.strip()
+    s += '=' * ((4 - len(s) % 4) % 4)
+    return base64.urlsafe_b64decode(s)
 # Connection-style ping (like v2box "Connection"): a full HTTP roundtrip
 # through the proxy to Google, not just an empty 204. A server whose
 # outbound to Google is dead or crawling fails here even if a 204 passes.
@@ -317,7 +324,7 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
             logging.error(f"Error parsing config: {e}")
             return ConfigParams(protocol="", address="", port=0)
     def parse_vless(config: str, common: dict) -> ConfigParams:
-        query = re.split(r"\?", config, 1)[1] if "?" in config else ""
+        query = re.split(r"\?", config, maxsplit=1)[1] if "?" in config else ""
         params = parse_query_params(query)
         host_params = {
             "tcp": params.get("host",None),
@@ -384,7 +391,7 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
             mode=vmess_data.get("mode", None)
         )
     def parse_trojan(config: str, common: dict) -> ConfigParams:
-        query = re.split(r"\?", config, 1)[1] if "?" in config else ""
+        query = re.split(r"\?", config, maxsplit=1)[1] if "?" in config else ""
         params = parse_query_params(query)
         password = re.search(r'trojan://([^@]+)@', config).group(1) if "trojan://" in config else ""
         host_params = {
@@ -423,7 +430,7 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
             mode=params.get("mode", None)
         )
     def parse_hysteria(config: str, common: dict) -> ConfigParams:
-        query = re.split(r"\?", config, 1)[1] if "?" in config else ""
+        query = re.split(r"\?", config, maxsplit=1)[1] if "?" in config else ""
         params = parse_query_params(query)
         print(params.get("obfs-password", ""))
         return ConfigParams(
@@ -447,7 +454,7 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
             security="none"
         )
     def parse_wireguard(config: str, common: dict) -> ConfigParams:
-        query = re.split(r"\?", config, 1)[1] if "?" in config else ""
+        query = re.split(r"\?", config, maxsplit=1)[1] if "?" in config else ""
         params = parse_query_params(query)
         return ConfigParams(
             **common,
@@ -472,8 +479,8 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
             if "@" in main_part:
                 parts = main_part.split("@", 1)
                 auth_encoded = parts[0]
-                server_info = parts[1]
-                auth_decoded_bytes = base64.b64decode(auth_encoded)
+                server_info = parts[1].split("?", 1)[0]  # strip ?udp=1 etc before port parsing
+                auth_decoded_bytes = _b64decode_padded(auth_encoded)
                 auth_decoded_str = auth_decoded_bytes.decode("utf-8")
                 method_pass_parts = auth_decoded_str.split(":", 1)
                 if len(method_pass_parts) == 2:
@@ -495,10 +502,11 @@ def parse_configs(conifg,num=0,cv=1,hy2_path="hy2/config.yaml",is_hy2=False): # 
                     address = server_info
                     logging.warning(f"SS: Port not found in server_info: {server_info}. Using port from common if available.")
             else:
-                decoded_bytes = base64.b64decode(main_part)
+                decoded_bytes = _b64decode_padded(main_part)
                 decoded_str = decoded_bytes.decode("utf-8")
                 if "@" in decoded_str:
                     auth_part_decoded, server_info_decoded = decoded_str.split("@", 1)
+                    server_info_decoded = server_info_decoded.split("?", 1)[0]  # strip ?udp=1 etc before port parsing
                     method_pass_parts = auth_part_decoded.split(":", 1)
                     if len(method_pass_parts) == 2:
                         ss_method = method_pass_parts[0]
