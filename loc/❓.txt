@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://ecf65acd-ea72-0002-be5f-cd23afb2722f@141.133.185.7:443?alpn=http%2F1.1&flow=xtls-rprx-vision&security=tls&sni=files.vpvi.store&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
