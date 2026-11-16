@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://c0c949fc-2ed6-4597-b680-a1a3276ebf87@188.225.24.192:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=portal.bokovskay.app&type=raw#%F0%9F%87%B8%F0%9F%87%A8
-vless://c0c949fc-2ed6-4597-b680-a1a3276ebf87@188.225.24.62:443?alpn=h2%252Chttp%252F1.1&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=img.bokovskay.app&type=raw#%F0%9F%87%B8%F0%9F%87%A8
