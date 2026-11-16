@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@186.246.4.145:2087?security=reality&sni=ed-ru15.dotinfo.cfd&fp=firefox&pbk=SfP9yJpMGPyKoTzOjwEpKypbjojfx9ukEj-CZ0aC_0k&sid=4efdfaa11f5e2c2a&type=grpc&serviceName=grpc#%F0%9F%87%A6%F0%9F%87%AA
