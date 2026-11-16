@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@81.171.14.72:443?&security=reality&flow=xtls-rprx-vision&pbk=OH9jKzqAqEg98VDxmxReqrC_jbJWNwr-ipj2cNRgazc&sid=2237b916&fp=firefox&sni=zovira.me&type=tcp&headerType=none&host=zovira.me&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?&security=reality&flow=xtls-rprx-vision&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&fp=chrome&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
 vless://2232d904-8e6a-4202-8240-6efd8aec02e9@72.56.19.142:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru5.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
 vless://Fluffy_VPN-Oth8rOq3@104.171.135.229:443?&security=reality&flow=xtls-rprx-vision&pbk=mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0&fp=chrome&sni=absolute-disaster.org&type=tcp&headerType=none&host=absolute-disaster.org&path=%2F#%F0%9F%87%B3%F0%9F%87%B1
