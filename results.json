@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:21:38.244911+00:00",
-  "count": 98,
+  "generated_at": "2026-11-17T15:31:58.506556+00:00",
+  "count": 112,
   "results": [
     {
       "protocol": "vless",
@@ -76,7 +76,7 @@
       "tag": "🇬🇧",
       "ping_ms": 578,
       "speed_kbps": 977,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://408c814e-f70a-4d16-b3b3-8182bb70211d@34.39.80.57:50818?encryption=none&fp=chrome&host=yingguo.rymaker.cn&path=%2FGunService&security=tls&sni=yingguo.rymaker.cn&type=ws#%F0%9F%87%AC%F0%9F%87%A7"
     },
     {
@@ -87,7 +87,7 @@
       "tag": "🏴‍☠️",
       "ping_ms": 4336,
       "speed_kbps": 240,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyIsImFkZCI6IjE2Mi4xNTkuMTMwLjIzNCIsInBvcnQiOiIyMDgzIiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6ImNkbi5zZmFjZy51ayIsInBhdGgiOiIvb3IzIiwiaG9zdCI6Im9yMy5zZmFjZy51ayJ9"
     },
     {
@@ -175,7 +175,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1501,
       "speed_kbps": 310,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://352a250d-080b-47b5-b7db-f9f8fa31c551@187.7.206.179:443?security=tls&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=1fw71df.virtual-network.lol#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -186,7 +186,7 @@
       "tag": "🇨🇾",
       "ping_ms": 1088,
       "speed_kbps": 116,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://352a250d-080b-47b5-b7db-f9f8fa31c551@132.243.212.204:443?security=tls&encryption=none&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=10w0wjw.virtual-network.lol#%F0%9F%87%A8%F0%9F%87%BE"
     },
     {
@@ -199,6 +199,39 @@
       "speed_kbps": 884,
       "ru_ok": null,
       "config": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.7.205:443?security=tls&sni=advanceyouremploymentskillsandcareerdevelopmenthub.com#%F0%9F%87%A8%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vmess",
+      "transport": "tls",
+      "host": "38.91.107.84",
+      "port": 1270,
+      "tag": "🇺🇸",
+      "ping_ms": 235,
+      "speed_kbps": 2212,
+      "ru_ok": null,
+      "config": "vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7giLCJhZGQiOiIzOC45MS4xMDcuODQiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJ0ZXN0X25hbWUiOiJVUzIyIn0"
+    },
+    {
+      "protocol": "trojan",
+      "transport": "tls",
+      "host": "193.108.119.29",
+      "port": 443,
+      "tag": "🇩🇪",
+      "ping_ms": 1597,
+      "speed_kbps": 851,
+      "ru_ok": null,
+      "config": "trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.29:443?security=tls&sni=blog.iloverussia2026.com#%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "protocol": "trojan",
+      "transport": "tls",
+      "host": "resources.findlocaljobnetworkandbuildcommunityconnections.com",
+      "port": 443,
+      "tag": "🇺🇸",
+      "ping_ms": 432,
+      "speed_kbps": 1384,
+      "ru_ok": null,
+      "config": "trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
       "protocol": "ss",
@@ -461,7 +494,7 @@
       "tag": "🇮🇹",
       "ping_ms": 1391,
       "speed_kbps": 871,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.45:19999#%F0%9F%87%AE%F0%9F%87%B9"
     },
     {
@@ -472,7 +505,7 @@
       "tag": "🇮🇹",
       "ping_ms": 3410,
       "speed_kbps": 509,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@202.50.253.18:19999#%F0%9F%87%AE%F0%9F%87%B9"
     },
     {
@@ -483,7 +516,7 @@
       "tag": "🇨🇦",
       "ping_ms": 167,
       "speed_kbps": 1445,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6"
     },
     {
@@ -494,7 +527,7 @@
       "tag": "🇫🇷",
       "ping_ms": 610,
       "speed_kbps": 1148,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@57.129.83.85:19999#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -505,7 +538,7 @@
       "tag": "🇳🇱",
       "ping_ms": 500,
       "speed_kbps": 958,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.206:8080#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -516,7 +549,7 @@
       "tag": "🇺🇸",
       "ping_ms": 198,
       "speed_kbps": 1849,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -597,6 +630,50 @@
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#%F0%9F%87%B8%F0%9F%87%AC"
     },
     {
+      "protocol": "ss",
+      "transport": "ss",
+      "host": "102.133.165.160",
+      "port": 16233,
+      "tag": "🇿🇦",
+      "ping_ms": 1477,
+      "speed_kbps": 465,
+      "ru_ok": null,
+      "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%F0%9F%87%BF%F0%9F%87%A6"
+    },
+    {
+      "protocol": "ss",
+      "transport": "ss",
+      "host": "82.38.31.176",
+      "port": 8080,
+      "tag": "🇳🇱",
+      "ping_ms": 499,
+      "speed_kbps": 1065,
+      "ru_ok": null,
+      "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "ss",
+      "transport": "ss",
+      "host": "82.38.31.189",
+      "port": 8080,
+      "tag": "🇳🇱",
+      "ping_ms": 500,
+      "speed_kbps": 465,
+      "ru_ok": null,
+      "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "ss",
+      "transport": "ss",
+      "host": "82.38.31.193",
+      "port": 8080,
+      "tag": "🇳🇱",
+      "ping_ms": 976,
+      "speed_kbps": 903,
+      "ru_ok": null,
+      "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
       "protocol": "vmess",
       "transport": "ws",
       "host": "3h-kazakhstan1.09vpn.com",
@@ -639,6 +716,17 @@
       "speed_kbps": 115,
       "ru_ok": null,
       "config": "vmess://eyJhZGQiOiIxODguMTE0Ljk3LjYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJpZCI6IjBjZjZkOTcwLTNmMWQtNGFhZS1hOTg5LTkyYThmNzZhZTNkYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cz9lZCIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+PtOKAjeKYoO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ"
+    },
+    {
+      "protocol": "vmess",
+      "transport": "ws",
+      "host": "57.129.132.223",
+      "port": 80,
+      "tag": "🇬🇧",
+      "ping_ms": 5982,
+      "speed_kbps": 466,
+      "ru_ok": null,
+      "config": "vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6zwn4enIiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0Ijo4MCwiaWQiOiJhMjVjYmYxMS0yOTA4LTRhMWItYTNhOC05YTU3MTc3N2RjYTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6InZpYmVyLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJHQiDwn4es8J+HpyB8IEBSYXlkaWthbHggfCAzNjAyMjcifQ"
     },
     {
       "protocol": "vmess",
@@ -703,7 +791,7 @@
       "tag": "🇸🇬",
       "ping_ms": 2559,
       "speed_kbps": 504,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwNyIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wiLCJzbmkiOiIxNDkuODguMjMuMjA3IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9"
     },
     {
@@ -714,7 +802,7 @@
       "tag": "🇹🇭",
       "ping_ms": 1158,
       "speed_kbps": 434,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7nwn4etIiwiYWRkIjoiMTE5LjQ2LjUxLjQ1IiwicG9ydCI6Mzc1MTUsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiVEgg8J+HufCfh60gfCBAUmF5ZGlrYWx4IHwgODZGRjc2In0"
     },
     {
@@ -725,7 +813,7 @@
       "tag": "🇺🇸",
       "ping_ms": 1424,
       "speed_kbps": 195,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7rwn4e4IiwiYWRkIjoiNjcuMjIwLjg1LjQ2IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlVTIPCfh7rwn4e4IHwgQFJheWRpa2FseCB8IDY2NTI2QiJ9"
     },
     {
@@ -967,7 +1055,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1395,
       "speed_kbps": 915,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://ba0dbd83-3569-46dc-bc3d-ef6e58ffc97b@153.56.229.218:443?security=reality&encryption=none&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&headerType=none&fp=chrome&type=tcp&sni=71b840t.de7.h1clayd.click&sid=e572b6579ea525d4#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -978,7 +1066,7 @@
       "tag": "🇳🇱",
       "ping_ms": 540,
       "speed_kbps": 1117,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -989,7 +1077,7 @@
       "tag": "🇳🇱",
       "ping_ms": 483,
       "speed_kbps": 1071,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1000,7 +1088,7 @@
       "tag": "🇱🇹",
       "ping_ms": 860,
       "speed_kbps": 885,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@84.32.248.124:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&headerType=none&fp=firefox&type=tcp&sni=net-io-api.galioncc.com&sid=a7d309e4c16b825f#%F0%9F%87%B1%F0%9F%87%B9"
     },
     {
@@ -1068,6 +1156,72 @@
       "speed_kbps": 213,
       "ru_ok": null,
       "config": "vless://2208b003-78b1-453c-b5ca-ce847ff0efd6@3b3377x.es5.h1clayd.click:443?security=reality&sni=3b3377x.es5.h1clayd.click&type=xhttp&fp=firefox&path=%2F&pbk=N4cPAkl5hvo7SchiN_WHEwLBLICAXGtq85BP7S_6ORI&sid=dfd8d9d06bd8ce60#%F0%9F%87%B8%F0%9F%87%A8"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "51.158.206.97",
+      "port": 23576,
+      "tag": "🇳🇱",
+      "ping_ms": 546,
+      "speed_kbps": 1059,
+      "ru_ok": null,
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.97:23576?sni=fuck.rkn&type=tcp&headerType=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&fp=chrome&flow=xtls-rprx-vision&security=reality&host=%2F%3FTelegram---%40bored_vpn&encryption=none#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "51.158.206.93",
+      "port": 23576,
+      "tag": "🇳🇱",
+      "ping_ms": 496,
+      "speed_kbps": 1064,
+      "ru_ok": null,
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&spx=%2FHesarWeb&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "51.158.206.87",
+      "port": 23576,
+      "tag": "🇳🇱",
+      "ping_ms": 523,
+      "speed_kbps": 1003,
+      "ru_ok": null,
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "51.158.206.8",
+      "port": 23576,
+      "tag": "🇳🇱",
+      "ping_ms": 506,
+      "speed_kbps": 1081,
+      "ru_ok": null,
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?sni=fuck.rkn&type=tcp&headerType=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&fp=chrome&flow=xtls-rprx-vision&security=reality&encryption=none#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "194.55.167.133",
+      "port": 443,
+      "tag": "🇨🇾",
+      "ping_ms": 1314,
+      "speed_kbps": 236,
+      "ru_ok": null,
+      "config": "vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@194.55.167.133:443?security=reality&encryption=none&pbk=XSh3jB8zXtqpI38glgwN2Bn5imxN8Rkyc39LeBSD8BQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cy1.gofizz.in&sid=24f1fa53275b#%F0%9F%87%A8%F0%9F%87%BE"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "51.158.206.19",
+      "port": 23576,
+      "tag": "🇳🇱",
+      "ping_ms": 509,
+      "speed_kbps": 1107,
+      "ru_ok": null,
+      "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=%2F%3FTelegram---Lent_Gc---Lent_Gc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
       "protocol": "vmess",
