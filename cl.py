@@ -78,6 +78,51 @@ def result_key(config_str: str):
         return (proto, host, port)
     except Exception:
         return None
+
+def config_transport(config_str: str):
+    """Short transport label parsed from a config link, e.g. 'ws+tls',
+    'reality', 'tls', 'tcp', 'hysteria2', 'ss'. The site shows it so the
+    user can see how each server reaches the internet (DPI-wise)."""
+    try:
+        s = config_str.strip()
+        scheme = s.split("://", 1)[0].lower()
+        if scheme in ("hysteria2", "hysteria", "hy2"):
+            return "hysteria2"
+        if scheme == "tuic":
+            return "tuic"
+        if scheme in ("ss", "shadowsocks"):
+            return "ss"
+        if scheme == "trojan":
+            return "tls"
+        if scheme == "vmess":
+            try:
+                enc = s.split("://", 1)[1].split("#", 1)[0].split("?", 1)[0]
+                enc += '=' * ((4 - len(enc) % 4) % 4)
+                obj = json.loads(base64.b64decode(enc))
+                net = str(obj.get("net") or "tcp").lower()
+                tls = str(obj.get("tls") or "").lower()
+                if tls == "reality":
+                    return "reality"
+                if tls == "tls":
+                    return net + "+tls" if net != "tcp" else "tls"
+                return net
+            except Exception:
+                return "vmess"
+        q = ""
+        if "?" in s:
+            q = s.split("?", 1)[1].split("#", 1)[0]
+        params = urllib.parse.parse_qs(q)
+        typ = (params.get("type") or ["tcp"])[0].lower()
+        sec = (params.get("security") or ["none"])[0].lower()
+        if sec == "reality":
+            return "reality"
+        if sec == "tls":
+            return typ + "+tls" if typ != "tcp" else "tls"
+        if sec in ("none", ""):
+            return typ
+        return typ + "+" + sec
+    except Exception:
+        return ""
 CHECK_LOC=True
 CHECK_IRAN=False
 CHECK_HOST_IRANIAN_NODES = [
@@ -2549,6 +2594,7 @@ def save_results_json(configs: list, path=None):
             tag = ""
         rows.append({
             "protocol": proto,
+            "transport": config_transport(c),
             "host": host,
             "port": port,
             "tag": tag,
