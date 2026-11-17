@@ -1879,7 +1879,11 @@ RU_QUEUE = queue.Queue()
 _RU_ENQUEUED = set()
 _RU_LOCK = threading.Lock()
 RU_VERDICTS = {}  # (host, port) -> True / False / None
-_ru_worker_thread = None
+# RU checks run in parallel: check-host.net polling is I/O wait, so 3 workers
+# cut the RU phase ~3x. The 3s pause stays per-worker, so the total request
+# rate is the same as 1 worker with a 1s pause (3 x 20 = 60 req/min).
+RU_WORKERS = 3
+_ru_worker_threads = []
 
 
 def _ru_enqueue_for_config(config_str: str):
@@ -1911,8 +1915,8 @@ def _ru_apply_verdict(host, port, verdict):
 
 
 def _ru_worker_loop():
-    """Single RU worker: check hosts from the queue as soon as they pass
-    the ping test. Stops on the None sentinel."""
+    """One of RU_WORKERS parallel RU workers: check hosts from the queue as
+    soon as they pass the ping test. Stops on the None sentinel."""
     while True:
         item = RU_QUEUE.get()
         try:
@@ -1942,12 +1946,15 @@ def _ru_worker_loop():
 
 
 def _ru_worker_start():
-    """Start the single RU worker thread (idempotent)."""
-    global _ru_worker_thread
-    if _ru_worker_thread is not None and _ru_worker_thread.is_alive():
+    """Start the RU worker threads (idempotent)."""
+    global _ru_worker_threads
+    _ru_worker_threads = [t for t in _ru_worker_threads if t.is_alive()]
+    if _ru_worker_threads:
         return
-    _ru_worker_thread = threading.Thread(target=_ru_worker_loop, daemon=True)
-    _ru_worker_thread.start()
+    for _ in range(RU_WORKERS):
+        _t = threading.Thread(target=_ru_worker_loop, daemon=True)
+        _t.start()
+        _ru_worker_threads.append(_t)
 
 
 def _ru_worker_drain_and_stop():
@@ -1958,9 +1965,10 @@ def _ru_worker_drain_and_stop():
     for _c in list(FIN_CONF):
         _ru_enqueue_for_config(_c)
     RU_QUEUE.join()
-    RU_QUEUE.put(None)
-    if _ru_worker_thread is not None:
-        _ru_worker_thread.join(timeout=120)
+    for _ in range(RU_WORKERS):
+        RU_QUEUE.put(None)
+    for _t in list(_ru_worker_threads):
+        _t.join(timeout=120)
     with RESULTS_LOCK:
         for _c in list(FIN_CONF):
             _rk = result_key(_c)
