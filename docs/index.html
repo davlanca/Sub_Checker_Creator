@@ -103,8 +103,12 @@ const PHONE_CONCURRENCY = 6;
 // Те же ссылки, что в LINK_PATH в cl.py: проверяем ВСЕ сервера из списков,
 // а не только живой остаток final.txt.
 const LINK_URLS = [
-  "https://raw.githubusercontent.com/histeenn/VLESS-PO-GRIBI/main/deploy/subscriptions/1.txt",
-  "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
+  "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+  "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
+  "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
+  "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt",
+  "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt",
+  "https://raw.githubusercontent.com/whoahaow/rjsxrd/main/githubmirror/bypass/bypass-all.txt"
 ];
 
 let servers = [];   // {protocol, transport, host, port, tag, ping_ms, speed_kbps, ru_ok, config}
