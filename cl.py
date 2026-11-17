@@ -2583,8 +2583,11 @@ def _write_incremental_files(configs):
         for c in configs)
     if not has_verdicts:
         return False
+    # final.txt: живые + доступные из России (True) И непроверенные (None).
+    # Выкидываются только подтвержденно заблокированные (False): если сам
+    # check-host.net не ответил, это не вина сервера - его решает телефон.
     strict = [c for c in configs
-              if RESULTS.get(result_key(c), {}).get("ru_ok") is True]
+              if RESULTS.get(result_key(c), {}).get("ru_ok") is not False]
     strict_keys = set()
     for c in strict:
         rk = result_key(c)
@@ -2916,13 +2919,14 @@ def main():
             _f.write(_c.strip() + "\n")
     print(f"final_all.txt: kept {len(FIN_CONF)} servers alive via proxy (all, regardless of Russia).")
 
-    # final.txt - строгий набор: только живые + подтвержденно доступные из России.
-    # Непроверенные (ru_ok=None) в final.txt не попадают.
+    # final.txt: живые + доступные из России (True) И непроверенные (None).
+    # Выкидываются только подтвержденно заблокированные (False).
     ru_states = [m.get("ru_ok") for m in RESULTS.values()]
     if any(v in (True, False) for v in ru_states):
-        verified_n = len([c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is True])
-        FIN_CONF[:] = [c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is True]
-        print(f"Strict final.txt: kept {verified_n} servers verified alive and reachable from Russia.")
+        kept_n = len([c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is not False])
+        dropped_n = len(FIN_CONF) - kept_n
+        FIN_CONF[:] = [c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is not False]
+        print(f"Strict final.txt: kept {kept_n} servers (verified + unverified, dropped {dropped_n} proven blocked).")
     else:
         print("!!! RU check produced NO verdicts at all (check-host.net unreachable?) - keeping proxy-tested survivors unverified in final.txt instead of emptying it.")
 
