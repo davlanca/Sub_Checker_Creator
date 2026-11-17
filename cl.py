@@ -8,6 +8,7 @@ except Exception:
 import requests
 import subprocess
 import threading
+import queue
 from concurrent.futures import ThreadPoolExecutor, wait
 import psutil
 import time
@@ -100,7 +101,7 @@ CHECK_HOST_RU_NODES = [
     "ru3.node.check-host.net",  # Saint Petersburg, Russia
 ]
 RU_CHECK_CACHE_FILE = "ru_check_cache.json"
-RU_CHECK_CACHE_TTL = 6 * 3600  # re-check a server at most every 6 hours
+RU_CHECK_CACHE_TTL = 0  # cache disabled: every host re-checked fresh every run
 RU_CHECK_MAX_NODES = 2  # try nodes in order, stop at the first success
 _ru_check_cache = None
 _ru_check_cache_dirty = False
@@ -1787,10 +1788,120 @@ def is_host_port_accessible_from_ru(host: str, port: int):
         return False
     print(f"  RU check: {key} inconclusive, keeping.")
     return None
+# --- patch: interleaved RU check (RU right after ping, not at the end) ---
+# Before: ping_all() tested ALL configs, and only then
+# filter_configs_by_ru_check() walked the survivors. A server that passed
+# the ping in the first minutes waited 1-1.5h for its RU check and could
+# die in the meantime, yet still land in final.txt.
+# Now: as soon as a config passes ping+speed and lands in FIN_CONF, its
+# (host, port) goes on a queue; one RU worker pulls from the queue and
+# checks RU via is_host_port_accessible_from_ru() immediately. The verdict
+# lands in RESULTS (ru_ok) at once, so the incremental publisher starts
+# filling final.txt in the first minutes of the run.
+RU_QUEUE = queue.Queue()
+_RU_ENQUEUED = set()
+_RU_LOCK = threading.Lock()
+RU_VERDICTS = {}  # (host, port) -> True / False / None
+_ru_worker_thread = None
+
+
+def _ru_enqueue_for_config(config_str: str):
+    """Put the config's (host, port) on the RU-check queue (deduped)."""
+    try:
+        host, port = extract_host_port(config_str)
+    except Exception:
+        return
+    if host is None or port is None:
+        return
+    key = (host, port)
+    with _RU_LOCK:
+        if key in _RU_ENQUEUED:
+            return
+        _RU_ENQUEUED.add(key)
+    RU_QUEUE.put(key)
+
+
+def _ru_apply_verdict(host, port, verdict):
+    """Record a RU verdict for one (host, port): into RU_VERDICTS and into
+    every RESULTS entry with that host:port (all configs sharing the server
+    get the same verdict)."""
+    with _RU_LOCK:
+        RU_VERDICTS[(host, port)] = verdict
+    with RESULTS_LOCK:
+        for _rk in list(RESULTS.keys()):
+            if _rk[1] == host and _rk[2] == port:
+                RESULTS[_rk]["ru_ok"] = verdict
+
+
+def _ru_worker_loop():
+    """Single RU worker: check hosts from the queue as soon as they pass
+    the ping test. Stops on the None sentinel."""
+    while True:
+        item = RU_QUEUE.get()
+        try:
+            if item is None:
+                return
+            host, port = item
+            try:
+                verdict = is_host_port_accessible_from_ru(host, port)
+            except Exception as e:
+                print(f"RU worker: check failed for {host}:{port}: {e}")
+                verdict = None
+            try:
+                _ru_apply_verdict(host, port, verdict)
+            except Exception as e:
+                print(f"RU worker: verdict apply failed for {host}:{port}: {e}")
+            if _ru_check_rate_limited:
+                # check-host.net stopped answering: remaining queued hosts
+                # stay unverified (ru_ok None); burn through the queue fast.
+                continue
+            _publish_incremental()
+            time.sleep(1)
+        finally:
+            RU_QUEUE.task_done()
+
+
+def _ru_worker_start():
+    """Start the single RU worker thread (idempotent)."""
+    global _ru_worker_thread
+    if _ru_worker_thread is not None and _ru_worker_thread.is_alive():
+        return
+    _ru_worker_thread = threading.Thread(target=_ru_worker_loop, daemon=True)
+    _ru_worker_thread.start()
+
+
+def _ru_worker_drain_and_stop():
+    """Enqueue any FIN_CONF server not yet queued (safety sweep), wait
+    until the RU queue is empty, stop the worker, then apply all known
+    verdicts to RESULTS and save the RU cache."""
+    _ru_worker_start()
+    for _c in list(FIN_CONF):
+        _ru_enqueue_for_config(_c)
+    RU_QUEUE.join()
+    RU_QUEUE.put(None)
+    if _ru_worker_thread is not None:
+        _ru_worker_thread.join(timeout=120)
+    with RESULTS_LOCK:
+        for _c in list(FIN_CONF):
+            _rk = result_key(_c)
+            if _rk is None:
+                continue
+            _entry = RESULTS.get(_rk)
+            if _entry is None or _entry.get("ru_ok") is not None:
+                continue
+            with _RU_LOCK:
+                _v = RU_VERDICTS.get((_rk[1], _rk[2]))
+            if _v is not None:
+                _entry["ru_ok"] = _v
+    _ru_cache_save()
+
+
 def filter_configs_by_ru_check(configs: list, drop_blocked=True) -> list:
     """Drop configs whose server does not answer TCP from Russia.
-    Runs sequentially over unique (host, port) pairs, with a 6h cache,
-    so a 15-minute run only checks servers it has not seen recently."""
+    Runs sequentially over unique (host, port) pairs, no cache:
+    every run re-checks every host fresh from check-host.net.
+    Verdicts already collected by the interleaved RU worker are reused.
+    """
     if not CHECK_RU:
         return configs
     by_server = {}
@@ -1803,15 +1914,21 @@ def filter_configs_by_ru_check(configs: list, drop_blocked=True) -> list:
     blocked = set()
     ru_verdict = {}
     for (host, port) in by_server:
-        _v = is_host_port_accessible_from_ru(host, port)
+        with _RU_LOCK:
+            _have = (host, port) in RU_VERDICTS
+            _v = RU_VERDICTS.get((host, port))
+        if not _have:
+            # No worker verdict yet (e.g. direct call): check live.
+            _v = is_host_port_accessible_from_ru(host, port)
+            _ru_apply_verdict(host, port, _v)
+            _publish_incremental()
+            time.sleep(1)
         ru_verdict[(host, port)] = _v
         if _v is False:
             blocked.add((host, port))
         if _ru_check_rate_limited:
             print("RU check: stopped early (rate limited), the rest stay unverified.")
             break
-        _publish_incremental()
-        time.sleep(1)
     with RESULTS_LOCK:
         for _c in configs:
             _rk = result_key(_c)
@@ -2149,6 +2266,16 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
             if _rk is not None:
                 with RESULTS_LOCK:
                     RESULTS.setdefault(_rk, {}).update({"ping_ms": int(result), "speed_kbps": int(_kbps)})
+                # If the RU worker already checked this server (shared
+                # host:port with an earlier config), apply the verdict now.
+                with _RU_LOCK:
+                    _known = RU_VERDICTS.get((_rk[1], _rk[2]))
+                if _known is not None:
+                    with RESULTS_LOCK:
+                        RESULTS[_rk]["ru_ok"] = _known
+            # Interleaved RU check: queue this server for RU verification
+            # right away instead of waiting for the whole ping phase.
+            _ru_enqueue_for_config(i)
         if result != "-1":
             if CHECK_LOC:
                 public_ip = get_public_ipv4(t + 2, port)
@@ -2560,7 +2687,8 @@ def save_sorted_configs(configs: list):
 # ==============================================================================
 # بخش اصلی اجرای اسکریپت (بازگشته به حالت استفاده از normal.txt)
 # ==============================================================================
-if __name__ == "__main__":
+def main():
+    global LINK_PATH  # the CUSTOM_URL branch rebinds the module global below
     # Custom run (GitHub dispatch with a subscription URL): test only that
     # list and write custom_results.json, without touching final.txt.
     CUSTOM_URL = os.environ.get("CUSTOM_URL", "").strip()
@@ -2604,10 +2732,16 @@ if __name__ == "__main__":
     _pub_thread = threading.Thread(target=_incremental_publisher_loop,
                                    args=(_pub_stop,), daemon=True)
     _pub_thread.start()
+    # Interleaved RU check: the RU worker starts before ping_all() and
+    # checks each server from Russia as soon as it passes ping+speed,
+    # not after the whole run (see _ru_worker_loop).
+    _ru_worker_start()
     ping_all()
     if CUSTOM_URL:
         # Custom run: record RU verdicts but keep blocked servers in the
         # results (the site shows them as blocked), and never touch final.txt.
+        # Worker verdicts are reused by filter_configs_by_ru_check().
+        _ru_worker_drain_and_stop()
         filter_configs_by_ru_check(FIN_CONF, drop_blocked=False)
         save_results_json(FIN_CONF, CUSTOM_OUT)
         process_manager.stop_all()
@@ -2616,7 +2750,9 @@ if __name__ == "__main__":
 
     # مرحله ۲.۵: RU-вердикты записываем, но ничего не выбрасываем:
     # results.json - полный аудит выживших после прокси+скорость, с вердиктами.
-    filter_configs_by_ru_check(FIN_CONF, drop_blocked=False)
+    # RU verdicts were already collected by the RU worker during ping_all():
+    # wait for the queue to drain and apply the verdicts.
+    _ru_worker_drain_and_stop()
     # Останавливаем фоновую публикацию: дальше - финальная запись
     # в одном потоке, чтобы не было гонок за results.json.
     _pub_stop.set()
@@ -2661,12 +2797,5 @@ if __name__ == "__main__":
     print("All tasks finished successfully.")
     sys.exit()
 
-
-
-
-
-
-
-
-
-
+if __name__ == "__main__":
+    main()
