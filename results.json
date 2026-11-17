@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:48:04.754810+00:00",
+  "generated_at": "2026-11-17T19:58:45.989994+00:00",
   "count": 125,
   "results": [
     {
@@ -571,7 +571,7 @@
       "tag": "🇳🇱",
       "ping_ms": 861,
       "speed_kbps": 695,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -582,7 +582,7 @@
       "tag": "🇳🇱",
       "ping_ms": 805,
       "speed_kbps": 671,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -593,7 +593,7 @@
       "tag": "🇳🇱",
       "ping_ms": 833,
       "speed_kbps": 682,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?encryption=none&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -604,7 +604,7 @@
       "tag": "🇳🇱",
       "ping_ms": 771,
       "speed_kbps": 718,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -615,7 +615,7 @@
       "tag": "🇳🇱",
       "ping_ms": 3974,
       "speed_kbps": 687,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.8:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -626,7 +626,7 @@
       "tag": "🇳🇱",
       "ping_ms": 817,
       "speed_kbps": 656,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -637,7 +637,7 @@
       "tag": "🇷🇴",
       "ping_ms": 1257,
       "speed_kbps": 568,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4"
     },
     {
@@ -648,7 +648,7 @@
       "tag": "🇺🇸",
       "ping_ms": 118,
       "speed_kbps": 5793,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -659,7 +659,7 @@
       "tag": "🇺🇸",
       "ping_ms": 118,
       "speed_kbps": 5239,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -670,7 +670,7 @@
       "tag": "🇳🇱",
       "ping_ms": 4326,
       "speed_kbps": 339,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&security=reality&sid=ef1d3554c652a436&sni=vkvd754.okcdn.ru&type=raw#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -681,7 +681,7 @@
       "tag": "🇺🇸",
       "ping_ms": 2398,
       "speed_kbps": 1691,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&security=reality&sid=9c56fddf237e8eaf&sni=www.cloudflare.com&type=raw#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -692,7 +692,7 @@
       "tag": "🇺🇸",
       "ping_ms": 725,
       "speed_kbps": 1374,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&security=reality&sid=0990d22f&sni=www.cloudflare.com&type=raw#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -703,7 +703,7 @@
       "tag": "🇺🇸",
       "ping_ms": 118,
       "speed_kbps": 5905,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&security=reality&sid=01&sni=fuck.rkn&type=raw#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -725,7 +725,7 @@
       "tag": "🇺🇸",
       "ping_ms": 850,
       "speed_kbps": 168,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://719b9354-45e2-4718-8709-d965b64554db@2.24.124.64:443?encryption=none&flow=xtls-rprx-vision&pbk=zpXR6Y36C8qUCIVk2p_j8C9KGeBk5xisLw66j3WFOls&security=reality&sid=9f1fc5a631ef3126&sni=www.cloudflare.com&type=raw#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -824,7 +824,7 @@
       "tag": "🇩🇪",
       "ping_ms": 3775,
       "speed_kbps": 174,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://75a8cc15-fa52-4067-949f-42a89859b54f@194.55.239.195:443?encryption=none&fp=firefox&pbk=oJpmeGMTN9jhcq4ORR_gtU5_8WyfMsCCWE3Wq3x9JQ4&security=reality&sid=9cb9497322&sni=stats.24catvpn.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
