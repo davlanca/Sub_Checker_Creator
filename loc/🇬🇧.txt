@@ -1,4 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&headerType=none&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp&fp=edge#%F0%9F%87%AC%F0%9F%87%A7
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=raw#%F0%9F%87%AC%F0%9F%87%A7
+vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@13.143.239.148:25090?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7G4Jpyi1yaMHx6mhqxcoF2DgpWrfGJl714sWzSRK_Ws&security=reality&sid=c02d36577fecf7ca&sni=dbb72fr.fi20.h1clayd.shop&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#%F0%9F%87%AC%F0%9F%87%A7
+vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@83.141.91.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mt3YJTFsB89AU2gEUXYActFnCCsuovXHK9GU6Z7rKy8&security=reality&sid=cf6de5ede986fd10&sni=fr-18-a5vw.wave-inside.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://49fe1f7b-e6f6-43dc-a67d-caade85128ba@185.90.62.112:10000?security=reality&encryption=none&pbk=Du5pk4KuMNA1sRcSpmuoLuC0HmxDBmFljFNfUzqxKiM&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=cd0a1986719e44c8#%F0%9F%87%AC%F0%9F%87%A7
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@193.41.86.185:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lc9iE-93ZiqY_zLSlQJ4fecnJpC4sSlLjJPmIjvDNVw&security=reality&sid=edd1185410db1559&sni=nl-19-5753.wave-inside.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&sni=144.48.11.146&encryption=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7

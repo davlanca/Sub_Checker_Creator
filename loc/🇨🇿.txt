@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://6fffde27-86de-49e5-9ece-0669b6680afc@89.125.214.221:19446?sni=mshvpn.online#%F0%9F%87%A8%F0%9F%87%BF

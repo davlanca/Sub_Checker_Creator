@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://df97ce68-477f-4484-94c7-79eccab7319d@31.76.91.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Bl-k0ABaVMOc-zIJG-EXiZPJSx6IW48yL6N46IZ0ZEY&security=reality&sni=jap1.angelsleep9.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5
