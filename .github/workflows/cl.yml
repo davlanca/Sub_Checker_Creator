@@ -30,7 +30,7 @@ jobs:
 
       - name: Clean up old results before run
         run: |
-          rm -f final.txt final_b64.txt results.json final_NoRus.txt \
+          rm -f final_b64.txt final_NoRus.txt \
             vless*.txt vmess*.txt trojan*.txt ss*.txt \
             hy2*.txt wireguard*.txt socks*.txt tuic*.txt ssr*.txt
           rm -rf loc/
