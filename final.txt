@@ -1,7 +1,2 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@o685y.save-node.com:443?encryption=none&host=o685y.save-node.com&path=%2Fapi%2Fse1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&sni=o685y.save-node.com&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@88.216.70.125:443?path=/api/se1k2rfxlsuer3ry4u6e84kl8rqp721p&security=tls&encryption=none&insecure=0&host=o685y.save-node.com&fp=chrome&type=ws&allowInsecure=0&sni=o685y.save-node.com#%F0%9F%87%A9%F0%9F%87%AA
-vless://81d8d985-3708-5fe1-b931-34a13cd5464c@8.6.112.0:443?encryption=none&fp=firefox&host=nl1.v2less.site&path=/vless&security=tls&sni=nl1.v2less.site&type=ws#%F0%9F%87%B3%F0%9F%87%B1
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@92.255.58.59:443?type=grpc&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=344f83372596eea2&sni=api-gw-cfg.galioncc.com&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1
-vless://4eebdec5-08eb-4772-a0e6-35fec4c91cb0@185.178.208.167:443?encryption=none&type=ws&security=tls&sni=uwugirl.dev&fp=chrome&path=%2Fplayer%2Fcollect%2F9c8514f9552d%2F&host=speakpro.lol#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
