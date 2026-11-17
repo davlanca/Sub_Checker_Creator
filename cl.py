@@ -123,6 +123,32 @@ def config_transport(config_str: str):
         return typ + "+" + sec
     except Exception:
         return ""
+
+# Transport priority for subscription files: stealthier transports first,
+# they survive DPI more often (Beeline cuts plain VLESS Reality first).
+_TRANSPORT_PRIORITY = [
+    "ws+tls", "grpc+tls", "h2+tls", "http+tls",
+    "tls",
+    "hysteria2", "tuic", "quic",
+    "ss", "kcp",
+    "ws", "grpc", "http", "h2",
+    "tcp",
+    "reality",
+]
+
+def transport_rank(config_str: str):
+    """Rank of a config's transport: lower = stealthier = earlier in the list."""
+    try:
+        t = config_transport(config_str)
+    except Exception:
+        t = ""
+    if t in _TRANSPORT_PRIORITY:
+        return _TRANSPORT_PRIORITY.index(t)
+    return len(_TRANSPORT_PRIORITY)
+
+def sort_by_transport(configs):
+    """Stable sort: stealthier transports first, original order kept in a tier."""
+    return sorted(configs, key=transport_rank)
 CHECK_LOC=True
 CHECK_IRAN=False
 CHECK_HOST_IRANIAN_NODES = [
@@ -2467,6 +2493,8 @@ def _write_incremental_files(configs):
     """Write results.json + final_all.txt + strict final.txt
     from the current FIN_CONF/RESULTS state. Returns True
     if any RU verdict exists."""
+    # Stealthier transports first in the subscription files.
+    configs = sort_by_transport(configs)
     old_text = None
     old_rows = None
     if os.path.exists(RESULTS_PATH):
@@ -2573,6 +2601,8 @@ def save_results_json(configs: list, path=None):
     """Write results.json for the static site: one row per server with the
     real measurements from this run (ping, speed, RU verdict)."""
     import datetime
+    # Stealthier transports first in every output (site table included).
+    configs = sort_by_transport(configs)
     rows = []
     seen = set()
     for c in configs:
@@ -2704,7 +2734,7 @@ def save_sorted_configs(configs: list):
             print(f"!!! خطا در نوشتن فایل '{filepath}': {e}")
 
     # نوشتن فایل‌های اصلی
-    write_to_file(FIN_PATH, configs)
+    write_to_file(FIN_PATH, sort_by_transport(configs))
 
     # نوشتن فایل‌های پروتکل‌ها
     for protocol, proto_configs in configs_by_protocol.items():
@@ -2799,7 +2829,7 @@ def main():
     # фильтра по России: то же, что в results.json, но конфигами в строки.
     # Пишется ДО строгой обрезки FIN_CONF.
     with open("final_all.txt", "w", encoding="utf-8") as _f:
-        for _c in FIN_CONF:
+        for _c in sort_by_transport(FIN_CONF):
             _f.write(_c.strip() + "\n")
     print(f"final_all.txt: kept {len(FIN_CONF)} servers alive via proxy (all, regardless of Russia).")
 
