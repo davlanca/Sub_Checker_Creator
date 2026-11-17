@@ -69,6 +69,12 @@ FIN_CONF=[]
 RESULTS_PATH = "results.json"
 RESULTS = {}  # (protocol, host, port) -> {"ping_ms": int, "speed_kbps": int, "ru_ok": True/False/None}
 RESULTS_LOCK = threading.Lock()
+# Servers whose ping test ran this run (pass or fail). The incremental
+# publisher uses it to tell "not yet re-tested" (keep the old entry) from
+# "tested and dead" (drop it), so the lists shrink gradually instead of
+# being wiped at the first publish of a new run.
+PING_TESTED = set()
+PING_TESTED_LOCK = threading.Lock()
 def result_key(config_str: str):
     try:
         proto = config_str.strip().split("://", 1)[0].lower()
@@ -2307,6 +2313,14 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
                 print(f"Ping failed for config #{t}: {e}")
                 raise  # let @retry retry instead of giving up on the first transient failure
 
+        # Mark this server as ping-tested this run (pass or fail) so the
+        # incremental publisher can tell "not yet tested" (keep the old
+        # entry) from "tested and dead" (drop it).
+        _rk0 = result_key(i)
+        if _rk0 is not None:
+            with PING_TESTED_LOCK:
+                PING_TESTED.add(_rk0)
+
         result = "-1"
         try:
             result = pingg()
@@ -2489,10 +2503,35 @@ def _run_git(args, timeout=60):
         return False, str(e)
 
 
+def _read_old_configs(path):
+    """Read config lines from an existing subscription file on disk,
+    skipping the //profile header and empty lines. Returns a list of
+    config strings (empty if the file does not exist)."""
+    if not os.path.exists(path):
+        return []
+    try:
+        out = []
+        with open(path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line or line.startswith("//") or line.startswith("#"):
+                    continue
+                out.append(line)
+        return out
+    except Exception:
+        return []
+
+
 def _write_incremental_files(configs):
     """Write results.json + final_all.txt + strict final.txt
     from the current FIN_CONF/RESULTS state. Returns True
-    if any RU verdict exists."""
+    if any RU verdict exists.
+    Gradual update: servers from the previous file that have NOT been
+    re-tested yet in this run are kept in the published lists. A server
+    disappears only once this run actually tests it and it fails. The
+    end-of-run final write in main() is unchanged: it writes only this
+    run's FIN_CONF, so any server never tested in this run is purged
+    there, leaving only freshly tested servers."""
     # Stealthier transports first in the subscription files.
     configs = sort_by_transport(configs)
     old_text = None
@@ -2510,11 +2549,31 @@ def _write_incremental_files(configs):
         # correctly sees "nothing changed" instead of a new timestamp.
         with open(RESULTS_PATH, "w", encoding="utf-8") as f:
             f.write(old_text)
+    # Which servers this run already ping-tested (pass or fail).
+    with PING_TESTED_LOCK:
+        tested = set(PING_TESTED)
+    alive_keys = set()
+    for c in configs:
+        rk = result_key(c)
+        if rk is not None:
+            alive_keys.add(rk)
     # final_all.txt - все живые через прокси (пинг+скорость прошли), без
     # фильтра по России: то же, что в results.json, но конфигами в строки.
     # Пишется на каждой публикации, без привязки к RU-вердиктам.
+    # Постепенно: старые серверы, которые в этом прогоне еще не
+    # перепроверялись, остаются в файле; убирается только тот, кого
+    # прогон уже проверил и он не прошел.
+    merged_all = list(configs)
+    for old_c in _read_old_configs("final_all.txt"):
+        rk = result_key(old_c)
+        if rk is None or rk in alive_keys:
+            continue  # fresh config wins, or already in the list
+        if rk in tested:
+            continue  # tested this run and failed -> drop
+        merged_all.append(old_c)
+    merged_all = sort_by_transport(merged_all)
     with open("final_all.txt", "w", encoding="utf-8") as f:
-        for c in configs:
+        for c in merged_all:
             f.write(c.strip() + "\n")
     has_verdicts = any(
         RESULTS.get(result_key(c), {}).get("ru_ok") in (True, False)
@@ -2523,12 +2582,33 @@ def _write_incremental_files(configs):
         return False
     strict = [c for c in configs
               if RESULTS.get(result_key(c), {}).get("ru_ok") is True]
+    strict_keys = set()
+    for c in strict:
+        rk = result_key(c)
+        if rk is not None:
+            strict_keys.add(rk)
+    with _RU_LOCK:
+        ru_checked = set(RU_VERDICTS.keys())
+    # final.txt - строгий набор. Старый сервер остается, пока прогон его
+    # полностью не перепроверил (пинг + RU-вердикт); убирается, как только
+    # проверка показала, что он мертв или недоступен из России.
+    merged_strict = list(strict)
+    for old_c in _read_old_configs(FIN_PATH):
+        rk = result_key(old_c)
+        if rk is None or rk in strict_keys:
+            continue  # fresh config wins, or already in the list
+        if rk in tested and rk not in alive_keys:
+            continue  # ping-tested this run and failed -> drop
+        if rk in alive_keys and (rk[1], rk[2]) in ru_checked:
+            continue  # RU verdict known and not True -> drop
+        merged_strict.append(old_c)
+    merged_strict = sort_by_transport(merged_strict)
     with open(FIN_PATH, "w", encoding="utf-8") as f:
         f.write(FILE_HEADER_TEXT)
-        for c in strict:
+        for c in merged_strict:
             f.write(c.strip() + "\n")
-    print(f"Incremental files: final_all.txt {len(configs)} servers, "
-          f"final.txt {len(strict)} servers.")
+    print(f"Incremental files: final_all.txt {len(merged_all)} servers, "
+          f"final.txt {len(merged_strict)} servers.")
     return True
 
 
