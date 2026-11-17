@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://6fffde27-86de-49e5-9ece-0669b6680afc@89.125.214.221:19446?sni=mshvpn.online#%F0%9F%87%A8%F0%9F%87%BF
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://3a17ce52-4547-45aa-9820-a7d03ad5faca@45.86.74.193:443?sni=media.embrofree.org#%F0%9F%87%BA%F0%9F%87%B8

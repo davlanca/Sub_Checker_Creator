@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://4cf2635f-400a-4556-bb66-645990da5fe1@136.148.219.87:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W_Gh2SipeptUT6nDrxghHTWJRx4Je0A0VWEa3GZZmDc&security=reality&sni=batista.chickenkiller.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@207.2.120.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lodizu.hagrid-connected.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://3ede439b-410f-4eae-b449-4e15064c0706@195.206.235.122:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
