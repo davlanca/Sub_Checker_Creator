@@ -1,28 +1,17 @@
 {
-  "generated_at": "2026-11-17T15:48:05.830648+00:00",
-  "count": 2,
+  "generated_at": "2026-11-17T16:26:02.907811+00:00",
+  "count": 1,
   "results": [
     {
       "protocol": "vless",
       "transport": "grpc+tls",
-      "host": "pebble.gerqix.online",
+      "host": "luminexorizon.ink",
       "port": 443,
       "tag": "🇩🇪",
-      "ping_ms": 1950,
-      "speed_kbps": 216,
+      "ping_ms": 2209,
+      "speed_kbps": 455,
       "ru_ok": false,
-      "config": "vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@pebble.gerqix.online:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de2.v1&sni=pebble.gerqix.online&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA"
-    },
-    {
-      "protocol": "vless",
-      "transport": "grpc+tls",
-      "host": "linen.gerqix.online",
-      "port": 443,
-      "tag": "🇩🇪",
-      "ping_ms": 2961,
-      "speed_kbps": 230,
-      "ru_ok": null,
-      "config": "vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@linen.gerqix.online:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de1.v1&sni=linen.gerqix.online&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA"
+      "config": "vless://4b50270b-5caf-4c34-b3da-17b4525604a6@luminexorizon.ink:443?alpn=h2&encryption=none&insecure=0&mode=gun&security=tls&serviceName=glush.de3.v1&sni=luminexorizon.ink&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA"
     }
   ]
 }
