@@ -1,7 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@37.9.4.62:443?encryption=none&fp=random&mode=gun&pbk=vP4XeQ-z8LYtkSz1SCAxRMAEPreaHspoXm2nt0okQVw&security=reality&sid=c7674e&sni=360.yandex.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
 vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=firefox&host=subgift.gcorecdn.com&path=/t.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://beda6bd0-7ce4-477a-91f1-860d018dbfcb@207.2.120.145:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lodizu.hagrid-connected.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://3ede439b-410f-4eae-b449-4e15064c0706@195.206.235.122:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
