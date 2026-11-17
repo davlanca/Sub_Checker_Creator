@@ -2397,7 +2397,7 @@ def country_code_to_emoji(code: str) -> str:
 # в конце. Пока прогон идет, файл на GitHub устаревает: серверы, живые
 # в начале прогона, к моменту коммита уже мертвы. Поэтому публикуем
 # промежуточные результаты по ходу прогона: каждые 10 минут (и в конце
-# RU-фазы) пишем results.json + final.txt + final_NoRus.txt и пушим
+# RU-фазы) пишем results.json + final.txt + final_all.txt и пушим
 # в репозиторий. Публикация best-effort: любая ошибка git только
 # логируется и не роняет проверку. Коммит помечен [skip ci], чтобы пуш
 # не запускал without-timer. Пока нет ни одного RU-вердикта, final.txt
@@ -2419,8 +2419,8 @@ def _run_git(args, timeout=60):
 
 
 def _write_incremental_files(configs):
-    """Write results.json + final_all.txt + strict final.txt +
-    final_NoRus.txt from the current FIN_CONF/RESULTS state. Returns True
+    """Write results.json + final_all.txt + strict final.txt
+    from the current FIN_CONF/RESULTS state. Returns True
     if any RU verdict exists."""
     old_text = None
     old_rows = None
@@ -2450,22 +2450,12 @@ def _write_incremental_files(configs):
         return False
     strict = [c for c in configs
               if RESULTS.get(result_key(c), {}).get("ru_ok") is True]
-    no_rus = [c for c in configs
-              if RESULTS.get(result_key(c), {}).get("ru_ok") is False]
     with open(FIN_PATH, "w", encoding="utf-8") as f:
         f.write(FILE_HEADER_TEXT)
         for c in strict:
             f.write(c.strip() + "\n")
-    with open("final_b64.txt", "w", encoding="utf-8") as f:
-        f.write(FILE_HEADER_TEXT)
-        for c in strict:
-            f.write(base64.b64encode(c.strip().encode("utf-8")).decode("utf-8") + "\n")
-    with open("final_NoRus.txt", "w", encoding="utf-8") as f:
-        for c in no_rus:
-            f.write(c.strip() + "\n")
     print(f"Incremental files: final_all.txt {len(configs)} servers, "
-          f"final.txt {len(strict)} servers, "
-          f"final_NoRus.txt {len(no_rus)}.")
+          f"final.txt {len(strict)} servers.")
     return True
 
 
@@ -2489,8 +2479,7 @@ def _publish_incremental(force=False):
         has_verdicts = _write_incremental_files(configs)
         files = ["results.json", "final_all.txt"]
         if has_verdicts:
-            files += [FIN_PATH, "final_b64.txt", "final_NoRus.txt",
-                      "normal.txt", RU_CHECK_CACHE_FILE]
+            files += [FIN_PATH, "normal.txt", RU_CHECK_CACHE_FILE]
         existing = [f for f in files if os.path.exists(f)]
         ok, out = _run_git(["add"] + existing)
         if not ok:
@@ -2588,7 +2577,6 @@ def save_sorted_configs(configs: list):
         print("عیب‌یابی: لیست کانفیگ نهایی (FIN_CONF) خالی است. هیچ فایلی ذخیره نمی‌شود.")
         # ایجاد فایل‌های خالی برای جلوگیری از خطای کامیت
         open("final.txt", 'w').close()
-        open("final_b64.txt", 'w').close()
         return
 
     # --- مرحله ۱: عیب‌یابی اولیه ---
@@ -2671,7 +2659,6 @@ def save_sorted_configs(configs: list):
 
     # نوشتن فایل‌های اصلی
     write_to_file(FIN_PATH, configs)
-    write_to_file(f"{FIN_PATH.replace('.txt', '')}_b64.txt", [base64.b64encode(c.encode('utf-8')).decode('utf-8') for c in configs])
 
     # نوشتن فایل‌های پروتکل‌ها
     for protocol, proto_configs in configs_by_protocol.items():
@@ -2761,15 +2748,6 @@ def main():
 
     # مرحله ۲.۷: results.json для сайта (пинг, скорость, RU-вердикт)
     save_results_json(FIN_CONF)
-
-    # final_NoRus.txt - живые через прокси (пинг+скорость прошли), но НЕ
-    # доступные из России (ru_ok is False). Пишется ДО строгой обрезки
-    # FIN_CONF. Непроверенные (ru_ok=None) никуда не попадают.
-    no_rus = [c for c in FIN_CONF if RESULTS.get(result_key(c), {}).get("ru_ok") is False]
-    with open("final_NoRus.txt", "w", encoding="utf-8") as _f:
-        for _c in no_rus:
-            _f.write(_c.strip() + "\n")
-    print(f"final_NoRus.txt: kept {len(no_rus)} servers alive via proxy but not reachable from Russia.")
 
     # final_all.txt - все живые через прокси (пинг+скорость прошли), без
     # фильтра по России: то же, что в results.json, но конфигами в строки.
