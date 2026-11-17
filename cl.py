@@ -46,12 +46,12 @@ def _b64decode_padded(s: str) -> bytes:
 # through the proxy to Google, not just an empty 204. A server whose
 # outbound to Google is dead or crawling fails here even if a 204 passes.
 PING_URL = "https://www.google.com/"
-PING_TIMEOUT = 8
+PING_TIMEOUT = 12
 # Speed test: 1 MB download through the proxy, minimum usable speed.
 # Servers slower than this feel dead on the phone even if one empty 204 passes.
 SPEED_URL = "https://speed.cloudflare.com/__down?bytes=1048576"
 SPEED_TIMEOUT = 20
-SPEED_MIN_KBPS = 100
+SPEED_MIN_KBPS = 50
 CONF_PATH="config.json"
 with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
@@ -1933,7 +1933,10 @@ def _ru_worker_loop():
                 # stay unverified (ru_ok None); burn through the queue fast.
                 continue
             _publish_incremental()
-            time.sleep(1)
+            # 3s between RU checks: check-host.net rate-limits (429) when
+            # asked too fast; each 429 costs a 30s wait, so a slower pace
+            # is faster overall and leaves fewer hosts unverified.
+            time.sleep(3)
         finally:
             RU_QUEUE.task_done()
 
@@ -2588,7 +2591,7 @@ def _write_incremental_files(configs):
         if rk is not None:
             strict_keys.add(rk)
     with _RU_LOCK:
-        ru_checked = set(RU_VERDICTS.keys())
+        ru_verdicts = dict(RU_VERDICTS)
     # final.txt - строгий набор. Старый сервер остается, пока прогон его
     # полностью не перепроверил (пинг + RU-вердикт); убирается, как только
     # проверка показала, что он мертв или недоступен из России.
@@ -2599,8 +2602,8 @@ def _write_incremental_files(configs):
             continue  # fresh config wins, or already in the list
         if rk in tested and rk not in alive_keys:
             continue  # ping-tested this run and failed -> drop
-        if rk in alive_keys and (rk[1], rk[2]) in ru_checked:
-            continue  # RU verdict known and not True -> drop
+        if rk in alive_keys and ru_verdicts.get((rk[1], rk[2])) is False:
+            continue  # RU verdict is False (blocked) -> drop
         merged_strict.append(old_c)
     merged_strict = sort_by_transport(merged_strict)
     with open(FIN_PATH, "w", encoding="utf-8") as f:
