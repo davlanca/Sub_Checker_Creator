@@ -2,8 +2,6 @@
 //profile-update-interval: 1
 
 vless://9921b176-e013-4b66-adc3-a6bc33c3ab7d@172.67.247.113:443?security=tls&type=ws&path=%2F8a3c663fe6311479%3Fed%3D2560&host=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&fp=firefox&encryption=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.35:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl20.h1clayd.shop:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&sni=8a2e72t.nl20.h1clayd.shop&encryption=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443?sni=va.stream-room.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://3a17ce52-4547-45aa-9820-a7d03ad5faca@45.86.74.193:443?sni=media.embrofree.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pulse.sevka.xyz&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://f67b1159-a61f-4ae4-9844-0701b716a290@155.248.175.201:23169?security=tls&type=tcp&packetEncoding=xudp&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiaG9zdCI6ImlkMi5uYXRoYXlhLndlYi5pZCIsImlkIjoiNGNhZjE1NmEtMzMwOS00MTA1LTgzODgtZDM4OGViOWUxMTA1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3doYXRldmVyL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0xNTM3Iiwic2N5IjoiYXV0byIsInNuaSI6Inpvb21nb3YubmF0aGF5YS53ZWIuaWQiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd

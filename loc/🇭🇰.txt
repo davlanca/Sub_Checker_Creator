@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://12a4f736-2238-49ee-831f-5516f15cc951@2.26.204.46:31001?security=reality&type=tcp&packetEncoding=xudp&sni=mensura.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&sid=39793bc4708abbbb&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://c4d6567e-c46e-410f-95ab-ac3a61e030f3@185.71.216.177:2091?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=08a4b1f473932632&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://a25a71d1-10ed-4383-855a-f269a34ca691@skk.moe:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&path=%2Fa8b8606819ef&security=tls&host=ave-qualifications-choices-populations.trycloudflare.com&fp=chrome&type=ws&sni=ave-qualifications-choices-populations.trycloudflare.com#%F0%9F%87%AD%F0%9F%87%B0
