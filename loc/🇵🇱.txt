@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.211:443?flow=xtls-rprx-vision&fp=firefox&pbk=iBEesuOsglmAW2h0Cts7hsATNKhXkHnZq2dbR7Xn0HY&security=reality&sni=polandchuzhoi.site&type=raw#%F0%9F%87%B5%F0%9F%87%B1
