@@ -1,7 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#%F0%9F%87%B8%F0%9F%87%AC
-vless://5269e0b4-0dff-4f97-e0c7-83130bacb009@140.245.62.225:36442?&security=tls&flow=xtls-rprx-vision&sni=xjpp.zjlo.top&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
-vless://df97ce68-477f-4484-94c7-79eccab7319d@69.48.229.52:443?flow=xtls-rprx-vision&fp=firefox&pbk=kRzgZOHaTRul4ozS_tQaxCVxWuxNpdgTbaCL8S_IwQU&security=reality&sni=sig1.angelsleep9.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@51.79.228.131:19999#%F0%9F%87%B8%F0%9F%87%AC
+vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=xjpp.zjlo.top#%F0%9F%87%B8%F0%9F%87%AC
+vless://df97ce68-477f-4484-94c7-79eccab7319d@69.48.229.52:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kRzgZOHaTRul4ozS_tQaxCVxWuxNpdgTbaCL8S_IwQU&security=reality&sni=sig1.angelsleep9.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:51283?flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC
