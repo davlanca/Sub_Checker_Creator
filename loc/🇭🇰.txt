@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#%F0%9F%87%AD%F0%9F%87%B0
 vless://c4d6567e-c46e-410f-95ab-ac3a61e030f3@185.71.216.177:2091?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=08a4b1f473932632&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
-vless://a25a71d1-10ed-4383-855a-f269a34ca691@skk.moe:443?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&path=%2Fa8b8606819ef&security=tls&host=ave-qualifications-choices-populations.trycloudflare.com&fp=chrome&type=ws&sni=ave-qualifications-choices-populations.trycloudflare.com#%F0%9F%87%AD%F0%9F%87%B0

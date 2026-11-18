@@ -1,5 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.27:19999#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#%F0%9F%87%AB%F0%9F%87%B7
+vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&security=reality&sni=fir2.angelsleep9.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KvhOBGV_aFOuJg1_QMre2uewPCjyZlazQIuRa3rhNT8&security=reality&sni=fir1.angelsleep9.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7
