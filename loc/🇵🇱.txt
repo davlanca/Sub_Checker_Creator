@@ -1,6 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@r0xnfzk9ud.newwl.pro:443?security=tls&type=ws&sni=r0xnfzk9ud.newwl.pro&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=r0xnfzk9ud.newwl.pro&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru17.net#%F0%9F%87%B5%F0%9F%87%B1
 vless://df97ce68-477f-4484-94c7-79eccab7319d@130.78.31.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc&security=reality&sni=pol5.angelsleep9.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1

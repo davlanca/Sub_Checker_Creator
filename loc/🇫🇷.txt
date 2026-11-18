@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&flow=xtls-rprx-vision&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&security=reality&sni=fir2.angelsleep9.com&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7
+vless://364D2D52-E61E-4E52-80EC-2BC6BDF15349@fr-free.fastestrelay.com:443?path=%2F700gvl&security=tls&host=fr-free.fastestrelay.com&fp=chrome&type=ws&sni=fr-free.fastestrelay.com#%F0%9F%87%AB%F0%9F%87%B7

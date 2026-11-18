@@ -1,4 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:46957?security=reality&type=tcp&packetEncoding=xudp&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=8f6683a234d3&pbk=1SefqLQXrqkiUdf7cTMF53hrMZyo684_uneRC8-qTxI&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://df97ce68-477f-4484-94c7-79eccab7319d@69.48.229.52:443?flow=xtls-rprx-vision&fp=firefox&pbk=kRzgZOHaTRul4ozS_tQaxCVxWuxNpdgTbaCL8S_IwQU&security=reality&sni=sig1.angelsleep9.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
