@@ -1,8 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@200.169.179.233:443?encryption=none&mode=gun&security=tls&serviceName=mobile.api.Event&sni=vps3.nemnogogo.com&type=grpc&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&type=tcp&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=15aa0ad4&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgfCDwn4e68J+HuCDQodCo0JAgIzc1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%2375%20t.me%2Frjsxrd
-vless://035b0138-5834-4db2-b03a-91fd127b55fa@2.27.174.182:5999?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hBuW2XARoZFMlggcvnEEj7M39hYQXQXY_rhejMGRgm4&security=reality&sid=280893ea&sni=apple.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.194:18443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
