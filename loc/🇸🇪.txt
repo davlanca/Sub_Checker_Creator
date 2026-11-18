@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&fp=random&mode=gun&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&security=reality&sni=flintstack.dev&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru10.net:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=app.streamru10.net&fp=firefox&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA
