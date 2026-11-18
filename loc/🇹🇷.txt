@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@167.148.90.7:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=rmzt4nEpcRRyTmuIpwlY6V-Bv_PH8GBbcywTtdsbr2M&fp=firefox&type=tcp&sni=24d44.selvarieno.cc&sid=6f8857d6#%F0%9F%87%B9%F0%9F%87%B7

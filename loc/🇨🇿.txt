@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@147.125.185.8:443?security=reality&encryption=none&flow=xtls-rprx-vision&pbk=9DRoNAXYVYthauhy5V8ydH1kgFXAExg0uKBK-iRXwwc&fp=firefox&type=tcp&sni=48b0d.lecomain.com&sid=536b9798#%F0%9F%87%A8%F0%9F%87%BF
