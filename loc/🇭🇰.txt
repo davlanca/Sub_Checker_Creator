@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiJkb2ctaGsua3VubHVuMDFkbnMuY29tIiwicG9ydCI6IjIxMDQxIiwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
+vless://c4d6567e-c46e-410f-95ab-ac3a61e030f3@185.71.216.177:2091?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=08a4b1f473932632&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&encryption=none#%F0%9F%87%AD%F0%9F%87%B0

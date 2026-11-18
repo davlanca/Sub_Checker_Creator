@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://2e305ebe-f6e6-4689-b32f-cd04ab5ff541@188.114.96.9:443?&security=tls&fp=chrome&sni=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&type=ws&headerType=none&host=idb8onmvbntuyt5t7t6cejfw8vlrb.pages.dev&path=%2Fvl%2F9yvcoLdzdOXLUYfH7r5gwJhu1CHrj#%F0%9F%87%A8%F0%9F%87%BF

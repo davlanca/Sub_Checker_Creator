@@ -1,11 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOFx1RDgzQ1x1RERFNl/liqDmi7/lpKcgKDIpIiwNCiAgImFkZCI6ICIyMy4xNjIuMjAwLjE5OCIsDQogICJwb3J0IjogIjE4MDAwIiwNCiAgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9#%20t.me%2Frjsxrd
-vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.21.70.21:443?&security=tls&fp=unsafe&sni=nautica-cff.kloningstrife002.workers.dev&type=ws&headerType=none&host=nautica-cff.kloningstrife002.workers.dev&path=%2F138.2.74.219-28616#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://719b9354-45e2-4718-8709-d965b64554db@2.24.124.64:443?encryption=none&flow=xtls-rprx-vision&pbk=zpXR6Y36C8qUCIVk2p_j8C9KGeBk5xisLw66j3WFOls&security=reality&sid=9f1fc5a631ef3126&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pulse.sevka.xyz&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=api-ns-mgr.galioncc.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.35:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443?sni=va.stream-room.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@91.217.10.237:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&fp=firefox&sni=api-ns-mgr.galioncc.com&type=tcp&headerType=none&host=api-ns-mgr.galioncc.com&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
