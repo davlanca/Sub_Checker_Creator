@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=raw#%F0%9F%87%B1%F0%9F%87%BB
+vless://df97ce68-477f-4484-94c7-79eccab7319d@46.183.219.239:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TRhWL_Q_urd77W0ErV_XcbE8AUrSCyumYIBC0JRor2c&security=reality&sni=liv5.angelsleep9.com&type=tcp#%F0%9F%87%B1%F0%9F%87%BB
