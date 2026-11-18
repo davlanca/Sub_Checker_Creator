@@ -1,13 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@rivulet.filnex.baby:443?alpn=http%2F1.1&encryption=none&host=rivulet.filnex.baby&path=%2Fapi%2Fde6%2Fstream&security=tls&sni=rivulet.filnex.baby&type=ws&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@quay.gerqix.online:443?encryption=none&type=ws&security=tls&sni=quay.gerqix.online&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@50.7.87.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2.atlanta-games.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@103.246.248.21:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl.atlanta-api.com&pbk=2YbfBDRn1xu5OOVvC6H7Pq0p0gRtZtvSqFS08-M-DUY&sid=fad7e3b745b23e34&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=pulse.sevka.xyz&type=tcp&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@95.133.247.20:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://80a06811-f74b-4b82-ac99-7e66c2a98e1c@bookend.filnex.baby:443?encryption=none&type=ws&security=tls&sni=bookend.filnex.baby&fp=firefox&alpn=http/1.1&path=/api/de1/stream#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@23.237.193.203:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=usa-nf.reddotcorp.org&pbk=7YLtXcQkTEdKyGFmgi42nK73i0ttAP9tcQV12o5Ylyo&sid=9db6b6d13d17987e&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://9da605d3-f5f7-4135-f806-450f036f9351@djj.zjlo.top:23169?security=tls&type=tcp&packetEncoding=none&allowInsecure=0&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
