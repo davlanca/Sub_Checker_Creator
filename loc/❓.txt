@@ -1,16 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOF/nvo7lm70gKDEwKSIsDQogICJhZGQiOiAiODQuMTcuNDEuMiIsDQogICJwb3J0IjogIjE4MDAwIiwNCiAgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9#%20t.me%2Frjsxrd
-vless://a30903dc-1bf0-0003-8b1b-603a3a56211c@48.103.120.22:443?&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&fp=firefox&sni=svc-net-ctl.galioncc.com&type=tcp&headerType=none&host=svc-net-ctl.galioncc.com&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://2d399e38-245c-4f07-abf2-cfce7397ba9c@31.76.106.92:8443?sni=va.stream-room.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.34:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://eac84acd-2fd2-4c61-8ed7-05c008f00d25@150.251.142.35:8443?sni=speedtestmark.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@185.155.55.12:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&security=reality&sid=661766b2bcef440a&sni=ee-nf.reddotcorp.org&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@50.7.87.123:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-v2.atlanta-games.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://ebdfaf99-41d8-4e48-8196-d54510ffb556@45.129.242.56:443?encryption=none&type=tcp&security=reality&headerType=none&sni=www.cloudflare.com&fp=chrome&pbk=YURKlEQ3rap4KOXXGsVFZyYev2oDU2gCEbNTXPdKWRY&sid=abcdef&flow=xtls-rprx-vision#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@95.182.110.134:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://f18c5f6d-2bac-4a99-8c92-a6e6e7aea9b4@95.133.247.20:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dJqaQL_kSl2DFR7Dx3igZXhPuw1uW9d7XejtyYSvkGg&security=reality&sid=aaa2ba7d45c12957&sni=fr.atlanta-api.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJhZGQiOiJzdXBwb3J0Lnpvb20udXMiLCJhaWQiOiIwIiwiaG9zdCI6ImlkMi5uYXRoYXlhLndlYi5pZCIsImlkIjoiNGNhZjE1NmEtMzMwOS00MTA1LTgzODgtZDM4OGViOWUxMTA1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3doYXRldmVyL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0xNTM3Iiwic2N5IjoiYXV0byIsInNuaSI6Inpvb21nb3YubmF0aGF5YS53ZWIuaWQiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
-hysteria2://3a17ce52-4547-45aa-9820-a7d03ad5faca@45.86.74.193:443?sni=media.embrofree.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
