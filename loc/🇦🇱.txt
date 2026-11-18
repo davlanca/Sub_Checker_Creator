@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://df97ce68-477f-4484-94c7-79eccab7319d@48.103.205.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&security=reality&sid=28ffd89d510a739b&sni=alb1.angelsleep9.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B1
+vless://df97ce68-477f-4484-94c7-79eccab7319d@alb1.angelsleep9.com:443?security=reality&encryption=none&pbk=tXhsg663V1Ia_YWMtQMWQRaZouyONXknQ16OLMAdFXs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=alb1.angelsleep9.com&sid=28ffd89d510a739b#%F0%9F%87%A6%F0%9F%87%B1
