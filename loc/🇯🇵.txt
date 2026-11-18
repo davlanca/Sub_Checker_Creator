@@ -2,5 +2,3 @@
 //profile-update-interval: 1
 
 vless://df97ce68-477f-4484-94c7-79eccab7319d@31.76.91.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Bl-k0ABaVMOc-zIJG-EXiZPJSx6IW48yL6N46IZ0ZEY&security=reality&sni=jap1.angelsleep9.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@13.114.101.22:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5

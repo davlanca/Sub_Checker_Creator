@@ -3,8 +3,8 @@
 
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#%F0%9F%87%AB%F0%9F%87%B7
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=passport.yandex.ru&alpn=http%2F1.1&fp=firefox&security=reality&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6#%F0%9F%87%AB%F0%9F%87%B7
-vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KvhOBGV_aFOuJg1_QMre2uewPCjyZlazQIuRa3rhNT8&security=reality&sni=fir1.angelsleep9.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://14b49dbd-e6a8-442c-9d64-a28682b87c53@213.176.73.245:2096?encryption=none&fp=firefox&security=tls&serviceName=edge8&sni=edge8.volkswagenman.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
-vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&security=reality&sni=fir2.angelsleep9.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.94:2092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.27:19999#%F0%9F%87%AB%F0%9F%87%B7
+vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?flow=xtls-rprx-vision&security=reality&sni=fir2.angelsleep9.com&fp=firefox&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.221.19:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=191.217.221.19&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.162:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fir1.angelsleep9.com&fp=firefox&pbk=KvhOBGV_aFOuJg1_QMre2uewPCjyZlazQIuRa3rhNT8&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7
