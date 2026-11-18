@@ -1,7 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&spx=%2Fa4ab4cc7452faca&type=tcp&fp=random#%F0%9F%87%AB%F0%9F%87%AE
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.144.52.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-GuGq2rg6lgl4LcxHBFhBZCKKEtES2EGeD2qwXilrXI&security=reality&sni=wergmb.wey-land.net&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@45.144.52.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=wpKYWqa_j7WXClXDdSL-llXhjH918G_U7jfpHAMSGWk&security=reality&sni=fl-modx.nodexphere.net&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.191.238:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8UDQBgE22DBBb_Xd8XSikBkyUD-4oO7LEbyUYo8CqjE&security=reality&sid=01de78f5f846cc52&sni=fil6.angelsleep9.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
