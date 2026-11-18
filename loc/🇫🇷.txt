@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?flow=xtls-rprx-vision&security=reality&sni=fir2.angelsleep9.com&fp=firefox&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.162:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fir1.angelsleep9.com&fp=firefox&pbk=KvhOBGV_aFOuJg1_QMre2uewPCjyZlazQIuRa3rhNT8&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7
+vless://df97ce68-477f-4484-94c7-79eccab7319d@45.39.255.25:443?encryption=none&flow=xtls-rprx-vision&pbk=vIho2vPJud-TmvPPTPrLheREXrXkqRFO4gB4rs4T6h0&security=reality&sni=fir2.angelsleep9.com&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7
