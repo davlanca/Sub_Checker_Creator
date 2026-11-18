@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 
 vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iBEesuOsglmAW2h0Cts7hsATNKhXkHnZq2dbR7Xn0HY&security=reality&sni=polandchuzhoi.site&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru17.net:443?encryption=none&type=tcp&security=tls&sni=app.streamru17.net&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru17.net#%F0%9F%87%B5%F0%9F%87%B1
+vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#%F0%9F%87%B5%F0%9F%87%B1

@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com#%F0%9F%87%B8%F0%9F%87%AC
-vless://11e6855d-947b-4d5e-ad3b-8a1efe518139@200.102.183.122:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ciicN0-MEYjA97vI__h_hiKtLReotOl5skC7eVtvknU&security=reality&sid=62906f01030b6781&sni=lantern-mist.cdn.cachefleet.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
