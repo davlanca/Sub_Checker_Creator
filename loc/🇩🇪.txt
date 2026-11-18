@@ -2,9 +2,6 @@
 //profile-update-interval: 1
 
 vless://d1bd7647-6faf-4911-bfc6-451cd219e640@178.17.58.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=cdn-79.mvpm.site&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
-vless://4cf2635f-400a-4556-bb66-645990da5fe1@168.113.132.25:2087?flow=xtls-rprx-vision&security=reality&sni=youflexsite.jumpingcrab.com&fp=firefox&pbk=Ex2L4ivp4x1KS6hrredENthbnhAfhJ81Z0HJXVAqHkU&sid=3abd9457f2568d48#%F0%9F%87%A9%F0%9F%87%AA
-vless://07df3711-07a1-4649-9a61-3f16cb931d02@ec7a81g.de19.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=ec7a81g.de19.h1clayd.click&fp=chrome&pbk=shUbIWcBJdXaDzO80KqTU9exgMarUCOiiZ56Dwl7XVU&sid=7a8e24da4eb2c1b5&spx=/&serviceName=43f41cd7fee0#%F0%9F%87%A9%F0%9F%87%AA
-vless://07df3711-07a1-4649-9a61-3f16cb931d02@345739t.de19.h1clayd.click:443?encryption=none&type=tcp&security=reality&sni=345739t.de19.h1clayd.click&fp=chrome&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d#%F0%9F%87%A9%F0%9F%87%AA
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.31:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru2.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru3.net:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=app.streamru3.net#%F0%9F%87%A9%F0%9F%87%AA
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru2.net:443?encryption=none&type=tcp&security=tls&sni=app.streamru2.net&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA
