@@ -1,4 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&insecure=0&allowInsecure=0&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%A6%F0%9F%87%AA
+hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@48.102.214.171:4444?sni=fl4.edgeport.cloud#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://bdbe16d5-5aa8-4f18-bdfe-0fb086cebb8b@217.78.237.118:30087?sni=assets1df0.cdn.tv-av.fun#%F0%9F%87%AA%F0%9F%87%B8

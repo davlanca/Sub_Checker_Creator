@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?encryption=none&flow=xtls-rprx-vision&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
+vless://bab61ae8-b04f-474a-9268-d6becc3ca487@2.26.128.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=n6uqg76Ky-Vl-HUDF_iwZTaK3L_iQ_YoFP92U8PPYS0&security=reality&sid=6d2a8e5f1b9c3704&sni=conf.emaar.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://bab61ae8-b04f-474a-9268-d6becc3ca487@185.70.223.54:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=n6uqg76Ky-Vl-HUDF_iwZTaK3L_iQ_YoFP92U8PPYS0&security=reality&sid=6d2a8e5f1b9c3704&sni=conf.emaar.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE

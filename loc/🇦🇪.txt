@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru1.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&insecure=0&allowInsecure=0&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#%F0%9F%87%A6%F0%9F%87%AA
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@app.streamru1.com:443?flow=xtls-rprx-vision&security=tls&sni=app.streamru1.com&type=tcp&fp=edge#%F0%9F%87%A6%F0%9F%87%AA
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@31.58.213.201:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru1.com#%F0%9F%87%A6%F0%9F%87%AA

@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://bab61ae8-b04f-474a-9268-d6becc3ca487@2.26.139.204:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HmnsKa6Mmm34gALomXBKB7d8UMIM33hhItp2z43VCkQ&security=reality&sid=a1d8f3b6c2e59407&sni=cdn.tbank.ru&type=tcp#%F0%9F%87%AD%F0%9F%87%BA
