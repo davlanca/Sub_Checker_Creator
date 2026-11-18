@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9921b176-e013-4b66-adc3-a6bc33c3ab7d@172.67.247.113:443?security=tls&type=ws&path=%2F8a3c663fe6311479%3Fed%3D2560&host=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&fp=firefox&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
-vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@172.67.208.235:2096?security=tls&type=ws&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=courses.mftplus.qzz.io&packetEncoding=xudp&sni=courses.mftplus.qzz.io&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@win2loxfde0202.gggrelay.org:30322?&security=reality&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=ios&sni=psstatic.cdn.bcebos.com&type=tcp&headerType=none&host=psstatic.cdn.bcebos.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=ios&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
