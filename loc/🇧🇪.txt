@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://44ddb84a-f152-47ef-a970-fd63f2df9b30@93.88.206.70:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=pulse.sevka.xyz&type=tcp&headerType=none&path=%2F#%F0%9F%87%A7%F0%9F%87%AA
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.198.88:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=191.217.198.88&type=tcp#%F0%9F%87%A7%F0%9F%87%AA

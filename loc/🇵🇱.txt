@@ -1,10 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?encryption=none&flow=xtls-rprx-vision&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@144.31.0.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1eEtiZY5qDDosntp-9_xFnOIvOBzHy4d3-eA7v11qx0&security=reality&sni=gmtrtb.wey-land.net&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://2bba3b63-eb4c-006d-aa58-ae9d4a1430c8@48.102.250.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=48.102.250.55&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://df97ce68-477f-4484-94c7-79eccab7319d@pol5.angelsleep9.com:443?security=reality&pbk=Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=pol5.angelsleep9.com#%F0%9F%87%B5%F0%9F%87%B1
-vless://df97ce68-477f-4484-94c7-79eccab7319d@130.78.31.44:443?security=reality&encryption=none&pbk=Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pol5.angelsleep9.com#%F0%9F%87%B5%F0%9F%87%B1
-vless://e0decac3-1b3e-4ab1-a2a8-860a8aca76f6@187.54.1.75:3738?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl38.static-s3.org&pbk=y2_CwHuL3tWUgKn_bHn4WUMX_cVHdSi4JbLKCfD6_3A&sid=d777235c883e6c88&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru17.net#%F0%9F%87%B5%F0%9F%87%B1
+vless://df97ce68-477f-4484-94c7-79eccab7319d@130.78.31.44:443?security=reality&encryption=none&pbk=Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=pol5.angelsleep9.com#%F0%9F%87%B5%F0%9F%87%B1

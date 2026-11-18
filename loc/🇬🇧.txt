@@ -2,6 +2,3 @@
 //profile-update-interval: 1
 
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=raw#%F0%9F%87%AC%F0%9F%87%A7
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@48.102.251.246:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=48.102.251.246&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@fi20.h1cloud.net:25090?encryption=none&flow=xtls-rprx-vision&pbk=7G4Jpyi1yaMHx6mhqxcoF2DgpWrfGJl714sWzSRK_Ws&security=reality&sid=c02d36577fecf7ca&sni=dbb72fr.fi20.h1clayd.shop&type=tcp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7
-vless://f3a227cb-8a8b-4ccb-b613-9143c4a1346c@166.0.28.79:25090?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=7G4Jpyi1yaMHx6mhqxcoF2DgpWrfGJl714sWzSRK_Ws&security=reality&sid=c02d36577fecf7ca&sni=dbb72fr.fi20.h1clayd.shop&type=tcp#%F0%9F%87%AC%F0%9F%87%A7

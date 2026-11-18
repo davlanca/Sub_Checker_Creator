@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@87.228.101.43:443?encryption=none&fp=edge&mode=gun&pbk=n8hYILIctbUJNJqFXLxQY2Fx2f9bzfCMRWAgETc6GGY&security=reality&sid=009818&sni=360.yandex.ru&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@88.216.189.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1VhM5R3IlHPjzxEeTuik1lcUad-HI6C57MzXxppyXg4&security=reality&sni=modx.wey-land.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@82.117.84.21:443?flow=xtls-rprx-vision&security=reality&sni=fi-21-ym26.wave-inside.online&fp=firefox&pbk=itkcFpUUEAiAWBulB1zCwEDwlBeRx3rxHmoy-xmxTzY&sid=3d37c992e3a6f8cc#%F0%9F%87%B8%F0%9F%87%AA
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=app.streamru10.net&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?security=tls&sni=subgift.gcorecdn.com&alpn=http%2F1.1&type=ws&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?security=tls&type=ws&path=%2Ft.me-SubGift&host=subgift.gcorecdn.com&alpn=http%2F1.1&sni=subgift.gcorecdn.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
 vless://df97ce68-477f-4484-94c7-79eccab7319d@2.26.101.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=NDaFo-4WjwhCA2OJKiLhvek2U2D7F-lqJi0-SUfFTEk&security=reality&sni=swd2.angelsleep9.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA

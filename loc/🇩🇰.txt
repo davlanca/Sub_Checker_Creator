@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.199.167:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=m6US_Wo7oYwRvmXWu2_bMRST1FB_rVcPpW3TqZX5_xY&security=reality&sni=191.217.199.167&type=tcp#%F0%9F%87%A9%F0%9F%87%B0
