@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.71.167:19999#%F0%9F%87%AA%F0%9F%87%B8
-hysteria2://bdbe16d5-5aa8-4f18-bdfe-0fb086cebb8b@217.78.237.118:30087?sni=assets1df0.cdn.tv-av.fun#%F0%9F%87%AA%F0%9F%87%B8

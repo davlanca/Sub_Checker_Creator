@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@84.32.154.74:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=app.streamru10.net&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
