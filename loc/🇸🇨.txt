@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://bb2a729c-6185-4170-8769-6f5b9f64d5b8@104.18.79.242:443?security=tls&type=ws&path=%2F11290579a72cdb4e%3Fed%3D2560&host=cloud-sync-3d1512-gw.maziarkish.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cloud-sync-3d1512-gw.maziarkish.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%A8

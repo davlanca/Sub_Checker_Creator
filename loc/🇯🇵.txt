@@ -2,7 +2,4 @@
 //profile-update-interval: 1
 
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?encryption=none&flow=xtls-rprx-vision&security=reality&sni=psstatic.cdn.bcebos.com&fp=firefox&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE&sid=15aa0ad4&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5
-vless://f67b1159-a61f-4ae4-9844-0701b716a290@155.248.175.201:23169?security=tls&type=tcp&packetEncoding=xudp&sni=djj.zjlo.top&fp=firefox&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%F0%9F%87%AF%F0%9F%87%B5
-vless://7318caa1-93d1-4a9d-c481-504599902700@djj.zjlo.top:23169?security=tls&type=tcp&packetEncoding=xudp&sni=djj.zjlo.top&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5
 vless://df97ce68-477f-4484-94c7-79eccab7319d@31.76.91.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Bl-k0ABaVMOc-zIJG-EXiZPJSx6IW48yL6N46IZ0ZEY&security=reality&sni=jap1.angelsleep9.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5
