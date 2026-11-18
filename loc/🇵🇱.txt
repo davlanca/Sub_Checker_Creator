@@ -2,8 +2,7 @@
 //profile-update-interval: 1
 
 vless://47ac6931-bed7-4456-ae7d-5d440257dd78@177.202.76.31:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://5f1c2e83-d4aa-a028-81e9-e0ccc018974c@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&security=reality&sid=8d760489b7a2b8ac&sni=lkm8.artemida.digital&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru17.net#%F0%9F%87%B5%F0%9F%87%B1
 vless://df97ce68-477f-4484-94c7-79eccab7319d@179.253.101.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Wpgu3RZ3zdg1Hj0uj1xskeDAQ73bKplj0zpcRKj52D0&security=reality&sni=pl6.angelsleep9.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://a346c521-7a7f-452b-9356-a4893feb5982@83.171.241.244:25267?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tP78ugkcN9bZU6fJH3mqHJIErR8vjBwOw0ERPwCZSSM&security=reality&sid=b1e59e06c61b090c&sni=pl1-edge.bankai.party&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@179.253.101.162:443?security=tls&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=app.streamru17.net#%F0%9F%87%B5%F0%9F%87%B1
+vless://5f1c2e83-d4aa-a028-81e9-e0ccc018974c@48.102.216.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2yqGYYn0FG7dy5vtEkeyouBuIsMQFbpFHnx-yCCPABM&security=reality&sid=8d760489b7a2b8ac&sni=lkm8.artemida.digital&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://df97ce68-477f-4484-94c7-79eccab7319d@130.78.31.44:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Fgl3cxer1ZznUcZpuUQZnqdSkqwwFepl5W4o6Lk0mEc&security=reality&sni=pol5.angelsleep9.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
