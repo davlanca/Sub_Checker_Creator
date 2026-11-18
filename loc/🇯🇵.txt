@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:43149?security=reality&type=tcp&sni=psstatic.cdn.bcebos.com&fp=chrome&flow=xtls-rprx-vision&sid=15aa0ad4&pbk=cvong7paE8XIzzbKWgV5iUruP1pBqI2IhMuBHc8c0UE#%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5
