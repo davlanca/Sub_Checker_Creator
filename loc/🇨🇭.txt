@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://265ecca2-4733-49de-b2c9-ed7f0e999655@193.233.219.98:443?alpn=http&headerType=none&host=vpn-rating.space&path=%2Fapi%2Fvless&security=tls&sni=daily-author.ru&type=ws&fp=ios#%F0%9F%87%A8%F0%9F%87%AD
