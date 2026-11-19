@@ -1,4 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://c55f65ef-3be3-477a-a646-94c3ccec1604@188.225.79.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=85RCMJFwNRqdmhejfM7cOVEK6RvB6WaaJbCYtbgBuis&security=reality&sid=1082c05da2311d1f&sni=passport.yandex.ru&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://f373e4b9-9c6a-45e1-9a6a-c4be501e6023@82.148.239.164:2053?type=xhttp&security=reality&fp=firefox&pbk=2b20NIZtSp01gg_vpU4fu5IuEDZVEQptfBr7XY2Q4zc&sni=yandex.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgfCDwn4e68J+HuCDQodCo0JAgIzc1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%2375%20t.me%2Frjsxrd
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTIyIiwiYWRkIjoiY2RuLnNmYWNnLnVrIiwicG9ydCI6IjIwODMiLCJpZCI6ImFjMjUxMjM3LTU3NmYtNDBjOC1hNTQzLTU1NDk2MGM5NThiMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJvcjMuc2ZhY2cudWsiLCJwYXRoIjoiL29yMyIsInRscyI6InRscyIsInNuaSI6ImNkbi5zZmFjZy51ayIsInRlc3RfbmFtZSI6IjEyMiJ9#%20t.me%2Frjsxrd
