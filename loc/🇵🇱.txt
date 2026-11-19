@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 
 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1
-vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.211:443?flow=xtls-rprx-vision&fp=firefox&pbk=iBEesuOsglmAW2h0Cts7hsATNKhXkHnZq2dbR7Xn0HY&security=reality&sni=polandchuzhoi.site&type=raw#%F0%9F%87%B5%F0%9F%87%B1
-vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://266e7048-b5dd-4674-b8e3-eea10fd21aea@45.152.113.249:8443?security=reality&encryption=none&pbk=UgqPM4EO_ZYMdHKCtAiVfW6I1DVjljvkyyKl19gNxCY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=static.selectel.ru&sid=0d716963661ef982#%F0%9F%87%B5%F0%9F%87%B1
+vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@rsk3.betust.net:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1
+vless://be146d46-ae50-4691-838c-b6c87dbaec8f@143.246.41.214:443?encryption=none&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp&fp=edge#%F0%9F%87%B5%F0%9F%87%B1
