@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://ac9f10c0-7ffe-4fc7-a301-52ffd8af5573@188.214.129.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bkKOiMl4vnU10lZSEEL0Uj5dqKKNXW8I2t86Fo9sVmw&security=reality&sid=7594d4e0&sni=app.streamru15.net&type=tcp#%F0%9F%87%B1%F0%9F%87%B9

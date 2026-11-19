@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 
 vless://0c1c6550-08ee-49fd-8ef8-df2776cca31f@179.253.85.127:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=212.192.156.15&pbk=a9O5evb8g385KJm77j9SKlB7MvHzUBGes6c8BAxyO1U&sid=5fd3245e96291c37&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.28.228:2096?encryption=none&fp=firefox&host=ste87ea.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=ste87ea.rumedia-cdn.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%BA%F0%9F%87%B8

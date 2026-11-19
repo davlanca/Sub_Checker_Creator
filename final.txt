@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
+
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.231:2096?encryption=none&fp=firefox&host=st71404.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st71404.rumedia-cdn.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.218:2096?encryption=none&fp=firefox&host=st64d67.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st64d67.rumedia-cdn.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@144.31.215.197:2096?encryption=none&fp=firefox&host=st23ca2.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st23ca2.rumedia-cdn.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA
