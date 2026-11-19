@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@138.124.117.97:443?flow=xtls-rprx-vision&security=reality&sni=nl-27-1fem.wave-inside.online&fp=firefox&pbk=WzCuQZ88ggX-h9wws4h-V1-3qn1qOiqZKHGU0X3-9RE&sid=209ecb08b71217f6#%F0%9F%87%AC%F0%9F%87%A7
 vless://12910384-1ef8-40a3-818a-57277063ea66@13.143.185.27:8443?type=grpc&security=tls&fp=firefox&sni=kk-50cd74.testkknegr.online&mode=gun&serviceName=vlgrpc#%F0%9F%87%AC%F0%9F%87%A7
+vless://775c9d67-2ef3-47e8-8e23-656b68333da8@172.67.235.78:443?security=tls&type=ws&path=%2F1e0b190b5bbf9d36%3Fed%3D2560&host=web-flow-263808-gw.poryya22o.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=web-flow-263808-gw.poryya22o.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://12910384-1ef8-40a3-818a-57277063ea66@31.76.69.76:8443?type=grpc&security=tls&fp=firefox&sni=kk-97e6ec.testkknegr.online&mode=gun&serviceName=vlgrpc#%F0%9F%87%AC%F0%9F%87%A7
 vless://12910384-1ef8-40a3-818a-57277063ea66@144.31.214.68:8443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=vlgrpc&allowInsecure=0&sni=kk-fr2-21468.testkknegr.online#%F0%9F%87%AC%F0%9F%87%A7
 vless://12910384-1ef8-40a3-818a-57277063ea66@13.143.183.129:8443?type=grpc&security=tls&fp=firefox&sni=kk-58418b.testkknegr.online&mode=gun&serviceName=vlgrpc#%F0%9F%87%AC%F0%9F%87%A7
