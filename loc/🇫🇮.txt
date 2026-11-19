@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7ee0bbc1-fd51-456d-b56b-1954b15958f6@81.94.148.61:8443?encryption=none&fp=chrome&mode=gun&pbk=DaIRouGSxxQDEv9WKRxD79b2Vt0fsw4yQOTeAmXUYCM&security=reality&serviceName=ads.x5.ru&sid=08&sni=gazeta-business.ru&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
-vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
+vless://5727f9a4-42d9-4569-8016-0e1098da37ec@78.17.96.242:2083?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sub.salasnik.fun&pbk=6YbUHTSD0SIIGMl_QHHGJZdlCt22KbEK6hizYKY2Tyg&sid=379ae0567f33cc34#%F0%9F%87%AB%F0%9F%87%AE
+vless://5727f9a4-42d9-4569-8016-0e1098da37ec@78.17.96.242:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=sub.salasnik.fun&pbk=wv7S1v5S5LhQmVxMhEUXWMnaXYYFXPDSTeHjoFdlujA&sid=16534b48db0c07#%F0%9F%87%AB%F0%9F%87%AE
