@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://c1f4f185-5786-40c9-893f-2f100b7165f2@94.183.195.176:20026?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp#%F0%9F%87%AA%F0%9F%87%B8
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.71.167:19999#%F0%9F%87%AA%F0%9F%87%B8

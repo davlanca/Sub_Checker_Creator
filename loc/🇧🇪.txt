@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://167d8db3-b2bd-0001-af44-424911f4ba28@84.38.189.122:443?encryption=none&security=tls&sni=shyrc-ru-75sel.my-fade.cloud&packetEncoding=xudp&fp=android#%F0%9F%87%A7%F0%9F%87%AA

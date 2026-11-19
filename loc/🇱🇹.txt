@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://66fdec33-40bb-44c9-ab09-67e99471c051@201.58.155.64:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMkW1axrhEXoiJ6anMz9XEjlfqlAtEZya7L0b5ZPMyw&security=reality&sid=af2bebede7320b3e&sni=clan2-39471de30b50bb.webmoney.ru&type=tcp#%F0%9F%87%B1%F0%9F%87%B9

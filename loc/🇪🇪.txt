@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://544982fe-6a90-0001-bf97-44054d1c01d4@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=android#%F0%9F%87%AA%F0%9F%87%AA
+hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&alpn=h3#%F0%9F%87%AA%F0%9F%87%AA
