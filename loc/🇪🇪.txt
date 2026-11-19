@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://67864856-8730-40cc-9e1a-a0df697d912b@85.92.156.133:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=de.krabvpn.pro&type=tcp#%F0%9F%87%AA%F0%9F%87%AA

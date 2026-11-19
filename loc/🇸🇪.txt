@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@2.27.14.247:2096?encryption=none&fp=firefox&host=st2a695.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st2a695.rumedia-cdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
