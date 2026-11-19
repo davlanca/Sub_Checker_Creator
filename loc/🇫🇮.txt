@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@172.64.79.163:2083?&security=tls&fp=chrome&sni=vipfree.dr-ping.ir&type=ws&headerType=none&host=vipfree.dr-ping.ir&path=%2F#%F0%9F%87%AB%F0%9F%87%AE
+vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?flow=xtls-rprx-vision&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
