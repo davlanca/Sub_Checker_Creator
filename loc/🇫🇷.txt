@@ -1,11 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@107.161.160.28:8388#%F0%9F%87%AB%F0%9F%87%B7
 vless://50414e45-4c5f-5a45-5553-f277a169a331@aghil.gamse.ir:8443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Ff277a169a331&host=0wznu8e3ut0s.q2znzkeiurys.workers.dev&packetEncoding=xudp&sni=0wznu8e3ut0s.q2znzkeiurys.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
 vless://50414e45-4c5f-5a45-5553-f277a169a331@0wznu8e3ut0s.q2znzkeiurys.workers.dev:8443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Ff277a169a331&host=0wznu8e3ut0s.q2znzkeiurys.workers.dev&packetEncoding=xudp&sni=0wznu8e3ut0s.q2znzkeiurys.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.95:2092?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=716b7eba38125f3a&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&encryption=none#%F0%9F%87%AB%F0%9F%87%B7

@@ -1,9 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#%F0%9F%87%AF%F0%9F%87%B5
+vless://4d2d8c67-74f2-4a7d-afeb-6f604b3fc00c@178.105.133.160:4443?security=tls&type=ws&path=%2F%40Marisa_kristi&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&packetEncoding=xudp&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@168.138.205.100:53758#%F0%9F%87%AF%F0%9F%87%B5
-vless://7659cb8c-9577-444b-bf47-f5a6d1ccc84e@142.91.101.39:627?security=tls&type=ws&path=%2F%40Marisa_kristi&host=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&packetEncoding=xudp&sni=5iv93opy8jus9z.bjo5si35c9i9ud4242fado49188obkoiermjuxj7zgxu.workers.dev&fp=chrome&encryption=none#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&serviceName=v3-direct#%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg==@jpa.123069.xyz:53758#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?type=ws&headerType=none&security=tls&encryption=none&sni=jp3.yohototo.top&fp=chrome&path=%2Ftyxyws&host=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
