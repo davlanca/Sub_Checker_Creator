@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://45b5fdbe-c799-0001-8c64-2ad6bf39bb18@185.151.243.186:443?security=tls&sni=piodr-ru-74sel.my-fade.cloud&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=raw#%F0%9F%87%AC%F0%9F%87%A7
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=swdist.apple.com&path=%2F#%F0%9F%87%AC%F0%9F%87%A7
+vless://f439541f-c4d2-43b3-9659-8d3515d7a64c@164.37.110.126:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&sni=212.192.156.15&pbk=a9O5evb8g385KJm77j9SKlB7MvHzUBGes6c8BAxyO1U&sid=5fd3245e96291c37&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6c21Ddzl4MTllYkZJdG9sWHRGOE81QnBobWlYYUZxZGVlbklEY0I1dExBVT0@129.151.93.114:61312#%F0%9F%87%AC%F0%9F%87%A7

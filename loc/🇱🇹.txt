@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://aae24578-9f15-0001-a5b1-4f46630e5ef8@81.163.22.109:443?encryption=none&fp=chrome&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&type=raw#%F0%9F%87%B1%F0%9F%87%B9
+vless://3150a468-88fd-0001-af91-4aef86004812@168.113.254.247:443?encryption=none&type=tcp&security=tls&sni=vcerx-ru-67sb.my-fade.cloud&fp=android#%F0%9F%87%B1%F0%9F%87%B9
 vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&security=reality&sid=4d3affb557796d1c&sni=admin.mistral.ai&type=tcp#%F0%9F%87%B1%F0%9F%87%B9
