@@ -2,5 +2,3 @@
 //profile-update-interval: 1
 
 hysteria2://ca60984f-b1f0-4073-bd33-4c75168f749a@31.59.169.225:443?sni=ge-beer-1.fantoff.online#%F0%9F%87%A6%F0%9F%87%AA
-vless://c1f4f185-5786-40c9-893f-2f100b7165f2@94.183.195.176:443?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=127.0.0.1&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
-vless://c1f4f185-5786-40c9-893f-2f100b7165f2@94.183.195.176:20001?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
