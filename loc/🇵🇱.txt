@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://b29dbea6-ca59-4d9f-baac-596dc8402812@188.225.25.35:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rJ-fFNYXh7WW9LuYe1N71fh7nAEe5i09Pi5ZDSDlH1s&security=reality&sid=4951a2313524dd8f&sni=ru.starkclaude.top&type=raw#%F0%9F%87%B5%F0%9F%87%B1
