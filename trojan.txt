@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-trojan://poimnap@alireza.karamoz1.ir:443?security=tls&sni=alireza.karamoz1.ir&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
-trojan://+Y4bH6SejVz8gunXYHMS94Oy2yn4313jzITBdW8eLsI=@sub.macdonalder.cyou:37468?type=httpupgrade&security=tls&fp=firefox&sni=sub.macdonalder.cyou&host=sub.macdonalder.cyou&alpn=h2,http/1.1&ech=AGf+DQBjAAAgACAhFNYCzEaeuJhDdU3vr+RcePA8Hsa1jMoB38bav18pdQAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABRzdWIubWFjZG9uYWxkZXIuY3lvdQAA#%F0%9F%87%BA%F0%9F%87%B8
