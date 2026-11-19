@@ -3,3 +3,4 @@
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999#%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%F0%9F%87%B8%F0%9F%87%AC
+vless://a32f3ec6-d776-450e-9d97-9e2deb6c8421@142.91.101.39:627?security=tls&type=ws&path=%2F%40Marisa_kristi&host=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&packetEncoding=xudp&sni=jr61rsc8fog5f.l6yr5b4ialxnf2ll2zcsgmlqf3u.workers.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC

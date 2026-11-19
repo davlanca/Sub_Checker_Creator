@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 
 vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&security=reality&sid=94acb54627612d43&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@81.200.152.153:443?security=reality&encryption=none&pbk=t2iopaZn9-fADmIi4taXbGUV6wFTFku4eGi8KISuZAM&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=gmbasdasd.wey-land.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.194:18443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@188.225.82.6:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8wsCMM2zufCIE32RR7_Df1512OC2M6qGmahqDofzCDc&security=reality&sid=73e0da0b&sni=preview.rutube.ru&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@dfsto.whitenw.net:8443?encryption=none&flow=xtls-rprx-vision&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&security=reality&sid=b470934eb6924098&sni=passport.yandex.ru&type=tcp&fp=safari#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://035b0138-5834-4db2-b03a-91fd127b55fa@2.27.174.182:5999?flow=xtls-rprx-vision&fp=firefox&pbk=hBuW2XARoZFMlggcvnEEj7M39hYQXQXY_rhejMGRgm4&security=reality&sid=280893ea&sni=apple.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgfCDwn4e68J+HuCDQodCo0JAgIzc1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%2375%20t.me%2Frjsxrd
