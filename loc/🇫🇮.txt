@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
