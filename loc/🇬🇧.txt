@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b004e898-f6cf-54a5-d281-f063d741ad53@xray-ckc68nno-swift-harbor-8.cloady.io:443?type=ws&path=%2F3e0261245277336d&host=xray-ckc68nno-swift-harbor-8.cloady.io&security=tls&sni=xray-ckc68nno-swift-harbor-8.cloady.io&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#%F0%9F%87%AC%F0%9F%87%A7
+vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=raw#%F0%9F%87%AC%F0%9F%87%A7
