@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://9a9f167d-b461-466f-be50-f0ffd598a6f8@31.77.158.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY&security=reality&sni=swedenafteraventura.space&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@2.27.14.247:2096?encryption=none&fp=firefox&host=st2a695.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=st2a695.rumedia-cdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
