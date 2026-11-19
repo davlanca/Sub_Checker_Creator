@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@95.167.57.136:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pNj1rPSs9XjNpf30e8DjGbNBU1fp58CzFrxP36_D42U&security=reality&sid=b470934eb6924098&sni=passport.yandex.ru&spx=%2F&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@87.242.94.49:443?security=tls&sni=radio-prichal.online&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fcheckout%2Fstep%2FTweBulkxumU_#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c55f65ef-3be3-477a-a646-94c3ccec1604@188.225.79.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=85RCMJFwNRqdmhejfM7cOVEK6RvB6WaaJbCYtbgBuis&security=reality&sid=1082c05da2311d1f&sni=passport.yandex.ru&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://8f704ed6-9a1a-4d04-94dd-1bff501716de@85.90.197.220:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=biNcdU5mywtNw-KyPpLHindBxdEyAolT1WJ26N0b7y4&security=reality&sid=94acb54627612d43&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://955d8dc7-5e3b-40ac-b2bb-bd8aa20fc7e6@194.58.95.65:443?encryption=none&flow=xtls-rprx-vision&pbk=SnoafrsbeHFuYj-qQsTDjBhy1eBQB7J7Q9HAZQSMgHY&security=reality&sni=hohol.nodexphere.net&type=tcp&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.194:18443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://035b0138-5834-4db2-b03a-91fd127b55fa@2.27.174.182:5999?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hBuW2XARoZFMlggcvnEEj7M39hYQXQXY_rhejMGRgm4&security=reality&sid=280893ea&sni=apple.com&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgfCDwn4e68J+HuCDQodCo0JAgIzc1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%2375%20t.me%2Frjsxrd
