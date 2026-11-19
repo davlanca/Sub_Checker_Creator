@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@78ec29x.fi2.h1clayd.click:443?encryption=none&mode=auto&path=%2F&pbk=WCuIW5EhUUfvOtDeVO-M7NjwXaE20zinTv3rpQ9erxs&security=reality&sid=6f2d8ece33a96159&sni=78ec29x.fi2.h1clayd.click&spx=%2F&type=xhttp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
 vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
