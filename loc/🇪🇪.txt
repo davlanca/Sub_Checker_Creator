@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://544982fe-6a90-0001-bf97-44054d1c01d4@188.68.216.27:443?security=tls&sni=qtuod-ru-56sel.fade.mom&fp=android#%F0%9F%87%AA%F0%9F%87%AA
-vless://6c870724-643c-0001-b7ea-04aabeedfb4e@176.108.244.162:443?security=tls&sni=ohyjf-ru-65sb.my-fade.cloud&fp=android#%F0%9F%87%AA%F0%9F%87%AA
-hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%AA%F0%9F%87%AA
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&type=tcp&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&fp=qq#%F0%9F%87%AA%F0%9F%87%AA
+vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?encryption=none&fp=firefox&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&security=reality&sid=426165a0badade80&sni=212.192.156.15&type=tcp#%F0%9F%87%AA%F0%9F%87%AA

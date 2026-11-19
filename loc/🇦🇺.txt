@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://0dc82533-a150-4773-bde7-5f33bb716f49@13.210.14.142:2082?encryption=mlkem768x25519plus.native.0rtt.7QCLQTta6vTAQ-jGABt6lzdLrr-lu8vrMXfw02azewg&fp=firefox&pbk=I-PTdYVmaH6iMns5v_sj9Qb2jCujkj9fzobvawG3CTw&security=reality&sid=f501de9263df72a7&sni=amd.com&type=tcp#%F0%9F%87%A6%F0%9F%87%BA
