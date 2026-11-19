@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://775c9d67-2ef3-47e8-8e23-656b68333da8@172.67.235.78:443?security=tls&type=ws&path=%2F1e0b190b5bbf9d36%3Fed%3D2560&host=web-flow-263808-gw.poryya22o.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=web-flow-263808-gw.poryya22o.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%BF
