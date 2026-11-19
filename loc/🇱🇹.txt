@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://74af70c0-bea7-4412-9a1a-f7eab9c91ef8@138.124.9.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-rXSc4xMnB2OEs-Z628O2u3OPdMDL1h5mQvSZf5Nt1Q&security=reality&sid=4d3affb557796d1c&sni=admin.mistral.ai&type=tcp#%F0%9F%87%B1%F0%9F%87%B9

@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@48.102.172.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VRzl6zA8rOorqy2veXbTaImRBxQfXw1v3-REhx6EpHQ&security=reality&sid=225ef9f7843ac533&sni=prsv-forum-combeck-let-s-go.keno.su&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?encryption=none&fp=firefox&host=stb71e5.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stb71e5.rumedia-cdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?encryption=none&fp=firefox&host=stadc07.rumedia-cdn.com&path=/cdn/v3/live&security=tls&sni=stadc07.rumedia-cdn.com&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@48.102.172.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=VRzl6zA8rOorqy2veXbTaImRBxQfXw1v3-REhx6EpHQ&security=reality&sid=225ef9f7843ac533&sni=prsv-forum-combeck-let-s-go.keno.su&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?security=tls&encryption=none&fp=chrome&type=ws&sni=subgift.gcorecdn.com&host=subgift.gcorecdn.com&path=/t.me-SubGift&alpn=http/1.1#%F0%9F%87%B8%F0%9F%87%AA
