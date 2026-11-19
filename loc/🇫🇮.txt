@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://c55f65ef-3be3-477a-a646-94c3ccec1604@188.225.79.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=85RCMJFwNRqdmhejfM7cOVEK6RvB6WaaJbCYtbgBuis&security=reality&sid=1082c05da2311d1f&sni=passport.yandex.ru&type=raw#%F0%9F%87%AB%F0%9F%87%AE
-vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
+vless://aa983622-bffd-4313-b4d1-bf0e1b7b6ad8@157.228.172.4:8443?encryption=none&fp=firefox&security=tls&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://ab5e91ee-f600-4825-a2bc-d6471d5cee03@185.232.204.116:443?encryption=none&fp=firefox&pbk=Au1rmQdDRjlEJk17IfLQv5PBUEEosMWNhAlrWZj6mnY&security=reality&serviceName=grpc&sid=12345678&sni=food-from-finlda-here-we-go.keno.su&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
