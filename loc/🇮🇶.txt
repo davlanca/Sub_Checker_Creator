@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://e56059f1-5a1a-4d0a-a2d0-58ecb4eb2f3f@104.26.0.1:443?security=tls&type=ws&path=%2FeyJqdW5rIjoiZWlPODVjTnhnaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=ezaccess-project-f62c30.pages.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=ezaccess-project-f62c30.pages.dev&fp=chrome#%F0%9F%87%AE%F0%9F%87%B6
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?&security=reality&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs&sid=361d0dd59c70516f&fp=chrome&sni=5d0319t.nl7.h1clayd.click&type=tcp&headerType=none&host=5d0319t.nl7.h1clayd.click&path=%2F#%F0%9F%87%AE%F0%9F%87%B6
