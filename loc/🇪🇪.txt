@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://13cca0fd-bb3e-44e4-9ced-1c6efcabbb03@95.85.243.72:443?security=reality&pbk=m3opvubdy_gjBiBkXnAw3eDUP4alVeVWxKkvZHIINjs&fp=firefox&sni=212.192.156.15&sid=426165a0badade80#%F0%9F%87%AA%F0%9F%87%AA
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?&security=tls&fp=qq&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%87%AA%F0%9F%87%AA
