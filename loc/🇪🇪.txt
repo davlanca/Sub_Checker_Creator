@@ -1,4 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp&fp=safari#%F0%9F%87%AA%F0%9F%87%AA
+vless://c3a42a13-1a96-0001-b68c-6c2d7d2677ea@81.163.22.109:443?encryption=none&fp=chrome&security=tls&sni=jissa-ru-wl-47sel.my-fade.cloud&type=raw#%F0%9F%87%AA%F0%9F%87%AA
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz#%F0%9F%87%AA%F0%9F%87%AA
+vless://6ab79fec-ca02-447b-b7be-5945f6e6ea8f@80.79.121.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x9HClr5eRPhMPuBIndkjqFU_0D0M-p4sJVAxuTP68kM&security=reality&sid=dcfad1cc10d0d15b&sni=archive-eu-west.livemusic.ac&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
+vless://ac56e1c8-cddb-4203-a886-40da71018779@168.113.132.25:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Ni6eoBn84Zr8uqHSMZ18Ws47QtHWOtd-9Pgqmc3BpHo&security=reality&sid=7c6ed95951c15310&sni=youflexsite.jumpingcrab.com&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
