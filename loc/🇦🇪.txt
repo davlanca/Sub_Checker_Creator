@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://f90baf22-0690-e2ea-c014-e5f536503ac6@122.8.45.5:8443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&serviceName=TunService&sni=www.canon.com&type=grpc#%F0%9F%87%A6%F0%9F%87%AA
