@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://8d251959-b345-4665-b2fc-3ac177c35e6f@45.130.127.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZPjkqL8oFJ27Oa8ETFfSC_S2EHnGl8TyN5ujzYwMknw&security=reality&sid=7d19a6e4c2f8305b&sni=fi.users.golu-gulu.online&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
+vless://8d251959-b345-4665-b2fc-3ac177c35e6f@45.130.127.79:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZPjkqL8oFJ27Oa8ETFfSC_S2EHnGl8TyN5ujzYwMknw&sid=7d19a6e4c2f8305b&sni=fi.users.golu-gulu.online#%F0%9F%87%B8%F0%9F%87%A8
