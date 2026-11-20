@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 vless://fa45096d-bed0-ad80-c773-23c300000018@104.21.108.4:443?security=tls&type=ws&path=%2F&host=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&packetEncoding=xudp&sni=xo3ubk-c97eql-n2d4a9.shoameni17.workers.dev&fp=chrome&encryption=none#%F0%9F%87%A6%F0%9F%87%AA
-vless://c1f4f185-5786-40c9-893f-2f100b7165f2@94.183.195.178:20001?encryption=none&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sni=eu64.cdn77.icu&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
+hysteria2://ca60984f-b1f0-4073-bd33-4c75168f749a@31.59.169.225:443?sni=ge-beer-1.fantoff.online#%F0%9F%87%A6%F0%9F%87%AA
+vless://f90baf22-0690-e2ea-c014-e5f536503ac6@122.8.45.5:8443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&serviceName=TunService&sni=www.canon.com&type=grpc#%F0%9F%87%A6%F0%9F%87%AA
