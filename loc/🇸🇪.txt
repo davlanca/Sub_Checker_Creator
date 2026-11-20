@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=stadc07.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=stadc07.rumedia-cdn.com#%F0%9F%87%B8%F0%9F%87%AA
