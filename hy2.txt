@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud&alpn=h3&pinSHA256=e53ee5f3142e0ce20b4b9d7041dd54c9921b4e215a9eae54440236affe7bb4a2#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://004ea4a8-d701-0001-b0c0-8e61a5c31a23@168.113.252.11:443?sni=jkawq-ru-45sb.fade.mom&alpn=h3&pinSHA256=31543384f7b5c9bfdc55c87632ac17fa01a54761842c6c05197e0ac33a27e76a#%F0%9F%87%B3%F0%9F%87%B4
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.174:443?sni=polandchuzhoi.site#%F0%9F%87%B5%F0%9F%87%B1
