@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+trojan://BU4Sr6jWcc78Eh06srysDwhzc-Than@48.102.218.118:8443?security=tls&sni=ru.federal-usa.com&alpn=h2%2Ch3%2Chttp%2F1.1&fp=randomized#%F0%9F%87%BA%F0%9F%87%B8
