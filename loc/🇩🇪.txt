@@ -1,23 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@pebble.gerqix.online:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de2.v1&sni=windlass.gerqix.online&type=grpc&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?security=tls&alpn=http%2F1.1&sni=canvas.merlano.monster&type=ws&headerType=none&host=ws3.falmero.store&path=%2Fapi%2Fde1%2Fstream&fp=android#%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.118.247:19999?#%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.111:19999?#%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.3:19999?#%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.119.2:19999?#%F0%9F%87%A9%F0%9F%87%AA
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.108.117.84:19999?#%F0%9F%87%A9%F0%9F%87%AA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&sni=learn.iloverussia2026.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.73.203:443#%F0%9F%87%A9%F0%9F%87%AA
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=morningfen.merlano.monster&fp=chrome&alpn=h2&serviceName=glush.de1.v1#%F0%9F%87%A9%F0%9F%87%AA
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@bookend.filnex.baby:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde1%2Fstream&security=tls&sni=hollowreed.gerqix.online&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
-vless://4201786b-d99b-4147-a5f0-20d47acddb81@185.255.115.181:443?flow=xtls-rprx-vision&security=reality&sni=4935e4t.de25.h1clayd.click&fp=qq&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&sid=6976d670818644cc#%F0%9F%87%A9%F0%9F%87%AA
 vless://12776e55-6230-48b9-b069-1bb8a04b4237@217.60.27.153:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=music.3apes.online&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?type=raw&security=reality&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&sni=71b840t.de7.h1clayd.click&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@linen.filnex.baby:443?encryption=none&type=ws&security=tls&sni=cinderbrook.elvano.website&alpn=http%2F1.1&path=%2Fapi%2Fde2%2Fstream&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6VC9KQmw5K25jWXJvSWJEZER2MTZ0OEo2RHFYc0lBZTBHYnpXbzZpRGRoST0@92.5.70.180:59924#%F0%9F%87%A9%F0%9F%87%AA
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=q_MJ5Zo2vcnePWq3KY653QUPX8mNSvapLpqXU4NuPho&sid=464db718e17e4107&sni=germany.cloudhouse1.ru#%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@94.156.179.197:443?sni=germanyafterpool.fun#%F0%9F%87%A9%F0%9F%87%AA
-vless://02974d2b-518f-4f95-91cc-b145b6e4805e@89.163.239.238:2053?encryption=none&pbk=vZmTxEoOhD-VAACucx2KmzWaKlYyXdkkUUv0RzlDsgo&security=reality&sid=2fa414c6dd1189db&sni=www.apple.com&type=tcp&fp=safari#%F0%9F%87%A9%F0%9F%87%AA

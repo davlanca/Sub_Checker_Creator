@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://8da0029e-6ff3-49cc-8b4d-120432cc6414@eu90.cdn77.icu:20036?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=&fp=firefox&type=tcp&sni=eu64.cdn77.icu#%F0%9F%87%AE%F0%9F%87%AA

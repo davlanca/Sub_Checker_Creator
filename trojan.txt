@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@193.108.119.96:443?security=tls&sni=learn.iloverussia2026.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA
 trojan://0yT5GrZVZ5H4XmKK_bcfAdHodZFmMD2o@152.234.248.102:7443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=&fp=firefox&type=tcp&allowInsecure=0&sni=node233.overgroup.cloud#%F0%9F%87%B3%F0%9F%87%B1
+trojan://BU4Sr6jWcc78Eh06srysDwhzc-Than@48.102.218.118:8443?security=tls&alpn=h2%2Ch3%2Chttp%2F1.1&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&sni=ru.federal-usa.com#%F0%9F%87%BA%F0%9F%87%B8

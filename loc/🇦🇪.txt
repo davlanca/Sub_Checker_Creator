@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://ca60984f-b1f0-4073-bd33-4c75168f749a@31.59.169.225:443?sni=ge-beer-1.fantoff.online#%F0%9F%87%A6%F0%9F%87%AA
+vless://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:443?security=tls&encryption=none&type=ws&sni=zisvpn.tech&host=zisvpn.tech&path=%2Fvless-nl&fp=android#%F0%9F%87%A6%F0%9F%87%AA
