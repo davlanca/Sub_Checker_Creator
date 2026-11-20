@@ -3,5 +3,6 @@
 
 hysteria2://5760fb84-06f8-0001-890a-3d66044897ce@176.108.240.182:443?security=tls&sni=mwtjc-ru-73sb.my-fade.cloud&alpn=h3&pcs=b8414477e40fefd0518261802aeeec0251134eeeb5fb0cda665889061482bc99#%F0%9F%87%AB%F0%9F%87%AE
 vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@172.64.79.163:2083?&security=tls&fp=chrome&sni=vipfree.dr-ping.ir&type=ws&headerType=none&host=vipfree.dr-ping.ir&path=%2F#%F0%9F%87%AB%F0%9F%87%AE
+vless://038e6b17-84e9-4ace-8973-8ef2308ed6e1@177.202.69.48:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://63aa95e5-3b36-4e53-a86f-7df59652e994@196.196.204.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://f09ca6e3-c547-4f91-95f5-77f34c4282ac@109.71.245.99:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=zICjcFkqI720WzWpHXRLjSFYmcu4Hd0jk1iDEo1nUAU&security=reality&sid=c27a26812e5d2208&sni=www.yandex.ru&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
