@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&fp=chrome&mode=gun&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&security=reality&sni=flintstack.dev&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
 vless://63aa95e5-3b36-4e53-a86f-7df59652e994@185.255.115.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2053?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=81.90.21.163#%F0%9F%87%B8%F0%9F%87%AA
