@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 
 vless://b73b2ee3-5bb3-44d4-808f-0891a408a9bd@87.228.32.97:443?encryption=none&fp=firefox&pbk=4DcpJKG3IJEXsldz6uNof1o4V3SZ1MD3r_TiDthZEzw&security=reality&sni=city.lostpool.org&type=raw#%F0%9F%87%AA%F0%9F%87%AA
+hysteria2://b280a29b-a3d9-0001-8a81-198855a17d57@84.38.189.122:443?sni=shyrc-ru-75sel.my-fade.cloud&pinSHA256=054951b598c2cf32f735103ede0a03e64fb05cbe1cf5cdc6d4a3a0ac9f42142c#%F0%9F%87%AA%F0%9F%87%AA
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?type=tcp&security=tls&fp=firefox&sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%AA%F0%9F%87%AA
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=mirror-50.topp-con.xyz&fp=chrome&security=reality&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&sid=2ef2b10d5143d798#%F0%9F%87%AA%F0%9F%87%AA
