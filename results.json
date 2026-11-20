@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:41:26.605301+00:00",
+  "generated_at": "2026-11-20T09:41:52.421408+00:00",
   "count": 178,
   "results": [
     {
@@ -76,7 +76,7 @@
       "tag": "🇫🇮",
       "ping_ms": 1157,
       "speed_kbps": 452,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@172.64.79.163:2083?security=tls&fp=chrome&sni=vipfree.dr-ping.ir&type=ws&headerType=none&host=vipfree.dr-ping.ir&path=%2F#%F0%9F%87%AB%F0%9F%87%AE"
     },
     {
@@ -87,7 +87,7 @@
       "tag": "",
       "ping_ms": 2205,
       "speed_kbps": 82,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiJbT3BlblJheV0g8J+MkFhYLTE2NTgifQ==#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd"
     },
     {
@@ -1891,7 +1891,7 @@
       "tag": "🇦🇹",
       "ping_ms": 688,
       "speed_kbps": 300,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://89b63316-7404-472b-aaf6-e5b71f790a02@189.74.115.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&type=tcp#%F0%9F%87%A6%F0%9F%87%B9"
     },
     {
@@ -1913,7 +1913,7 @@
       "tag": "🇺🇸",
       "ping_ms": 2093,
       "speed_kbps": 1044,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://89b63316-7404-472b-aaf6-e5b71f790a02@50.7.154.77:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=tcp#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1924,7 +1924,7 @@
       "tag": "🇵🇱",
       "ping_ms": 709,
       "speed_kbps": 807,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://89b63316-7404-472b-aaf6-e5b71f790a02@189.74.116.40:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.oblachnyservis.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1"
     },
     {
@@ -1935,7 +1935,7 @@
       "tag": "🇺🇸",
       "ping_ms": 4693,
       "speed_kbps": 61,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://0259e5aa-c188-4334-b204-32cd5ea859f6@199.242.185.178:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6acrgYsF7FqZ0sNi5fc8wFGmapz_h5N3zA72zpp_EHY&security=reality&sid=2251f9f7843ac533&sni=go-obsh-drun.keno.su&type=tcp#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1946,7 +1946,7 @@
       "tag": "🇫🇮",
       "ping_ms": 11005,
       "speed_kbps": 88,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://63aa95e5-3b36-4e53-a86f-7df59652e994@4c980ft.fi7.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=4c980ft.fi7.h1clayd.click&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774#%F0%9F%87%AB%F0%9F%87%AE"
     },
     {
@@ -1957,7 +1957,7 @@
       "tag": "🇫🇮",
       "ping_ms": 9518,
       "speed_kbps": 80,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://d3863595-3afe-4a74-8305-612ab69cd21c@4c980ft.fi15.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click#%F0%9F%87%AB%F0%9F%87%AE"
     }
   ]
