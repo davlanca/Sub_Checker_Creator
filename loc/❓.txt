@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:443?encryption=none&host=zisvpn.tech&path=%2Fvless-nl&security=tls&sni=zisvpn.tech&type=ws&fp=android#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:19450?sni=mshvpn.online&alpn=h3&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?encryption=none&fp=chrome&host=xsru2.freeddns.org&path=/wsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiJbT3BlblJheV0g8J+MkFhYLTE2NTgifQ==#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
+vless://c1d7617a-7559-45c9-9d07-a62c5ba8cb36@188.130.209.225:444?encryption=none&flow=xtls-rprx-vision&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&security=reality&sni=vextor.win&type=tcp&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://44f1b32e-f6f6-4a88-b08a-e3bcac08f0ab@stremnina.online:443?encryption=none&type=ws&security=tls&sni=stremnina.online&fp=firefox&alpn=http/1.1&path=/account/refresh/9ibIT04vygJ_#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
