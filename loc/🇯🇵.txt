@@ -4,7 +4,6 @@
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@jpa.123069.xyz:53758?#%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206QndscWg3R2NGQg@168.138.205.100:53758?#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.195:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@172.67.192.112:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5

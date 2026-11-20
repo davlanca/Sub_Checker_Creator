@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://49118954-b846-4da7-9d55-c859ce59ab50@79.174.92.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5d73hwUBkVYgpoy_H4Rsq64LqklNZB-mwXcMj2W7XV0&security=reality&sid=bd0772b42160b76b&sni=fi.xenovpn.top&type=raw#%F0%9F%87%AB%F0%9F%87%AE
 vless://a77d6228-85a9-449f-b600-ccf4018230eb@83.166.237.124:8444?security=reality&encryption=none&pbk=h16vbQ_IBohiTlEVzz1oEZBf63peHSTbhQ3sJuQO-Vw&headerType=&type=tcp&flow=xtls-rprx-vision&sni=game2.stich.my&sid=eab3935b74dd7756&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
+vless://49118954-b846-4da7-9d55-c859ce59ab50@79.174.92.180:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5d73hwUBkVYgpoy_H4Rsq64LqklNZB-mwXcMj2W7XV0&security=reality&sid=bd0772b42160b76b&sni=fi.xenovpn.top&type=raw#%F0%9F%87%AB%F0%9F%87%AE
 vless://bc93a03d-13b5-000b-8ee7-d50c11459dab@169.40.34.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=brointelengence.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://a77d6228-85a9-000d-b600-ccf4018230eb@37.139.42.37:443?security=reality&encryption=none&pbk=H9fcn9PYzwPVE1egy37sbK04CCXE0dn4goOfiFFsIEs&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=rf.stich.my&sid=acc22b7b5ba9dbf2#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://dd36b601-5bf4-40b7-8252-fc41d1b29517@148.135.203.10:19302?sni=n1.content-treasure-via.online#%F0%9F%87%AB%F0%9F%87%AE
