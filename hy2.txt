@@ -1,9 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+hysteria2://3098af7f-dd3e-0001-b8e5-05a194206ac0@168.113.254.183:443?sni=xykmh-ru-70sb.my-fade.cloud#%F0%9F%87%B3%F0%9F%87%B4
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.174:443?sni=polandchuzhoi.site#%F0%9F%87%B5%F0%9F%87%B1
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://49b5c86a-fbfc-0001-82af-171a932d04e7@188.68.216.27:443?sni=qtuod-ru-56sel.fade.mom&alpn=h3&pinSHA256=3bb90b7916051275cfc66e6e489a0f2094a823ca081c2041380fca2762df1412#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:8443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1
