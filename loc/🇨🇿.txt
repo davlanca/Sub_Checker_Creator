@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://0bb8b560-b056-4245-8b9d-231a0a78c54b@82.139.238.73:443?&security=tls&fp=chrome&sni=vip.freevpn.cloudns.biz&type=ws&headerType=none&host=vip.freevpn.cloudns.biz&path=%2F0bb8b560-b056-4245-8b9d-231a0a78c54b%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%BF
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@13.143.234.152:443?type=grpc&security=reality&fp=firefox&pbk=BpgWOTUN0qXA8qiCATiFYACLzxIFeqh9YkI2tBwc8xs&sid=6ba85179e30d4fc2&sni=forum-prsx-leet-sgo.keno.su&serviceName=chexia#%F0%9F%87%A8%F0%9F%87%BF

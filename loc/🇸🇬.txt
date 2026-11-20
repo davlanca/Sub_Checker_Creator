@@ -1,9 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://395bab7e-302a-42b4-bac7-8acb7d36fdf3@57.129.130.10:52014?security=tls&type=ws&path=/@Marisa_kristi&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&packetEncoding=xudp&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC
-vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality&encryption=none&pbk=HwHSknL4SAIWY3xMfnvpcbCpE_QmF_DOxb2mkyxQ3Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=singapour.cloudhouse1.ru&sid=0929498c442d0ff3#%F0%9F%87%B8%F0%9F%87%AC
+vless://b9ede7a5-5b4b-4aee-ac37-2c307e587e47@172.67.208.235:2096?security=tls&type=ws&path=/eyJqdW5rIjoidVkzQm1ROUg4dyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=courses.mftplus.qzz.io&packetEncoding=xudp&sni=courses.mftplus.qzz.io&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://c6624b96-e346-490b-9145-74c2543a9483@140.245.62.225:36442?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=xjpp.zjlo.top&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
+vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality&encryption=none&pbk=HwHSknL4SAIWY3xMfnvpcbCpE_QmF_DOxb2mkyxQ3Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=singapour.cloudhouse1.ru&sid=0929498c442d0ff3#%F0%9F%87%B8%F0%9F%87%AC
 vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%F0%9F%87%B8%F0%9F%87%AC
