@@ -1,9 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
-vless://628347a0-6582-4202-9aa8-2eaa8140dc25@perplexity.ai:443?encryption=mlkem768x25519plus.native.0rtt.X9-4gwVzZ7FvRTt7StLvPErFueO4ES_hSlXtloPrkmA&flow=xtls-rprx-vision&security=tls&sni=awsd.moltafet.bond&fp=unsafe&alpn=http/1.1&type=ws&host=awsd.moltafet.bond&path=/t.me-SubGift#%F0%9F%87%B8%F0%9F%87%AA
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2053?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=81.90.21.163#%F0%9F%87%B8%F0%9F%87%AA
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.200:2096?path=%2Fcdn%2Fv3%2Flive&security=tls&encryption=none&insecure=0&host=stadc07.rumedia-cdn.com&fp=firefox&type=ws&allowInsecure=0&sni=stadc07.rumedia-cdn.com#%F0%9F%87%B8%F0%9F%87%AA
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@48.102.172.114:443?flow=xtls-rprx-vision&fp=firefox&pbk=VRzl6zA8rOorqy2veXbTaImRBxQfXw1v3-REhx6EpHQ&security=reality&sid=225ef9f7843ac533&sni=prsv-forum-combeck-let-s-go.keno.su&type=raw#%F0%9F%87%B8%F0%9F%87%AA
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=81.90.21.163&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
-vless://63aa95e5-3b36-4e53-a86f-7df59652e994@185.255.115.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@9ed8a8t.se4.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click#%F0%9F%87%B8%F0%9F%87%AA
