@@ -3,9 +3,9 @@
 
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 vless://6c077993-952c-4318-9e93-89056a207a9b@141.227.170.220:8443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=45.95.98.130&type=tcp&headerType=none&path=%2F#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.27:19999#%F0%9F%87%AB%F0%9F%87%B7
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@45.95.98.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=45.95.98.130&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://79dc5b88-035d-46ea-8925-42ec2c8399fe@62.144.51.70:8443?security=reality&encryption=none&pbk=FMB8kaF17hi36ZlhlW6ANZZxzV-TN5-6LWhlYp9oQTw&headerType=none&fp=chrome&spx=/5abc2781bd4946e&type=tcp&sni=beta.www.cloudflare.com&sid=53#%F0%9F%87%AB%F0%9F%87%B7
-vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&security=reality&fp=firefox&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&sni=www.nvidia.com&serviceName=grpc-common3#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@107.161.160.28:8388#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7
+vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:443?encryption=none&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&security=reality&sni=www.philips.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7
