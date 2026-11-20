@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%AA
-vless://73e505d4-90e6-43f5-9892-773132ff838d@2.58.66.101:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=a9O5evb8g385KJm77j9SKlB7MvHzUBGes6c8BAxyO1U&security=reality&sid=5fd3245e96291c37&sni=77.88.8.8&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:2443?security=reality&type=tcp&packetEncoding=xudp&sni=germany.cloudhouse1.ru&fp=chrome&flow=xtls-rprx-vision&sid=464db718e17e4107&pbk=q_MJ5Zo2vcnePWq3KY653QUPX8mNSvapLpqXU4NuPho&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
-vless://73e505d4-90e6-43f5-9892-773132ff838d@130.17.15.75:443?flow=xtls-rprx-vision&security=reality&sni=77.88.8.8&fp=firefox&pbk=a9O5evb8g385KJm77j9SKlB7MvHzUBGes6c8BAxyO1U&sid=5fd3245e96291c37#%F0%9F%87%A9%F0%9F%87%AA
