@@ -1,4 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+hysteria2://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:19446?sni=mshvpn.online&alpn=h3&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF
+hysteria2://c8c17d77-cc46-4c81-a2bf-779e75532bdc@95.163.2.47:19450?sni=mshvpn.online&alpn=h3&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.174.174:443?sni=polandchuzhoi.site#%F0%9F%87%B5%F0%9F%87%B1
+hysteria2://dd36b601-5bf4-40b7-8252-fc41d1b29517@148.135.203.10:19302?sni=n1.content-treasure-via.online#%F0%9F%87%AB%F0%9F%87%AE

@@ -1,4 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://2b696acb-1311-4ab7-b832-b376d29dca27@65.109.252.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.170.55.238.62.clients.your-server.de&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://dd36b601-5bf4-40b7-8252-fc41d1b29517@148.135.203.10:19302?sni=n1.content-treasure-via.online#%F0%9F%87%AB%F0%9F%87%AE
 vless://bc93a03d-13b5-000b-8ee7-d50c11459dab@169.40.34.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=brointelengence.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
