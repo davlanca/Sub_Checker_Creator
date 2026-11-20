@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 
 vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2053?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=81.90.21.163#%F0%9F%87%B8%F0%9F%87%AA
-vless://d3863595-3afe-4a74-8305-612ab69cd21c@185.255.115.169:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&security=reality&sid=1cc8aab4a9fa9280&sni=9ed8a8t.se4.h1clayd.click&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://d3863595-3afe-4a74-8305-612ab69cd21c@9ed8a8t.se4.h1clayd.click:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=9ed8a8t.se4.h1clayd.click&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA
