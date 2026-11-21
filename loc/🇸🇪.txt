@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?&security=tls&fp=firefox&sni=volumestyle.komediyatorg.net&type=ws&headerType=none&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&path=%2Fmedia%2Fws%2F&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws&fp=edge#%F0%9F%87%B8%F0%9F%87%AA

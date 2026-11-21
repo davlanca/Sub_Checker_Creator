@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://bfadfcda-99eb-424a-af53-cabb4fbcb820@zynerio.com:3443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ZbtRq4SeR_WvLXiWXDael5FUqYG7uAkAGsFSIEyrQEw&security=reality&sid=8a907b3d6a7a4ed4&sni=zynerio.com&type=tcp&fp=safari#%F0%9F%87%A6%F0%9F%87%AA
