@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990?#%F0%9F%87%B3%F0%9F%87%B4
-hysteria2://004ea4a8-d701-0001-b0c0-8e61a5c31a23@168.113.252.11:443?sni=jkawq-ru-45sb.fade.mom&alpn=h3&pinSHA256=31543384f7b5c9bfdc55c87632ac17fa01a54761842c6c05197e0ac33a27e76a#%F0%9F%87%B3%F0%9F%87%B4
