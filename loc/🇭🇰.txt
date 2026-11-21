@@ -4,4 +4,6 @@
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?#%F0%9F%87%AD%F0%9F%87%B0
 vless://c4d6567e-c46e-410f-95ab-ac3a61e030f3@185.71.216.177:2091?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=08a4b1f473932632&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#%F0%9F%87%AD%F0%9F%87%B0
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&host=swdist.apple.com#%F0%9F%87%AD%F0%9F%87%B0
 vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=lyhk.mihoyo.site&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
+vless://e5e55664-5475-4505-8eb4-14dde650f11b@193.134.211.132:49753?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vsZdFd7iEq3hQ53JVJW_c-DrAYrXuunGr3uI7r3vKWs&security=reality&sid=edf9c64198&sni=uedata.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0

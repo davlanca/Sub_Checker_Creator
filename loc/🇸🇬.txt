@@ -10,6 +10,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%B8%F0%9F%87%AC
 vless://488f41fb-b1e6-4b21-9206-837d016167cb@193.233.220.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&security=reality&sid=52ccb3687fe0b7ec&sni=api8.eaglors.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%B8%F0%9F%87%AC
 vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%B8%F0%9F%87%AC

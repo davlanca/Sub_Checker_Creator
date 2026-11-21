@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://7370aef1-b137-411d-ad0a-c12cc8c0b65e@188.225.74.139:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=spb.b2ai.top&type=raw#%F0%9F%87%A8%F0%9F%87%BE
