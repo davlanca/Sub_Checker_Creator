@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&sni=www.apple.com&encryption=none#%F0%9F%87%B9%F0%9F%87%B7
 vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&security=reality&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30#%F0%9F%87%B9%F0%9F%87%B7
-vless://f56ae4e8-c524-4af5-8fbe-a2e85aee943f@38.17.65.8:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&security=reality&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
+vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10103?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&sid=6859f5b59e55aa30&sni=www.apple.com&encryption=none#%F0%9F%87%B9%F0%9F%87%B7
+vless://32e6fb3f-d130-0001-be1f-ded309ca6faf@81.163.22.238:443?encryption=none&type=tcp&security=tls&sni=oilokvcyfczlioxhxq.fcloudservices.lat#%F0%9F%87%B9%F0%9F%87%B7
