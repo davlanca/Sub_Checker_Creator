@@ -3,4 +3,5 @@
 
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?#%F0%9F%87%AD%F0%9F%87%B0
 vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=lyhk.mihoyo.site#%F0%9F%87%AD%F0%9F%87%B0
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiIyMDYuMjM3LjExLjE3IiwicG9ydCI6IjUwMzc2IiwiaWQiOiI5MDkxZmQ2NC03ZThlLTRiN2EtOGFlNy04NDQ3NGYyMzQ5MjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
 vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&type=tcp&headerType=none&host=swdist.apple.com#%F0%9F%87%AD%F0%9F%87%B0
