@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 
 vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg.fasti.win&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#%F0%9F%87%B8%F0%9F%87%AC
+vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality&encryption=none&pbk=HwHSknL4SAIWY3xMfnvpcbCpE_QmF_DOxb2mkyxQ3Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=singapour.cloudhouse1.ru&sid=0929498c442d0ff3#%F0%9F%87%B8%F0%9F%87%AC
-vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.samsung.com&fp=chrome&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&sid=e1c483f9d4437d42&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
