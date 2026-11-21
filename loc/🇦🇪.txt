@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://11f48e58-bdd8-4251-ba00-ad05d05d9dcf@31.59.154.82:8459?encryption=none&flow=xtls-rprx-vision&pbk=mTSn98b4yZG3im3ITn-kNLPbT8ljc9ILvAqiT4jyKXk&security=reality&sid=0f0e381ec0c4690d&sni=nl-edge.airlinesvpn.com&type=tcp&fp=edge#%F0%9F%87%A6%F0%9F%87%AA
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.146:4430?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iE3EoCDzsS7tTRt7icQDxGYbDd_j_4TDk00y6Nd5Lhs&security=reality&sid=ade96cf50b4b&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
