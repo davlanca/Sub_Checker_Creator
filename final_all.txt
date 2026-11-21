@@ -21,7 +21,6 @@ vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@payablemeta.cleanfoodshop.org:443?type=ws&headerType=none&security=tls&encryption=none&sni=payablemeta.cleanfoodshop.org&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%BA%F0%9F%87%B8
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@cabinet.filnex.baby:443?encryption=none&type=ws&security=tls&sni=claywick.elvano.website&fp=firefox&alpn=http/1.1&path=/api/de7/stream#%F0%9F%87%A9%F0%9F%87%AA
 vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@parchment.merlano.monster:443?encryption=none&type=ws&security=tls&sni=parchment.merlano.monster&fp=firefox&alpn=http/1.1&path=/api/de7/stream#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?encryption=none&type=grpc&security=tls&sni=birchbark.gerqix.online&fp=firefox&alpn=h2&serviceName=glush.de7.v1#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@201.24.50.81:443?type=grpc&security=tls&fp=firefox&sni=copperleaf.gerqix.online&serviceName=glush.de4.v1#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@81.200.158.26:443?type=grpc&security=tls&fp=firefox&sni=fernglade.gerqix.online&serviceName=glush.de1.v1&encryption=none#%F0%9F%87%A9%F0%9F%87%AA
@@ -30,7 +29,6 @@ vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@honeycomb.merlano.monster:443?encry
 vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@172.67.192.112:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@archive.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=elmharbor.gerqix.online&fp=firefox&alpn=h2&serviceName=glush.de7.v1#%F0%9F%87%A9%F0%9F%87%AA
 vless://d6d40100-9442-0001-b5b9-6d259318c421@168.113.253.178:443?encryption=none&security=tls&sni=uzndiuvzvqqljdyhzs.fcloudservices.site&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6
 vless://3dcda007-7932-0001-8f57-11e01b2f2b8f@188.225.82.103:443?encryption=none&type=tcp&security=tls&sni=vqbqpkdrvtltcszddt.fcloudservices.lat&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2%2Chttp%2F1.1&sni=mosaic.topp-con.xyz&type=tcp&headerType=none&path=%2F#%F0%9F%87%A9%F0%9F%87%AA

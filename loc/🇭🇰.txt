@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?#%F0%9F%87%AD%F0%9F%87%B0
+vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=lyhk.mihoyo.site#%F0%9F%87%AD%F0%9F%87%B0
 vless://0025b3da-a92e-45b4-ab2d-de0f3ef3bf23@62.60.232.226:8443?flow=xtls-rprx-vision&security=reality&sni=nova-house.justext.space&fp=firefox&pbk=2kIZnJhcwmSnHlJ6I6kz5srz0R-9uUMJAAMAuS_U2xE&sid=1a60e2b1ca53aa6d&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&host=swdist.apple.com#%F0%9F%87%AD%F0%9F%87%B0
 vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?flow=xtls-rprx-vision&security=tls&sni=nova-house.justext.space&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&sni=swdist.apple.com&host=swdist.apple.com#%F0%9F%87%AD%F0%9F%87%B0
