@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://c26b5ab8-2f94-0001-8afe-8c02f2341ad0@188.225.82.103:443?encryption=none&fp=firefox&security=tls&sni=nmrhj-ru-wl-82tw.my-fade.cloud&type=raw#%F0%9F%87%B3%F0%9F%87%B4
