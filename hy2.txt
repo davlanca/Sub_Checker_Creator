@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://dd36b601-5bf4-40b7-8252-fc41d1b29517@n1.content-treasure-via.online:19302?sni=n1.content-treasure-via.online&security=tls#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?sni=germanyafterpool.fun&security=tls#%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://dd36b601-5bf4-40b7-8252-fc41d1b29517@148.135.203.10:19302?sni=n1.content-treasure-via.online#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@177.3.217.3:443?sni=germanyafterpool.fun#%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&sni=litelitvalitter.rooferz.surf#%F0%9F%87%B1%F0%9F%87%B9
