@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://713142c9-ad09-4894-b35c-645423f3f6c9@152.234.245.52:443?sni=media.embrofree.org#%F0%9F%87%AB%F0%9F%87%AE
-hy2://713142c9-ad09-4894-b35c-645423f3f6c9@media.embrofree.org:443?sni=media.embrofree.org#%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://713142c9-ad09-4894-b35c-645423f3f6c9@152.234.245.52:443?sni=media.embrofree.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+hy2://713142c9-ad09-4894-b35c-645423f3f6c9@media.embrofree.org:443?sni=media.embrofree.org#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&sni=litelitvalitter.rooferz.surf#%F0%9F%87%B1%F0%9F%87%B9
