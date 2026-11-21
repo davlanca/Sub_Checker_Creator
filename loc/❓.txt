@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://3dcda007-7932-0001-8f57-11e01b2f2b8f@188.225.82.103:443?encryption=none&type=tcp&security=tls&sni=vqbqpkdrvtltcszddt.fcloudservices.lat&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?type=tcp&security=tls&fp=firefox&sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJ2IjoiMiIsInBzIjoi8J+PtOKAjeKYoO+4jyIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6IjEwMDAwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzciLCJhZGQiOiIxNzIuNjcuMTg3LjE0NSIsInBvcnQiOiI4MCIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsInBhdGgiOiIvd3MiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI3NyJ9#%20t.me%2Frjsxrd
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?headerType=none&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=random#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=random#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?headerType=none&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
