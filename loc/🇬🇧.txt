@@ -4,5 +4,7 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999?#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999?#%F0%9F%87%AC%F0%9F%87%A7
 vless://0259e5aa-c188-4334-b204-32cd5ea859f6@193.233.210.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0HbEvKirH3zX6SuURbw9gA9v3Zl6BpIX4VLAPTA_qQ4&security=reality&sid=a8f4c19e72b305d6&sni=nl-forum-keno-drunov-prxv.keno.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi-s1.kadrhub.tech&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://5980f1e1-970c-43b9-b3e8-a8ddd70ceadc@158.220.95.242:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PCm0k-SvNd00cgNuqqnbCzmwVZd5vkgX2ZLk2_qngRs&security=reality&sid=b60a93&sni=www.samsung.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://4bec3709-0954-4173-ae59-3dee6cb8b961@91.192.158.251:2066?encryption=none&flow=xtls-rprx-vision&pbk=84GM9QUTdTfTrhR-8loDOu7VA0LFW8X02vSvBQdsLAg&security=reality&sid=1b2a3f&sni=google.com&type=tcp&fp=safari#%F0%9F%87%AC%F0%9F%87%A7
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
