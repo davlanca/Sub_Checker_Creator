@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?security=tls&type=ws&path=%2Fcdn%2Fv3%2Flive&host=stb71e5.rumedia-cdn.com&packetEncoding=xudp&sni=stb71e5.rumedia-cdn.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@89.169.2.136:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cn6JqI1RByDql_wSwDjMQP7B3vXcnM1Q52yGPhvLwh0&sid=e4272d5b51ac255e&sni=node-se-1.nztpro.com#%F0%9F%87%B8%F0%9F%87%AA
 vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://e6de7541-742b-4270-a5e9-563789af9789@91.142.85.137:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=asCNXKLJAiol1YHfWrLY5OCgg-HS1vRhtgUk2OZ6RFU&security=reality&sid=27689a74e36e6360&sni=severlogistika.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://191cd0ee-7267-4ff5-a064-4fdaa24b2cbf@87.121.105.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Aqozg7SuheGLClMCYsM__qlfiV_K7QFRiP-fRqSUeyA&security=reality&sid=974e51a5814f4220&sni=sweden-01.shtormovoy.online&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
-vless://f75582ca-0d06-4269-9f7a-9b32c7fc9563@64.188.81.66:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&security=reality&sni=sw1111.sonicservice.digital&type=tcp#%F0%9F%87%B8%F0%9F%87%AA

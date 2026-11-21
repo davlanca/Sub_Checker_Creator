@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://e5e55664-5475-4505-8eb4-14dde650f11b@193.134.211.132:49753?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vsZdFd7iEq3hQ53JVJW_c-DrAYrXuunGr3uI7r3vKWs&security=reality&sid=edf9c64198&sni=uedata.amazon.com&type=tcp#%F0%9F%87%AD%F0%9F%87%B0

@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 
 vless://71bd5b95-4079-417e-a34f-386a07588105@188.225.83.204:7443?encryption=none&fp=firefox&security=tls&sni=polska.champmoney.ru&type=raw#%F0%9F%87%B5%F0%9F%87%B1
+vless://78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c@144.31.5.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Jg9VG2d5YKA_b6b2oVT8_QaIEHyww04U050ahEPhZlU&security=reality&sni=se.dataroute.biz&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://191cd0ee-7267-4ff5-a064-4fdaa24b2cbf@48.102.174.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_mMGgGw02GAe1oPP5YvKpZHt1RvcXDhc83D4UtmEDUY&security=reality&sid=eca312f59ed1eabb&sni=poland-3.shtormovoy.online&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://be146d46-ae50-4691-838c-b6c87dbaec8f@85.192.30.88:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://216e225a-b196-49b4-a326-1e685d2dad89@95.85.227.171:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=QlwK16_5B3wm71oTXG5uJNgPiHt5ANHJzaLQMawLJTY&security=reality&sni=pl88.sonicservice.digital&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c@144.31.5.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Jg9VG2d5YKA_b6b2oVT8_QaIEHyww04U050ahEPhZlU&security=reality&sni=se.dataroute.biz&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://3cb6b78b-16ac-4236-98e0-f4c3669164ce@189.74.116.28:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediatropa.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1

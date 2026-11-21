@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD
-vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?flow=xtls-rprx-vision&security=reality&sni=ch.mntw.lol&fp=firefox&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&sid=76d0389e457fcba0#%F0%9F%87%A8%F0%9F%87%AD
+vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&security=reality&sid=76d0389e457fcba0&sni=ch.mntw.lol&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
