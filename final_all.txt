@@ -40,7 +40,6 @@ vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@parchment.filnex.baby:443?alpn=h2&e
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@copperleaf.gerqix.online:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de4.v1&sni=copperleaf.gerqix.online&type=grpc&fp=edge#%F0%9F%87%A9%F0%9F%87%AA
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#%F0%9F%87%A8%F0%9F%87%AD
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@129.101.109.102:443?encryption=none&fp=firefox&security=tls&serviceName=glush.de4.v1&sni=copperleaf.gerqix.online&type=grpc#%F0%9F%87%A9%F0%9F%87%AA
-vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=glush.de2.v1&sni=copperdell.merlano.monster&type=grpc&fp=random#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://f7331345-aac5-4e81-b8ac-8b8aa3ee2068@176.57.218.50:443?flow=xtls-rprx-vision&security=tls&sni=cdn.lite64.site&fp=edge#%F0%9F%87%BA%F0%9F%87%B8
 vless://f7331345-aac5-4e81-b8ac-8b8aa3ee2068@185.154.194.17:443?flow=xtls-rprx-vision&security=tls&sni=img.lite64.site&fp=edge#%F0%9F%87%BA%F0%9F%87%B8
 vless://f7331345-aac5-4e81-b8ac-8b8aa3ee2068@194.187.122.99:443?flow=xtls-rprx-vision&security=tls&sni=media.lite64.site&fp=edge#%F0%9F%87%BA%F0%9F%87%B8
@@ -68,7 +67,6 @@ hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudeh
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@185.102.75.145:888?sni=fin1.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://004ea4a8-d701-0001-b0c0-8e61a5c31a23@168.113.252.11:443?sni=jkawq-ru-45sb.fade.mom&alpn=h3&pinSHA256=31543384f7b5c9bfdc55c87632ac17fa01a54761842c6c05197e0ac33a27e76a#%F0%9F%87%B3%F0%9F%87%B4
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999?#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999?#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999?#%F0%9F%87%A6%F0%9F%87%AA

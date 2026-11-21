@@ -1,16 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://004ea4a8-d701-0001-b0c0-8e61a5c31a23@168.113.252.11:443?sni=jkawq-ru-45sb.fade.mom&alpn=h3&pinSHA256=31543384f7b5c9bfdc55c87632ac17fa01a54761842c6c05197e0ac33a27e76a#%F0%9F%87%B3%F0%9F%87%B4
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@177.3.217.3:443?sni=germanyafterpool.fun#%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?sni=bl1.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@185.102.75.145:666?sni=fin2.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@185.102.75.145:12242?sni=fin4.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@185.102.75.145:777?sni=fin5.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@185.102.75.145:888?sni=fin1.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&sni=litelitvalitter.rooferz.surf#%F0%9F%87%B1%F0%9F%87%B9
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
