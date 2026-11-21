@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:51:24.483100+00:00",
+  "generated_at": "2026-11-21T22:51:30.209979+00:00",
   "count": 357,
   "results": [
     {
@@ -274,7 +274,7 @@
       "tag": "🇸🇪",
       "ping_ms": 8587,
       "speed_kbps": 71,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA"
     },
     {
@@ -3904,7 +3904,7 @@
       "tag": "🇳🇱",
       "ping_ms": 934,
       "speed_kbps": 154,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://12de3048-e455-11f1-9e1b-f328d1ed3475@nl3.vpnjantit.com:8443?type=tcp&security=reality&sni=cloudflare.com&fp=chrome&pbk=vCVpybJCiMGBpMlocJ4wKUllrZNAAth25itR4DQ7-UE&sid=e1422a768cddb8c4&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
