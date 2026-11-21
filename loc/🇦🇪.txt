@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 
 vless://0f7b1470-1a9c-4d03-bcbd-73520050df04@31.59.153.134:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=AisbcoZfyF4z3iBBwTjVOV--ldDuON91tQtKBJ3lNzQ&security=reality&sni=se02.kubservice.icu&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
+vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.92.9:8443?encryption=none&fp=firefox&pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&security=reality&serviceName=TunService&sni=download.nvidia.com&type=grpc#%F0%9F%87%A6%F0%9F%87%AA
+vless://8f25cb67-e0e9-4ca8-a72f-7f5c7e5554f4@83.141.79.164:2090?encryption=none&fp=firefox&host=msk.aleqseivpn.site&path=/933a530aff6181d5&security=tls&sni=msk.aleqseivpn.site&type=ws#%F0%9F%87%A6%F0%9F%87%AA
 vless://11f48e58-bdd8-4251-ba00-ad05d05d9dcf@31.59.154.82:8459?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mTSn98b4yZG3im3ITn-kNLPbT8ljc9ILvAqiT4jyKXk&security=reality&sid=0f0e381ec0c4690d&sni=nl-edge.airlinesvpn.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.146:4430?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iE3EoCDzsS7tTRt7icQDxGYbDd_j_4TDk00y6Nd5Lhs&security=reality&sid=ade96cf50b4b&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rf-Thys7hJwt_ZgndODmH-aAiXbnqH7nOJlRLVRUEl4&security=reality&sid=bf69305d&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
+vless://9d08af01-1294-4dd9-a05f-5f0de0e95d66@179.253.173.203:2090?encryption=none&fp=firefox&host=msk.aleqseivpn.site&path=/f57bb6bee71ac6e1f67b6279&security=tls&sni=msk2.aleqseivpn.site&type=ws#%F0%9F%87%A6%F0%9F%87%AA
