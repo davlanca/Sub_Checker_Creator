@@ -1,17 +1,16 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://488f41fb-b1e6-4b21-9206-837d016167cb@188.225.32.175:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=8rdhihFgU72DVkhH6ROS9j2WyNc_spuiGXrT_YvNJ0M&security=reality&sid=f51bc11ebd9f2835&sni=contract.starsov.pro&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999?#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999?#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.175:19999?#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999?#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999?#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.27:19999?#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.109.228.110:19999?#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.162.152.22:19999?#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999?#%F0%9F%87%AB%F0%9F%87%B7
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@107.161.160.28:8388?#%F0%9F%87%AB%F0%9F%87%B7
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.94:2092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.99.189.142:19999?#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.22:19999?#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.109.228.110:19999?#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.175:19999?#%F0%9F%87%AB%F0%9F%87%B7
+vless://7d77e8fc-07d9-46e3-bf70-66531011fed3@2.56.127.202:17101?security=reality&encryption=none&pbk=td00T39muH83FZFqpyfgfYYQLjT860DLdrCcnKr2_FE&fp=firefox&type=grpc&sni=it.nvidia.com&sid=b08ccd#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.201.129:19999?#%F0%9F%87%AB%F0%9F%87%B7
+vless://6c077993-952c-4318-9e93-89056a207a9b@141.227.170.220:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=apple.com#%F0%9F%87%AB%F0%9F%87%B7
 vless://8897280f-82be-4d5a-bfa1-80bd22851384@api.floweroom.vip:443?encryption=none&type=ws&security=tls&sni=api.floweroom.vip&path=/cart/sync/g-jSjxyhq24P#%F0%9F%87%AB%F0%9F%87%B7
-vless://488f41fb-b1e6-4b21-9206-837d016167cb@193.233.220.158:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&security=reality&sid=52ccb3687fe0b7ec&sni=api8.eaglors.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
-vless://81dc0b61-f9fe-4ad6-8b4e-b8c067b73712@152.228.139.33:35108?type=grpc&security=reality&fp=firefox&pbk=X_lOw5Zz4SJBa1cRHV4dAq5msYE-ClY5-WNcBmBWRxg&sid=52add08b86a5ccea&sni=www.nvidia.com&serviceName=grpc-common3#%F0%9F%87%AB%F0%9F%87%B7
