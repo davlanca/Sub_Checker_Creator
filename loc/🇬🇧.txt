@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?encryption=none&flow=xtls-rprx-vision&security=reality&sni=swdist.apple.com&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&type=tcp&headerType=none&host=swdist.apple.com#%F0%9F%87%AC%F0%9F%87%A7
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AC%F0%9F%87%A7
 vless://66c78912-4e2d-41dc-8742-aaae2590804e@13.143.187.220:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=eDzVz3bxkv3IoN3BUCa_aA-RicoeG7ACylYSnmS2Pgg&sni=fi-s1.kadrhub.tech#%F0%9F%87%AC%F0%9F%87%A7
 vless://d6752c6b-80ae-4a91-b446-bb330f7f8177@45.43.153.33:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_0fpFqEEuCso3B8K7AAcMjctwG_xfCxO2PdKzGd_-hg&security=reality&sid=88a13cf2655c&sni=www.foxsports.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#%F0%9F%87%AC%F0%9F%87%A7
