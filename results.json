@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T07:11:05.343606+00:00",
-  "count": 329,
+  "generated_at": "2026-11-21T07:15:06.360640+00:00",
+  "count": 331,
   "results": [
     {
       "protocol": "vless",
@@ -1783,6 +1783,17 @@
       "speed_kbps": 230,
       "ru_ok": null,
       "config": "vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFQlx1RDgzQ1x1RERGN1/ms5Xlm70gKDE4KSIsDQogICJhZGQiOiAiNTQuMzcuMTMxLjEyNiIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjFlNTViZWNhLTNjNjktNGZhNy1mYjFmLTE1YzFiNzY3NDM1ZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uaGVzYW5pZDguaXIuIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICJnb29nbGUud2hhdHNhcHAuc25hcHAudG9yb2IuYmFzYWxhbS5oZXNhbmlkOC5pci4iLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9#%20t.me%2Frjsxrd"
+    },
+    {
+      "protocol": "vmess",
+      "transport": "ws",
+      "host": "cf.0sm.com",
+      "port": 80,
+      "tag": "",
+      "ping_ms": 2550,
+      "speed_kbps": 63,
+      "ru_ok": null,
+      "config": "vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgfCDwn4e68J+HuCDQodCo0JAgIzc1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%2375%20t.me%2Frjsxrd"
     },
     {
       "protocol": "vmess",
@@ -3587,6 +3598,17 @@
       "speed_kbps": 346,
       "ru_ok": null,
       "config": "vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "04535dt.us8.h1clayd.click",
+      "port": 443,
+      "tag": "🇺🇸",
+      "ping_ms": 9162,
+      "speed_kbps": 52,
+      "ru_ok": null,
+      "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&fp=chrome&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
       "protocol": "vless",
