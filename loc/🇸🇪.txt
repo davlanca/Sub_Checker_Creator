@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
 vless://76798308-0a01-4afe-809b-17aaca23e67f@64.188.81.66:8443?encryption=none&fp=firefox&pbk=-qkLX9VrSYt23pryJgtskKeNLj_FQa7lwQb5KVckpko&security=reality&serviceName=api.v2.SyncService&sni=sw1111.sonicservice.digital&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://76798308-0a01-4afe-809b-17aaca23e67f@sw1111.sonicservice.digital:8443?encryption=none&type=grpc&security=reality&serviceName=api.v2.SyncService&sni=sw1111.sonicservice.digital&fp=firefox&pbk=-qkLX9VrSYt23pryJgtskKeNLj_FQa7lwQb5KVckpko#%F0%9F%87%B8%F0%9F%87%AA
+vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
