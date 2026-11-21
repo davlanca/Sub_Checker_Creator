@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://71bd5b95-4079-417e-a34f-386a07588105@87.242.95.197:13443?security=tls&fp=firefox&sni=inusa.champmoney.ru#%F0%9F%87%B8%F0%9F%87%A8
+vless://71bd5b95-4079-417e-a34f-386a07588105@87.242.95.197:13443?&security=tls&fp=firefox&sni=inusa.champmoney.ru&type=tcp&headerType=none&path=%2F#%F0%9F%87%B8%F0%9F%87%A8

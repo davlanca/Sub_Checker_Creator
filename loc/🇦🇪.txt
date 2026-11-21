@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999?#%F0%9F%87%A6%F0%9F%87%AA
 vless://0f7b1470-1a9c-4d03-bcbd-73520050df04@31.59.153.134:443?encryption=none&flow=xtls-rprx-vision&pbk=AisbcoZfyF4z3iBBwTjVOV--ldDuON91tQtKBJ3lNzQ&security=reality&sni=se02.kubservice.icu&type=tcp&fp=ios#%F0%9F%87%A6%F0%9F%87%AA
-vless://11f48e58-bdd8-4251-ba00-ad05d05d9dcf@31.59.154.82:8459?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mTSn98b4yZG3im3ITn-kNLPbT8ljc9ILvAqiT4jyKXk&security=reality&sid=0f0e381ec0c4690d&sni=nl-edge.airlinesvpn.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
-vless://9d08af01-1294-4dd9-a05f-5f0de0e95d66@179.253.173.203:2090?encryption=none&fp=firefox&host=msk.aleqseivpn.site&path=/f57bb6bee71ac6e1f67b6279&security=tls&sni=msk2.aleqseivpn.site&type=ws#%F0%9F%87%A6%F0%9F%87%AA
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rf-Thys7hJwt_ZgndODmH-aAiXbnqH7nOJlRLVRUEl4&security=reality&sid=bf69305d&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
 vless://9d08af01-1294-4dd9-a05f-5f0de0e95d66@msk2.aleqseivpn.site:2090?encryption=none&type=ws&security=tls&path=%2Ff57bb6bee71ac6e1f67b6279&host=msk.aleqseivpn.site&sni=msk2.aleqseivpn.site&fp=chrome&alpn=http%2F1.1#%F0%9F%87%A6%F0%9F%87%AA
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.146:4430?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iE3EoCDzsS7tTRt7icQDxGYbDd_j_4TDk00y6Nd5Lhs&security=reality&sid=ade96cf50b4b&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA
+vless://11f48e58-bdd8-4251-ba00-ad05d05d9dcf@31.59.154.82:8459?encryption=none&flow=xtls-rprx-vision&pbk=mTSn98b4yZG3im3ITn-kNLPbT8ljc9ILvAqiT4jyKXk&security=reality&sid=0f0e381ec0c4690d&sni=nl-edge.airlinesvpn.com&type=tcp&fp=edge#%F0%9F%87%A6%F0%9F%87%AA
