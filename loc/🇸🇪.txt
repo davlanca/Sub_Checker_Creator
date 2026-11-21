@@ -1,4 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@volumestyle.komediyatorg.net:443?type=ws&headerType=none&security=tls&encryption=none&sni=volumestyle.komediyatorg.net&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&path=%2Fmedia%2Fws%2F&security=tls&sni=volumestyle.komediyatorg.net&type=ws&fp=safari#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&path=%2Fmedia%2Fws%2F&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws&fp=safari#%F0%9F%87%B8%F0%9F%87%AA
+vless://152472ec-e29f-45df-a75c-b3a0d2699c81@16.16.207.164:443?encryption=mlkem768x25519plus.native.0rtt.tl1Bv14vyLTVA7d7Y8nagOJ9g4y4ievcu5atZfbypHc&fp=firefox&pbk=rf3v5q2WQbjSMd0b5rP_YD8-WITwW0b_R5ZhFh9FqHU&security=reality&sid=b3fc2fd0de&sni=buybox.amazon.com&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@depotchannel.lucheeebezlimitnoekino.stream:443?type=ws&headerType=none&security=tls&encryption=none&sni=depotchannel.lucheeebezlimitnoekino.stream&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
