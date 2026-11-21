@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@151.241.19.29:19999?#%F0%9F%87%A6%F0%9F%87%AA
-vless://0f7b1470-1a9c-4d03-bcbd-73520050df04@31.59.153.134:443?encryption=none&flow=xtls-rprx-vision&pbk=AisbcoZfyF4z3iBBwTjVOV--ldDuON91tQtKBJ3lNzQ&security=reality&sni=se02.kubservice.icu&type=tcp&fp=ios#%F0%9F%87%A6%F0%9F%87%AA
 vless://11f48e58-bdd8-4251-ba00-ad05d05d9dcf@31.59.154.82:8459?encryption=none&flow=xtls-rprx-vision&pbk=mTSn98b4yZG3im3ITn-kNLPbT8ljc9ILvAqiT4jyKXk&security=reality&sid=0f0e381ec0c4690d&sni=nl-edge.airlinesvpn.com&type=tcp&fp=edge#%F0%9F%87%A6%F0%9F%87%AA
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@151.241.128.146:4430?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=iE3EoCDzsS7tTRt7icQDxGYbDd_j_4TDk00y6Nd5Lhs&security=reality&sid=ade96cf50b4b&sni=psstatic.cdn.bcebos.com&type=tcp#%F0%9F%87%A6%F0%9F%87%AA

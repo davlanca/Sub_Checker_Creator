@@ -4,4 +4,4 @@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@186.190.215.251:19999?#%F0%9F%87%A8%F0%9F%87%AD
 vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?mode=gun&security=reality&encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&fp=firefox&type=grpc&serviceName=grpc&sni=g.play2go.gay#%F0%9F%87%A8%F0%9F%87%AD
 vless://962aa7b8-6e17-4dcf-a4a9-350131557ed1@95.85.230.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FhEDF-QWGT_PKoyERh4aAmsZLadZsTvpSQ5raDaEK30&security=reality&sid=8f5d073231be5216&sni=rbc.ru&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
-vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@77.232.40.206:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=ch02.tunnely.space&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
+vless://65b6bc06-44c9-4b21-8dc0-bdf1d688c0e6@195.15.207.252:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dqhYuWM5WUOgUYe4FmvLZS-Nb4tY9qZ7_WffpePl6lQ&security=reality&sid=76d0389e457fcba0&sni=ch.mntw.lol&type=tcp#%F0%9F%87%A8%F0%9F%87%AD
