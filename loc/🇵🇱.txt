@@ -1,6 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?encryption=none&flow=xtls-rprx-vision&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
+vless://71bd5b95-4079-417e-a34f-386a07588105@188.225.83.204:7443?encryption=none&fp=firefox&security=tls&sni=polska.champmoney.ru&type=raw#%F0%9F%87%B5%F0%9F%87%B1
 vless://be146d46-ae50-4691-838c-b6c87dbaec8f@85.192.30.88:443?encryption=none&fp=firefox&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@150.251.112.45:2066?security=reality&encryption=none&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tiktok.com&sid=d18f4e#%F0%9F%87%B5%F0%9F%87%B1
 vless://e51c8449-b9f2-4791-9904-2008cc978b1c@87.242.127.51:21127?encryption=none&fp=firefox&pbk=Q70rlr8n_t6-_dUAm6FlNecYD4RAjMJ_LMskG3H8zXU&security=reality&sid=0d0fb2026c3a579f&sni=pl.veltrosub.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1

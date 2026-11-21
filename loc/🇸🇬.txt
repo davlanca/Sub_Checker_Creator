@@ -15,5 +15,5 @@ vless://2633cbab-e901-4f5a-9a0f-18ff319d0d70@xjpp.zjlo.top:36442?encryption=none
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
 vless://49b91402-f8e3-4390-9d7b-b7eddc2684a4@47.84.226.221:443?flow=xtls-rprx-vision&fp=&pbk=gVQsvRtzd77zlvKW4Gk0dAOJNPRa7cfN1-jVe_AJ8Bo&security=reality&sid=e1c483f9d4437d42&sni=www.samsung.com&type=raw#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
