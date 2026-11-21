@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&path=%2Fmedia%2Fws%2F&security=tls&sni=volumestyle.komediyatorg.net&type=ws&fp=ios#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@volumestyle.komediyatorg.net:443?type=ws&headerType=none&security=tls&encryption=none&sni=volumestyle.komediyatorg.net&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@depotchannel.lucheeebezlimitnoekino.stream:443?type=ws&headerType=none&security=tls&encryption=none&sni=depotchannel.lucheeebezlimitnoekino.stream&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@185.117.88.9:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&sid=f8d0271b4b5f9efc&allowInsecure=0#%F0%9F%87%B8%F0%9F%87%AA

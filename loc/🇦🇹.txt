@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999?#%F0%9F%87%A6%F0%9F%87%B9
-vless://e436321f-24a9-4c38-b935-7d7dee0c3f68@212.109.193.194:2096?encryption=none&security=reality&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=vless-grpc-reality&mode=gun#%F0%9F%87%A6%F0%9F%87%B9
