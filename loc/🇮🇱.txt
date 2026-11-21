@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://a9ff24d3-f308-4e72-acb9-a76062583837@45.140.204.17:22444?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=fontanka.ru&type=tcp#%F0%9F%87%AE%F0%9F%87%B1
