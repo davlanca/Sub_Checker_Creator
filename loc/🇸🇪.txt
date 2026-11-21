@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://fbe22815-0718-4eae-816f-e91c67d15b54@81.90.21.163:2096?security=tls&type=ws&path=%2Fcdn%2Fv3%2Flive&host=stb71e5.rumedia-cdn.com&packetEncoding=xudp&sni=stb71e5.rumedia-cdn.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
 vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&fp=firefox&host=se1.v2less.site&path=/vless&security=tls&sni=se1.v2less.site&type=ws#%F0%9F%87%B8%F0%9F%87%AA
