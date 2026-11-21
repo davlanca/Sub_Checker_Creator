@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206ZG1KRHRzeHM0MWRCZXI4WCs3aWR2a3ZNUUhxSnV3UmI@206.245.128.123:18443?#%F0%9F%87%AE%F0%9F%87%B1
-vless://4fabeed0-790e-9724-8f12-138ed31ac60e@178.20.28.5:8443?encryption=none&fp=firefox&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&security=reality&serviceName=TunService&sni=res.cdn.office.net&type=grpc#%F0%9F%87%AE%F0%9F%87%B1
