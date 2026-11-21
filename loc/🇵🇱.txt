@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://be146d46-ae50-4691-838c-b6c87dbaec8f@85.192.30.88:443?type=tcp&security=reality&fp=ios&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click#%F0%9F%87%B5%F0%9F%87%B1
+vless://be146d46-ae50-4691-838c-b6c87dbaec8f@85.192.30.88:443?encryption=none&pbk=8OI8rEgAiWxH-cG03xgzuz7XTFHrbA1MY9HnPHcgSUA&security=reality&sid=1d5ac21e988c571f&sni=702e56t.pl5.h1clayd.click&type=tcp&fp=safari#%F0%9F%87%B5%F0%9F%87%B1
 vless://d81db550-4787-467e-b98a-579ee9d41999@84.23.52.104:9071?encryption=none&fp=firefox&mode=gun&pbk=XKFUTW9ZAlaaeuUGiKKx9FgLjdQch7pCiR1GC1xMcjk&security=reality&serviceName=grpc&sid=aab4c8abf7a4c4e4&sni=www.cloudflare.com&type=grpc#%F0%9F%87%B5%F0%9F%87%B1
-vless://78a2cdf1-22e5-4ad7-bf89-91aa13d8b76c@144.31.5.137:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Jg9VG2d5YKA_b6b2oVT8_QaIEHyww04U050ahEPhZlU&security=reality&sni=se.dataroute.biz&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
 vless://623e66a7-25ee-4624-a63c-9513d620a287@48.102.206.180:9443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&security=reality&sid=408c85938839e89f&sni=po2.hys.braidx.tech&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://488f41fb-b1e6-4b21-9206-837d016167cb@193.233.220.158:443?encryption=none&flow=xtls-rprx-vision&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&security=reality&sid=52ccb3687fe0b7ec&sni=api8.eaglors.com&type=tcp&fp=ios#%F0%9F%87%B5%F0%9F%87%B1

@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b743c868-b35c-4d91-b88b-d9efd7060b5c@xjpp.zjlo.top:36442?encryption=none&flow=xtls-rprx-vision&security=tls&sni=xjpp.zjlo.top&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality&encryption=none&pbk=HwHSknL4SAIWY3xMfnvpcbCpE_QmF_DOxb2mkyxQ3Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=singapour.cloudhouse1.ru&sid=0929498c442d0ff3#%F0%9F%87%B8%F0%9F%87%AC

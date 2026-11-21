@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b8318808-1193-4879-b2c2-6fc638e4101d@136.176.67.229:8443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pSlXYWDvQT1dDeMU4dOTUWw3DSvm6Lkdhfz1x5ODByw&sid=a2d1bec41de2c149&sni=fr.nuvio.ink#%F0%9F%87%AB%F0%9F%87%B7
 vless://488f41fb-b1e6-4b21-9206-837d016167cb@fi.starsov.pro:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api8.eaglors.com&fp=firefox&pbk=Nb9IwEEhUHEbHSc6e5uYTjxDgN4ZExhDckM3OgYhj2o&sid=52ccb3687fe0b7ec&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7
