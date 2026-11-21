@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@194.76.168.133:443?security=tls&sni=nemicro487.gangtype.com&alpn=http%2F1.1&fp=qq&type=ws&host=nemicro487.gangtype.com&path=%2Frealtime%2Fclient%2Fconnect#%F0%9F%87%AA%F0%9F%87%B8
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AA%F0%9F%87%B8

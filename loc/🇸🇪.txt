@@ -3,4 +3,5 @@
 
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&host=volumestyle.komediyatorg.net&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#%F0%9F%87%B8%F0%9F%87%AA
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://57d33a42-1b6d-47d0-a14e-31cf1dcebb6f@5.59.205.180:38203?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IZ9HnoNBZDB0e15eA-_Ve7N6nuilZ_vR-4RzMcSgBV0&security=reality&sid=4c9499e6fc251e0c&sni=se-1.cutemedia.lol&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@depotchannel.lucheeebezlimitnoekino.stream:443?type=ws&headerType=none&security=tls&encryption=none&sni=depotchannel.lucheeebezlimitnoekino.stream&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
