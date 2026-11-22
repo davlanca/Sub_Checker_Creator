@@ -1,9 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://5c98c351-0720-40f5-900b-aaa5884819a9@axe.mastopen14.ir:443?security=tls&type=ws&path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&host=mojito1703.mastopen14.ir&packetEncoding=xudp&alpn=h2&sni=mojito1703.mastopen14.ir&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
 vless://b2505fa2-f7c4-40d2-8c4a-1f6336bd37f1@2.29.125.167:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=static.162.97.119.168.clients.your-server.de&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://cd1ac04c-3dea-450b-b57b-2aa00f357353@87.121.89.165:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=eHdHpA-hKq3aXoVTW_ysflcYKmNbuCSExN167jKtnAY&security=reality&sid=fa6ca0ce38e58033&sni=hosting.sywl5.club&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@196.196.204.147:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click#%F0%9F%87%AB%F0%9F%87%AE
 vless://8cc3e58b-08fb-49af-9195-801715e87d4c@201.8.70.158:443?encryption=none&fp=firefox&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&security=reality&serviceName=grpc&sni=dl.google.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
 vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@48.102.201.70:54443?encryption=none&flow=xtls-rprx-vision&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&security=reality&sid=0e9de4c83cb77992&sni=snobvpn.online&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
