@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&sni=cdn.connectingpeoplewithgreatjobs.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6
+trojan://sshs8_6481354771@86.38.247.109:2087?type=raw&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%F0%9F%87%B8%F0%9F%87%AC
+trojan://ec893967c30f4c3a8b6d4c975af95f45@oracle-tokyo-2.waverider.yingdigame.com:443?type=tcp&security=tls&fp=chrome&sni=oracle-tokyo-2.waverider.yingdigame.com#%F0%9F%87%AF%F0%9F%87%B5
