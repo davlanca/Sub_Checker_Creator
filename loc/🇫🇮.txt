@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:888?sni=fin1.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:21?sni=fin9.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:12242?sni=fin4.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
 vless://da8972f9-770f-4012-ab46-5de2711a718b@178.214.125.2:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=conf.emaar.ru&fp=qq&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&sid=6172ba9cffe9c22f&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE
 vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@48.102.201.70:54443?encryption=none&flow=xtls-rprx-vision&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&security=reality&sid=0e9de4c83cb77992&sni=snobvpn.online&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
 vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@81.222.148.178:53443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=snobvpn.online&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&sid=0e9de4c83cb77992&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE

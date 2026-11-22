@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://11da4190-50d9-4d8a-9087-71fc53bd5f0d@189.74.115.30:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%A6%F0%9F%87%B9

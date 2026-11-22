@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 vless://efc77ebb-405e-4e42-9774-72e1b06fe037@Framcemultiny.belzema.ir:7005?security=reality&pbk=7aICTN0hv6bhd8bYOjNZniDYSXgD20LunZ3BW6_Zyk4&fp=ios&sni=play.googleapis.com#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%AB%F0%9F%87%B7
