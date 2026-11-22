@@ -1,13 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.164.133:19999?#%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999?#%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#%F0%9F%87%B8%F0%9F%87%AC
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999?#%F0%9F%87%B8%F0%9F%87%AC
+vless://1c0250ec-2dbc-40be-bd18-90b5e812ceaa@95.188.72.67:443?encryption=none&security=tls&sni=pg.fm6dw.dpdns.org&type=ws&path=%2F%3Fed%3D2048&host=pg.fm6dw.dpdns.org&fp=android#%F0%9F%87%B8%F0%9F%87%AC
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality&encryption=none&pbk=HwHSknL4SAIWY3xMfnvpcbCpE_QmF_DOxb2mkyxQ3Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=singapour.cloudhouse1.ru&sid=0929498c442d0ff3#%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
-vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=video.yandex.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
-vless://7e622534-4a90-40ba-bb30-5cb5403be121@45.77.241.190:8441?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=/%40Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AC
