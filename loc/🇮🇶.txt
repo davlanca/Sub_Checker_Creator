@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.135:443?security=reality&sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c#%F0%9F%87%AE%F0%9F%87%B6
+vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.135:443?security=reality&sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&encryption=none#%F0%9F%87%AE%F0%9F%87%B6

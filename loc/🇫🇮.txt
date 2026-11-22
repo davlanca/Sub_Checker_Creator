@@ -2,5 +2,10 @@
 //profile-update-interval: 1
 
 vless://78dbd904-8400-40fa-b67d-8bbaa624d385@31.77.7.146:8443?encryption=none&fp=firefox&pbk=uRW_hGx4d5mprUYhkDyoM-JfsqNh5RT6I0J-2VcH-Rc&security=reality&serviceName=platina&sid=c8c51d0a44538617&sni=fi2-serv.maxleshax.icu&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
-vless://082ff568-e0f1-42af-ad7c-2c46adde1273@45.86.158.53:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://78dbd904-8400-40fa-b67d-8bbaa624d385@fi2-serv.maxleshax.icu:8443?pbk=uRW_hGx4d5mprUYhkDyoM-JfsqNh5RT6I0J-2VcH-Rc&security=reality&serviceName=platina&sid=c8c51d0a44538617&sni=fi2-serv.maxleshax.icu&type=grpc&fp=edge#%F0%9F%87%AB%F0%9F%87%AE
+vless://78dbd904-8400-40fa-b67d-8bbaa624d385@fi2-serv.maxleshax.icu:8443?pbk=uRW_hGx4d5mprUYhkDyoM-JfsqNh5RT6I0J-2VcH-Rc&security=reality&serviceName=platina&sid=c8c51d0a44538617&sni=fi2-serv.maxleshax.icu&type=grpc&fp=edge&encryption=none#%F0%9F%87%AB%F0%9F%87%AE
+vless://d6d458ed-4f32-45a2-9cac-4aeb8ec2ec6f@144.31.90.0:443?security=tls&sni=valleyinsight.zioio.net&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%AB%F0%9F%87%AE
+vless://8cc3e58b-08fb-49af-9195-801715e87d4c@201.8.70.158:443?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&fp=chrome&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE
+vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@48.102.201.70:54443?encryption=none&flow=xtls-rprx-vision&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&security=reality&sid=0e9de4c83cb77992&sni=snobvpn.online&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
+vless://0e95dbe0-1d95-40e9-bde3-decab5d997bf@185.242.247.177:8443?flow=xtls-rprx-vision&security=reality&sni=cedar-lantern.justext.space&fp=firefox&pbk=Lvm9eec5bpjeqEnwG_9Q0_W0Imp7xS6JUftXhEYCOjw&sid=4480a7bbaeac077d#%F0%9F%87%AB%F0%9F%87%AE
+vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@81.222.148.178:53443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=snobvpn.online&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&sid=0e9de4c83cb77992&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
+vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@81.222.148.87:53443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=snobvpn.online&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&sid=0e9de4c83cb77992&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
