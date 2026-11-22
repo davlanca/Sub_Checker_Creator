@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://08a37d1f-7bf1-4b5d-a2ec-5ced6a633d7f@116.213.43.43:11107/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=6GRzkPbs12fKBdBBFzs5dmtmbSHCXMngUCBKLrXYm3U&sid=e2ccd8eedcbee2ce&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%B0
-vless://530d31fc-2690-49e4-bfc9-3f991e145008@116.213.43.43:11102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=oW6HMjniDmBJdjGKwhBAIS2zMS1VvHORubh9vdazqQ0&sid=ed571d022f7bc3bf&packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%B0
 vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?encryption=none&security=tls&flow=xtls-rprx-vision&type=tcp&sni=nova-house.justext.space&fp=firefox#%F0%9F%87%AD%F0%9F%87%B0

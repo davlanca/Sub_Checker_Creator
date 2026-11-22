@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://c50eae6b-18de-4bdc-a22f-9edda40a57ed@77.232.40.206:443?encryption=none&flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=ch02.tunnely.space&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#%F0%9F%87%A8%F0%9F%87%AD

@@ -1,5 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@195.209.221.165:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=ruhsds735.thebestqas.am&pbk=KYCw7cXjogBXLwakD95fS0ez_Ohp841nJv0w0ntu_FU&sid=8b360b27c8ae3791&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTg1MiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#Бесплатный VPN tg:VLESSFORU 🇨🇦%20t.me%2Frjsxrd
+vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=71b840t.de7.h1clayd.click&fp=chrome&sid=e572b6579ea525d4&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&encryption=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@5.129.197.245:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ozon.ru&pbk=LWkgZK9PqYNcR499zdkAl-yA71ifFjW7nGaKpdZHkyY&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@195.206.235.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@16.192.72.134:3443?encryption=none&type=xhttp&security=reality&sni=travel.yandex.ru&pbk=UDfaRJ-3n3hU1SldWMXD9W31R3LjNydS0usDlhV_W00&sid=abcdef0123456789&fp=chrome&path=/&host=se.vp.uspn.io&mode=auto#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://ae506c31-9407-4f3a-9796-20a96a29eb53@5.129.197.245:8445?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=www.ozon.ru&pbk=LWkgZK9PqYNcR499zdkAl-yA71ifFjW7nGaKpdZHkyY&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
