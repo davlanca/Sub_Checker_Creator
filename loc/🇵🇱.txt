@@ -1,6 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&sni=harbortarget.newbuzideas.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B5%F0%9F%87%B1
-vless://a35c508f-4d5d-4531-842e-6e9d43c762c0@31.129.100.159:443?type=tcp&headerType=none&security=reality&encryption=none&sni=kzn1.nexfile.net&fp=firefox&pbk=e6RrKgiMRFZEKHn7bcpQHV_skmM-45eX6-G92U0tykY&sid=edc4c30c&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
-vless://631263fd-3e12-49ac-be1b-c26bcc36ba43@189.74.116.41:443?flow=xtls-rprx-vision&security=reality&sni=api.oblachnyservis.cc&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#%F0%9F%87%B5%F0%9F%87%B1

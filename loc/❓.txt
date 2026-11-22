@@ -1,10 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&fp=qq&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://3e1798b2-8b39-49e8-9f5f-f3235a16bd66@213.178.155.234:8443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fapi%2Fv4%2Fmedia%2Fsession&security=tls&sni=portal-edge.tcpshield.fun&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@176.32.33.126:18443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.37:443?security=tls&sni=downloadframe.zak-rkp.net&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJ2IjoiMiIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIEtleXMgIzYyIiwiYWRkIjoiMTYyLjE5LjE5Mi44OSIsInBvcnQiOiIxNjYxNiIsImlkIjoiOTA0ZjA1NjktODY5NS00NjZmLTk3Y2YtMGRlMmZhY2UxYjQ2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImY5MzA5Y2M4ODYzN2MyNmY1NTJhMWE2NGZiMzExY2FlLm1vYmdzbGIudGJjYWNoZS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20Keys%20%2362%20t.me%2Frjsxrd
-vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+PtOKAjeKYoO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vless://a688bbe2-e455-11f1-a2d1-0f56c102b673@gr1.vpnjantit.com:8443?security=reality&type=tcp&packetEncoding=xudp&sni=cloudflare.com&fp=firefox&flow=xtls-rprx-vision&sid=992f9f92ddfa5056&pbk=GbzSIW3yd11r22Twahtyz4CMDxUj_QQe5RKvZukxDUw&encryption=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
