@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://bb2a729c-6185-4170-8769-6f5b9f64d5b8@104.18.79.242:443?security=tls&type=ws&path=%2F11290579a72cdb4e%3Fed%3D2560&host=cloud-sync-3d1512-gw.maziarkish.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cloud-sync-3d1512-gw.maziarkish.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.74:19999?#%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999?#%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.73:19999?#%F0%9F%87%B8%F0%9F%87%AC
@@ -11,4 +10,3 @@ vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality
 vless://a6fd460c-88bd-4425-bb56-2b73d29455cc@47.84.39.7:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=EXPjsObdfDnKuRmw4-A9_G4k-WP2cUXuuvUo8It1sAo&sid=4d1244cd42a20e6c&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiIxOTUuMTMzLjEzNS4yMzgiLCJwb3J0IjoiMTAwODYiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
 trojan://sshs8_6481354771@86.38.247.109:2087?type=raw&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%B8%F0%9F%87%AC

@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://c2f1f999-365f-42a7-87e7-726cbd0753ae@188.114.98.0:443?security=tls&type=ws&path=%2F294dd38929bdec5b%3Fed%3D2560&host=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=auth-api-8be4aa-gw.prod-relay-110934.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%A7%F0%9F%87%AC
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@157.228.163.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hSoDrLr8MWmV05ffU4OLAmCgvh7AsoSiwkVjzPPVWSk&security=reality&sid=d84583b7258ac883&sni=sofia-talking.keno.su&type=tcp#%F0%9F%87%A7%F0%9F%87%AC
