@@ -5,5 +5,5 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.153.10:443?&security=tls&fp=
 vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&authority=&serviceName=v3-direct&mode=gun#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@172.67.192.112:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@104.16.183.101:443?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid&host=sync.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
