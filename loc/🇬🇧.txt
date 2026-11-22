@@ -1,9 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&sni=144.48.11.146#%F0%9F%87%AC%F0%9F%87%A7
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@89.125.212.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rRWAX9DDp7KrhqH73UUKML3PUSADSq6ANziJSsuqD38&security=reality&sid=ff05cfd2ebf63628&sni=prsx-forum-reserv.keno.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AC%F0%9F%87%A7
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff#%F0%9F%87%AC%F0%9F%87%A7
+vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@193.23.202.17:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TE1qGUb4N4LesuXPdW647MUSOeU_aLhdvueCa_4P5no&security=reality&sid=7f551e4657ac6e26&sni=nl1.videoharpaeva.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://0259e5aa-c188-4334-b204-32cd5ea859f6@89.125.212.212:443?flow=xtls-rprx-vision&security=reality&sni=prsx-forum-reserv.keno.su&fp=firefox&pbk=rRWAX9DDp7KrhqH73UUKML3PUSADSq6ANziJSsuqD38&sid=ff05cfd2ebf63628#%F0%9F%87%AC%F0%9F%87%A7
 vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@82.148.228.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock1.mcufa.pro&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@45.86.74.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=gemcon.mcufa.pro&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@193.23.202.17:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=TE1qGUb4N4LesuXPdW647MUSOeU_aLhdvueCa_4P5no&sid=7f551e4657ac6e26&sni=nl1.videoharpaeva.online#%F0%9F%87%AC%F0%9F%87%A7
