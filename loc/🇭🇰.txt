@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=lyhk.mihoyo.site#%F0%9F%87%AD%F0%9F%87%B0

@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?encryption=none&flow=xtls-rprx-vision&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&security=reality&sid=150a627d15154cf2&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
-vless://30b820d1-6466-46e1-9b59-4d162302cf84@pl06d.kubservice.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=pl06d.kubservice.icu&fp=qq&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1
