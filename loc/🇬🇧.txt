@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999?#%F0%9F%87%AC%F0%9F%87%A7
-vless://3112c3f2-7172-417d-bce6-d168135d1603@8.208.101.215:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=U6FtussjhSb81ka0z9IDf1n80syjsczIDrRTdmzyeGM&sid=5a6f99962a27cdbc&packetEncoding=xudp#%F0%9F%87%AC%F0%9F%87%A7
 vless://850a3eb8-064d-417a-87c9-770cab0ddf97@82.47.1.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CUfIHVvZtTD1RlJabgO3S-G-6Gyp_jZc8CE1gQd8YyE&security=reality&sid=b0d86cfde3454d28&sni=demo-us-east.livemusic.ac&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://850a3eb8-064d-417a-87c9-770cab0ddf97@demo-us-east.livemusic.ac:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=demo-us-east.livemusic.ac&fp=firefox&pbk=CUfIHVvZtTD1RlJabgO3S-G-6Gyp_jZc8CE1gQd8YyE&sid=b0d86cfde3454d28#%F0%9F%87%AC%F0%9F%87%A7
