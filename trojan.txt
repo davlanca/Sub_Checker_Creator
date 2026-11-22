@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 trojan://sshs8_6481354771@86.38.247.109:2087?type=raw&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%F0%9F%87%B8%F0%9F%87%AC
-trojan://ec893967c30f4c3a8b6d4c975af95f45@oracle-tokyo-2.waverider.yingdigame.com:443?type=tcp&security=tls&fp=chrome&sni=oracle-tokyo-2.waverider.yingdigame.com#%F0%9F%87%AF%F0%9F%87%B5
