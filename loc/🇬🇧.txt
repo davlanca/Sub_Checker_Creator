@@ -1,6 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
-vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&sni=144.48.11.146#%F0%9F%87%AC%F0%9F%87%A7
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@45.86.74.209:443?flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=gemcon.mcufa.pro&type=raw#%F0%9F%87%AC%F0%9F%87%A7
+vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=144.48.11.146&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
+vless://a0c51c22-e51f-41a0-b7f8-480bcdc24e09@129.101.99.221:443?type=grpc&security=tls&fp=chrome&sni=cdn.dotameridian.com&serviceName=d386f93b4346&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AC%F0%9F%87%A7
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TDM1Wm9RamppaERtVkkzWWNESzBVTWdjanBveGRNdFZEU3RWMk5INzR4dz0@129.151.82.249:61312#%F0%9F%87%AC%F0%9F%87%A7
