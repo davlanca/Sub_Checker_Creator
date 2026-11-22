@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990?#%F0%9F%87%B3%F0%9F%87%B4
+vless://936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50@144.31.128.220:14443?encryption=none&fp=firefox&pbk=TBvwkxwgTGYba7Jl3f2WcNBFvcKJ8uYHjYYdiyZTYCg&security=reality&serviceName=nexusGrpc&sid=d9662905&sni=cosmo-convert.ru&type=grpc#%F0%9F%87%B3%F0%9F%87%B4

@@ -1,11 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&fp=safari&mode=gun&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&security=reality&sni=flintstack.dev&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://9a597d68-6688-4046-bf24-a5a541e115e0@185.117.88.9:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=f8d0271b4b5f9efc&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
-vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@77.232.143.142:443?encryption=none&fp=firefox&host=77.232.143.142&path=/media/ws/&security=tls&sni=volumestyle.komediyatorg.net&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@volumestyle.komediyatorg.net:443?encryption=none&headerType=none&path=%2Fmedia%2Fws%2F&security=tls&sni=volumestyle.komediyatorg.net&type=ws&fp=safari#%F0%9F%87%B8%F0%9F%87%AA
-vless://9986b4e5-58dd-4360-8c58-d6b9c86584e2@88.216.129.84:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0MrhgrveImRyxFaC9Q11Mm4-oN38uFlFFt4UnmGrxRo&security=reality&sid=041a595c72d82db0&sni=reeltiles.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
-vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@177.3.209.122:54443?encryption=none&flow=xtls-rprx-vision&pbk=31cs626rRccv4rdooh0uUN9JSM8MSjCxYBZhpVseGUY&security=reality&sid=c37b62fae177eec8&sni=snobvpn.online&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@185.117.88.9:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50@88.216.129.220:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bDusKhZi2NCA08GISCdWKvfuvFE8iGLlhCyoSFzh_lI&security=reality&sid=5e6ab3ab238625&sni=sw.sometraffic.org&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://936ef8c6-fd6c-4b6c-bc74-7c88ded9aa50@185.86.155.241:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MdbM8KrMx_qjpI0roJfsFIQt1Eab2hlpJ6Nbf6V_5F0&security=reality&sid=5e2ab9ab138424&sni=converts.gurkusmalo.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
