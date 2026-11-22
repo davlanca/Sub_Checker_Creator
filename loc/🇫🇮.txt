@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 
 vless://da8972f9-770f-4012-ab46-5de2711a718b@178.214.125.2:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=conf.emaar.ru&fp=qq&pbk=ZxCwJxbsZWJYYCPzeWj7_fxJMVhwh4XGfpvjmEIQjHY&sid=6172ba9cffe9c22f&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE
-vless://97daeafa-0744-38a0-9441-74d6cdb63e80@route-fi-de-waicore.unrealvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lg.hel.play2go.cloud&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260#%F0%9F%87%AB%F0%9F%87%AE
 vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?flow=xtls-rprx-vision&security=reality&sni=lg.hel.play2go.cloud&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260&encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@48.102.201.70:54443?encryption=none&flow=xtls-rprx-vision&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&security=reality&sid=0e9de4c83cb77992&sni=snobvpn.online&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%AE
+vless://97daeafa-0744-38a0-9441-74d6cdb63e80@route-fi-de-waicore.unrealvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lg.hel.play2go.cloud&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260#%F0%9F%87%AB%F0%9F%87%AE
