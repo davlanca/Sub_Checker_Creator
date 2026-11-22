@@ -1,11 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999?#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999?#%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999?#%F0%9F%87%AC%F0%9F%87%A7
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@82.148.228.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock1.mcufa.pro&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@193.23.202.17:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TE1qGUb4N4LesuXPdW647MUSOeU_aLhdvueCa_4P5no&security=reality&sid=7f551e4657ac6e26&sni=nl1.videoharpaeva.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@45.86.74.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=gemcon.mcufa.pro&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.176.206.9:19999?#%F0%9F%87%AC%F0%9F%87%A7
 vless://850a3eb8-064d-417a-87c9-770cab0ddf97@82.47.1.240:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CUfIHVvZtTD1RlJabgO3S-G-6Gyp_jZc8CE1gQd8YyE&security=reality&sid=b0d86cfde3454d28&sni=demo-us-east.livemusic.ac&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 vless://0259e5aa-c188-4334-b204-32cd5ea859f6@89.125.212.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=rRWAX9DDp7KrhqH73UUKML3PUSADSq6ANziJSsuqD38&security=reality&sid=ff05cfd2ebf63628&sni=prsx-forum-reserv.keno.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@193.23.202.17:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TE1qGUb4N4LesuXPdW647MUSOeU_aLhdvueCa_4P5no&security=reality&sid=7f551e4657ac6e26&sni=nl1.videoharpaeva.online&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@45.86.74.209:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=gemcon.mcufa.pro&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@82.148.228.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock1.mcufa.pro&type=tcp#%F0%9F%87%AC%F0%9F%87%A7

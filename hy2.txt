@@ -1,13 +1,13 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:888?sni=fin1.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:21?sni=fin9.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:12242?sni=fin4.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:8443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://GIFCjtpiGVOsrCy2kgBmgndXX5lUP7Eb@94.141.102.196:888?sni=fin1.cft-razor.online#%F0%9F%87%AB%F0%9F%87%AE
-hysteria2://004ea4a8-d701-0001-b0c0-8e61a5c31a23@168.113.252.11:443?sni=jkawq-ru-45sb.fade.mom&pinSHA256=31543384f7b5c9bfdc55c87632ac17fa01a54761842c6c05197e0ac33a27e76a#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?alpn=h3&insecure=0&security=tls&sni=germanyafterpool.fun#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@nb2hk.hikigo.com:443?sni=nb2hk.hikigo.com&obfs=salamander&obfs-password=o5qgnpl75wayhkn5#%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@66hk.mateflora.com:443?sni=66hk.mateflora.com&obfs=salamander&obfs-password=aemx2gndpgrt1qau#%F0%9F%87%AD%F0%9F%87%B0
