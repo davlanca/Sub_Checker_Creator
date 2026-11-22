@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://129044e0-8ca6-49f8-bd35-71cfe2914c46@95.214.55.176:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W917S3fCWsNGQOoKP5WdMfuRSwaQoaFEQ4TIdRhv7Wc&security=reality&sni=mostmev3.loneliumvpn.click&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://9192ae0a-8a0f-47ac-950b-de7410f2fdf0@162.19.175.14:443?encryption=none&fp=firefox&pbk=Qdd1F_i_qBf1ytcmWK84u5flveCGJ5-_W-vusgXCJ2M&security=reality&serviceName=rise-grpc&sid=90d63689a4eebd03&sni=use-213566.riseapps.uk&type=grpc#%F0%9F%87%AB%F0%9F%87%B7
-vless://129044e0-8ca6-49f8-bd35-71cfe2914c46@mostmev3.loneliumvpn.click:8443?encryption=none&flow=xtls-rprx-vision&pbk=W917S3fCWsNGQOoKP5WdMfuRSwaQoaFEQ4TIdRhv7Wc&security=reality&sni=mostmev3.loneliumvpn.click&type=tcp&fp=safari#%F0%9F%87%AB%F0%9F%87%B7
