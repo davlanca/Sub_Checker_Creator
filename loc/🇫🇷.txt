@@ -2,5 +2,7 @@
 //profile-update-interval: 1
 
 vless://6c077993-952c-4318-9e93-89056a207a9b@141.227.170.220:8443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6ba85179e30d4fc2&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
-vless://2c901d22-8586-4682-8d6c-2634672b1517@9.247.23.2:443?flow=xtls-rprx-vision&security=reality&sni=fr.ussr.party&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7
-vless://2c901d22-8586-4682-8d6c-2634672b1517@fr-gra-ovh-01.cccpbot.fuck-rkn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fr.ussr.party&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7
+vless://50414e45-4c5f-5a45-5553-ccc0e8cd3a83@45.12.30.196:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Fccc0e8cd3a83&host=fgzb39ezu86s.ycz7syeeu3is.workers.dev&packetEncoding=xudp&sni=fgzb39ezu86s.ycz7syeeu3is.workers.dev&fp=unsafe&encryption=none#%F0%9F%87%AB%F0%9F%87%B7
+vless://129044e0-8ca6-49f8-bd35-71cfe2914c46@95.214.55.176:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W917S3fCWsNGQOoKP5WdMfuRSwaQoaFEQ4TIdRhv7Wc&security=reality&sni=mostmev3.loneliumvpn.click&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+vless://117f5a62-7332-4ed1-8452-07dac403a7c6@nl-ams-ovh-01.cccpbot.fuck-rkn.xyz:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl.ussr.party&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%AB%F0%9F%87%B7
+vless://129044e0-8ca6-49f8-bd35-71cfe2914c46@mostmev3.loneliumvpn.click:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=mostmev3.loneliumvpn.click&fp=firefox&pbk=W917S3fCWsNGQOoKP5WdMfuRSwaQoaFEQ4TIdRhv7Wc#%F0%9F%87%AB%F0%9F%87%B7

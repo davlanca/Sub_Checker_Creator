@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://fea1ba01-5601-4f44-896b-c3e73efb02e0@vpn.parsvisit.org:2083?type=ws&security=tls&fp=chrome&sni=vpn.parsvisit.org&host=vpn.parsvisit.org#%F0%9F%87%AE%F0%9F%87%B1
