@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T03:40:56.669353+00:00",
-  "count": 349,
+  "generated_at": "2026-11-22T03:41:48.102174+00:00",
+  "count": 360,
   "results": [
     {
       "protocol": "vless",
@@ -507,6 +507,28 @@
       "speed_kbps": 455,
       "ru_ok": null,
       "config": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@194.87.131.9:443?alpn=http%2F1.1&encryption=none&headerType=none&path=%2Fapi%2Fde3%2Fstream&security=tls&sni=marina.gerqix.online&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "protocol": "vmess",
+      "transport": "ws+tls",
+      "host": "172.67.161.144",
+      "port": 8443,
+      "tag": "🇺🇸",
+      "ping_ms": 6741,
+      "speed_kbps": 104,
+      "ru_ok": null,
+      "config": "vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7giLCJhZGQiOiIxNzIuNjcuMTYxLjE0NCIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiI2NyJ9"
+    },
+    {
+      "protocol": "vmess",
+      "transport": "ws+tls",
+      "host": "172.64.229.21",
+      "port": 443,
+      "tag": "",
+      "ping_ms": 5342,
+      "speed_kbps": 175,
+      "ru_ok": null,
+      "config": "vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgQ2hpY2FnbyB8IFtCTF0iLCJhZGQiOiIxNzIuNjQuMjI5LjIxIiwicG9ydCI6IjQ0MyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InZtZXNzLmxidzY2Ni5kcGRucy5vcmciLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiYWxwbiI6Imh0dHAvMS4xIiwiZnAiOiJjaHJvbWUifQ==#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd"
     },
     {
       "protocol": "vless",
@@ -3829,6 +3851,105 @@
       "speed_kbps": 226,
       "ru_ok": null,
       "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.135:443?security=reality&sni=15b171g.nl7.h1clayd.click&type=grpc&serviceName=5b79e8a94241&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&encryption=none#%F0%9F%87%AE%F0%9F%87%B6"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "15b171g.nl7.h1clayd.click",
+      "port": 443,
+      "tag": "🇮🇶",
+      "ping_ms": 3102,
+      "speed_kbps": 262,
+      "ru_ok": null,
+      "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=chrome&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#%F0%9F%87%AE%F0%9F%87%B6"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "185.246.155.91",
+      "port": 10403,
+      "tag": "🇰🇿",
+      "ping_ms": 1851,
+      "speed_kbps": 433,
+      "ru_ok": null,
+      "config": "vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?encryption=none&flow=xtls-rprx-vision&fp=&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&security=reality&sid=6859f5b59e55aa30&sni=www.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "146.103.42.6",
+      "port": 9543,
+      "tag": "🇩🇪",
+      "ping_ms": 1298,
+      "speed_kbps": 621,
+      "ru_ok": null,
+      "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.42.6:9543?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "146.103.41.89",
+      "port": 9543,
+      "tag": "🇩🇪",
+      "ping_ms": 6227,
+      "speed_kbps": 387,
+      "ru_ok": null,
+      "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.41.89:9543?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandexcloud.net&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "81.222.148.178",
+      "port": 52443,
+      "tag": "🇸🇪",
+      "ping_ms": 4202,
+      "speed_kbps": 269,
+      "ru_ok": null,
+      "config": "vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@81.222.148.178:52443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=snobvpn.online&pbk=31cs626rRccv4rdooh0uUN9JSM8MSjCxYBZhpVseGUY&sid=c37b62fae177eec8&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "961ec0g.nl13.h1clayd.click",
+      "port": 443,
+      "tag": "🇳🇱",
+      "ping_ms": 5775,
+      "speed_kbps": 159,
+      "ru_ok": null,
+      "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@961ec0g.nl13.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=7d5abcd7d8a1&packetEncoding=xudp&sni=961ec0g.nl13.h1clayd.click&fp=chrome&sid=6d289ff0f47c0aac&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&encryption=none#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "81.222.148.178",
+      "port": 53443,
+      "tag": "🇫🇮",
+      "ping_ms": 3745,
+      "speed_kbps": 224,
+      "ru_ok": null,
+      "config": "vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@81.222.148.178:53443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=snobvpn.online&pbk=oOrVESvP0FHEAkQGP2oih5DDdPAoRZkVJOZTWYsiLxk&sid=0e9de4c83cb77992&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "81.222.148.87",
+      "port": 54443,
+      "tag": "🇺🇸",
+      "ping_ms": 4788,
+      "speed_kbps": 128,
+      "ru_ok": null,
+      "config": "vless://d3eeebec-d7ba-4695-a1ea-2f2407c86582@81.222.148.87:54443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=snobvpn.online&pbk=scEaR7bQ4oeuLgyyFEwUWlk76NW-SH7EA3qA_6O1Lyo&sid=1828c9aa2c08608c&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "f828nczurr.newwl.pro",
+      "port": 443,
+      "tag": "🇩🇪",
+      "ping_ms": 1992,
+      "speed_kbps": 74,
+      "ru_ok": null,
+      "config": "vless://7955bf18-35c4-412d-aabd-c0b36c793063@f828nczurr.newwl.pro:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=push.vk.ru&pbk=gIoGTXALALpkvFP4kINkeajD4YoFgIPiW48aOkc0bSw&sid=611c49b4c7dc6f5a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
       "protocol": "vless",
