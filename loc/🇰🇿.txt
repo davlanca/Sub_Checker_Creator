@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4cadde0d-41c1-0002-98f9-3231b252d4bd@93.152.217.175:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=insightfailover.ratethatrestaurant.org&type=ws#%F0%9F%87%B0%F0%9F%87%BF
 vless://cac10246-5b76-4809-9fd0-417c58a3ca90@144.31.90.237:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&security=reality&sid=b3a633bc754b648d&sni=portal.gifmems.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF
-vless://dbf3f074-3b18-43f3-b82a-debd8c879c69@185.246.155.91:10403?encryption=none&flow=xtls-rprx-vision&fp=&pbk=obQkp5VlQpnlt1hRLQ3VfHISYiiISZJyJZAMaIdjCko&security=reality&sid=6859f5b59e55aa30&sni=www.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF
+vless://4cadde0d-41c1-0002-98f9-3231b252d4bd@93.152.217.175:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=insightfailover.ratethatrestaurant.org&type=ws#%F0%9F%87%B0%F0%9F%87%BF
+vless://cac10246-5b76-4809-9fd0-417c58a3ca90@blog-asia.livemusic.ac:8445?type=tcp&headerType=none&security=reality&encryption=none&sni=portal.gifmems.com&fp=firefox&pbk=32eua16pKE179lLHv-VNZGrX287qQFMXA3n0VgEzNTQ&sid=b3a633bc754b648d&flow=xtls-rprx-vision#%F0%9F%87%B0%F0%9F%87%BF
+vless://4cadde0d-41c1-0002-98f9-3231b252d4bd@insightfailover.ratethatrestaurant.org:443?type=ws&headerType=none&security=tls&encryption=none&sni=insightfailover.ratethatrestaurant.org&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%B0%F0%9F%87%BF

@@ -2,8 +2,13 @@
 //profile-update-interval: 1
 
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:8443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@48.102.204.20:443?sni=germanyafterpool.fun#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?sni=germanyafterpool.fun&security=tls#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?sni=germanyafterpool.fun&security=tls#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://004ea4a8-d701-0001-b0c0-8e61a5c31a23@168.113.252.11:443?sni=jkawq-ru-45sb.fade.mom&pinSHA256=31543384f7b5c9bfdc55c87632ac17fa01a54761842c6c05197e0ac33a27e76a#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
