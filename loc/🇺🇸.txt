@@ -1,32 +1,14 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://de4729d8-4b52-4cac-b796-4ae1bb723631@189.74.117.13:443?flow=xtls-rprx-vision&security=reality&sni=api.videodolina.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=safari#%F0%9F%87%BA%F0%9F%87%B8
-vless://7316d881-eeec-429b-94f1-07585747f7c8@perdelka.belka.tv:443?flow=xtls-rprx-vision&security=reality&sni=perdelka.belka.tv&fp=firefox&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc#%F0%9F%87%BA%F0%9F%87%B8
 vless://d81db550-4787-467e-b98a-579ee9d41999@84.23.52.104:9079?encryption=none&fp=firefox&mode=gun&pbk=V1ifE7iJ4ITZfA10PNaR7fF7Lz1E_9v7a9S4jPOY-A8&security=reality&serviceName=inetgrpc&sid=069074d6fbb09e56&sni=by.84-23-52-104.sslip.io&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
 vless://d81db550-4787-467e-b98a-579ee9d41999@84.23.52.104:9125?encryption=none&fp=firefox&mode=gun&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
 vless://d81db550-4787-467e-b98a-579ee9d41999@84.23.52.104:9118?encryption=none&fp=firefox&mode=gun&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&security=reality&serviceName=inetgrpc&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=grpc#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.66.148.229:8443?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.114.97.3:2083?&security=tls&fp=chrome&sni=newwk1.f1w.de5.net&type=ws&headerType=none&host=newwk1.f1w.de5.net&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.47.45:2083?&security=tls&sni=wk1.f1w.de5.net&type=ws&headerType=none&host=wk1.f1w.de5.net&path=%2Ffp%3Dchrome#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.13.140:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.12.140:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@104.26.4.57:2087?&security=tls&fp=chrome&sni=c7dabe95.proxy-978.pages.dev&type=ws&headerType=none&host=c7dabe95.proxy-978.pages.dev&path=%2F#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@172.67.75.194:8443?security=tls&type=ws&path=/&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=chrome&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
+vless://9921b176-e013-4b66-adc3-a6bc33c3ab7d@172.67.247.113:443?security=tls&type=ws&path=%2F8a3c663fe6311479%3Fed%3D2560&host=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&fp=firefox&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
 vless://65d3f9b3-d289-4a8e-9c87-90bba156de30@172.67.128.201:443?security=tls&type=ws&path=%2F&host=ld.235231.xyz&packetEncoding=xudp&sni=ld.235231.xyz&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.42.54:2083?security=tls&type=ws&path=/?ed=2560&host=newwk1.f1w.de5.net&packetEncoding=xudp&sni=newwk1.f1w.de5.net&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.44.211:2083?&security=tls&fp=chrome&sni=wk1.f1w.de5.net&type=ws&headerType=none&host=wk1.f1w.de5.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8
 vless://5f11c240-89df-494c-9c81-8b619023bb58@104.21.13.229:443?&security=tls&sni=789156.xyz&type=ws&headerType=none&host=789156.xyz&path=%2F#%F0%9F%87%BA%F0%9F%87%B8
 vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:2053?&security=tls&fp=chrome&sni=twilight-frost-15b0.yigom67484.workers.dev&type=ws&headerType=none&host=twilight-frost-15b0.yigom67484.workers.dev&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@www.wto.org:8443?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@fu.baiproxy.us.ci:2087?&security=tls&fp=qq&type=ws&headerType=none&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@brazil.com:2083?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:20443?security=reality&encryption=none&pbk=00n0EAgpY0J966ZIr6LzA4bBhezLRoowNmCXjELfy0I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=germany.cloudhouse1.ru&sid=73ca8049b875fe8d#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@fbi.gov:2087?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@japan.com:2053?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@www.gov.se:443?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8
-vless://767b6340-96dc-4aa0-8013-a8af7513d920@russia.com:2087?security=tls&type=ws&path=/?ed=2560&host=c7dabe95.proxy-978.pages.dev&packetEncoding=xudp&sni=c7dabe95.proxy-978.pages.dev&fp=random#%F0%9F%87%BA%F0%9F%87%B8
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.47.69.6:2083?encryption=none&security=tls&sni=newwk1.f1w.de5.net&fp=firefox&type=ws&host=newwk1.f1w.de5.net&path=%2F#%F0%9F%87%BA%F0%9F%87%B8
 vless://1753c03f-39c4-4bf2-ae83-38e90c847e8e@www.visa.com.sg:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=ydyg0908.mynameiszt.eu.org&packetEncoding=xudp&sni=ydyg0908.mynameiszt.eu.org&fp=random&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://713142c9-ad09-4894-b35c-645423f3f6c9@152.234.245.52:443?sni=media.embrofree.org#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://713142c9-ad09-4894-b35c-645423f3f6c9@media.embrofree.org:443?sni=media.embrofree.org#%F0%9F%87%BA%F0%9F%87%B8

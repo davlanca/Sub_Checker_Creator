@@ -1,9 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9921b176-e013-4b66-adc3-a6bc33c3ab7d@172.67.247.113:443?security=tls&type=ws&path=%2F8a3c663fe6311479%3Fed%3D2560&host=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&packetEncoding=xudp&alpn=http%2F1.1&sni=cdn-edge-334a28-gw.build-svc-987d46.workers.dev&fp=firefox&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
-vless://fc60147e-76b8-4bc5-b691-90b2da79e3d2@104.17.3.81:443?&security=tls&fp=chrome&sni=nautica-cff.kloningstrife002.workers.dev&type=ws&headerType=none&host=nautica-cff.kloningstrife002.workers.dev&path=%2F138.2.74.219-28616#%F0%9F%87%B8%F0%9F%87%AC
-vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2053?security=tls&type=ws&path=/eyJqdW5rIjoiZXlpMnFWRURmWkp5ZCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&host=fans.liverpool.qzz.io&ed=2560&packetEncoding=xudp&alpn=http/1.1&sni=FaNs.livErpoOl.qZZ.io&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:9443?security=reality&encryption=none&pbk=HwHSknL4SAIWY3xMfnvpcbCpE_QmF_DOxb2mkyxQ3Xg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=singapour.cloudhouse1.ru&sid=0929498c442d0ff3#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=chrome&alpn=h2&vcn=matrix.learnpodedu.com&type=ws&host=matrix.learnpodedu.com&path=/#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?type=ws&security=tls&fp=firefox&sni=matrix.learnpodedu.com&host=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC
