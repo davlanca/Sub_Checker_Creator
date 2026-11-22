@@ -3,8 +3,7 @@
 
 vless://ad295072-0049-4981-a9aa-6314c43e87e5@31.58.191.93:443?encryption=none&fp=firefox&pbk=0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo&security=reality&sid=3b1a6acf74e481e7&sni=n4.fernstatic.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&sni=absolute-disaster.org&host=absolute-disaster.org#%F0%9F%87%B3%F0%9F%87%B1
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.125:444?encryption=none&security=tls&sni=neplay603.gangtype.com&fp=qq&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=neplay603.gangtype.com&path=%2Fstream%2Fupdates%2Fa66d7902#%F0%9F%87%B3%F0%9F%87%B1
+vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@48.102.173.24:444?encryption=none&security=tls&sni=neplay603.gangtype.com&insecure=0&allowInsecure=0&type=ws&host=neplay603.gangtype.com&path=%2Fstream%2Fupdates%2Fa66d7902#%F0%9F%87%B3%F0%9F%87%B1
 vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?encryption=none&mode=gun&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&security=reality&serviceName=204adda7e3da&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&type=grpc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@146.19.254.171:8443?encryption=none&type=tcp&security=tls&sni=146.19.254.171&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1
 vless://42638beb-6068-4626-b035-5cc1f31b03d6@88.210.62.96:443?type=xhttp&security=reality&fp=firefox&sni=nl-xhttp.kitsuedge.win&pbk=5peSNpDPIjzBwoQBuMH0AoXc2lw8aq9PirPHw84wYAg&sid=8293c6fda2bab7b5&host=nl-xhttp.kitsuedge.win&path=%2F&mode=auto#%F0%9F%87%B3%F0%9F%87%B1
-vless://d92038b6-b470-4267-9c69-2c649bf3f4a4@195.206.235.55:443?security=reality&sni=8ba6c3t.nl2.h1clayd.click&fp=firefox&pbk=43bHrvqzL5Sw8lvtDSE3LAlp_0WbixVc7nYcAf17bhg&sid=16b6715de8577aaa#%F0%9F%87%B3%F0%9F%87%B1
