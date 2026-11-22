@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://3bc2d8b2-fd28-0001-984c-214c2587aa8e@45.151.31.69:443?security=tls&sni=ykqli-ru-85.my-fade.cloud&alpn=h2%2Chttp%2F1.1&fp=ios#%F0%9F%87%A6%F0%9F%87%BA
