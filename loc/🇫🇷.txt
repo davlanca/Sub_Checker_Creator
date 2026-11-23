@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?sni=static-nl.snobvpn.online&obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2#%F0%9F%87%AB%F0%9F%87%B7
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.94:2092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7

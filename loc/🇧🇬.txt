@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://6b58e234-9907-0001-9e32-01bc90599182@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC

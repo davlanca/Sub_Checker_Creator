@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%AD
-vless://ee0a6b97-4dc1-4a38-8b16-95a42c917158@ch-zrh1.connect.accessboy.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ch-zrh1.connect.accessboy.com&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%AD
