@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@87.121.112.83:443?sni=bulghys.live#%F0%9F%87%A7%F0%9F%87%AC
-vless://92720ee3-27b3-4204-ad2f-d5c8570a4404@104.21.209.174:443?encryption=none&security=tls&type=ws&host=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&sni=auth-api-fbb93f-gw.dev-team-63276e.workers.dev&fp=chrome&alpn=http%2F1.1&path=%2F0df6c30383d404f8%3Fed%3D2560#%F0%9F%87%A7%F0%9F%87%AC
+vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?type=tcp&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#%F0%9F%87%A7%F0%9F%87%AC
