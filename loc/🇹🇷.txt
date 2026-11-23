@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@188.225.36.219:443?encryption=none&fp=firefox&mode=gun&security=tls&serviceName=olvento.sync.v1&sni=olvento.space&type=grpc#%F0%9F%87%B9%F0%9F%87%B7

@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@kozel.cc.cd:443?encryption=none&security=tls&type=ws&host=kozel.cc.cd&path=/118.151.222.66=17317&sni=kozel.cc.cd#%F0%9F%87%AE%F0%9F%87%A9
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@149.33.27.162:443?security=tls&sni=i1tr.mateflora.com#%F0%9F%87%AE%F0%9F%87%A9

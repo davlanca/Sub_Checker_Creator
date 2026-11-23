@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@87.121.112.83:443?sni=bulghys.live#%F0%9F%87%A7%F0%9F%87%AC
+vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?type=tcp&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#%F0%9F%87%A7%F0%9F%87%AC

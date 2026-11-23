@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@95.129.234.108:8443?type=grpc&security=tls&sni=rowan-quay.cdn.cachefleet.com&serviceName=01ef4cdceb3b3439&fp=firefox#%F0%9F%87%BF%F0%9F%87%A6
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&fp=chrome&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#%F0%9F%87%BF%F0%9F%87%A6
