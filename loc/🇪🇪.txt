@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.197:27443?mode=gun&security=reality&encryption=none&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&fp=firefox&type=grpc&serviceName=grpc&sni=static.polina.mom#%F0%9F%87%AA%F0%9F%87%AA
-vless://0259e5aa-c188-4334-b204-32cd5ea859f6@31.56.187.171:443?flow=xtls-rprx-vision&security=reality&sni=maps-carts-world.keno.su&fp=firefox&pbk=_MeP-WwmolUvi6wMXNoSs_zo6miG_OW7xk4ibzADiHY&type=raw#%F0%9F%87%AA%F0%9F%87%AA

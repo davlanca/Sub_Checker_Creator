@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@node-au.neverlock.uk:443?security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=node-au.neverlock.uk#%F0%9F%87%A6%F0%9F%87%B9
-vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@152.53.1.170:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=node-au.neverlock.uk#%F0%9F%87%A6%F0%9F%87%B9

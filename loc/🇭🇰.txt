@@ -1,12 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiI0NS4xNDkuOTIuMjMwIiwicG9ydCI6IjE2NjMyIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjIyIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0
-vless://31020df0-6aed-40a6-a84f-25296c07f80a@38.180.149.71:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=7RIUTTFMeW_Jag3aT-XmbJipce7w3COFC0CQ1qiIZmk#%F0%9F%87%AD%F0%9F%87%B0
-vless://af18b465-6f56-4a35-8932-fe9ce8c079b7@38.180.95.96:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=gMbm2Kom7Njm5Vh1Eycw7s9hH0x84csLzC21eYEI9QY#%F0%9F%87%AD%F0%9F%87%B0
-vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0#%F0%9F%87%AD%F0%9F%87%B0
-vless://f261bc8c-d2f2-43da-83e7-06ef41ef8aa5@38.244.198.105:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=-cQ8O3f7-PUJ_RGl_QM106ivhH_ClMUMxZtnVczV0Vs#%F0%9F%87%AD%F0%9F%87%B0
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
-vless://71d89729-0d1f-4133-80f8-ff7c5a6ca6d1@38.180.150.151:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=2hwx5m-M7_gZcJgWzpH8Dbae9xQ-IQWdCcs2HREkfko#%F0%9F%87%AD%F0%9F%87%B0
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjMyIiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0

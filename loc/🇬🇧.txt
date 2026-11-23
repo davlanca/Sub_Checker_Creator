@@ -1,7 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999?#%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999?#%F0%9F%87%AC%F0%9F%87%A7
 vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@a80b5386.fi2.h1clayd.click:443?&security=reality&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&sid=cc678f10161992a9&fp=firefox&sni=a80b5386.fi2.h1clayd.click&type=tcp&headerType=none&host=a80b5386.fi2.h1clayd.click&path=%2F#%F0%9F%87%AC%F0%9F%87%A7
 vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@13.141.36.15:443?type=tcp&headerType=none&security=reality&encryption=none&sni=a80b5386.fi2.h1clayd.click&fp=firefox&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&sid=cc678f10161992a9#%F0%9F%87%AC%F0%9F%87%A7
