@@ -3,7 +3,5 @@
 
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?encryption=none&flow=xtls-rprx-vision&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?encryption=none&flow=xtls-rprx-vision&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&security=reality&sid=150a627d15154cf2&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@144.31.1.172:443?security=tls&sni=harbortarget.newbuzideas.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B5%F0%9F%87%B1
 trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?security=tls&sni=ra-p1.victorycloud.ru&alpn=http%2F1.1&type=ws&host=ra-p1.victorycloud.ru&path=%2F2fc2ec03a65d451dffa4592d68c43a29#%F0%9F%87%B5%F0%9F%87%B1
 vless://9c69546a-e435-4037-bc63-f9e5829a8be3@45.88.176.101:24443?mode=gun&security=reality&encryption=none&pbk=43lt439xcY74Yc_p2bdN9s-U15acPd5PtWUblHTtogw&fp=firefox&type=grpc&serviceName=grpc&sni=img.suzuki.lol#%F0%9F%87%B5%F0%9F%87%B1
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.197:24443?security=reality&sni=img.suzuki.lol&fp=firefox&pbk=43lt439xcY74Yc_p2bdN9s-U15acPd5PtWUblHTtogw&type=grpc&serviceName=grpc&mode=gun&encryption=none#%F0%9F%87%B5%F0%9F%87%B1

@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.197:27443?mode=gun&security=reality&encryption=none&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&fp=firefox&type=grpc&serviceName=grpc&sni=static.polina.mom#%F0%9F%87%AA%F0%9F%87%AA
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@194.26.229.163:27443?security=reality&sni=static.polina.mom&fp=firefox&pbk=bmANZFeLzXK0izEu3fveuPKOLS_1pZ_17PVRxyNpxCo&type=grpc&serviceName=grpc&mode=gun#%F0%9F%87%AA%F0%9F%87%AA
