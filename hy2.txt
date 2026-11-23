@@ -1,11 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?sni=static-nl.snobvpn.online&obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2#%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.138.190:443?sni=static-fi.snobvpn.online&obfs=salamander&obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?sni=static-nl.snobvpn.online&obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2#%F0%9F%87%AB%F0%9F%87%B7

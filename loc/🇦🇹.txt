@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@82.110.60.9:19999?#%F0%9F%87%A6%F0%9F%87%B9
-vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@152.53.1.170:443?flow=xtls-rprx-vision&security=tls&sni=node-au.neverlock.uk&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A6%F0%9F%87%B9

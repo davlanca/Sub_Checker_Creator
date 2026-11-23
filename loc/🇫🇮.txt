@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@4c980ft.fi15.h1clayd.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click#%F0%9F%87%AB%F0%9F%87%AE
+vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?flow=xtls-rprx-vision&security=reality&sni=lg.hel.play2go.cloud&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260&encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
