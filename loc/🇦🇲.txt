@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://c5470a56-1b9b-451c-b075-02c82ee4aa6c@13.141.36.165:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F-QRCTOgAul242ISSobCpwO8G6JGN0qeIdJdv60HIRo&security=reality&sid=bd35558b17a4930b&sni=03e488t.es12.h1clayd.shop&type=tcp#%F0%9F%87%A6%F0%9F%87%B2
+vless://c5470a56-1b9b-451c-b075-02c82ee4aa6c@03e488t.es12.h1clayd.shop:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=F-QRCTOgAul242ISSobCpwO8G6JGN0qeIdJdv60HIRo&sid=bd35558b17a4930b&sni=03e488t.es12.h1clayd.shop#%F0%9F%87%A6%F0%9F%87%B2
