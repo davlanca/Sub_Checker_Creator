@@ -1,8 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lyhk.mihoyo.site&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?#%F0%9F%87%AD%F0%9F%87%B0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiJwZG12NC54aWFveWFuLmlvIiwicG9ydCI6MTY2MzIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjkwNGYwNTY5LTg2OTUtNDY2Zi05N2NmLTBkZTJmYWNlMWI0NiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImhvc3QiOiJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwicGF0aCI6Ii8ifQ
-vless://6ba5ec30-3331-4258-aa80-e1e7abdbb0d4@85.202.206.244:8443?security=reality&pbk=UgB6kJyM6sKFdSHtFtS4pd0TPYF4j17aoWsxGjg8LTU&fp=chrome&spx=%2Ffb2aa5c1e8c6e2d&sni=www.microsoft.com&sid=1db05bcce95482#%F0%9F%87%AD%F0%9F%87%B0
 vless://01b87800-396e-4d79-8eaf-c023deeccf7c@85.189.67.107:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=N60X1fq3w78e_eDHwgyrbgdplTgq1oyTnICTAKy7RjY&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
-vless://e4e11486-cef7-488a-8b4c-ac51f106383f@38.207.178.137:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=t7qRcxR85PGhMJngfejgN01UsAmFZHxgIUVU36cCUhk#%F0%9F%87%AD%F0%9F%87%B0
+vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0#%F0%9F%87%AD%F0%9F%87%B0
