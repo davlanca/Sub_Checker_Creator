@@ -1,6 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8455?sni=eu36.cdn77.icu&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9
+hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8454?sni=as18.cdn77.icu&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5
+hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8452?sni=eu64.cdn77.icu&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
