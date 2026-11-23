@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=firefox&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
 vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&security=tls&type=ws&path=/vless&host=se1.v2less.site&sni=se1.v2less.site&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
 vless://29872718-970b-493e-abc9-524fa266d16b@70.34.211.236:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=9e3f5e25c17d2615#%F0%9F%87%B8%F0%9F%87%AA

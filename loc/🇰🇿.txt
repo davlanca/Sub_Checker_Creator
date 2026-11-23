@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://b54b1d38-ef24-0002-823d-9ceaf930b603@93.152.217.175:443?security=tls&sni=insightfailover.ratethatrestaurant.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B0%F0%9F%87%BF
