@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://b7791707-83d9-444b-9d05-f5c99e90acd4@31.76.87.225:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D_jwAtRb0diil6EAGA6BpNtCZE9FsvzjFZtcdRQggUQ&security=reality&sid=4c68bb9c4f73dcb8&sni=p1.sklserv.com&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
