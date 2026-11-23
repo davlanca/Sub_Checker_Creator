@@ -1,8 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://93c0244e-6eb2-41bc-ad9c-1a7606747e13@156.245.234.97:2096?encryption=none&flow=xtls-rprx-vision&security=tls&sni=lyhk.mihoyo.site&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AiLCJhZGQiOiJwZG12NC54aWFveWFuLmlvIiwicG9ydCI6MTY2MzIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjkwNGYwNTY5LTg2OTUtNDY2Zi05N2NmLTBkZTJmYWNlMWI0NiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsImhvc3QiOiJmOTMwOWNjODg2MzdjMjZmNTUyYTFhNjRmYjMxMWNhZS5tb2Jnc2xiLnRiY2FjaGUuY29tIiwicGF0aCI6Ii8ifQ
-vless://01b87800-396e-4d79-8eaf-c023deeccf7c@85.189.67.107:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=N60X1fq3w78e_eDHwgyrbgdplTgq1oyTnICTAKy7RjY&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
-vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0#%F0%9F%87%AD%F0%9F%87%B0
-vless://b5e8a15a-e134-4493-9073-be79eab9cda8@85.189.89.170:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=MqEVrXrgUtPf9WYkZyUfVtJQDAssCV79bad4F4LlWGA&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0

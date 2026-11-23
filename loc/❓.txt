@@ -1,12 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE=@176.32.33.126:18443#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGOFx1RDgzQ1x1RERFQ1/mlrDliqDlnaEgKDYpIiwNCiAgImFkZCI6ICJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsDQogICJwb3J0IjogIjE4MDAwIiwNCiAgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9#%20t.me%2Frjsxrd
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFRlx1RDgzQ1x1RERGNV/ml6XmnKwgKDQpIiwNCiAgImFkZCI6ICIxNjEuMzMuMjAuMjU1IiwNCiAgInBvcnQiOiAiODg4MCIsDQogICJpZCI6ICJlMDg1NjUwOC1kNjkzLTQ1MGEtYTA5OS00NTUwOTFkYzRmMjUiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogImUwODU2NTA4LWQ2OTMtNDUwYS1hMDk5LTQ1NTA5MWRjNGYyNS12bSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIiwNCiAgImluc2VjdXJlIjogIjAiDQp9#%20t.me%2Frjsxrd
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNzAiLCJhZGQiOiIxNzIuNjcuMTYxLjE0NCIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBhdGgiOiIvbE1uc1pVTjQvIiwidGxzIjoidGxzIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0ZXN0X25hbWUiOiI3MCJ9#%20t.me%2Frjsxrd
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://7dff1be7-b930-0001-a8ad-dc7850168215@136.148.83.69:443?&security=tls&fp=chrome&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.37:443?encryption=none&path=%2Fmedia%2Fws%2F&security=tls&sni=downloadframe.zak-rkp.net&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
