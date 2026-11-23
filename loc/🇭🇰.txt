@@ -1,12 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206TlRpSEJnNjRmc1k4dThEYkdydHlwRDlnUEdTTDM4NnA=@46.17.42.129:18443#%F0%9F%87%AD%F0%9F%87%B0
 vless://01b87800-396e-4d79-8eaf-c023deeccf7c@85.189.67.107:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=N60X1fq3w78e_eDHwgyrbgdplTgq1oyTnICTAKy7RjY#%F0%9F%87%AD%F0%9F%87%B0
-vless://f261bc8c-d2f2-43da-83e7-06ef41ef8aa5@38.244.198.105:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=-cQ8O3f7-PUJ_RGl_QM106ivhH_ClMUMxZtnVczV0Vs#%F0%9F%87%AD%F0%9F%87%B0
-vless://16eb939a-75c3-4b59-bfc3-ff07316c7a80@45.144.136.202:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=ZMKSZGONIVWum7Ut-O7JIKJ6gUBfURgrNOiMrblUBxk#%F0%9F%87%AD%F0%9F%87%B0
-vless://4125878c-8cd5-4e2e-8e07-eca469c03e85@103.143.81.24:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=lT0Tq10qFAJItnnPw9RjOizcHeAA0JZl_wC1DsqEKj0&type=raw#%F0%9F%87%AD%F0%9F%87%B0
-vless://e4e11486-cef7-488a-8b4c-ac51f106383f@38.207.178.137:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=t7qRcxR85PGhMJngfejgN01UsAmFZHxgIUVU36cCUhk#%F0%9F%87%AD%F0%9F%87%B0
 vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#%F0%9F%87%AD%F0%9F%87%B0
 vless://71d89729-0d1f-4133-80f8-ff7c5a6ca6d1@38.180.150.151:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=2hwx5m-M7_gZcJgWzpH8Dbae9xQ-IQWdCcs2HREkfko#%F0%9F%87%AD%F0%9F%87%B0
-vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=firefox&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0#%F0%9F%87%AD%F0%9F%87%B0

@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@4c980ft.fi15.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=4c980ft.fi15.h1clayd.click&fp=firefox&flow=xtls-rprx-vision&sid=597e1c279d224774&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&encryption=none#%F0%9F%87%AB%F0%9F%87%AE
