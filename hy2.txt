@@ -1,21 +1,20 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8453?sni=eu71.cdn77.icu&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9
-hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8455?sni=eu36.cdn77.icu&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9
-hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8454?sni=as18.cdn77.icu&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5
-hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8452?sni=eu64.cdn77.icu&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:8443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:10444?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:16443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:6443?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:8443?sni=cloudehouse24.ru#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:9444?sni=cloudehouse24.ru#%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.122:443?sni=static-se.snobmenu.xyz&obfs=salamander&obfs-password=KfgCaxwpO3HE3sklHjeYtZOTDy7sXMwZ#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.138.190:443?sni=static-fi.snobvpn.online&obfs=salamander&obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@166.0.28.140:443?obfs=salamander&obfs-password=S4iBMpc3aIzLC1c-6fE6rU15ZzXyfjr0ciGdh0A3alI&sni=static-de.snobmenu.xyz#%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.113:443?obfs=salamander&obfs-password=8utjvetgzbiuwfa7&sni=dg3yg.mateflora.com#%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@bgsg2.hikigo.com:443?sni=bgsg2.hikigo.com&obfs=salamander&obfs-password=sj1awrdwnn5lbuno#%F0%9F%87%B8%F0%9F%87%AC
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.122:443?obfs=salamander&obfs-password=KfgCaxwpO3HE3sklHjeYtZOTDy7sXMwZ&sni=static-se.snobmenu.xyz#%F0%9F%87%BA%F0%9F%87%B8
+hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?insecure=0&sni=bl1.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@86.53.207.113:443?obfs=salamander&obfs-password=8utjvetgzbiuwfa7&sni=dg3yg.mateflora.com#%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848?sni=171.22.183.158&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://PEisy6m-98HcX1TWZt0yXiCS7jRZG4IzKQTXo6k1qb4@de2.substituteme.space:443?sni=de2.substituteme.space&security=tls#%F0%9F%87%BA%F0%9F%87%B8
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.197:443?sni=bgsg2.hikigo.com&obfs=salamander&obfs-password=sj1awrdwnn5lbuno#%F0%9F%87%B8%F0%9F%87%AC

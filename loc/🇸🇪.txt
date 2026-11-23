@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@138.199.55.243:19999?#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@depotchannel.lucheeebezlimitnoekino.stream:443?encryption=none&headerType=none&path=%2Fmedia%2Fws%2F&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws&fp=ios#%F0%9F%87%B8%F0%9F%87%AA
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&security=tls&type=ws&path=/vless&host=se1.v2less.site&sni=se1.v2less.site&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
+vless://29872718-970b-493e-abc9-524fa266d16b@70.34.211.236:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=9e3f5e25c17d2615#%F0%9F%87%B8%F0%9F%87%AA
+vless://9a597d68-6688-4046-bf24-a5a541e115e0@185.117.88.9:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6FI4VM9WlQEGVjyCvLDQLz1jOkrzzhtfGl9eQTBn6HU&security=reality&sid=f8d0271b4b5f9efc&sni=www.apple.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA

@@ -1,11 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-trojan://UyJoqPqycR@5.53.124.50:2087?security=tls&sni=5.53.124.50&alpn=h2&fp=edge#%F0%9F%87%B9%F0%9F%87%B7
-trojan://UyJoqPqycR@5.53.124.50:8443?security=tls&sni=5.53.124.50&alpn=h2&fp=qq#%F0%9F%87%AB%F0%9F%87%B7
-trojan://UyJoqPqycR@5.53.124.50:2053?security=tls&sni=5.53.124.50&alpn=h2&fp=ios#%F0%9F%87%B3%F0%9F%87%B1
-trojan://UyJoqPqycR@5.53.124.50:443?security=tls&sni=5.53.124.50&alpn=h2&fp=ios#%F0%9F%87%AB%F0%9F%87%B7
-trojan://UyJoqPqycR@5.53.124.50:2095?security=tls&sni=5.53.124.50&alpn=h2&fp=qq#%F0%9F%87%AC%F0%9F%87%A7
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?security=tls&sni=searchnationwidecareerchangehelperandguidancetoday.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@64.118.130.152:443?security=tls&sni=nb1hk.hikigo.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+trojan://sshs8_6481354771@86.38.247.109:2087?type=raw&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#%F0%9F%87%B8%F0%9F%87%AC
 trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?security=tls&sni=ra-p1.victorycloud.ru&alpn=http%2F1.1&type=ws&host=ra-p1.victorycloud.ru&path=%2F2fc2ec03a65d451dffa4592d68c43a29#%F0%9F%87%B5%F0%9F%87%B1
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.84.231.142:443?security=tls&fp=chrome&sni=explorecareerpathsandunlockprofessionalsuccesstoday.com#%F0%9F%87%BF%F0%9F%87%A6
+trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@xvxn1hkzf.mateflora.com:443?type=tcp&security=tls&fp=chrome&sni=xvxn1hkzf.mateflora.com#%F0%9F%87%BB%F0%9F%87%B3

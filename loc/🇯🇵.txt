@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://71105003-792a-410d-a9f7-67879e08d993@94.183.195.245:8454?sni=as18.cdn77.icu&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UiLCJhZGQiOiI2NC4xNzYuMzQuMTAyIiwicG9ydCI6IjQ2MTMwIiwiaWQiOiI0NzczNTBiMi03NTM2LTRmMzgtZWUyMS0wMjBlZmRkZTJkMWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UiLCJhZGQiOiIxNjIuMTkuMTkyLjg5IiwicG9ydCI6IjE2NjE3IiwiaWQiOiI5MDRmMDU2OS04Njk1LTQ2NmYtOTdjZi0wZGUyZmFjZTFiNDYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZjkzMDljYzg4NjM3YzI2ZjU1MmExYTY0ZmIzMTFjYWUubW9iZ3NsYi50YmNhY2hlLmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0
