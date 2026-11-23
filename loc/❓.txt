@@ -1,11 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://77998cc6-8a4d-4251-b974-ebff48a84c4d@95.129.236.117:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=cdn.dash.gearmonster.org&path=%2Fedge%2Fnode8%2Fpush&security=tls&sni=cdn.dash.gearmonster.org&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://1753c03f-39c4-4bf2-ae83-38e90c847e8e@www.visa.com.sg:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=ydyg0908.mynameiszt.eu.org&packetEncoding=xudp&sni=ydyg0908.mynameiszt.eu.org&fp=random&encryption=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c7653db5-1fa9-9a64-331a-d80c00000050@104.18.28.234:2053?security=tls&type=ws&path=%2F&host=turbo-smart-628.pokfjfjfdjj.workers.dev&packetEncoding=xudp&sni=turbo-smart-628.pokfjfjfdjj.workers.dev&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://9c462694-93fe-4b43-a3a1-bc458d65de82@136.234.9.24:443?pbk=QZsbrRTzJ-nze9D4BJxREqxDBExpyszYpdkK9qO8Jls&security=reality&sid=d50682df18259eac&sni=a96401t.lt3.h1clayd.click&fp=random#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://e89a2a0e-7803-447e-b050-3ba67962ed95@87.228.92.112:25135?security=reality&fp=firefox&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&sid=fe51f413b9646e97&sni=s-25452.nl18.h1clayd.click#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://918b1fa3-3e63-4c8d-87a4-8f635ffb7cd3@147.45.98.78:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.gosuslugi.ru&fp=firefox&security=reality&pbk=C8jwxMahtF-BpgtauR6I6dVXCc0X8VM9nbFxDQ3LzF0&sid=b4#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTk0MCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#Бесплатный VPN tg:VLESSFORU 🇨🇦%20t.me%2Frjsxrd
-vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+PtOKAjeKYoO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ

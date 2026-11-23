@@ -2,5 +2,3 @@
 //profile-update-interval: 1
 
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA
-vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&security=tls&type=ws&path=/vless&host=se1.v2less.site&sni=se1.v2less.site&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
-vless://e54fc748-c657-4820-b593-87d333e8d137@swe.srv.hiddenmedia.pw:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=swe.srv.hiddenmedia.pw&pbk=T-qDypPpfavzWteKpx1KjpW1USCjkBvNc6mzpRglw00&sid=e496f788cd4b7402#%F0%9F%87%B8%F0%9F%87%AA

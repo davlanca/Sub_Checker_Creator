@@ -5,11 +5,12 @@ vless://a0c7266e-0357-423e-b696-0fe11e0fe85c@189.74.117.14:443?security=reality&
 vless://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.128.21:20443?security=reality&encryption=none&pbk=00n0EAgpY0J966ZIr6LzA4bBhezLRoowNmCXjELfy0I&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=germany.cloudhouse1.ru&sid=73ca8049b875fe8d#%F0%9F%87%BA%F0%9F%87%B8
 vless://50414e45-4c5f-5a45-5553-9c45f3fee7fb@103.116.7.10:2053?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F9c45f3fee7fb&host=dzzxiyeku44s.mahdihonarvar5.workers.dev&packetEncoding=xudp&sni=dzzxiyeku44s.mahdihonarvar5.workers.dev&fp=unsafe#%F0%9F%87%BA%F0%9F%87%B8
 vless://eaf76557-2219-4799-8171-d7020adfefd0@104.18.151.231:2053?&security=tls&fp=chrome&sni=twilight-frost-15b0.yigom67484.workers.dev&type=ws&headerType=none&host=twilight-frost-15b0.yigom67484.workers.dev&path=%2Fws#%F0%9F%87%BA%F0%9F%87%B8
+ss://YWVzLTI1Ni1nY206TXlTZWNyZXRQYXNzMTIz@43.161.217.165:80?#%F0%9F%87%BA%F0%9F%87%B8
+ss://YWVzLTI1Ni1nY206TXlTZWNyZXRQYXNzMTIz@43.161.217.165:8388?#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.88:443?obfs=salamander&obfs-password=a7rK-GlWiXFjHnfCYQeiNGqPgqj7sfRr&sni=static-se2.snobvpn.online#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.138.190:443?obfs=salamander&obfs-password=AJyvWNsoDgVkMkboZ3juMJXYNRf6uEQE&sni=static-fi.snobvpn.online#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.102.139.122:443?obfs=salamander&obfs-password=KfgCaxwpO3HE3sklHjeYtZOTDy7sXMwZ&sni=static-se.snobmenu.xyz#%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?alpn=h3&insecure=0&security=tls&sni=germanyafterpool.fun#%F0%9F%87%BA%F0%9F%87%B8
-vless://9192ae0a-8a0f-47ac-950b-de7410f2fdf0@rusea1.riseservice.me:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=rusea1.riseservice.me&fp=qq&pbk=CycyTZTNdYiHpn7IBAr-jiNZ5F-NtiHccwbRef9opGY&sid=3e73d18b32b6052c&encryption=none#%F0%9F%87%BA%F0%9F%87%B8
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTg1LjIxNS4xMzIuOToxOTk5OQ==#%F0%9F%87%BA%F0%9F%87%B8
 vless://9192ae0a-8a0f-47ac-950b-de7410f2fdf0@144.31.249.184:443?flow=xtls-rprx-vision&security=reality&sni=rusea1.riseservice.me&fp=qq&pbk=CycyTZTNdYiHpn7IBAr-jiNZ5F-NtiHccwbRef9opGY&sid=3e73d18b32b6052c#%F0%9F%87%BA%F0%9F%87%B8
