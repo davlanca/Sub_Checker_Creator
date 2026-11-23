@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
+vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=nova-house.justext.space#%F0%9F%87%AD%F0%9F%87%B0

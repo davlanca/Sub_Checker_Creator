@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-hysteria2://247802ca-0fbb-428a-b807-91a6e571b5c7@48.103.144.118:8443?sni=static-nl.snobvpn.online&obfs=salamander&obfs-password=JGIhnEi-CcIJOfNTqvNxX_5wRAYUZ0J2#%F0%9F%87%AB%F0%9F%87%B7
