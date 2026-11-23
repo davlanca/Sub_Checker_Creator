@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://08ef7604-b3a5-0001-b264-0038fa7c44fc@188.68.216.33:443?type=tcp&security=tls&fp=chrome&sni=pmdhivnevikmltdhqp.fcloudservices.site#%F0%9F%87%A7%F0%9F%87%AC
