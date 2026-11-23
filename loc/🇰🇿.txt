@@ -1,6 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://a80acd3a-3df5-40b5-a54a-29bb18056115@38.180.206.44:48982?mode=auto&security=reality&encryption=none&pbk=A1ygNS8bIvKp7ZlUnjjHX_Z2AS_e4suvSs_IkWICvGE&fp=safari&type=xhttp&sni=cdn3-88.yahoo.com#%F0%9F%87%B0%F0%9F%87%BF
-vless://8b1b59c8-8802-0002-a636-ffe786275594@91.219.23.76:443?security=tls&sni=cataloguebroker.comparecarprices.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B0%F0%9F%87%BF
-vless://b54b1d38-ef24-0002-823d-9ceaf930b603@93.152.217.175:443?security=tls&sni=insightfailover.ratethatrestaurant.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B0%F0%9F%87%BF

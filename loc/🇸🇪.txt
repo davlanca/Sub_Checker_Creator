@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://29872718-970b-493e-abc9-524fa266d16b@70.34.211.236:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=delivery.mp.microsoft.com&sid=9e3f5e25c17d2615#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@volumestyle.komediyatorg.net:443?encryption=none&security=tls&sni=volumestyle.komediyatorg.net&fp=firefox&insecure=0&allowInsecure=0&type=ws&path=%2Fmedia%2Fws%2F#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&host=depotchannel.lucheeebezlimitnoekino.stream&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@depotchannel.lucheeebezlimitnoekino.stream:443?encryption=none&headerType=none&path=%2Fmedia%2Fws%2F&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws&fp=ios#%F0%9F%87%B8%F0%9F%87%AA
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@31.76.3.37:443?security=tls&sni=downloadframe.zak-rkp.net&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
+vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA
+vless://16f63796-3e98-5a7b-b016-540ce6e79007@8.6.112.0:443?encryption=none&security=tls&type=ws&path=/vless&host=se1.v2less.site&sni=se1.v2less.site&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
+vless://e54fc748-c657-4820-b593-87d333e8d137@swe.srv.hiddenmedia.pw:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=swe.srv.hiddenmedia.pw&pbk=T-qDypPpfavzWteKpx1KjpW1USCjkBvNc6mzpRglw00&sid=e496f788cd4b7402#%F0%9F%87%B8%F0%9F%87%AA

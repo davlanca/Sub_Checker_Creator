@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://ef5a57c7-84d5-4f86-b99c-875a16da485f@84.54.58.149:443?flow=xtls-rprx-vision&pbk=t_PE4flX4qNVn1leXcJX_YWgDw9YZxsrCQAPEHYConc&security=reality&sid=f21696d23293b39f&sni=sbmicro656.richhoodfoc.com&fp=edge#%F0%9F%87%B8%F0%9F%87%A8
