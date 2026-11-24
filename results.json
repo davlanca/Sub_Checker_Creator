@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:12:01.856568+00:00",
+  "generated_at": "2026-11-24T23:22:11.432483+00:00",
   "count": 236,
   "results": [
     {
@@ -120,7 +120,7 @@
       "tag": "🇩🇪",
       "ping_ms": 2310,
       "speed_kbps": 100,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@lagoon.gerqix.online:443?host=lagoon.gerqix.online&path=%2Fapi%2Fde5%2Fstream&security=tls&sni=lagoon.gerqix.online&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -131,7 +131,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1434,
       "speed_kbps": 84,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sienna.merlano.monster:443?alpn=http%2F1.1&encryption=none&path=%2Fapi%2Fde4%2Fstream&security=tls&sni=sienna.merlano.monster&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -142,7 +142,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1973,
       "speed_kbps": 99,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@mintleaf.moltex.click:443?encryption=none&type=ws&security=tls&sni=mintleaf.moltex.click&fp=firefox&alpn=http%2F1.1&path=%2Fapi%2Fde4%2Fstream#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -153,7 +153,7 @@
       "tag": "🇯🇵",
       "ping_ms": 2942,
       "speed_kbps": 169,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
     },
     {
@@ -164,7 +164,7 @@
       "tag": "🇯🇵",
       "ping_ms": 6081,
       "speed_kbps": 134,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
     },
     {
@@ -252,7 +252,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1415,
       "speed_kbps": 65,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -263,7 +263,7 @@
       "tag": "🇩🇪",
       "ping_ms": 2099,
       "speed_kbps": 122,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@sandstone.gerqix.online:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de6.v1&sni=sandstone.gerqix.online&type=grpc&fp=safari#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -274,7 +274,7 @@
       "tag": "🏴‍☠️",
       "ping_ms": 1583,
       "speed_kbps": 523,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?mode=gun&security=tls&serviceName=grpc-ru&sni=xssite.webredirect.org&type=grpc&fp=random#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F"
     },
     {
@@ -285,7 +285,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1668,
       "speed_kbps": 359,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@81.200.158.26:443?type=grpc&security=tls&fp=firefox&sni=fernglade.gerqix.online&mode=gun&serviceName=glush.de1.v1#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -428,7 +428,7 @@
       "tag": "🇺🇸",
       "ping_ms": 969,
       "speed_kbps": 558,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://a38e3651-a36c-445d-87e1-336a7855edb4@144.31.214.249:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=fra01.deflink.net&type=tcp#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -439,7 +439,7 @@
       "tag": "🇩🇪",
       "ping_ms": 936,
       "speed_kbps": 562,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://0209fe17-f29e-4384-93bc-a7d7ca83decb@31.59.179.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=gr3.xt-game.top&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -505,7 +505,7 @@
       "tag": "🇬🇧",
       "ping_ms": 997,
       "speed_kbps": 810,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?sni=mother-earth.fyi&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7"
     },
     {
@@ -516,7 +516,7 @@
       "tag": "🇬🇧",
       "ping_ms": 1034,
       "speed_kbps": 788,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7"
     },
     {
@@ -527,7 +527,7 @@
       "tag": "🇺🇸",
       "ping_ms": 1042,
       "speed_kbps": 848,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?insecure=0&sni=bl1.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -659,7 +659,7 @@
       "tag": "🇳🇱",
       "ping_ms": 634,
       "speed_kbps": 330,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -670,7 +670,7 @@
       "tag": "🇦🇹",
       "ping_ms": 925,
       "speed_kbps": 72,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9"
     },
     {
@@ -681,7 +681,7 @@
       "tag": "🇺🇸",
       "ping_ms": 3274,
       "speed_kbps": 167,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -692,7 +692,7 @@
       "tag": "🇳🇱",
       "ping_ms": 707,
       "speed_kbps": 605,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -703,7 +703,7 @@
       "tag": "🇸🇪",
       "ping_ms": 804,
       "speed_kbps": 568,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA"
     },
     {
@@ -714,7 +714,7 @@
       "tag": "🇫🇷",
       "ping_ms": 793,
       "speed_kbps": 624,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -725,7 +725,7 @@
       "tag": "🇫🇷",
       "ping_ms": 735,
       "speed_kbps": 655,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -736,7 +736,7 @@
       "tag": "🇫🇷",
       "ping_ms": 801,
       "speed_kbps": 607,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -747,7 +747,7 @@
       "tag": "🇺🇸",
       "ping_ms": 691,
       "speed_kbps": 619,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZDRHOXhuN0FnVDg4bXNDWUM5TVpmYXZNVXFkM2RXRk5BdnN3aTZLZmFEOVljZXhwdE1iUG40Y1NFQ0VNekRndkFNb21BV0pIeXdlcUplcjk5c3NNVllHSDZUSzhrNGM@216.172.144.199:40643#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -758,7 +758,7 @@
       "tag": "🇫🇷",
       "ping_ms": 726,
       "speed_kbps": 628,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.27:19999#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -769,7 +769,7 @@
       "tag": "🇦🇹",
       "ping_ms": 843,
       "speed_kbps": 590,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9"
     },
     {
@@ -780,7 +780,7 @@
       "tag": "🇪🇸",
       "ping_ms": 780,
       "speed_kbps": 644,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.97:19999#%F0%9F%87%AA%F0%9F%87%B8"
     },
     {
@@ -791,7 +791,7 @@
       "tag": "🇺🇸",
       "ping_ms": 950,
       "speed_kbps": 156,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppam9Vd2Zkbmt6N21YNHBXZGtTcG1FaXhUWkN0MlRSbTFKRHI0QlNhQkFXa0x4WUdvWEJIWGFkRktZNUQ1WmZvVlR3cXN4NDZqQ21FVURuUVVpekpEWXJNN0I1YW5obnU@news.bushyjenz.cyou:42878#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -802,7 +802,7 @@
       "tag": "🇺🇸",
       "ping_ms": 231,
       "speed_kbps": 2710,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -813,7 +813,7 @@
       "tag": "🇺🇸",
       "ping_ms": 526,
       "speed_kbps": 1371,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -879,7 +879,7 @@
       "tag": "🇨🇦",
       "ping_ms": 1907,
       "speed_kbps": 1755,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YiLCJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ"
     },
     {
@@ -1495,7 +1495,7 @@
       "tag": "🇺🇸",
       "ping_ms": 358,
       "speed_kbps": 1070,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1517,7 +1517,7 @@
       "tag": "🇺🇸",
       "ping_ms": 149,
       "speed_kbps": 6882,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.209:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1528,7 +1528,7 @@
       "tag": "🇧🇾",
       "ping_ms": 1577,
       "speed_kbps": 428,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F#%F0%9F%87%A7%F0%9F%87%BE"
     },
     {
@@ -1539,7 +1539,7 @@
       "tag": "🇭🇰",
       "ping_ms": 1425,
       "speed_kbps": 589,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://6618c37f-edd7-4ff0-b9d6-26f1cc4945ab@85.189.89.169:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=H3CK3gN9HfMONI7aYoSxOUqc5EYPgOVWfLOU3ygaIjw&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1550,7 +1550,7 @@
       "tag": "🇳🇱",
       "ping_ms": 2122,
       "speed_kbps": 205,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@f0d7aft.nl13.h1clayd.click:443?encryption=none&headerType=none&pbk=kkCGiCQCKnkozJR1KKCRNtmdBECmThCgI9VSv7iDcWI&security=reality&sid=8956c57cb4c4f8d2&sni=f0d7aft.nl13.h1clayd.click&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1561,7 +1561,7 @@
       "tag": "🇸🇬",
       "ping_ms": 961,
       "speed_kbps": 594,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:39790?encryption=none&security=reality&sni=www.lamer.com.sg&fp=firefox&type=tcp&pbk=yXCR_3MmI7pv1eVBPkPxp2Qc1tmTSAPCjdNUTU64Sz0&sid=c899aef0cf7b&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC"
     },
     {
@@ -1583,7 +1583,7 @@
       "tag": "🇨🇾",
       "ping_ms": 1384,
       "speed_kbps": 523,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.40:9543?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BE"
     },
     {
@@ -1594,7 +1594,7 @@
       "tag": "🇭🇰",
       "ping_ms": 1342,
       "speed_kbps": 357,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://469e41b2-ffb2-4ab3-ad4d-fd00ac69af75@85.189.89.172:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=n1_yHUrlljxT_VL8HX0ALz8JKAYHJb5e2sQ8tMdBp2A&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1605,7 +1605,7 @@
       "tag": "🇭🇰",
       "ping_ms": 1500,
       "speed_kbps": 167,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://e3808bf4-a0db-4828-93d5-ad534d302f1d@85.189.89.165:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=lVwVzyeyX0aRVzkOYY-MRJQuZgqaqLJZQL0mVlYqORI&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1616,7 +1616,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1099,
       "speed_kbps": 495,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.43.82:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1627,7 +1627,7 @@
       "tag": "🇭🇰",
       "ping_ms": 1447,
       "speed_kbps": 189,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://24bc6f99-bb3c-405b-9f99-e27c5012cf45@85.189.89.182:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=p6xwBXTFkq8nzeO8zjPTSHANvS2DfstuG-Vp134hBGs&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1638,7 +1638,7 @@
       "tag": "🇭🇰",
       "ping_ms": 1417,
       "speed_kbps": 586,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://35b08a76-2a3e-4371-8748-2ef9ce27103f@85.189.89.183:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ij8p9EwemwRh-0Hbg6OTNUMZGVeklZXrX534z3qoiGY&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1649,7 +1649,7 @@
       "tag": "🇰🇷",
       "ping_ms": 1258,
       "speed_kbps": 743,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:43118?&security=reality&flow=xtls-rprx-vision&pbk=p0crO-ZNRjb07T_GGy9JdkXTjei3-D9f6s2ZzCo2gx8&sid=1a70fe8d4b05&fp=firefox&packet-encoding=xudp&sni=v1-dy.ixigua.com&type=tcp&headerType=none&host=v1-dy.ixigua.com&path=%2F#%F0%9F%87%B0%F0%9F%87%B7"
     },
     {
@@ -1660,7 +1660,7 @@
       "tag": "🇳🇱",
       "ping_ms": 2165,
       "speed_kbps": 158,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@961ec0g.nl13.h1clayd.click:443?encryption=none&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&security=reality&serviceName=7d5abcd7d8a1&sid=6d289ff0f47c0aac&sni=961ec0g.nl13.h1clayd.click&spx=%2F&type=grpc&fp=ios#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1671,7 +1671,7 @@
       "tag": "🇮🇱",
       "ping_ms": 1941,
       "speed_kbps": 338,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@717252g.nl8.h1clayd.click:443?security=reality&type=grpc&mode=gun&serviceName=204adda7e3da&packetEncoding=xudp&sni=717252g.nl8.h1clayd.click&fp=firefox&sid=d3bd772514c87d28&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&encryption=none#%F0%9F%87%AE%F0%9F%87%B1"
     },
     {
@@ -1682,7 +1682,7 @@
       "tag": "🇭🇰",
       "ping_ms": 2436,
       "speed_kbps": 50,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://cfa9310e-0083-4e06-a664-0381098c148f@68.64.181.197:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=78TG1qYh_ShLeQszkvn8Fzv9fItRD5uqNbldKeejFTI&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1693,7 +1693,7 @@
       "tag": "🇺🇸",
       "ping_ms": 1185,
       "speed_kbps": 654,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://04fa9389-a230-4f62-bcdb-3bfe240a62b2@150.241.87.218:443?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=iGt12PmtbQOInMmfnbeZ2dFkANeDKiXT5H7YizIRMm0&fp=chrome&serviceName=grpc#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1704,7 +1704,7 @@
       "tag": "🇭🇰",
       "ping_ms": 2355,
       "speed_kbps": 72,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://11a2709f-a1aa-4b97-9212-4d5cb0c83e53@38.207.178.28:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=fSVnXtIce23KOtqQjDuwRkNCM3mvWlva7bPNMfODv04&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1715,7 +1715,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1735,
       "speed_kbps": 443,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@leviko-de8799.shopingggg.ir:9543?security=reality&type=tcp&packetEncoding=xudp&sni=storage.yandexcloud.net&fp=chrome&flow=xtls-rprx-vision&sid=123abcdf&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&encryption=none#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1726,7 +1726,7 @@
       "tag": "🇭🇰",
       "ping_ms": 1416,
       "speed_kbps": 570,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://b5e8a15a-e134-4493-9073-be79eab9cda8@85.189.89.170:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=MqEVrXrgUtPf9WYkZyUfVtJQDAssCV79bad4F4LlWGA&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1737,7 +1737,7 @@
       "tag": "🇧🇷",
       "ping_ms": 2213,
       "speed_kbps": 334,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://5807f1c4-b50e-4ec0-8d01-274045da0da5@dddz-4-z.473221.xyz:33161?&security=reality&flow=xtls-rprx-vision&pbk=BECARsUsTAoGzHFcGEquyFHKnI_LVL5FL6s1jZbLhVk&sid=6dbd86dc61ccb46d&fp=firefox&packet-encoding=xudp&sni=v1-dy.ixigua.com&type=tcp&headerType=none&host=v1-dy.ixigua.com&path=%2F#%F0%9F%87%A7%F0%9F%87%B7"
     },
     {
@@ -1748,7 +1748,7 @@
       "tag": "🇭🇰",
       "ping_ms": 3905,
       "speed_kbps": 250,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&sni=swdist.apple.com&insecure=0&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0"
     },
     {
@@ -1759,7 +1759,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1220,
       "speed_kbps": 457,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://33b980b9-fbe0-457f-9089-67050af1fb7b@194.113.35.220:8443?flow=xtls-rprx-vision&security=reality&sni=wf8.sondore.com&fp=edge&pbk=6wEcjCOgl-LIN9otQ_UJgRQYLFlnKTEjdYnnqjj5cRY&sid=911debda80e7b51b#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1770,7 +1770,7 @@
       "tag": "🇳🇱",
       "ping_ms": 846,
       "speed_kbps": 727,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://5d98ff1a-d576-46d3-9504-b158d94bcce9@195.63.143.129:8446?flow=xtls-rprx-vision&security=reality&sni=www.kpn.com&fp=firefox&pbk=UzS81axpyoGU0UUzsWPMBi1cdAxo5hyfLkqB9wy9HkI&sid=ec685991deb623f7#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1781,7 +1781,7 @@
       "tag": "🇫🇷",
       "ping_ms": 938,
       "speed_kbps": 597,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.229:9543?encryption=none&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -1792,7 +1792,7 @@
       "tag": "🇱🇻",
       "ping_ms": 939,
       "speed_kbps": 585,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.pro&type=tcp#%F0%9F%87%B1%F0%9F%87%BB"
     },
     {
@@ -1803,7 +1803,7 @@
       "tag": "🇪🇸",
       "ping_ms": 1638,
       "speed_kbps": 186,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://00799b08-1090-4ed3-bec0-0fa26816a703@201.24.54.94:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tRrqkTpxywWqd4coyYWIbx26rdxRppFkZN1lC1IZA0k&sid=75dd7e79a7876314&sni=storage.yandex.net#%F0%9F%87%AA%F0%9F%87%B8"
     },
     {
@@ -1814,7 +1814,7 @@
       "tag": "🇺🇦",
       "ping_ms": 916,
       "speed_kbps": 601,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@mxzfn.klyck.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=mxzfn.klyck.online&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6"
     },
     {
@@ -1825,7 +1825,7 @@
       "tag": "🇳🇱",
       "ping_ms": 716,
       "speed_kbps": 759,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://5d98ff1a-d576-46d3-9504-b158d94bcce9@144.124.246.61:8442?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=www.kpn.com&pbk=OiVtWvPLqJE7txxfOAgh5LB90JW3f88TYCHwNes3VDw&sid=681529e72742472e#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1836,7 +1836,7 @@
       "tag": "🇱🇻",
       "ping_ms": 932,
       "speed_kbps": 591,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lites.3apes.pro&type=tcp#%F0%9F%87%B1%F0%9F%87%BB"
     },
     {
@@ -1847,7 +1847,7 @@
       "tag": "🇺🇸",
       "ping_ms": 1193,
       "speed_kbps": 575,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://ca5b2bab-e5f7-4dd4-a4b7-ebd4a34a02ca@200.165.225.235:443?security=reality&sni=tw-mnz.zalupa231313.shop&fp=firefox&pbk=Oy2qH2q5DkJgT0mt0N3Ec48NzAUsI2YlulZlaavs1QI&sid=def012&type=grpc&serviceName=atlas#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1858,7 +1858,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1016,
       "speed_kbps": 541,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://8a8e5ae1-492c-41c2-9f7f-5a461524cf41@153.56.231.175:443?flow=xtls-rprx-vision&security=reality&sni=e29d82t.de37.h1clayd.shop&fp=firefox&pbk=Jdofju8cAHYwlniVFbmRRfHiqhr5bke3DXm-fWThBTk&sid=ad2ccd948f8dcc52#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1869,7 +1869,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1146,
       "speed_kbps": 685,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://ad295072-0049-4981-a9aa-6314c43e87e5@n4.fernstatic.com:443?encryption=none&type=xhttp&security=reality&path=%2F&host=n4.fernstatic.com&mode=auto&sni=n4.fernstatic.com&fp=firefox&pbk=0MSoevDfxrS1SB5IVdzFT2sMmicWY3Q1FjgZWbqsvXo&sid=3b1a6acf74e481e7#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1880,7 +1880,7 @@
       "tag": "🇩🇪",
       "ping_ms": 949,
       "speed_kbps": 631,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@78.17.215.245:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=crest.medic-ml.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1891,7 +1891,7 @@
       "tag": "🇩🇪",
       "ping_ms": 997,
       "speed_kbps": 530,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.42.117:9543?encryption=none&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp&fp=edge#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1902,7 +1902,7 @@
       "tag": "🇨🇾",
       "ping_ms": 872,
       "speed_kbps": 653,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.244:9543?encryption=none&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%BE"
     },
     {
@@ -1913,7 +1913,7 @@
       "tag": "🇩🇪",
       "ping_ms": 943,
       "speed_kbps": 658,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@93.123.101.243:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=fossa.medic-ml.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1924,7 +1924,7 @@
       "tag": "🇩🇪",
       "ping_ms": 3919,
       "speed_kbps": 449,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.42.119:9543?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1935,7 +1935,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1045,
       "speed_kbps": 431,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.42.138:9543?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1946,7 +1946,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1149,
       "speed_kbps": 558,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://ca5b2bab-e5f7-4dd4-a4b7-ebd4a34a02ca@45.131.214.89:443?encryption=none&fp=firefox&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&security=reality&serviceName=vless-grpc&sid=a1b2c3d4&sni=mhost-de.zalupa231313.shop&type=grpc#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1957,7 +1957,7 @@
       "tag": "🇸🇪",
       "ping_ms": 1222,
       "speed_kbps": 476,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@88.218.170.118:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA"
     },
     {
@@ -1968,7 +1968,7 @@
       "tag": "🇳🇱",
       "ping_ms": 6247,
       "speed_kbps": 484,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@178.236.240.66:443?flow=xtls-rprx-vision&security=reality&sni=ruae633.jointaction.am&fp=firefox&pbk=2BnTTOS3HvvIbNDEHPrhwnpPBc1HB7gEHkmQfUATkCw&sid=c0a60e2240745383&encryption=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1979,7 +1979,7 @@
       "tag": "🇩🇪",
       "ping_ms": 953,
       "speed_kbps": 611,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://19841976-1b67-49e4-9f21-804d10b2fd00@89.116.72.217:8880?encryption=mlkem768x25519plus.native.0rtt.U8fzW-FW7FJZpf3gVKExdUeArvvW5R7Yvtl7w2m0kUg&fp=firefox&pbk=OjDDQkw-g0y3OGcZUgsT_k4N_QtBDjgcjYF9it6Nyz4&security=reality&sid=cb4a2e4c&sni=www.microsoft.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1990,7 +1990,7 @@
       "tag": "🇩🇪",
       "ping_ms": 879,
       "speed_kbps": 564,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@179.254.108.240:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=tiles.medic-ml.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -2001,7 +2001,7 @@
       "tag": "🇨🇿",
       "ping_ms": 892,
       "speed_kbps": 489,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.133.93.227:9543?flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=raw&fp=safari&encryption=none#%F0%9F%87%A8%F0%9F%87%BF"
     },
     {
@@ -2012,7 +2012,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1031,
       "speed_kbps": 469,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.42.165:9543?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -2023,7 +2023,7 @@
       "tag": "🇫🇮",
       "ping_ms": 961,
       "speed_kbps": 498,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@87.251.16.227:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=logs.medic-ml.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE"
     },
     {
@@ -2034,7 +2034,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1079,
       "speed_kbps": 501,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.41.14:9543?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -2045,7 +2045,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1349,
       "speed_kbps": 667,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://43add026-128a-47d3-a403-b3875b4638db@assets.fernstatic.com:8444?encryption=none&fp=firefox&headerType=none&mode=gun&pbk=1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q&security=reality&serviceName=grpc&sid=bcefc042d39188e0&sni=yastatic.net&type=grpc#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -2056,7 +2056,7 @@
       "tag": "🇩🇪",
       "ping_ms": 1320,
       "speed_kbps": 108,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://ca5b2bab-e5f7-4dd4-a4b7-ebd4a34a02ca@187.7.206.143:443?encryption=none&fp=firefox&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&security=reality&serviceName=vless-grpc&sid=a1b2c3d4&sni=expresshostde-rkn-anty1.zalupa231313.shop&type=grpc#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -2067,7 +2067,7 @@
       "tag": "🇦🇪",
       "ping_ms": 1120,
       "speed_kbps": 501,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@vde.b.qaz.it.com:9543?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=storage.yandexcloud.net&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=123abcdf#%F0%9F%87%A6%F0%9F%87%AA"
     },
     {
@@ -2078,7 +2078,7 @@
       "tag": "🇳🇱",
       "ping_ms": 818,
       "speed_kbps": 694,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -2089,7 +2089,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1222,
       "speed_kbps": 106,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@147.45.108.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=IuzAWh6UM62Txrnh_No9y5n6wmZecyR1ki8z5xor-0g&sni=absolute-disaster.org#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -2100,7 +2100,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1128,
       "speed_kbps": 529,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@141.8.198.29:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xPwj2JRpRX0EhUmiJeuii1iMaX1iT2Smq0k5Pyu3hEk&security=reality&sid=7ce3580ea68cc329&sni=rusbox634.grizpliz.am&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -2111,7 +2111,7 @@
       "tag": "🇪🇪",
       "ping_ms": 901,
       "speed_kbps": 595,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://7d31a423-4bb6-4c16-91b8-c08901a37780@143.246.41.232:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lI2vfdzBaAKrDxAdkAW8IHp9pkpQV6INmJrYriC_lyE&security=reality&sid=9ef8ebef9638b9c7&sni=e0ddd1x.ee2.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%AA"
     },
     {
@@ -2122,7 +2122,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1227,
       "speed_kbps": 450,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@84.54.44.117:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fPvZxeP0GErdI22fbEAqbMaz-QMumNIDzBNgKZmRsWY&security=reality&sid=a7b12f3265f97f4a&sni=rumicro642.richhoodfoc.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -2133,7 +2133,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1011,
       "speed_kbps": 642,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://ca5b2bab-e5f7-4dd4-a4b7-ebd4a34a02ca@78.17.215.120:443?encryption=none&fp=firefox&pbk=EoeKDsLFEs6F6XMnkQZgvHJ4FfB4s5g0hSP5JE2RCl0&security=reality&serviceName=vless-grpc&sid=a1b2c3d4&sni=viston-de-2-site.zalupa231313.shop&type=grpc#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -2144,7 +2144,7 @@
       "tag": "🇫🇷",
       "ping_ms": 1145,
       "speed_kbps": 619,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://391a32c6-084c-4d61-8e8d-472678021dac@185.188.146.107:6443?encryption=none&fp=firefox&pbk=j0S1c1otF2nPttqWdl1jvO3Lpo46deTj5UYBeZoUB0w&security=reality&serviceName=/api/v1/update&sid=1265c88595b5c91a&sni=download.virtualbox.org&type=grpc#%F0%9F%87%AB%F0%9F%87%B7"
     },
     {
@@ -2155,7 +2155,7 @@
       "tag": "🇪🇪",
       "ping_ms": 850,
       "speed_kbps": 543,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@77.239.126.84:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=histo.medic-ml.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA"
     },
     {
@@ -2166,7 +2166,7 @@
       "tag": "🇮🇪",
       "ping_ms": 5837,
       "speed_kbps": 391,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://ef1da56e-8117-42b4-bcd8-9094ebbdf985@185.86.147.175:443?type=tcp&headerType=none&security=reality&encryption=none&sni=typewriter.mail.ru&fp=firefox&pbk=8AMTGPbrxsJjdXnKnF9Q_FTBE0tQHG-nfE1CeqN7GRs&sid=17aa0cd6&flow=xtls-rprx-vision#%F0%9F%87%AE%F0%9F%87%AA"
     },
     {
@@ -2177,7 +2177,7 @@
       "tag": "🇪🇪",
       "ping_ms": 1060,
       "speed_kbps": 517,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@vexlum.klyck.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vexlum.klyck.online&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&sid=a503308602b56095&fp=firefox#%F0%9F%87%AA%F0%9F%87%AA"
     },
     {
@@ -2188,7 +2188,7 @@
       "tag": "🇫🇮",
       "ping_ms": 964,
       "speed_kbps": 539,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://8a8e5ae1-492c-41c2-9f7f-5a461524cf41@2.56.175.91:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Mr1nz6qk6s1OPuEiz5LTMwjoaBDRIoEN35jk7xoA2Vw&security=reality&sid=66746ee262b243b0&sni=f.subhimikvpn.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE"
     },
     {
@@ -2199,7 +2199,7 @@
       "tag": "🇩🇪",
       "ping_ms": 998,
       "speed_kbps": 333,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@146.103.43.124:9543?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -2210,7 +2210,7 @@
       "tag": "🇳🇱",
       "ping_ms": 6299,
       "speed_kbps": 371,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@132.243.242.219:9543?encryption=none&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -2221,7 +2221,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1082,
       "speed_kbps": 533,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@186.246.48.214:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WSoclfqxCDnfT4JJOeRXkXedigewJQFCvfKrScqvYTs&security=reality&sid=5d4c3c6c3990a22a&sni=rusbox596.aidating.am&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
