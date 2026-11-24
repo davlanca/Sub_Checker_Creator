@@ -1,8 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&fp=firefox&mode=gun&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&security=reality&sni=flintstack.dev&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
 vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?encryption=none&fp=safari&mode=gun&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&security=reality&sid=ea322b8b5b015812&sni=emberworks.cloud&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@depotchannel.lucheeebezlimitnoekino.stream:443?encryption=none&headerType=none&path=%2Fmedia%2Fws%2F&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws&fp=edge#%F0%9F%87%B8%F0%9F%87%AA
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@2.26.93.106:443?encryption=none&fp=firefox&path=/media/ws/&security=tls&sni=depotchannel.lucheeebezlimitnoekino.stream&type=ws#%F0%9F%87%B8%F0%9F%87%AA
-vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.36.19:443?security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision-udp443&sni=spb.b2ai.top#%F0%9F%87%B8%F0%9F%87%AA
+vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.46.6:443?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=spb.b2ai.top#%F0%9F%87%B8%F0%9F%87%AA
