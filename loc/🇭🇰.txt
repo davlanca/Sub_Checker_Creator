@@ -3,10 +3,11 @@
 
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?#%F0%9F%87%AD%F0%9F%87%B0
 vless://ffc912cc-45da-4ece-86d2-fe340c9ed1fc@38.180.95.2:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=MyWImK76KPf3T75mEf5vIA8eNQR_7mKEK_mOP0HlclI&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
-vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#%F0%9F%87%AD%F0%9F%87%B0
-vless://af18b465-6f56-4a35-8932-fe9ce8c079b7@38.180.95.96:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=gMbm2Kom7Njm5Vh1Eycw7s9hH0x84csLzC21eYEI9QY&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://f261bc8c-d2f2-43da-83e7-06ef41ef8aa5@38.244.198.105:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=-cQ8O3f7-PUJ_RGl_QM106ivhH_ClMUMxZtnVczV0Vs&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
-vless://24bc6f99-bb3c-405b-9f99-e27c5012cf45@85.189.89.182:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=p6xwBXTFkq8nzeO8zjPTSHANvS2DfstuG-Vp134hBGs&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://ba8ae5e6-835d-44f0-95fd-5d1291b2f599@38.180.95.95:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=18kWhBUWGBC9R9_535uTkJWXyC79QrA4fqJgKa4tBQ0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://af18b465-6f56-4a35-8932-fe9ce8c079b7@38.180.95.96:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=gMbm2Kom7Njm5Vh1Eycw7s9hH0x84csLzC21eYEI9QY&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://8614bde7-34cf-4413-8360-e96f1b960528@45.192.193.54:35600?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJwbUNPAxu-CcoWnzWrvtDkX7QMDvJwFGWzJ3lDcFC4&sni=www.iij.ad.jp#%F0%9F%87%AD%F0%9F%87%B0
 vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?security=tls&type=tcp&packetEncoding=xudp&sni=nova-house.justext.space&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://5a66e6cf-ba9f-41c5-8590-036890654e58@45.136.15.212:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=z_EU3XzU2TmXkInPLf0GWdFEfx6ZcpVSxnS9BFJ1hGE&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
 vless://01b87800-396e-4d79-8eaf-c023deeccf7c@85.189.67.107:20086?flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=firefox&pbk=N60X1fq3w78e_eDHwgyrbgdplTgq1oyTnICTAKy7RjY&encryption=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0
