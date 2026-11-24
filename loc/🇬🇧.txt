@@ -1,8 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AC%F0%9F%87%A7
 vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@a80b5386.fi2.h1clayd.click:443?&security=reality&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&sid=cc678f10161992a9&fp=firefox&sni=a80b5386.fi2.h1clayd.click&type=tcp&headerType=none&host=a80b5386.fi2.h1clayd.click&path=%2F#%F0%9F%87%AC%F0%9F%87%A7
 vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@13.141.36.15:443?encryption=none&fp=firefox&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&security=reality&sid=cc678f10161992a9&sni=a80b5386.fi2.h1clayd.click&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999#%F0%9F%87%AC%F0%9F%87%A7
+vless://4a923161-156f-4914-8cac-762fb2433bfb@144.48.11.146:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=144.48.11.146&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#%F0%9F%87%AC%F0%9F%87%A7

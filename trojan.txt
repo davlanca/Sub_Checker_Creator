@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?security=tls&sni=ra-p1.victorycloud.ru&alpn=http%2F1.1&type=ws&host=ra-p1.victorycloud.ru&path=%2F2fc2ec03a65d451dffa4592d68c43a29#%F0%9F%87%B5%F0%9F%87%B1
-trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@39.109.110.189:443?security=tls&sni=hkzfsg1.mateflora.com#%F0%9F%87%B8%F0%9F%87%AC
