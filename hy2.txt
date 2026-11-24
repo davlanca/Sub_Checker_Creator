@@ -3,6 +3,6 @@
 
 hysteria2://41edb44c8e@103.88.243.142:11592?insecure=1#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?insecure=0&sni=bl1.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://7cbd9bf9-a3b1-4257-8406-df6109cd882f@ee.chick-chirik.com:443?sni=nl.chick-chirik.com#%F0%9F%87%AC%F0%9F%87%A7
-hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni=mother-earth.fyi&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://d0975db4-e8c8-41f7-a5f3-a3d1d432e499@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#%F0%9F%87%B8%F0%9F%87%AA
