@@ -3,8 +3,7 @@
 
 hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://d0975db4-e8c8-41f7-a5f3-a3d1d432e499@193.233.130.66:443?sni=app.vles.space#%F0%9F%87%BA%F0%9F%87%B8
-hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.190:13337?sni=mother-earth.fyi&alpn=h3#%F0%9F%87%AC%F0%9F%87%A7
+hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@179.254.191.251:4444?insecure=0&sni=bl1.nexfile.net#%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://55e8b22d-a106-41eb-8a5b-9773bedce8ef@189.74.114.13:54183?sni=outh.yandex-cloud.org#%F0%9F%87%BA%F0%9F%87%B8
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
