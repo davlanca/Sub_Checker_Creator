@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.46.6:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=spb.b2ai.top&type=raw#%F0%9F%87%B8%F0%9F%87%AA
+vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.46.6:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision-udp443&fp=qq&security=tls&sni=spb.b2ai.top&type=raw#%F0%9F%87%B8%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
+vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.20:6443?encryption=none&fp=firefox&pbk=sadyaFeM276vgv_wdE1g6DDMgKZfKR_fr9DhTyCp9zM&security=reality&serviceName=/api/v1/update&sid=885781b112c298a5&sni=download.virtualbox.org&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#%F0%9F%87%B8%F0%9F%87%AA
-vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%B8%F0%9F%87%AA
