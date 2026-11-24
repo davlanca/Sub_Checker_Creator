@@ -1,4 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?type=ws&security=tls&fp=chrome&sni=matrix.learnpodedu.com&host=matrix.learnpodedu.com&vcn=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999?type=tcp#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.73:19999#%F0%9F%87%B8%F0%9F%87%AC
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:39790?encryption=none&security=reality&sni=www.lamer.com.sg&fp=firefox&type=tcp&pbk=yXCR_3MmI7pv1eVBPkPxp2Qc1tmTSAPCjdNUTU64Sz0&sid=c899aef0cf7b&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC
+vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%B8%F0%9F%87%AC

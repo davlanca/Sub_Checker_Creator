@@ -1,0 +1,13 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://469e41b2-ffb2-4ab3-ad4d-fd00ac69af75@85.189.89.172:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=n1_yHUrlljxT_VL8HX0ALz8JKAYHJb5e2sQ8tMdBp2A&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://b5e8a15a-e134-4493-9073-be79eab9cda8@85.189.89.170:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=MqEVrXrgUtPf9WYkZyUfVtJQDAssCV79bad4F4LlWGA&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://24bc6f99-bb3c-405b-9f99-e27c5012cf45@85.189.89.182:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=p6xwBXTFkq8nzeO8zjPTSHANvS2DfstuG-Vp134hBGs&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://35b08a76-2a3e-4371-8748-2ef9ce27103f@85.189.89.183:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ij8p9EwemwRh-0Hbg6OTNUMZGVeklZXrX534z3qoiGY&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647#%F0%9F%87%AD%F0%9F%87%B0
+vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?security=reality&sni=swdist.apple.com&insecure=0&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0
+vless://367e69b0-5781-45ad-83bc-94013729532d@45.136.14.140:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=hfJpGSf-nFizW5PjVNk0W5ZoTc81diTMjurFm3FT9j4&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://11a2709f-a1aa-4b97-9212-4d5cb0c83e53@38.207.178.28:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=fSVnXtIce23KOtqQjDuwRkNCM3mvWlva7bPNMfODv04&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://82db522b-8f2b-45e1-a984-e199a3d3a6db@38.207.178.113:20086?flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=firefox&pbk=IdYIcbajO4njkNrsWpYriaYW9fF0YQAKjICgl0ynWDs#%F0%9F%87%AD%F0%9F%87%B0
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
