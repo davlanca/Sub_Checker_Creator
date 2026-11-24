@@ -1,12 +1,11 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@45.142.44.199:443?encryption=none&security=tls&sni=accessfooter.cleanfoodshop.org&type=ws&path=%2Fmedia%2Fws%2F&host=accessfooter.cleanfoodshop.org&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&flow=xtls-rprx-vision&headerType=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&security=reality&sni=absolute-disaster.org&type=tcp&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?fp=ios&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?type=grpc&security=tls&fp=firefox&sni=xssite.webredirect.org&serviceName=grpc-ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?headerType=none&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=safari#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QFNvbFZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI4NC4xNy40MS4yIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#%20t.me%2Frjsxrd
-hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?encryption=none&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&fp=chrome&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@8a2e72t.nl11.h1clayd.click:443?flow=xtls-rprx-vision&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&security=reality&sid=8d0d0679f42ffd98&sni=8a2e72t.nl11.h1clayd.click&type=raw&fp=safari#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?&security=tls&fp=qq&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssite.webredirect.org&type=grpc&serviceName=grpc-ru&fp=random&security=tls#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?encryption=none&mode=gun&security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc&fp=firefox#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?fp=random&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@178.162.254.38:8388#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F

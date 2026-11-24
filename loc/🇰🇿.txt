@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@201.34.136.78:443?&security=reality&flow=xtls-rprx-vision&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&fp=firefox&sni=fjn2vd4dgxb6.dynarix-node41.sbs&type=tcp&headerType=none&host=fjn2vd4dgxb6.dynarix-node41.sbs&path=%2F#%F0%9F%87%B0%F0%9F%87%BF
