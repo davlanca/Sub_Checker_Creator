@@ -1,6 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lites.3apes.pro&type=tcp#%F0%9F%87%B1%F0%9F%87%BB
 vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.162:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.pro&type=tcp#%F0%9F%87%B1%F0%9F%87%BB
-vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.161:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lite.3apes.pro&type=tcp#%F0%9F%87%B1%F0%9F%87%BB
+vless://13908eee-ea78-4363-adab-6cca98ecfce3@185.81.129.197:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lites.3apes.pro&type=tcp#%F0%9F%87%B1%F0%9F%87%BB
