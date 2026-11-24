@@ -2,3 +2,5 @@
 //profile-update-interval: 1
 
 hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@tomsk.gosgenarchive.com:8443?alpn=h3&fp=safari&sni=tomsk.gosgenarchive.com&obfs=salamander&obfs-password=x9KvL2mP4nC72H3w#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+hysteria2://fa937345-6d3e-4ff4-8127-1a836987a0db@195.63.138.212:15443/?sni=cloudehouse24.ru#%F0%9F%87%BA%F0%9F%87%B8
+hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@152.32.254.68:5010?obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&sni=nas.aizhzo.com#%F0%9F%87%AD%F0%9F%87%B0
