@@ -1,8 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?encryption=none&flow=xtls-rprx-vision&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
-vless://b8a4f1b4-9fb1-4c42-ae54-de5124de375c@189.74.116.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediatropa.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-vless://b8a4f1b4-9fb1-4c42-ae54-de5124de375c@189.74.116.41:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.oblachnyservis.cc&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
-trojan://t5ZTZ0bYgRLNmJKv-Wg2wmsMx21s6RhX@78.17.171.140:2053?security=tls&sni=ra-p1.victorycloud.ru&alpn=http%2F1.1&type=ws&host=ra-p1.victorycloud.ru&path=%2F2fc2ec03a65d451dffa4592d68c43a29#%F0%9F%87%B5%F0%9F%87%B1
-vless://e0643422-1e6e-4182-993e-de9b4c78e736@80.47.18.60:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&security=reality&sid=6f0091ebe3029ebb&sni=fedtuna.ai&type=tcp#%F0%9F%87%B5%F0%9F%87%B1
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@171.22.129.227:443?encryption=none&security=reality&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sni=nujd35aknu.static-mirror.site&fp=firefox&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
