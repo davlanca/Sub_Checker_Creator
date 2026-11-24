@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.117:19999#%F0%9F%87%AA%F0%9F%87%B8
-vless://00799b08-1090-4ed3-bec0-0fa26816a703@201.24.54.94:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=tRrqkTpxywWqd4coyYWIbx26rdxRppFkZN1lC1IZA0k&sid=75dd7e79a7876314&sni=storage.yandex.net#%F0%9F%87%AA%F0%9F%87%B8
