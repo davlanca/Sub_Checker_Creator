@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@147.45.213.56:443?flow=xtls-rprx-vision&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&security=reality&sni=zkgbzlv5d42.vortenix-data59.cfd&fp=random#%F0%9F%87%B9%F0%9F%87%B7
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@90.156.226.200:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ruturkey1.gangtype.com&pbk=aMjyAtCkIs-W68PK2esrcs0eXgtxabf3TXE20o1Ed2c&sid=e7befbb8bdc05025&fp=qq#%F0%9F%87%B9%F0%9F%87%B7
