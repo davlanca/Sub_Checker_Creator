@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@171.22.129.227:443?encryption=none&security=reality&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sni=nujd35aknu.static-mirror.site&fp=firefox&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B5%F0%9F%87%B1
