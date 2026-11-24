@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@mxzfn.klyck.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=mxzfn.klyck.online&pbk=y070kpnC4ztcJp523O7L87JkxhMQhXOUYrjh-uP_PzI&sid=ef50ff080d648308&fp=firefox#%F0%9F%87%BA%F0%9F%87%A6

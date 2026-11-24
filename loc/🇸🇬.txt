@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=chrome&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
+vless://7aa77858-f235-000b-9434-7ab060848b17@87.228.110.60:443?security=tls&flow=xtls-rprx-vision&fp=chrome&sni=allah-ddos.whyfucked.sc#%F0%9F%87%B8%F0%9F%87%AC
