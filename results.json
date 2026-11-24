@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T04:11:07.899933+00:00",
-  "count": 286,
+  "generated_at": "2026-11-24T04:16:02.911230+00:00",
+  "count": 290,
   "results": [
     {
       "protocol": "vless",
@@ -507,6 +507,17 @@
       "speed_kbps": 91,
       "ru_ok": null,
       "config": "vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTk4NCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "payablemeta.cleanfoodshop.org",
+      "port": 443,
+      "tag": "🇺🇸",
+      "ping_ms": 7324,
+      "speed_kbps": 135,
+      "ru_ok": null,
+      "config": "vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@payablemeta.cleanfoodshop.org:443?type=ws&headerType=none&security=tls&encryption=none&sni=payablemeta.cleanfoodshop.org&fp=firefox&path=%2Fmedia%2Fws%2F#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
       "protocol": "vless",
@@ -3136,6 +3147,39 @@
       "speed_kbps": 60,
       "ru_ok": null,
       "config": "vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@a80b5386.fi2.h1clayd.click:443?encryption=none&security=reality&sni=a80b5386.fi2.h1clayd.click&fp=firefox&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&sid=cc678f10161992a9&spx=%2F&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "15b171g.nl7.h1clayd.click",
+      "port": 443,
+      "tag": "🇮🇶",
+      "ping_ms": 4988,
+      "speed_kbps": 243,
+      "ru_ok": null,
+      "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@15b171g.nl7.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=15b171g.nl7.h1clayd.click&fp=chrome&pbk=zbz--PMjcIC4Ggr3j-ibDf0fzXRTj0lM_HzjPJyMkVE&sid=50a749f0eccb628c&serviceName=5b79e8a94241#%F0%9F%87%AE%F0%9F%87%B6"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "5d0319t.nl7.h1clayd.click",
+      "port": 443,
+      "tag": "🇮🇶",
+      "ping_ms": 4034,
+      "speed_kbps": 175,
+      "ru_ok": null,
+      "config": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@5d0319t.nl7.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=5d0319t.nl7.h1clayd.click&fp=firefox&sid=361d0dd59c70516f&pbk=l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs#%F0%9F%87%AE%F0%9F%87%B6"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "84.252.100.33",
+      "port": 43000,
+      "tag": "🏴‍☠️",
+      "ping_ms": 2433,
+      "speed_kbps": 150,
+      "ru_ok": null,
+      "config": "vless://4a923161-156f-4914-8cac-762fb2433bfb@84.252.100.33:43000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=84.252.100.33&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F"
     },
     {
       "protocol": "vless",
