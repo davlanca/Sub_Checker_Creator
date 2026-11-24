@@ -1,7 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9bd0f300-082d-4bf3-9f9a-6df689d36b2b@45.14.165.62:11811?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lDw4rTS3T3KS11F92ZtDMJGmbdUJn_IdwpUNgZhGPko&security=reality&sid=3a&sni=cdn.dom.gosuslugi.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.77.231:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.google.com&pbk=PMtmgfkxpREXi51S_EUUi3KbYauQLjGD6c_llKRk8H4&sid=cc85fc7134024405&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
+vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.77.231:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PMtmgfkxpREXi51S_EUUi3KbYauQLjGD6c_llKRk8H4&security=reality&sid=cc85fc7134024405&sni=www.google.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@83.141.72.179:24441?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MBpgKn5GvfWigi-22zA1eZVFY4mSf2zn-IWAekh9RE&security=reality&sid=fd330fed17868185&sni=events.robloxfans.fun&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@136.234.16.199:443?flow=xtls-rprx-vision&security=reality&sni=play.robloxfans.fun&fp=firefox&pbk=-C8hJPrwHjokiUeF0glRMng3R5vZUhIN_aVQ1ItQYl8&sid=4c3872a0264f69ae&encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
