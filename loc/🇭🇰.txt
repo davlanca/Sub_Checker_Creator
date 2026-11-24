@@ -1,12 +1,13 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0@213.176.92.148:40647?#%F0%9F%87%AD%F0%9F%87%B0
 vless://8d5b4bc5-2355-4a43-a386-ea8d20f6c3b8@38.180.95.176:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ebay.com&fp=chrome&pbk=TpDfpHz7Lj4-Itv0ShybMhUrPChNXoexCGaOHtRjoD8&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://ffc912cc-45da-4ece-86d2-fe340c9ed1fc@38.180.95.2:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=MyWImK76KPf3T75mEf5vIA8eNQR_7mKEK_mOP0HlclI&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://3d409814-b663-411e-8f54-a112ecba7ddd@62.60.232.226:2096?security=tls&type=tcp&packetEncoding=xudp&sni=nova-house.justext.space&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://5a66e6cf-ba9f-41c5-8590-036890654e58@45.136.15.212:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=z_EU3XzU2TmXkInPLf0GWdFEfx6ZcpVSxnS9BFJ1hGE&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://cfa9310e-0083-4e06-a664-0381098c148f@68.64.181.197:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=78TG1qYh_ShLeQszkvn8Fzv9fItRD5uqNbldKeejFTI&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://367e69b0-5781-45ad-83bc-94013729532d@45.136.14.140:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=hfJpGSf-nFizW5PjVNk0W5ZoTc81diTMjurFm3FT9j4&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
+vless://469e41b2-ffb2-4ab3-ad4d-fd00ac69af75@85.189.89.172:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amazon.com&fp=chrome&pbk=n1_yHUrlljxT_VL8HX0ALz8JKAYHJb5e2sQ8tMdBp2A&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://82db522b-8f2b-45e1-a984-e199a3d3a6db@38.207.178.113:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=IdYIcbajO4njkNrsWpYriaYW9fF0YQAKjICgl0ynWDs&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://6618c37f-edd7-4ff0-b9d6-26f1cc4945ab@85.189.89.169:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.amazon.com&fp=chrome&pbk=H3CK3gN9HfMONI7aYoSxOUqc5EYPgOVWfLOU3ygaIjw&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://c4d6567e-c46e-410f-95ab-ac3a61e030f3@185.71.216.95:2091?security=reality&encryption=none&pbk=1N6AW5YuEwBoYcZK5KuugDzBHsa0NKZMT8QI-EmyL0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=08a4b1f473932632#%F0%9F%87%AD%F0%9F%87%B0
