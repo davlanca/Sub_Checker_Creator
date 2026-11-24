@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b8a4f1b4-9fb1-4c42-ae54-de5124de375c@189.74.116.30:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediatropa.cc#%F0%9F%87%B5%F0%9F%87%B1
 vless://05488656-d4bf-4634-8b2e-e4ff5a56c7e2@82.118.22.161:443?encryption=none&flow=xtls-rprx-vision&pbk=xY1KpNxaIGmi6jfeudYQ_aaLGQqWK_uHStnwUFd2_2E&security=reality&sid=fa3ea655619a3e78&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443?encryption=none&flow=xtls-rprx-vision&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&security=reality&sid=150a627d15154cf2&sni=www.cloudflare.com&type=raw#%F0%9F%87%B5%F0%9F%87%B1
 vless://e0643422-1e6e-4182-993e-de9b4c78e736@80.47.18.60:443?flow=xtls-rprx-vision&security=reality&sni=fedtuna.ai&fp=edge&pbk=0KDql59THS-DXg30wMR0QGgFB6rXARDhr8WoWyfVA2M&sid=6f0091ebe3029ebb&encryption=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1

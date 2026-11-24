@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://a4740bee-81ad-4a58-99c9-eca576ecb6e6@cadrin.wtf:443?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=cache.sync.v1&sni=cadrin.wtf&type=grpc&fp=random#%F0%9F%87%B9%F0%9F%87%B7
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@147.45.213.56:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sni=zkgbzlv5d42.vortenix-data59.cfd&encryption=none&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
+vless://391a32c6-084c-4d61-8e8d-472678021dac@91.232.103.42:6443?encryption=none&fp=firefox&pbk=BrBQVb1nC7aHUPm3pSYHYQ4N60y2XrhwXznWys87Vyc&security=reality&serviceName=%2Fapi%2Fv1%2Fupdate&sid=b96ac15d1f46e05a&sni=download.amd.com&type=grpc#%F0%9F%87%B9%F0%9F%87%B7
