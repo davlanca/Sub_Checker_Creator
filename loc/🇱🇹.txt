@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://f69e272f-e0e5-4e9d-b180-5be63930cde9@84.32.209.54:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=lt.memepn.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9

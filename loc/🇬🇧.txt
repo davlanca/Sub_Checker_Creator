@@ -1,4 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?security=tls&type=ws&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&host=sinavm2.soft10.ir&packetEncoding=xudp&alpn=http%2F1.1%2Ch2%2Ch3&sni=sinavm2.soft10.ir&fp=chrome&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
+vless://4a923161-156f-4914-8cac-762fb2433bfb@212.115.55.158:43000?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CG0mVPuvPcfZjplA21zehlqoDpGHihJBK8K_u1zfhgQ&sid=ee4ea980&sni=212.115.55.158#%F0%9F%87%AC%F0%9F%87%A7
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?security=reality&type=tcp&packetEncoding=xudp&sni=ads.x5.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
+vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@13.141.36.15:443?security=reality&type=tcp&packetEncoding=xudp&sni=a80b5386.fi2.h1clayd.click&fp=firefox&sid=cc678f10161992a9&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc&encryption=none#%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.114.120.221:19999#%F0%9F%87%AC%F0%9F%87%A7
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TDM1Wm9RamppaERtVkkzWWNESzBVTWdjanBveGRNdFZEU3RWMk5INzR4dz0@129.151.82.249:61312#%F0%9F%87%AC%F0%9F%87%A7
+vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
