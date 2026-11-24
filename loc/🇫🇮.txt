@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://082ff568-e0f1-42af-ad7c-2c46adde1273@13.141.36.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-ZN1kT3JlPFxu1E906JRqLAGoQQucSmL6xPiuAyasTk&security=reality&sid=597e1c279d224774&sni=4c980ft.fi15.h1clayd.click&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.152:6443?encryption=none&fp=firefox&pbk=UKB-fipx7qxzTbJBH-GHRsHghJQJVvRIny9HspgBllc&security=reality&serviceName=/api/v1/update&sid=257e75097e30fdbd&sni=developer.download.nvidia.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE
