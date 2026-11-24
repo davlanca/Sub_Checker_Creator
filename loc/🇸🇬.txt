@@ -1,0 +1,8 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@15.235.182.183:19999#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999?type=tcp#%F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999#%F0%9F%87%B8%F0%9F%87%AC
+vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru&packetEncoding=none#%F0%9F%87%B8%F0%9F%87%AC
