@@ -1,9 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@185.86.145.78:443?mode=gun&security=reality&encryption=none&pbk=2l0y-Mp5wtklY4jS6KOee3eq2XdWiXYqOxzrOi_CeB4&fp=chrome&type=grpc&sni=emberworks.cloud&sid=ea322b8b5b015812#%F0%9F%87%B8%F0%9F%87%AA
-vless://88e79aa6-f431-4453-8dcc-652a0c747198@188.225.57.185:443?encryption=none&security=reality&sni=flintstack.dev&pbk=4JggwEKhrkrIjQjO8kRX6iGvHQJixIFkiDOnE7zd3xE&fp=chrome&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
-vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.46.6:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=spb.b2ai.top&type=raw#%F0%9F%87%B8%F0%9F%87%AA
+vless://a077dc9a-712f-48ea-b75c-d94af64011ec@188.225.36.19:443?encryption=none&type=tcp&security=tls&flow=xtls-rprx-vision-udp443&sni=spb.b2ai.top#%F0%9F%87%B8%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
-vless://391a32c6-084c-4d61-8e8d-472678021dac@85.234.86.20:6443?security=reality&sni=download.virtualbox.org&fp=qq&pbk=sadyaFeM276vgv_wdE1g6DDMgKZfKR_fr9DhTyCp9zM&sid=885781b112c298a5&type=grpc&serviceName=%2Fapi%2Fv1%2Fupdate&encryption=none#%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://Telegram--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X--CONFIG7X-@185.42.212.207:26206?sni=config7x.de5.net&obfs=salamander&obfs-password=vxvnmus9agdzduvz#%F0%9F%87%B8%F0%9F%87%AA
