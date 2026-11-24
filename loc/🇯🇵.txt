@@ -1,10 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.195:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.0.87:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.53:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
+vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@185.135.82.166:443?security=reality&flow=xtls-rprx-vision&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sni=ds3mibec.vaultcache.shop&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&authority=&serviceName=v3-direct&mode=gun#%F0%9F%87%AF%F0%9F%87%B5
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7UiLCJhZGQiOiIxNjEuMzMuMjAuMjU1IiwicG9ydCI6Ijg4ODAiLCJpZCI6ImUwODU2NTA4LWQ2OTMtNDUwYS1hMDk5LTQ1NTA5MWRjNGYyNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL2UwODU2NTA4LWQ2OTMtNDUwYS1hMDk5LTQ1NTA5MWRjNGYyNS12bSIsInRscyI6IiJ9
