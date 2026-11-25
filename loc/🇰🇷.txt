@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+ss://YWVzLTI1Ni1nY206ZFhQMHJJaTRUUHJicXhSOTM4b1FEdz09@119.28.150.131:4434#%F0%9F%87%B0%F0%9F%87%B7
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&fp=chrome&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7

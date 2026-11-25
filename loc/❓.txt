@@ -1,17 +1,13 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://41edb44c8e@103.88.243.142:11592?insecure=1&sni=srv-17e124#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?encryption=none&fp=chrome&host=xsru2.freeddns.org&path=wsru&security=tls&sni=xsru2.freeddns.org&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://12c121dc-d5e6-0001-b0ea-3bf170b9f01b@82.202.138.238:443?security=tls&sni=qubawzlmppvnuzsfoo.fcloudservices.site#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+hysteria2://41edb44c8e@srv-17e124.21freedom.net:11592?insecure=1&security=tls&sni=srv-17e124#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?&security=tls&fp=qq&sni=aszbk-ru-78dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://3af3f8f0-569f-4dd3-be99-2ef4bfe7867c@95.163.232.8:555?encryption=none&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=1.4.8.8&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://00000000-0000-0001-0000-000000000000@168.113.253.81:443?&security=tls&fp=firefox&sni=renycbfoxizjxwnlle.fcloudservices.site&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?type=grpc&security=tls&fp=random&sni=xsru1.ddnsfree.com&serviceName=grpc-ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://00000000-0000-0001-0000-000000000000@45.132.179.68:443?&security=tls&fp=firefox&sni=onbtoaadqkctlepomo.fcloudservices.site&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=turkey-ip1.mmdaqaorg.xyz&type=tcp&headerType=none&host=turkey-ip1.mmdaqaorg.xyz&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@leviko-de0733.shopingggg.ir:9543?security=reality&encryption=none&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&sid=123abcdf#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?security=tls&fp=qq&sni=wccfu-ru-79dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?type=ws&security=tls&fp=firefox&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@138.249.210.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=4e3f59&sni=travel.yandex.ru&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
