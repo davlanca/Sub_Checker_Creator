@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://244d4130-4e72-0001-b93f-c1296cba97d0@45.132.178.108:443?security=tls&sni=ysbnggurlwwotbmkuf.fcloudservices.site&encryption=none&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@2.26.27.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pdyae3nJy_oGSKS6bcKDRujDmvcJuu31n6DOkVYvvlw&security=reality&sid=635d40276db3b2de&sni=hzkjm.klyck.online&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://11d14aed-3d44-4bb2-b9c0-24e661589e5a@91.207.183.217:443?flow=xtls-rprx-vision&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&security=reality&sid=2e40144ddc07e8e1&sni=fi04.tunnely.space&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
+vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&alpn=h2&encryption=none&insecure=0&host=mojito1703.mastopen14.ir&fp=chrome&type=ws&allowInsecure=0&sni=mojito1703.mastopen14.ir#%F0%9F%87%AB%F0%9F%87%AE
+vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@origin5.pd-service.shop:2298?encryption=none&mode=gun&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&security=reality&serviceName=ads.x5.ru&sid=729bef613f43e925&sni=vimeo.com&type=grpc&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE
