@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@13.143.239.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&security=reality&sid=a503308602b56095&sni=vexlum.klyck.online&type=tcp#%F0%9F%87%AA%F0%9F%87%AA
-vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@vexlum.klyck.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=vexlum.klyck.online&pbk=ocBBxRqpWdvUTfd6hRdEcOq7TtiHdQi65s5thInXjkw&sid=a503308602b56095&fp=chrome#%F0%9F%87%AA%F0%9F%87%AA
