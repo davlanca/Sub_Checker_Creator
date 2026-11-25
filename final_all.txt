@@ -24,7 +24,6 @@ vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?type=ws&headerTyp
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@45.74.158.105:443?&security=tls&fp=firefox&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=%2Fmedia%2Fws%2F#%F0%9F%87%AB%F0%9F%87%AE
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@31.177.111.226:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=e3.cdnwh.icu&path=%2Fedge%2Fchunk%2Fb2265efffa29%2F&security=tls&sni=e3.cdnwh.icu&type=ws#%F0%9F%87%B5%F0%9F%87%B1
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?type=grpc&security=tls&fp=firefox&sni=rookery.moltex.click&serviceName=glush.de3.v1#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.238.135:443?alpn=h2&path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=random#%F0%9F%87%A9%F0%9F%87%AA
