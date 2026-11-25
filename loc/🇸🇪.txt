@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://57a3fb3c-5788-4777-933e-882dd22f5b82@ba0648t.se1.h1clayd.click:443?encryption=none&headerType=&pbk=_c33IsYcvvy4t95zq8ydgtQ3pXpOK7eLdQqK3O7c2Ao&security=reality&sid=b684dc4aaba4a911&sni=ba0648t.se1.h1clayd.click&spx=%2F1aebcedb326ca43&type=tcp&fp=ios#%F0%9F%87%B8%F0%9F%87%AA
-vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=2gcnbpjzq4go.cloud-kmt.com#%F0%9F%87%B8%F0%9F%87%AA
+vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=2gcnbpjzq4go.cloud-kmt.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@31.77.158.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&security=reality&sni=cdnjs.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://57a3fb3c-5788-4777-933e-882dd22f5b82@ba0648t.se1.h1clayd.click:443?encryption=none&headerType=&pbk=_c33IsYcvvy4t95zq8ydgtQ3pXpOK7eLdQqK3O7c2Ao&security=reality&sid=b684dc4aaba4a911&sni=ba0648t.se1.h1clayd.click&spx=%2F1aebcedb326ca43&type=tcp&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
