@@ -35,7 +35,6 @@ vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.27.97.42:8443?&security=tls&fp=
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%F0%9F%87%AF%F0%9F%87%B5
 vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@45.74.158.105:443?&security=tls&fp=firefox&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=%2Fmedia%2Fws%2F#%F0%9F%87%BA%F0%9F%87%B8
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.48.107:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://6bd1d88f-0a26-4d21-b325-15d85120b883@sw-api.telemetryapi.org:443?type=ws&headerType=none&security=tls&encryption=none&sni=sw-api.telemetryapi.org&alpn=http%2F1.1&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.238.135:443?alpn=h2&path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?type=grpc&security=tls&fp=firefox&sni=rookery.moltex.click&serviceName=glush.de3.v1#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=random#%F0%9F%87%A9%F0%9F%87%AA
