@@ -30,7 +30,6 @@ vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.126.206:443?encryption=none&
 vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?&security=tls&fp=chrome&sni=sinavm2.soft10.ir&type=ws&headerType=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.27.97.42:8443?&security=tls&fp=chrome&sni=free.sahanwickramasinghe.com&type=ws&headerType=none&host=free.sahanwickramasinghe.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.84:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.225.56.100:443?encryption=none&fp=firefox&host=e2.cdnwh.icu&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F&security=tls&sni=e2.cdnwh.icu&type=ws#%F0%9F%87%B5%F0%9F%87%B1
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@72.56.238.135:443?alpn=h2&path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@birchbark.gerqix.online:443?path=%2F&security=tls&serviceName=glush.de7.v1&sni=birchbark.gerqix.online&type=grpc&fp=random#%F0%9F%87%A9%F0%9F%87%AA
 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@vellum.filnex.baby:443?type=grpc&security=tls&fp=firefox&sni=rookery.moltex.click&serviceName=glush.de3.v1#%F0%9F%87%A9%F0%9F%87%AA
