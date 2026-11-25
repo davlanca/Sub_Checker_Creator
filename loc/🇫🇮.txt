@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@83.141.72.179:24441?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MBpgKn5GvfWigi-22zA1eZVFY4mSf2zn-IWAekh9RE&security=reality&sid=fd330fed17868185&sni=events.robloxfans.fun&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
-vless://2ccb06b6-9eac-44eb-ade7-c1e5afb8e7df@a80b5386.fi2.h1clayd.click:443?security=reality&type=tcp&packetEncoding=none&sni=a80b5386.fi2.h1clayd.click&fp=firefox&sid=cc678f10161992a9&pbk=PslSaSQWP4BZZmkL7irab4FMti8sW6BvoC7ytFjJFyc#%F0%9F%87%AB%F0%9F%87%AE
 vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@origin5.pd-service.shop:2298?encryption=none&mode=gun&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&security=reality&serviceName=ads.x5.ru&sid=729bef613f43e925&sni=vimeo.com&type=grpc&fp=random#%F0%9F%87%AB%F0%9F%87%AE
