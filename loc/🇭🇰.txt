@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://12a4f736-2238-49ee-831f-5516f15cc951@leviko-hk4530.shopingggg.ir:31001?security=reality&type=tcp&packetEncoding=xudp&sni=mensura.cdn-apple.com&fp=chrome&flow=xtls-rprx-vision&sid=39793bc4708abbbb&pbk=lzpIiMqHXas_qayw-HvrySb78FNkVroBOqniwqPXPzY&encryption=none#%F0%9F%87%AD%F0%9F%87%B0
