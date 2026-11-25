@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AA%F0%9F%87%B8
 vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=raw#%F0%9F%87%AA%F0%9F%87%B8
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@62.93.179.97:19999#%F0%9F%87%AA%F0%9F%87%B8
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.189.18:443?security=reality&encryption=none&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&headerType=&fp=firefox&spx=%2Ff7c013fcb5d01da&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=76834511#%F0%9F%87%AA%F0%9F%87%B8
+vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AA%F0%9F%87%B8
+vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.189.18:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=76834511&sni=travel.yandex.ru&spx=%2Ff7c013fcb5d01da&type=tcp&fp=firefox#%F0%9F%87%AA%F0%9F%87%B8
