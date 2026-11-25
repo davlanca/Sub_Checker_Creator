@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8462?encryption=none&fp=firefox&path=/ws&security=tls&sni=gallery.plumstatic.com&type=ws#%F0%9F%87%AE%F0%9F%87%B3
+vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8461?encryption=none&fp=firefox&path=/ws&security=tls&sni=library.plumstatic.com&type=ws#%F0%9F%87%AE%F0%9F%87%B3
