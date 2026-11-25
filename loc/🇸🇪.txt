@@ -2,10 +2,9 @@
 //profile-update-interval: 1
 
 vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=2gcnbpjzq4go.cloud-kmt.com#%F0%9F%87%B8%F0%9F%87%AA
+vless://08a9c843-8b6c-0001-a95c-34f4e5c2642c@45.132.178.108:443?encryption=none&type=tcp&security=tls&sni=ysbnggurlwwotbmkuf.fcloudservices.site&fp=ios&alpn=h2%2Chttp/1.1#%F0%9F%87%B8%F0%9F%87%AA
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@88.218.170.118:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
-vless://5a26246a-0fcd-0001-827c-83fc8d0a4f17@82.202.138.238:443?encryption=none&type=tcp&security=tls&sni=qubawzlmppvnuzsfoo.fcloudservices.site#%F0%9F%87%B8%F0%9F%87%AA
 vless://7aa77858-f235-0003-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
-vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@31.77.158.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&security=reality&sni=cdnjs.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://f120881b-3d5c-4583-a039-6ecd07e04c3f@31.77.18.117:443?encryption=none&fp=firefox&host=lte2k7.syncpointbase.online&path=/ws&security=tls&sni=lte2k7.syncpointbase.online&type=ws#%F0%9F%87%B8%F0%9F%87%AA
