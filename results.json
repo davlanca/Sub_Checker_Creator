@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-25T10:11:09.404076+00:00",
-  "count": 217,
+  "generated_at": "2026-11-25T10:12:42.217990+00:00",
+  "count": 218,
   "results": [
     {
       "protocol": "vless",
@@ -881,6 +881,17 @@
       "speed_kbps": 1221,
       "ru_ok": null,
       "config": "ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6TDM1Wm9RamppaERtVkkzWWNESzBVTWdjanBveGRNdFZEU3RWMk5INzR4dz0@129.151.82.249:61312#%F0%9F%87%AC%F0%9F%87%A7"
+    },
+    {
+      "protocol": "vmess",
+      "transport": "ws",
+      "host": "cf.0sm.com",
+      "port": 80,
+      "tag": "🏴‍☠️",
+      "ping_ms": 6453,
+      "speed_kbps": 84,
+      "ru_ok": null,
+      "config": "vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+PtOKAjeKYoO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ"
     },
     {
       "protocol": "vmess",
