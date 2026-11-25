@@ -1,8 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA
 vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=2gcnbpjzq4go.cloud-kmt.com#%F0%9F%87%B8%F0%9F%87%AA
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
-vless://57a3fb3c-5788-4777-933e-882dd22f5b82@ba0648t.se1.h1clayd.click:443?security=reality&encryption=none&pbk=_c33IsYcvvy4t95zq8ydgtQ3pXpOK7eLdQqK3O7c2Ao&headerType=&fp=firefox&spx=%2F1aebcedb326ca43&type=tcp&sni=ba0648t.se1.h1clayd.click&sid=b684dc4aaba4a911#%F0%9F%87%B8%F0%9F%87%AA
+vless://08a9c843-8b6c-0001-a95c-34f4e5c2642c@45.132.178.108:443?encryption=none&type=tcp&security=tls&sni=ysbnggurlwwotbmkuf.fcloudservices.site&fp=ios&alpn=h2%2Chttp/1.1#%F0%9F%87%B8%F0%9F%87%AA
+vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@88.218.170.118:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA
+vless://cce61038-6099-4c50-a149-e5263a218f12@perplexity.ai:443?encryption=mlkem768x25519plus.native.0rtt.3aEl4THf4qftWfkycK9gYGyYtXHeJtW814YR4P7E-mE&flow=xtls-rprx-vision&security=tls&sni=rock.davidbowie.cyou&fp=unsafe&alpn=http/1.1&type=ws&host=rock.davidbowie.cyou&path=/t.me-SubGift#%F0%9F%87%B8%F0%9F%87%AA
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
