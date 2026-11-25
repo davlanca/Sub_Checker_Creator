@@ -3,5 +3,4 @@
 
 vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.45.23:8450?encryption=none&fp=firefox&path=/ws&security=tls&sni=fonts.plumstatic.com&type=ws#%F0%9F%87%B1%F0%9F%87%BB
 vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=raw#%F0%9F%87%B1%F0%9F%87%BB
-vless://f8cb3c89-32af-4255-bebc-d90aad175069@195.123.213.83:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=lva.899themes.pro&mode=gun&serviceName=neurex#%F0%9F%87%B1%F0%9F%87%BB
-vless://87a53d4e-ee0b-489f-abf6-b651436f3232@217.114.15.231:443?security=reality&sni=orbitanl.ru&fp=firefox&pbk=JTNWyu_3qzHj7NH1ZFWqd_8QCJRlEwrDtZZv_5zlcVc&sid=23fa2e0a89585908&type=grpc&serviceName=Gun&mode=gun&encryption=none#%F0%9F%87%B1%F0%9F%87%BB
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@195.123.213.83:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=lva.899themes.pro&type=grpc#%F0%9F%87%B1%F0%9F%87%BB
