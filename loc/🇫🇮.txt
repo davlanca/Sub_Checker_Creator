@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://d3d4e690-db61-4b84-8687-7c1ff79c89ff@188.225.32.252:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=8rdhihFgU72DVkhH6ROS9j2WyNc_spuiGXrT_YvNJ0M&security=reality&sid=f51bc11ebd9f2835&sni=contract.starsov.pro&spx=%2F&type=raw#%F0%9F%87%AB%F0%9F%87%AE
+vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&alpn=h2&encryption=none&insecure=0&host=mojito1703.mastopen14.ir&fp=chrome&type=ws&allowInsecure=0&sni=mojito1703.mastopen14.ir#%F0%9F%87%AB%F0%9F%87%AE
 vless://a8d0c223-76d6-4f47-bb2f-b922003e04c8@87.251.16.227:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PyuTgGxPzl6lT_oLpy_PUzBWS1n-9Xo8CYLCNPsJh3k&security=reality&sid=231ba4d8826bfa81&sni=logs.medic-ml.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@2.26.27.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pdyae3nJy_oGSKS6bcKDRujDmvcJuu31n6DOkVYvvlw&security=reality&sid=635d40276db3b2de&sni=hzkjm.klyck.online&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@83.141.72.179:24441?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MBpgKn5GvfWigi-22zA1eZVFY4mSf2zn-IWAekh9RE&security=reality&sid=fd330fed17868185&sni=events.robloxfans.fun&type=tcp#%F0%9F%87%AB%F0%9F%87%AE

@@ -1,11 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://01fada34-d8d8-4922-a199-6df19cd7391e@188.225.42.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_vuP0Wathd0PL_V39nLPB1lJWO9tLRnTcyphw1HK1kM&security=reality&sni=cdn-3f233a.wl5.streamvale.net&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 vless://ff95d030-691d-4650-bda8-a7f7857b00c3@cip.nimbaha12.ir:2082?security=reality&encryption=none&pbk=S8HvumWz220iqyw-XSMXZ-YwQT53kA6-cw2utT_s1BE&headerType=&fp=chrome&spx=%2F23dcdbc7a0dde2c&type=tcp&sni=filimo.com&sid=83#%F0%9F%87%AB%F0%9F%87%B7
 vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.229:9543?encryption=none&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp&fp=edge#%F0%9F%87%AB%F0%9F%87%B7
-vless://01fada34-d8d8-4922-a199-6df19cd7391e@cdn-be2b66.wl10.tidalframe.net:443?security=reality&encryption=none&pbk=_vuP0Wathd0PL_V39nLPB1lJWO9tLRnTcyphw1HK1kM&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdn-3f233a.wl5.streamvale.net#%F0%9F%87%AB%F0%9F%87%B7
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@192.144.58.203:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W7M4MhVHx47N0lVQwP4uIGpyCIkzYsTsDOygqMK4li8&security=reality&sid=60e5181f77500676&sni=ruparmicro2.gangplatform.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://920b3cd9-4f82-4669-bbd2-d4a28b9052c6@195.216.169.182:9543?encryption=none&flow=xtls-rprx-vision&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&security=reality&sid=123abcdf&sni=storage.yandexcloud.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.83.85:19999#%F0%9F%87%AB%F0%9F%87%B7
