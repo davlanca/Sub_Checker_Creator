@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@212.118.56.133:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=woALl3tJ66hfoRmufkkINfiVyiw30EGB3lBixC9axV4&security=reality&sid=b74ad1d666c50539&sni=ruastriamicro1.gangplatform.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9
 vless://11d14aed-3d44-4bb2-b9c0-24e661589e5a@93.93.207.222:443?flow=xtls-rprx-vision&security=reality&sni=atd2.tunnely.space&fp=firefox&pbk=pPGE5Uacj1AGAB_WLOXB_UUnVBOmuJGH0vTSfmRBKzM&sid=2e40144ddc07e8e1#%F0%9F%87%A6%F0%9F%87%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9
