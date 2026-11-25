@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://2a446e74-fd92-4917-aa71-f4d54721cf24@31.57.225.5:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=JF-Lpu6qTA2gz2Dsho2n_q9mgU6LzWC4gI4W1V1HNSE&security=reality&sid=59cab42f52890fd7&sni=action.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
