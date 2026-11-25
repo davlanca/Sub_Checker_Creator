@@ -1,5 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://d3d4e690-db61-4b84-8687-7c1ff79c89ff@188.225.32.252:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=8rdhihFgU72DVkhH6ROS9j2WyNc_spuiGXrT_YvNJ0M&security=reality&sid=f51bc11ebd9f2835&sni=contract.starsov.pro&spx=%2F&type=raw#%F0%9F%87%B1%F0%9F%87%BB
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo&security=reality&sid=5c256336e3b673fa&sni=www.cloudflare.com&type=raw#%F0%9F%87%B1%F0%9F%87%BB

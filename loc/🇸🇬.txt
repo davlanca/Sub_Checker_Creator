@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#%F0%9F%87%B8%F0%9F%87%AC
+vless://076799f8-d922-4bf1-805d-e758e6eb925f@free.server.darknetlk.com:443?type=tcp&security=tls&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC
