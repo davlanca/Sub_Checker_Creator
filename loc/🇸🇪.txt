@@ -1,8 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://f8cb3c89-32af-4255-bebc-d90aad175069@79.141.174.123:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=sea.899themes.pro&type=grpc#%F0%9F%87%B8%F0%9F%87%AA
+vless://7aa77858-f235-0003-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://57a3fb3c-5788-4777-933e-882dd22f5b82@ba0648t.se1.h1clayd.click:443?encryption=none&headerType=&pbk=_c33IsYcvvy4t95zq8ydgtQ3pXpOK7eLdQqK3O7c2Ao&security=reality&sid=b684dc4aaba4a911&sni=ba0648t.se1.h1clayd.click&spx=%2F1aebcedb326ca43&type=tcp&fp=edge#%F0%9F%87%B8%F0%9F%87%AA
+vless://f8cb3c89-32af-4255-bebc-d90aad175069@79.141.174.123:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=sea.899themes.pro&mode=gun&serviceName=neurex#%F0%9F%87%B8%F0%9F%87%AA
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@31.77.158.172:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&security=reality&sni=cdnjs.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
-vless://f120881b-3d5c-4583-a039-6ecd07e04c3f@31.77.18.117:443?encryption=none&fp=firefox&host=lte2k7.syncpointbase.online&path=/ws&security=tls&sni=lte2k7.syncpointbase.online&type=ws#%F0%9F%87%B8%F0%9F%87%AA
+vless://d7121b33-e335-4921-bb00-4c0b157e7fc1@201.8.87.187:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=2gcnbpjzq4go.cloud-kmt.com#%F0%9F%87%B8%F0%9F%87%AA
 vless://7d63243c-983e-44db-a1b8-13dc3fd6f7a2@swe1.baterium.space:443?security=reality&encryption=none&pbk=mg2MoLpb8B51aZiko_nW2SBRoaudv-O6HLHx8VYP7Do&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com#%F0%9F%87%B8%F0%9F%87%AA

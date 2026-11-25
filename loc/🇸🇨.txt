@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.176.73:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&security=reality&sid=c750bb80fd993d&sni=travel.yandex.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
