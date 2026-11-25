@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@176.123.162.82:443?security=reality&type=tcp&sni=rukzmicro1.gangplatform.com&flow=xtls-rprx-vision&fp=qq&pbk=3xhvTr_v46NYSlw1yF6nWUjX6ZVHGfI0a0Wuao6lGVs&sid=a8b3db4bfe222a8c&alpn=h2%2Chttp%2F1.1&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%BF
 vless://42c83523-9f96-41b2-82d6-2edb71a4ac19@201.34.136.78:443?security=reality&encryption=none&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&host=fjn2vd4dgxb6.dynarix-node41.sbs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fjn2vd4dgxb6.dynarix-node41.sbs#%F0%9F%87%B0%F0%9F%87%BF

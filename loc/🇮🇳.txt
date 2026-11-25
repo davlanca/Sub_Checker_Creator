@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://06a5afa1-2bbc-a5d1-1770-becd1089c636@172.67.199.215:443?&security=tls&fp=chrome&sni=small-forest-d3e9.sarahds.workers.dev&type=ws&headerType=none&host=small-forest-d3e9.sarahds.workers.dev&path=%2F0175469f14317d82#%F0%9F%87%AE%F0%9F%87%B3
