@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@88.210.52.136:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ruturkeymicro5.gangtype.com&pbk=bghjRaZFOKOS1TwpvBXyQJetutvQigF3_5jgSC4fUjE&sid=a671b94142229346&fp=qq#%F0%9F%87%B9%F0%9F%87%B7
-vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@assets2.pd-service.shop:3099?security=reality&encryption=none&pbk=R6XO56Bp8-HW5dW3oOu5WC-bYVBD9ed8KR_mx6oU6Ew&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=vimeo.com&sid=5701ece7005006b8#%F0%9F%87%B9%F0%9F%87%B7
 vless://f2f64531-6baf-476a-9d7c-a47b30a02b8a@178.177.17.207:8446?security=tls&alpn=h2&encryption=none&insecure=0&headerType=&type=tcp&allowInsecure=0#%F0%9F%87%B9%F0%9F%87%B7
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@90.156.226.200:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ruturkey1.gangtype.com&pbk=aMjyAtCkIs-W68PK2esrcs0eXgtxabf3TXE20o1Ed2c&sid=e7befbb8bdc05025&fp=qq&encryption=none#%F0%9F%87%B9%F0%9F%87%B7
