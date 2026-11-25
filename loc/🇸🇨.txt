@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://226279dd-28b2-4b61-96be-a2a0b1afd522@104.18.14.19:8443?&security=tls&fp=random&sni=hk.zhaoqing.city&type=ws&headerType=none&host=hk.zhaoqing.city&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%A8
-vless://226279dd-28b2-4b61-96be-a2a0b1afd522@104.18.15.19:8443?sni=hk.zhaoqing.city&type=ws&host=hk.zhaoqing.city&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560fp=random&security=tls#%F0%9F%87%B8%F0%9F%87%A8
 vless://148917bd-0b37-42b8-98f4-aa94ca73e75a@179.255.176.73:443?security=reality&encryption=none&pbk=tp7awfnKLbhIDkdYlT7Avf-SfUwt7ncX5oyWS5wQmR0&fp=firefox&spx=%2Ff7c013fcb5d01da&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=c750bb80fd993d#%F0%9F%87%B8%F0%9F%87%A8

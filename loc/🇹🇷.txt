@@ -1,9 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@88.210.52.136:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bghjRaZFOKOS1TwpvBXyQJetutvQigF3_5jgSC4fUjE&security=reality&sid=a671b94142229346&sni=ruturkeymicro5.gangtype.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
 vless://391a32c6-084c-4d61-8e8d-472678021dac@91.232.103.42:6443?encryption=none&fp=firefox&pbk=BrBQVb1nC7aHUPm3pSYHYQ4N60y2XrhwXznWys87Vyc&security=reality&serviceName=%2Fapi%2Fv1%2Fupdate&sid=b96ac15d1f46e05a&sni=download.amd.com&type=grpc#%F0%9F%87%B9%F0%9F%87%B7
-vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@assets2.pd-service.shop:3099?security=reality&encryption=none&pbk=R6XO56Bp8-HW5dW3oOu5WC-bYVBD9ed8KR_mx6oU6Ew&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=vimeo.com&sid=5701ece7005006b8#%F0%9F%87%B9%F0%9F%87%B7
 vless://f2f64531-6baf-476a-9d7c-a47b30a02b8a@178.177.17.207:8446?security=tls&fp=chrome&sni=178.177.17.207#%F0%9F%87%B9%F0%9F%87%B7
-vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@31.58.191.52:3099?security=reality&flow=xtls-rprx-vision&fp=qq&pbk=R6XO56Bp8-HW5dW3oOu5WC-bYVBD9ed8KR_mx6oU6Ew&sid=5701ece7005006b8&sni=vimeo.com#%F0%9F%87%B9%F0%9F%87%B7
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@176.123.167.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sbturkeymicro4.gangtype.com&fp=firefox&security=reality&pbk=JR19BNl-sicrXGAED422ys_zI6BZoxRUjX2aL83MDyc&sid=03ba1a518a2eaa14#%F0%9F%87%B9%F0%9F%87%B7

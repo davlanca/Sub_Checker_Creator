@@ -1,6 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://93fa8bdb-9cca-4a3e-8355-b7c12e4f595e@104.25.5.52:443?&security=tls&fp=chrome&sni=fornewiran.ade-1000.workers.dev&type=ws&headerType=none&host=fornewiran.ade-1000.workers.dev&path=%2Fvl%2FyLWNcuUuw1jlJpkDhGy%3Fed#%F0%9F%87%B8%F0%9F%87%AC
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.42.54:2083?security=tls&type=ws&path=/?ed=2560&host=newwk1.f1w.de5.net&packetEncoding=xudp&sni=newwk1.f1w.de5.net&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zzfxgcp.mateflora.com:39790?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=yXCR_3MmI7pv1eVBPkPxp2Qc1tmTSAPCjdNUTU64Sz0&sid=c899aef0cf7b&sni=www.lamer.com.sg#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC
+vless://0dedd47d-47b9-4ed1-9c9f-cbeecad57a68@43.163.112.174:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=0123456789abcdef&pbk=mXQudYHNu0pebcdk1_qn-UgcmwhjaV7y9UrYu3HX7Rg&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
+vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@94.228.167.18:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=90uNUU-i14MO0VEIipqtK_Pk3xMhtDDDWtfcv_Y1X2s&security=reality&sid=b0f28b824c4f18f5&sni=ruaesing656.gangplatform.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AC
+vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%B8%F0%9F%87%AC
