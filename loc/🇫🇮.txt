@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://244d4130-4e72-0001-b93f-c1296cba97d0@45.132.178.108:443?security=tls&fp=chrome&sni=ysbnggurlwwotbmkuf.fcloudservices.site&encryption=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://244d4130-4e72-0001-b93f-c1296cba97d0@45.132.178.108:443?security=tls&sni=ysbnggurlwwotbmkuf.fcloudservices.site&encryption=none&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE
 vless://ef1da56e-8117-03eb-bcd8-9094ebbdf985@83.141.72.179:24441?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_MBpgKn5GvfWigi-22zA1eZVFY4mSf2zn-IWAekh9RE&security=reality&sid=fd330fed17868185&sni=events.robloxfans.fun&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://de32225b-374c-4a6a-830e-7c4e367fcfb5@2.26.27.146:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pdyae3nJy_oGSKS6bcKDRujDmvcJuu31n6DOkVYvvlw&security=reality&sid=635d40276db3b2de&sni=hzkjm.klyck.online&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://cdfc923e-8d34-4b44-ac72-ab41ec560ba8@origin5.pd-service.shop:2298?encryption=none&mode=gun&pbk=YVW5HyhXOqVIDLzngOhCHWXdSkVNrRBS029UK3Fl3mM&security=reality&serviceName=ads.x5.ru&sid=729bef613f43e925&sni=vimeo.com&type=grpc&fp=random#%F0%9F%87%AB%F0%9F%87%AE
