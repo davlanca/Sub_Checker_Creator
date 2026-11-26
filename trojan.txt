@@ -1,8 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:2097?security=tls&alpn=h2&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ru-1.krugvpn.me&fp=android#%F0%9F%87%BA%F0%9F%87%B8
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:2095?security=tls&alpn=h2&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ru-1.krugvpn.me&fp=android#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:443?security=tls&alpn=h2&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ru-1.krugvpn.me&fp=android#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:8443?security=tls&alpn=h2&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=ru-1.krugvpn.me&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&fp=chrome&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7
