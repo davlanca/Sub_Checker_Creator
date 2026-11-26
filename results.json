@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T18:52:12.057464+00:00",
+  "generated_at": "2026-11-26T18:53:26.719697+00:00",
   "count": 127,
   "results": [
     {
@@ -87,7 +87,7 @@
       "tag": "🇯🇵",
       "ping_ms": 2122,
       "speed_kbps": 405,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://8344360f-0349-4784-a19f-33fd92e89389@104.19.28.32:443?encryption=none&security=tls&type=grpc&serviceName=v3-direct&mode=gun&sni=sync.2ml.bid&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5"
     },
     {
@@ -98,7 +98,7 @@
       "tag": "🇯🇵",
       "ping_ms": 2592,
       "speed_kbps": 269,
-      "ru_ok": null,
+      "ru_ok": true,
       "config": "vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5"
     },
     {
@@ -1352,7 +1352,7 @@
       "tag": "🇳🇱",
       "ping_ms": 1819,
       "speed_kbps": 257,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://639b131f-d0f3-460c-aa17-423047f8a5df@94.183.164.10:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=obger1.mcufa.pro&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1363,7 +1363,7 @@
       "tag": "🇳🇱",
       "ping_ms": 6774,
       "speed_kbps": 238,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://6e0e88aa-e0c5-4d39-ad30-819d29703feb@85.193.80.59:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UL0LjUo797oTCpvP274d3vvzRWq7owll8ugyDoS_WU8&security=reality&sid=80&sni=www.kinopoisk.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
     },
     {
@@ -1374,7 +1374,7 @@
       "tag": "🇩🇪",
       "ping_ms": 3341,
       "speed_kbps": 1186,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://43add026-128a-47d3-a403-b3875b4638db@177.3.213.177:8444?encryption=none&fp=&pbk=1hJPKCOTjPXm93o2JEeb-dOuFSkCvHj41uKM6yrP32Q&security=reality&serviceName=grpc&sid=bcefc042d39188e0&sni=yastatic.net&type=grpc#%F0%9F%87%A9%F0%9F%87%AA"
     },
     {
@@ -1385,7 +1385,7 @@
       "tag": "🇺🇸",
       "ping_ms": 1396,
       "speed_kbps": 681,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://81d6c0bb-280b-40d1-ac51-3081386bb895@87.120.106.95:443?encryption=none&fp=firefox&host=worldoftanks.eu&pbk=iQCvXMQZR-eT2MVmXP7c99cvcle22mVWuKem_345BWM&security=reality&sni=worldoftanks.eu&type=xhttp#%F0%9F%87%BA%F0%9F%87%B8"
     },
     {
@@ -1396,7 +1396,7 @@
       "tag": "🇧🇾",
       "ping_ms": 8390,
       "speed_kbps": 211,
-      "ru_ok": null,
+      "ru_ok": false,
       "config": "vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=edge&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%BE"
     }
   ]
