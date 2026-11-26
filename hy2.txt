@@ -1,7 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@assets.cdnresolve.com:31010?security=tls&alpn=h3&insecure=0&sni=alb.vpnvpn.best#%F0%9F%87%BA%F0%9F%87%A6
-hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@assets.cdnresolve.com:31017?security=tls&alpn=h3&insecure=0&sni=alb.vpnvpn.best#%F0%9F%87%B3%F0%9F%87%B4
-hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@186.246.13.65:31017?sni=alb.vpnvpn.best#%F0%9F%87%B3%F0%9F%87%B4
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.57:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7

@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@assets.cdnresolve.com:31010?security=tls&alpn=h3&insecure=0&sni=alb.vpnvpn.best#%F0%9F%87%BA%F0%9F%87%A6
