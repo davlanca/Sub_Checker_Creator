@@ -1,14 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&fp=firefox&host=sw-api.telemetryapi.org&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://3af3f8f0-569f-4dd3-be99-2ef4bfe7867c@95.163.232.8:555?encryption=none&fp=ios&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=1.4.8.8&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?security=tls&type=tcp&packetEncoding=none&sni=aszbk-ru-78dc.my-fade.cloud&fp=qq#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-ss://YWVzLTI1Ni1nY206NW1LalhBR3JsaUlBbFl3V0RlRnprQ0VNSWdRZEZRTGU=@194.87.69.12:18443?udp=1#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?&security=tls&fp=qq&sni=wccfu-ru-79dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud&fp=qq&security=tls#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=absolute-disaster.org&fp=safari&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJ2IjoiMiIsInBzIjoi8J+MgCBDWUJFUlBPUlRBTCB8IFdoaXRlIExpc3QgTGl0ZSAjNDkiLCJhZGQiOiIxNTQuNDcuMTkuMjI1IiwicG9ydCI6IjEyNzAiLCJpZCI6IjVjMDQwZjFkLTQ1ZGItNDNiZC04ZDQ2LWU0OTUwZTQzMzczNSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoieG1maGxweS5jb20iLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoieG1maGxweS5jb20iLCJ0ZXN0X25hbWUiOiI5NiJ9#%F0%9F%8C%80%20CYBERPORTAL%20%7C%20White%20List%20Lite%20%2349%20t.me%2Frjsxrd
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?type=ws&headerType=none&security=tls&encryption=none&sni=jp3.yohototo.top&fp=chrome&path=%2Ftyxyws&host=jp3.yohototo.top#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vmess://eyJ2IjoiMiIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViXzM3NzRfSVBWNCIsImFkZCI6IjE3Mi42Ny4xODcuMTQ1IiwicG9ydCI6IjgwIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyJ9#%20t.me%2Frjsxrd
+vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&alpn=h2&encryption=none&insecure=0&host=mojito1703.mastopen14.ir&fp=chrome&type=ws&allowInsecure=0&sni=mojito1703.mastopen14.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
