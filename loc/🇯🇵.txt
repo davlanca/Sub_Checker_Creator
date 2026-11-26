@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://8840fac2-5361-4cb6-b887-cd1b95092394@50.7.159.242:443?encryption=none&fp=firefox&security=tls&sni=jp.reddotcorp.org&type=tcp#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@sync.2ml.bid:443?encryption=none&security=tls&sni=sync.2ml.bid&type=grpc&authority=&serviceName=v3-direct&mode=gun#%F0%9F%87%AF%F0%9F%87%B5
