@@ -1,0 +1,5 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@186.246.13.65:31002?sni=alb.vpnvpn.best&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9
+hysteria2://0822b3b0-4c52-47c0-aed6-be7bf6f54aba@94.183.195.240:8453?sni=eu71.cdn77.icu&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9

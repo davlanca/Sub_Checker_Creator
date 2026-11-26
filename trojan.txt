@@ -1,4 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+trojan://174rUJ1RGKdZ4ETwzu9uhT2GEeof2zrp@185.229.9.62:443?security=tls&sni=node205.overgroup.cloud&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1
 trojan://463f7453753f4d47@168.107.51.32:20045?security=tls&fp=chrome&sni=ikr200.zxom.eu.org#%F0%9F%87%B0%F0%9F%87%B7
