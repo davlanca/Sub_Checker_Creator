@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://c0742f77-5495-43bf-b007-88d368774d7c@wt2561az.thewalkingded.life:443?security=reality&encryption=none&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=wt2561az.thewalkingded.life&sid=91d82754d06c5d38#%F0%9F%87%AE%F0%9F%87%B3
-vless://7803bad0-403e-4ccc-bd7c-47db51eb674e@217.60.148.118:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6sYa5u0pnyEVehzOJkiyRiNOnsCh_pRNVnqFYyb3Xz4&security=reality&sid=93def9125e49e853&sni=in.static-s3.org&type=tcp#%F0%9F%87%AE%F0%9F%87%B3
