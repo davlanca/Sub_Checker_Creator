@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://0822b3b0-4c52-47c0-aed6-be7bf6f54aba@72.56.55.45:30007?security=reality&sni=eu93.cdn77.icu&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4
 hysteria2://68dea054-c7af-439e-a700-0f1c92e72795@186.246.13.65:31017?sni=alb.vpnvpn.best&alpn=h3#%F0%9F%87%B3%F0%9F%87%B4
