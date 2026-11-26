@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://7aa77858-f235-0001-9434-7ab060848b17@85.8.201.187:443?flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&alpn=h2%2Chttp%2F1.1&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://7aa77858-f235-0001-9434-7ab060848b17@85.8.201.186:443?flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&alpn=h2%2Chttp%2F1.1&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
-vless://e28400a8-0819-4bff-a5ac-aded4f6beaeb@31.76.249.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Srhhku9bWUF4QapiwDFhqVThRHe0FGL86dPXopDiHXM&security=reality&sid=9a71ca67&sni=img.eurostaticfiles.shop&type=tcp#%F0%9F%87%A9%F0%9F%87%AA
+vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.225.33.67:443?alpn=http%2F1.1&encryption=none&fp=firefox&host=e2.cdnwh.icu&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F&security=tls&sni=e2.cdnwh.icu&type=ws#%F0%9F%87%A9%F0%9F%87%AA
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9446?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?encryption=none&flow=xtls-rprx-vision&headerType=none&path=%2F&security=tls&sni=mosaic.topp-con.xyz&type=tcp&fp=ios#%F0%9F%87%A9%F0%9F%87%AA
+vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?type=ws&security=tls&fp=firefox&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com#%F0%9F%87%A9%F0%9F%87%AA

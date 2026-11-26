@@ -1,7 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.225.56.100:443?alpn=http%2F1.1&encryption=none&fp=random&host=e2.cdnwh.icu&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F&security=tls&sni=e2.cdnwh.icu&type=ws#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://7aa77858-f235-0001-9434-7ab060848b17@85.8.201.193:443?flow=xtls-rprx-vision&security=tls&sni=cdn.mornismp.ru&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://e28400a8-0819-4bff-a5ac-aded4f6beaeb@31.76.249.96:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Srhhku9bWUF4QapiwDFhqVThRHe0FGL86dPXopDiHXM&security=reality&sid=9a71ca67&sni=img.eurostaticfiles.shop&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoiMTA0LjE4LjAuMSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiJ9#%20t.me%2Frjsxrd
 vmess://eyJhZGQiOiIxNzIuNjYuMC4xIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwicHMiOiJbT3BlblJheV0g8J+MkFhYLTE2NzYifQ==#Бесплатный VPN tg:VLESSFORU 🇺🇸%20t.me%2Frjsxrd
-vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?type=ws&security=tls&fp=firefox&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.27.97.42:8443?&security=tls&fp=chrome&sni=free.sahanwickramasinghe.com&type=ws&headerType=none&host=free.sahanwickramasinghe.com&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
