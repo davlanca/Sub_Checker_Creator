@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 
 vless://74f809f5-b34f-409a-a344-f594be10aba6@189.74.117.19:443?flow=xtls-rprx-vision&security=reality&sni=api.videodolina.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&fp=edge#%F0%9F%87%BA%F0%9F%87%B8
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@188.225.33.67:443?alpn=http%2F1.1&encryption=none&fp=safari&host=e2.cdnwh.icu&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F&security=tls&sni=e2.cdnwh.icu&type=ws#%F0%9F%87%BA%F0%9F%87%B8
-vless://b432a23a-acff-425c-bf69-70480cd6ed09@e2.cdnwh.icu:443?alpn=http%2F1.1&encryption=none&host=e2.cdnwh.icu&insecure=0&path=%2Fstream%2Fsegment%2F3078a41dd7eb%2F&security=tls&sni=e2.cdnwh.icu&type=ws&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@45.74.158.105:443?&security=tls&fp=firefox&sni=accessfooter.cleanfoodshop.org&type=ws&headerType=none&host=accessfooter.cleanfoodshop.org&path=%2Fmedia%2Fws%2F#%F0%9F%87%BA%F0%9F%87%B8
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7giLCJhZGQiOiIxMDQuMTguMC4xIiwicG9ydCI6Ijg0NDMiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsImhvc3QiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInNuaSI6InYycmF5MS5kb3phcHAueHl6In0
