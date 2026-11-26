@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://48818046-00b5-4576-bbe8-d2971fe0f844@timeweb-2hmq5ehr3ievlnabv8l2.concept7.ru:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&security=tls&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B8%F0%9F%87%A8

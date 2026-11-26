@@ -4,3 +4,4 @@
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.57:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
 vless://b771804e-a62c-429f-a56c-9f0a452d8f6e@185.122.167.103:59130?security=reality&encryption=mlkem768x25519plus.native.0rtt.8oUBloz7dC7Dj2HwtrH_gsqKLAfv3sw1me3xB5yBQjA&pbk=6Lh48ni3w8oe9QW3xVzNMIE5LU-p5VPHPMCUtVMOmgo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nvplm.stg.nvidia.com&sid=14#%F0%9F%87%AC%F0%9F%87%A7
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&security=reality&sid=8debcf36f1cc69ff&sni=ads.x5.ru&type=tcp#%F0%9F%87%AC%F0%9F%87%A7
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?&security=tls&fp=chrome&sni=sinavm2.soft10.ir&type=ws&headerType=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM#%F0%9F%87%AC%F0%9F%87%A7
