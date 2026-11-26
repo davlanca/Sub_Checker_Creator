@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViXzM3NzRfSVBWNCIsImFkZCI6IjE3Mi42Ny4xODcuMTQ1IiwicG9ydCI6IjgwIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwic25pIjoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyJ9#%20t.me%2Frjsxrd
-vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&alpn=h2&encryption=none&insecure=0&host=mojito1703.mastopen14.ir&fp=chrome&type=ws&allowInsecure=0&sni=mojito1703.mastopen14.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
