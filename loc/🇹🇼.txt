@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+trojan://c2cc86b4-4481-4807-ac9e-24e2d7041248@122.118.135.139:443?security=tls&sni=zephyr-tw1.bpca2026.top&type=ws&host=zephyr-tw1.bpca2026.top&path=%2Fimages#%F0%9F%87%B9%F0%9F%87%BC
