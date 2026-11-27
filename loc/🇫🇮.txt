@@ -3,4 +3,3 @@
 
 vless://97daeafa-0744-38a0-9441-74d6cdb63e80@138.124.37.196:443?flow=xtls-rprx-vision&security=reality&sni=lg.hel.play2go.cloud&fp=firefox&pbk=r7gK1xDtZl5wDL59Teyw--KXacW1EjOT2mm0MdwY7gM&sid=39b7084197ed8260#%F0%9F%87%AB%F0%9F%87%AE
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.138.175:8443?security=reality&encryption=none&pbk=25QzRZqG6_xhYTy3Be7EXiE8UgaVyRl_GFx8mfXBLWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6aee1e2cdc4d33dd#%F0%9F%87%AB%F0%9F%87%AE
-vless://7c768ae5-33eb-4460-b901-cffa40948c5f@144.31.249.159:2053?encryption=none&fp=firefox&pbk=4zpFl-kdSaBlWcL9tqunp9gQQRwNrpeua_OFx3oD7WI&security=reality&sid=98383c4e8a3f1b74&sni=flsh.luna-nodes.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE
