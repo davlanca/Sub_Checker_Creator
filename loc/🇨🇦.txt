@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&type=tcp&packetEncoding=xudp&sni=kuruish.org&fp=chrome&encryption=none#%F0%9F%87%A8%F0%9F%87%A6

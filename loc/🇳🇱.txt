@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@201.51.11.65:443?encryption=none&flow=xtls-rprx-vision&headerType=none&insecure=0&pbk=GiDgVRVYrTkv1mZJeFVWkr736Iey2kqLM6L0eUbffV8&security=reality&sni=absolute-disaster.org&type=tcp&fp=random#%F0%9F%87%B3%F0%9F%87%B1
 vless://c9b4fb55-1634-436f-beb7-3b1db5b0131d@ev.zoom.us:8443?&security=tls&fp=chrome&sni=free-server.techsonic.dev&type=ws&headerType=none&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#%F0%9F%87%B3%F0%9F%87%B1
 vless://e9db00d0-e30d-4e42-ac13-815c95374fa1@104.18.12.225:443?encryption=none&security=tls&sni=a1178.o7c4pzv.com&fp=chrome&type=grpc&authority=&serviceName=f0790a536033e1e4d0fa15ef7be34f06&mode=gun#%F0%9F%87%B3%F0%9F%87%B1
-vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@9.247.23.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@163.245.42.167:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=tcp#%F0%9F%87%B3%F0%9F%87%B1
