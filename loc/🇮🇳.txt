@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?encryption=none&fp=firefox&host=147-93-171-8.sslip.io&path=/vpn-live&security=tls&sni=147-93-171-8.sslip.io&type=ws#%F0%9F%87%AE%F0%9F%87%B3
