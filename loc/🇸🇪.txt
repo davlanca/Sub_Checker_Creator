@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://faf6b8af-e741-4ef5-b1e2-25a3f413cc8e@188.225.77.71:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=spb2.b2ai.top&type=raw#%F0%9F%87%B8%F0%9F%87%AA
+vless://faf6b8af-e741-4ef5-b1e2-25a3f413cc8e@188.225.77.71:443?alpn=h2&encryption=none&flow=xtls-rprx-vision-udp443&fp=ios&security=tls&sni=spb2.b2ai.top&type=raw#%F0%9F%87%B8%F0%9F%87%AA
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@92.63.193.41:443?flow=xtls-rprx-vision&fp=qq&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&security=reality&sid=b92d7008f05da71e&sni=ruswedmicro2.gangplatform.com&encryption=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
+vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?flow=xtls-rprx-vision&fp=firefox&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&security=reality&sid=497b9fa9b6050f45&sni=www.tele2.se&type=raw#%F0%9F%87%B8%F0%9F%87%AA
