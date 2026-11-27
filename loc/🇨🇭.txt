@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%A8%F0%9F%87%AD
