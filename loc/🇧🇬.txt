@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@131.123.42.66:8447?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b2RQVPe7qBYOQb-7qxduxvPVlSR94B5NCBPe-e6o1z4&security=reality&sid=891aad77b2387c0b&sni=www.cooolbox.bg&type=tcp#%F0%9F%87%A7%F0%9F%87%AC
