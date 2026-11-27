@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6
 vless://c0742f77-5495-43bf-b007-88d368774d7c@31.59.156.57:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8J-SvgA_FEZG-T-dX5sV2zqnQm4-J6aT1LK6Kk-7pho&security=reality&sid=b3da8e3ebc600de3&sni=canadizian.harcho.shop&type=tcp#%F0%9F%87%A8%F0%9F%87%A6
 vless://c0742f77-5495-43bf-b007-88d368774d7c@canadizian.harcho.shop:443?security=reality&pbk=8J-SvgA_FEZG-T-dX5sV2zqnQm4-J6aT1LK6Kk-7pho&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=canadizian.harcho.shop&sid=b3da8e3ebc600de3#%F0%9F%87%A8%F0%9F%87%A6
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6

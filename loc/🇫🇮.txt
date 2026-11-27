@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://030e421e-9317-4cb8-8fbe-a07a565ad3db@4f070970.con.metricdraft.tech:443?sni=4f070970.con.metricdraft.tech#%F0%9F%87%AB%F0%9F%87%AE
