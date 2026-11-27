@@ -2,9 +2,9 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
-vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@84.32.217.173:14443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sw.sometraffic.org&pbk=bDusKhZi2NCA08GISCdWKvfuvFE8iGLlhCyoSFzh_lI&sid=5e6ab3ab238625&fp=firefox&spx=/#%F0%9F%87%B8%F0%9F%87%AA
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@92.63.193.41:443?flow=xtls-rprx-vision&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=edge#%F0%9F%87%B8%F0%9F%87%AA
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@92.63.193.41:443?flow=xtls-rprx-vision&security=reality&sni=ruswedmicro2.gangplatform.com&pbk=Hk7E17R41exzrPKAOeETobKQ0LOAmuLSzFXdEwLSmiQ&sid=b92d7008f05da71e&fp=ios#%F0%9F%87%B8%F0%9F%87%AA
+vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@84.32.217.173:14443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sw.sometraffic.org&pbk=bDusKhZi2NCA08GISCdWKvfuvFE8iGLlhCyoSFzh_lI&sid=5e6ab3ab238625&fp=firefox&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA
 vless://240cb330-efc6-4d06-b5de-eb5fa8c7cc47@143.246.195.83:8448?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tele2.se&pbk=ipT42Jd5c_HMbbi-x0Qt12BGl2lGfJuZ5Im87DMfNGI&sid=497b9fa9b6050f45&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
-vless://379b1f28-8109-43bc-9317-8f1f24cdc85b@81.177.215.81:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=flex.plus-hit.ru&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=7c8e3d4a9b1f26d3&fp=edge&spx=/#%F0%9F%87%B8%F0%9F%87%AA
-vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=avelon.onl&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
 vless://639b131f-d0f3-460c-aa17-423047f8a5df@213.21.252.56:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&security=reality&sni=stock2.mcufa.pro&type=tcp#%F0%9F%87%B8%F0%9F%87%AA
+vless://7aa77858-f235-44d6-9434-7ab060848b17@92.63.189.39:8443?flow=xtls-rprx-vision&security=tls&sni=avelon.onl#%F0%9F%87%B8%F0%9F%87%AA
+vless://379b1f28-8109-43bc-9317-8f1f24cdc85b@81.177.215.81:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=flex.plus-hit.ru&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=7c8e3d4a9b1f26d3&fp=edge&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA
