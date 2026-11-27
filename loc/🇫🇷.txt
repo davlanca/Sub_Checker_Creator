@@ -6,6 +6,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#%F0%9F%87%AB%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.27.21:8388#%F0%9F%87%AB%F0%9F%87%B7
 vless://76c75192-37fb-408d-94e9-3e4b570fdb36@194.87.242.23:443?flow=xtls-rprx-vision&security=reality&sni=stream.selectus.ru&fp=qq&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&sid=b0f839d2a5c7e146#%F0%9F%87%AB%F0%9F%87%B7
 vless://c6771b7c-2ea6-4ced-afb5-f135cf2fd585@104.18.12.225:2087?encryption=none&security=tls&sni=a1040.o7c4pzv.com&fp=chrome&type=grpc&authority=&serviceName=fec91ad0c3dfc86bfc78ba69892385f9&mode=gun#%F0%9F%87%AB%F0%9F%87%B7
 vless://9df9ee1a-0671-4c6c-93c7-65598fb946f7@192.144.58.203:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W7M4MhVHx47N0lVQwP4uIGpyCIkzYsTsDOygqMK4li8&security=reality&sid=60e5181f77500676&sni=ruparmicro2.gangplatform.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
