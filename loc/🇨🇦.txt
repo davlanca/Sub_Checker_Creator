@@ -4,4 +4,5 @@
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@157.22.191.75:443?security=reality&flow=xtls-rprx-vision&pbk=3U3hb-HmOG5qptCzXIt8NQE3TE40eeTJsNpBV_B9hQA&sid=1dde6750d22c5634&sni=rucanmicro1.gangplatform.com&fp=ios#%F0%9F%87%A8%F0%9F%87%A6
 vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@185.218.17.172:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=canwec.kramiliantha.sbs&pbk=oTsYnjjxzyoBI2rJn0TjihgaOcNMPa9bNwHhp4RdDkg&sid=be7d0c9dda4dd4e6&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6
