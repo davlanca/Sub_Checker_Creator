@@ -2,6 +2,3 @@
 //profile-update-interval: 1
 
 vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?encryption=none&fp=firefox&host=147-93-171-8.sslip.io&path=/vpn-live&security=tls&sni=147-93-171-8.sslip.io&type=ws#%F0%9F%87%AE%F0%9F%87%B3
-vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?type=tcp&security=reality&fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&sni=www.cloudflare.com#%F0%9F%87%AE%F0%9F%87%B3
-vless://06a5afa1-2bbc-a5d1-1770-becd1089c636@13.140.253.35:443?&security=tls&fp=chrome&sni=xray-dmr3b3hy-calm-maple-7.cloady.io&type=ws&headerType=none&host=xray-dmr3b3hy-calm-maple-7.cloady.io&path=%2F0175469f14317d82#%F0%9F%87%AE%F0%9F%87%B3
-vless://06a5afa1-2bbc-a5d1-1770-becd1089c636@xray-dmr3b3hy-calm-maple-7.cloady.io:443?security=tls&sni=xray-dmr3b3hy-calm-maple-7.cloady.io&type=ws&host=xray-dmr3b3hy-calm-maple-7.cloady.io&path=%2F0175469f14317d82&encryption=none#%F0%9F%87%AE%F0%9F%87%B3
