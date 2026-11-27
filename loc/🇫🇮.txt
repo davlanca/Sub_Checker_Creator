@@ -1,10 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@canaryform.ratethatrestaurant.org:443?security=tls&alpn=h3&insecure=0&sni=canaryform.ratethatrestaurant.org#%F0%9F%87%AB%F0%9F%87%AE
 vless://e307f400-d65e-4afd-bfe2-9a54deca5678@2.27.122.255:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Uig-31Ux76EreEvx8Ntb0BwS1TkUGbu0LcsQsiAH6wg&security=reality&sid=d52d3ecf49447c2a&sni=sun9-37.userapi.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.138.175:8443?security=reality&encryption=none&pbk=25QzRZqG6_xhYTy3Be7EXiE8UgaVyRl_GFx8mfXBLWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6aee1e2cdc4d33dd#%F0%9F%87%AB%F0%9F%87%AE
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.80.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XoMobTnf_CODRJ6rz0eoPsy1TC37jrJJpE8mwDUKRBg&security=reality&sid=4e006700e13e56cd&sni=www.google.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@200.96.109.82:443?encryption=none&type=grpc&security=reality&sni=fi.viwinlakgom.pro&pbk=m-ddb1cBDLC3_I8TlVnxgvSZ-MvkJkhP1twRrX2xO0I&sid=d9662905&fp=firefox&serviceName=NexusGrpc#%F0%9F%87%AB%F0%9F%87%AE
 hysteria2://030e421e-9317-4cb8-8fbe-a07a565ad3db@4f070970.con.metricdraft.tech:443?sni=4f070970.con.metricdraft.tech#%F0%9F%87%AB%F0%9F%87%AE
-vless://41bcd5ea-f90c-4227-ab6f-23de50b0a226@185.204.168.21:4997?encryption=none&fp=firefox&host=aparat.com&pbk=yOFzZU_6JCavaV4RW3fXI25c2YFCLQtx8JWPUPK5EUY&security=reality&sid=139269e23fa66974&sni=aparat.com&type=xhttp#%F0%9F%87%AB%F0%9F%87%AE

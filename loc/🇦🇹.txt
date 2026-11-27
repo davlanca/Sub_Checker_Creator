@@ -1,9 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ac01dcf5-a26d-46b1-9514-0ab4088ca813@189.74.115.7:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc&fp=chrome#%F0%9F%87%A6%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@menuagent.videostockmarket.org:443?security=tls&alpn=h3&insecure=0&sni=menuagent.videostockmarket.org#%F0%9F%87%A6%F0%9F%87%B9
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@batchrefund.videostockmarket.org:443?security=tls&alpn=h3&insecure=0&sni=batchrefund.videostockmarket.org#%F0%9F%87%A6%F0%9F%87%B9
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@coastalchart.videostockmarket.org:443?security=tls&alpn=h3&insecure=0&sni=coastalchart.videostockmarket.org#%F0%9F%87%A6%F0%9F%87%B9
+vless://b1d8c4f5-0236-4480-a1bc-acd1ecf1be1b@189.74.115.7:443?security=reality&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.mediaroshcha.cc&fp=edge#%F0%9F%87%A6%F0%9F%87%B9

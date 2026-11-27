@@ -3,5 +3,4 @@
 
 vless://c0742f77-5495-43bf-b007-88d368774d7c@turag.vvzzkontaktezzvv.garden:443?type=tcp&headerType=none&security=reality&encryption=none&sni=turag.vvzzkontaktezzvv.garden&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7
 vless://c0742f77-5495-43bf-b007-88d368774d7c@103.83.87.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=turag.vvzzkontaktezzvv.garden&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
-hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@waybillupload.cleanfoodshop.org:443?security=tls&alpn=h3&insecure=0&sni=waybillupload.cleanfoodshop.org#%F0%9F%87%B9%F0%9F%87%B7
 vless://56665684-5ac0-4ba9-9d49-8b258fb57974@turkey-ip1.mmdaqaorg.xyz:50738?security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=turkey-ip1.mmdaqaorg.xyz&type=tcp&headerType=none&host=turkey-ip1.mmdaqaorg.xyz&path=%2F#%F0%9F%87%B9%F0%9F%87%B7
