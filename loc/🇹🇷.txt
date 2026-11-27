@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://c0742f77-5495-43bf-b007-88d368774d7c@103.83.87.152:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=turag.vvzzkontaktezzvv.garden&type=tcp#%F0%9F%87%B9%F0%9F%87%B7
-vless://c0742f77-5495-43bf-b007-88d368774d7c@turag.vvzzkontaktezzvv.garden:443?security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=turag.vvzzkontaktezzvv.garden&sid=ff776ff77be48b88#%F0%9F%87%B9%F0%9F%87%B7
