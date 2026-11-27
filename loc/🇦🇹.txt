@@ -1,6 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8453?sni=eu71.cdn77.icu&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#%F0%9F%87%A6%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9
 vless://7af8c5d0-ede6-40ab-9b9e-d7924f79d109@144.31.129.67:443?type=grpc&headerType=none&security=reality&encryption=none&sni=coinjoin-video-stri.ru&fp=firefox&pbk=aIxjIWyXHiV-aidKKODGmQva0yUPJzQ0Jzp4lg_urQY&sid=d9662905&serviceName=nexusGrpc&mode=gun#%F0%9F%87%A6%F0%9F%87%B9

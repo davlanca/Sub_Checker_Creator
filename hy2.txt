@@ -1,6 +1,10 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8453?sni=eu71.cdn77.icu&alpn=h3#%F0%9F%87%A6%F0%9F%87%B9
+hysteria2://db0eb9c9-5bb5-4a59-ba56-a33bc8e0de5d@84.23.52.100:443?sni=84-23-52-100.sslip.io&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA
+hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8455?sni=eu36.cdn77.icu&alpn=h3#%F0%9F%87%AE%F0%9F%87%B9
+hysteria2://6972bdba-42a2-4b5c-8250-ef75f01a933d@94.183.195.241:8454?sni=as18.cdn77.icu&alpn=h3#%F0%9F%87%AF%F0%9F%87%B5
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.213:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://162be7b9-eb38-4f74-b836-96afc49ae452@194.93.61.148:443?sni=nether.cxhub.su#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.106:443?sni=de1-balance.rezproffx.ru#%F0%9F%87%A9%F0%9F%87%AA
