@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.99:19999?#%F0%9F%87%AE%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.27:19999?#%F0%9F%87%AE%F0%9F%87%B9
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.36:19999?#%F0%9F%87%AE%F0%9F%87%B9
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@94.103.83.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=ruitaliamicro1.gangplatform.com&pbk=X99zq7QEhnb9l3JsdyrL8Jt6yDZTcL3QzNbTZrUmJEM&sid=dbd5efbe0fd57f71&fp=qq&encryption=none#%F0%9F%87%AE%F0%9F%87%B9
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@202.50.253.90:19999?#%F0%9F%87%AE%F0%9F%87%B9
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@94.103.83.173:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ruitaliamicro1.gangplatform.com&fp=qq&pbk=X99zq7QEhnb9l3JsdyrL8Jt6yDZTcL3QzNbTZrUmJEM&sid=dbd5efbe0fd57f71&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9
