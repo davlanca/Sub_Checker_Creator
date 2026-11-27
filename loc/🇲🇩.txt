@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://b1490307-d693-4392-8f32-a3f7cc139202@seriesseller.ratethatrestaurant.org:443?security=tls&alpn=h3&insecure=0&sni=seriesseller.ratethatrestaurant.org#%F0%9F%87%B2%F0%9F%87%A9

@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://c0742f77-5495-43bf-b007-88d368774d7c@34.93.76.68:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=wt2561az.thewalkingded.life&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&sid=91d82754d06c5d38&fp=firefox&spx=%2F#%F0%9F%87%AE%F0%9F%87%B3
 vless://c0742f77-5495-43bf-b007-88d368774d7c@wt2561az.thewalkingded.life:443?security=reality&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&fp=firefox&spx=%2F&type=raw&flow=xtls-rprx-vision&sni=wt2561az.thewalkingded.life&sid=91d82754d06c5d38#%F0%9F%87%AE%F0%9F%87%B3
-vless://c0742f77-5495-43bf-b007-88d368774d7c@34.93.76.68:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=wt2561az.thewalkingded.life&pbk=yRiALDdYl3RIWzkAktpXyjEubuJOGSHQmGWNOSFvTh4&sid=91d82754d06c5d38&fp=firefox&spx=/#%F0%9F%87%AE%F0%9F%87%B3
