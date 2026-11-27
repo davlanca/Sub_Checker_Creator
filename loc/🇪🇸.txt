@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443?mode=gun&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&security=reality&serviceName=livestreamcontent&sid=c5548af15927b698&sni=node43.lmdscdn.ru&type=grpc&fp=safari#%F0%9F%87%AA%F0%9F%87%B8
