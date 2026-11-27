@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hysteria2://094b4f8c-8bda-42c3-b69c-608548136f0b@157.228.65.223:443?sni=lt-1-lietuva.fantoff.online&alpn=h3#%F0%9F%87%A6%F0%9F%87%B2
