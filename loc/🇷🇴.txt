@@ -1,5 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://6dfb3b5f-e878-48c9-8f49-b2ab0b2a6d48@46.182.24.208:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=selec-bs2.gamma-kvn.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4
 vless://d1a6a033-fdbd-46a6-a177-3370ba042b9f@46.28.67.55:443?encryption=none&flow=xtls-rprx-vision&pbk=i2dJ1_XGDpp50qpEclh6SWSWkxt4B0t2hi2qOVQbeSU&security=reality&sid=d06d78e974491b6e&sni=www.cloudflare.com&type=raw#%F0%9F%87%B7%F0%9F%87%B4
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@82.152.141.149:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UIHULCJ5JuqZHg66twX_GyTtaSE4Zu7XN2VCX4Hc0l0&security=reality&sid=cf7cd748e03a6be8&sni=nexz747.richhoodfoc.com&type=tcp#%F0%9F%87%B7%F0%9F%87%B4
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@82.152.141.149:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=nexz747.richhoodfoc.com&pbk=UIHULCJ5JuqZHg66twX_GyTtaSE4Zu7XN2VCX4Hc0l0&sid=cf7cd748e03a6be8&fp=firefox&spx=%2F&encryption=none#%F0%9F%87%B7%F0%9F%87%B4
+vless://ba373a70-295f-482d-a471-8bc17b54e23b@46.28.67.210:443?encryption=none&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&serviceName=neurex&sid=27350908de933e09&sni=foxbramble.xyz&type=grpc#%F0%9F%87%B7%F0%9F%87%B4
