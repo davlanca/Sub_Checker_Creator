@@ -1,16 +1,7 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@147.45.175.81:443?encryption=none&security=tls&serviceName=grpc-ru&sni=xsru1.ddnsfree.com&type=grpc#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru1.ddnsfree.com:443?type=grpc&security=tls&fp=chrome&sni=xsru1.ddnsfree.com&mode=gun&serviceName=grpc-ru#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://34899740-16ab-4f8a-bc13-051cf6f62a86@188.225.35.83:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YZtDA-Mz6GSlPnrhnQkSpzj8TSaGDcMjukrGI_xFg1Y&security=reality&sid=d9c79602&sni=wl.tw.daugava-analytics.com&type=raw#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hysteria2://41edb44c8e@103.88.243.142:11592?insecure=1#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xsru2.freeddns.org:443?encryption=none&host=xsru2.freeddns.org&path=%2Fwsru&security=tls&sni=xsru2.freeddns.org&type=ws&fp=ios#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-hy2://41edb44c8e@103.88.243.142:11592?sni=srv-17e124.21freedom.net#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://666821a2-5c3d-0001-a56f-5a3a562d7324@136.148.83.69:443?headerType=none&path=%2F&security=tls&sni=szqbx-ru-77dc.my-fade.cloud&type=tcp&fp=edge#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?encryption=none&security=tls&sni=wccfu-ru-79dc.my-fade.cloud&fp=qq&type=tcp&headerType=none&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://00000000-0000-0001-0000-000000000000@136.148.83.70:443?encryption=none&security=tls&sni=aszbk-ru-78dc.my-fade.cloud&fp=qq&type=tcp&headerType=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:443?security=tls&type=ws&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&host=sinavm2.soft10.ir&packetEncoding=xudp&alpn=http%2F1.1%2Ch2%2Ch3&sni=sinavm2.soft10.ir&fp=chrome&encryption=none#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://73ebb72a-e2a8-44c8-a0e3-938740a4f578@079b6et.ee5.h1clayd.shop:443?type=tcp&headerType=none&security=reality&encryption=none&sni=079b6et.ee5.h1clayd.shop&pbk=NMS-P97L7IrYGl7mQv1j2K_EBX6G57fu6DvREZYl01U&sid=35a329a23bb50d2b&spx=%2F&fp=chrome#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.27.97.42:8443?&security=tls&fp=chrome&sni=free.sahanwickramasinghe.com&type=ws&headerType=none&host=free.sahanwickramasinghe.com&path=%2F#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://00000000-0000-0001-0000-000000000000@213.171.25.82:443?security=tls&fp=firefox&sni=ocxjrdsfwziqcqmhkg.fcloudservices.site#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://9c69546a-e435-4037-bc63-f9e5829a8be3@200.96.108.89:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PmoNrv5LLpq-_paCNpZi7SzpebOHfCo0eKhGryi-hyw&security=reality&sid=ad689b917ae65620&sni=static.lantri.buzz&type=tcp#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?type=ws&security=tls&fp=firefox&sni=free.sahanwickramasinghe.com&host=free.sahanwickramasinghe.com#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+PtOKAjeKYoO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ

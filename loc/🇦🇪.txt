@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.31:8459?&security=tls&fp=chrome&sni=photos.plumstatic.com&type=ws&headerType=none&host=photos.plumstatic.com&path=%2Fws#%F0%9F%87%A6%F0%9F%87%AA
-vless://eb62cabf-5901-403a-aa0c-b1d9ed1b346d@213.183.41.10:8460?fp=android&path=/ws&security=tls&sni=archive.plumstatic.com&type=ws#%F0%9F%87%A6%F0%9F%87%AA
 vless://f9c4c29f-b018-431b-b9c8-444b59fffe8f@104.16.119.58:8443?encryption=none&security=tls&sni=a1029.afl7t8f.com&fp=chrome&type=grpc&authority=&serviceName=c42d2c062a57c167e74311affb748902&mode=gun#%F0%9F%87%A6%F0%9F%87%AA
