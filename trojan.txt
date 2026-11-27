@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-trojan://F9uC3FnWeXPZ9KqEd7oZrcJxfNvvkegq@78.159.250.189:443/?type=tcp&security=tls&sni=node228.overgroup.cloud&alpn=h2%2Chttp%2F1.1&fp=firefox#%F0%9F%87%BA%F0%9F%87%B8

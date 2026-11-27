@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@147.45.221.225:443/?type=ws&encryption=none&flow=&path=/media/ws/&security=tls&sni=nl.lucheeebezlimitnoekino.stream#%F0%9F%87%A6%F0%9F%87%B1
