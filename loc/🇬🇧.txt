@@ -7,4 +7,3 @@ hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@uk-tube-01.stre4m.net:13337?sni
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru&host=ads.x5.ru#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@142.202.51.22:19999#%F0%9F%87%AC%F0%9F%87%A7
 vless://61c9aca3-c23b-4410-a85d-85fda46a76cc@48.102.240.1:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=brutak.kramiliantha.sbs&pbk=Bp9vEczvQrw_il1G29wH2eolQ2gM-2SwRK5ceMRLf2I&sid=51ed343f9bbbbbd5&fp=firefox#%F0%9F%87%AC%F0%9F%87%A7
-vless://7c768ae5-33eb-4460-b901-cffa40948c5f@48.102.50.103:2053?encryption=none&fp=firefox&pbk=TwDdO2xkx8wIhnvwLot00PNqOfzLSMiqhpOD7sQBsgs&security=reality&sid=f0f2666ef9962385&sni=desh.luna-nodes.com&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7
