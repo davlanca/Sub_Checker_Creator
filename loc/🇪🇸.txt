@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&security=reality&sid=fd8cf7e1173f0edb&sni=www.cloudflare.com&type=raw#%F0%9F%87%AA%F0%9F%87%B8
-vless://06b21aa9-65fe-4896-b0b6-a72182e1ed8a@212.227.235.66:2053?encryption=none&security=reality&sni=www.apple.com&fp=chrome&pbk=vXr6yPHRK6IKYGTf5sKTBAbdQg3OJWeDFemYUFYXlTU&sid=385366c80310403d&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%B8
+vless://12c53e32-e589-47d6-b857-e4132294f767@46.28.71.247:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=v4MuZIvFrTPT5GHMSaPryUAbIZlLstmsUTzmC1E-JTE&security=reality&sid=0dfc23fe80778c00&sni=www.cloudflare.com&type=raw#%F0%9F%87%AA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEVmx0LU9lQVY0UmlMTXdUOWUwVDcybm5GdE1HMlczbw@s23.fusetea.ir:2089?#%F0%9F%87%AA%F0%9F%87%B8
