@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 
 vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=raw#%F0%9F%87%A8%F0%9F%87%A6
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@157.22.191.75:443?security=reality&flow=xtls-rprx-vision&pbk=3U3hb-HmOG5qptCzXIt8NQE3TE40eeTJsNpBV_B9hQA&sid=1dde6750d22c5634&sni=rucanmicro1.gangplatform.com&fp=ios#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6
-vless://e6552569-97ce-430c-a324-53ad1c546e05@38.207.172.59:28418/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=op.gg&fp=chrome&security=reality&pbk=mfxE6lW_fuPZKWtrySdTx9HOh0vtX3-7aMiYDCh2YCA&sid=ddd21e20#%F0%9F%87%A8%F0%9F%87%A6
-vless://d027b485-4e11-4485-9d0f-2ef1f1129eff@172.67.219.189:443?&security=tls&fp=chrome&sni=cdn4.salamfox.ir&type=ws&headerType=none&host=cdn4.salamfox.ir&path=%2Fd027b485-4e11-4485-9d0f-2ef1f1129eff#%F0%9F%87%A8%F0%9F%87%A6
 vless://ba373a70-295f-482d-a471-8bc17b54e23b@79.141.166.81:443?type=grpc&security=reality&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&sid=27350908de933e09&sni=hazelforge.xyz&mode=gun&serviceName=neurex&encryption=none#%F0%9F%87%A8%F0%9F%87%A6
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJ2Y24iOiIiLCJwY3MiOiIifQ
