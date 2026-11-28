@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.138.175:8443?security=reality&encryption=none&pbk=25QzRZqG6_xhYTy3Be7EXiE8UgaVyRl_GFx8mfXBLWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6aee1e2cdc4d33dd#%F0%9F%87%AB%F0%9F%87%AE
+vless://55ba7b31-b0eb-4362-9c9b-fc53b0a53fab@31.77.138.211:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi3.setlocation.top&fp=firefox&pbk=CfkGhr_sLpU9RJouAtTUnX1CpDTK6hRKEl01wMtN4Ro&sid=ff67a6fea811a566&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE
 vless://da14e323-6af7-406f-a5c2-1eb7975ada8b@mail1.besttotaldns.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=mail1.besttotaldns.com&fp=chrome&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE

@@ -3,7 +3,6 @@
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUZWxlZ3JhbS1MZXZpa29fdjJyYXkiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999?#%F0%9F%87%B8%F0%9F%87%AC
-vless://5ce50e24-73ab-4bae-bec7-7eab645acc15@89.169.0.142:2082?security=reality&encryption=none&pbk=HxIEwKgVSpjE6w4ad32tZ_wSD3wi1Du-AUplDBwkoTg&spx=%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=assets99.spielinsel.party&sid=08e1c3640e92c931&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#%F0%9F%87%B8%F0%9F%87%AC
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&security=tls&sni=matrix.learnpodedu.com&fp=firefox&type=ws&host=matrix.learnpodedu.com&path=%2F#%F0%9F%87%B8%F0%9F%87%AC
 vless://59b203b2-b1bc-4e9c-a9e5-ccb8f691bf72@134.185.81.5:47881?security=reality&type=tcp&packetEncoding=xudp&sni=www.tesla.com&fp=chrome&flow=xtls-rprx-vision&sid=38d72071&pbk=6XmXX1QXGodmtqU37Zx9CDHnCnPtonRdq8ieLmt__g4&encryption=none#%F0%9F%87%B8%F0%9F%87%AC

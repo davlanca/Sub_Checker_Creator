@@ -1,4 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://68eb9113-416b-4ac9-8b10-4de023aec876@78.159.245.212:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&security=reality&sid=4a44dc153642&sni=player.mediavitrina.ru&spx=%2F&type=raw#%F0%9F%87%A8%F0%9F%87%BF
+vless://68eb9113-416b-4ac9-8b10-4de023aec876@yellow-2hmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&sid=4a44dc153642#%F0%9F%87%A8%F0%9F%87%BF
 vless://893fdb90-b1a1-4235-8f0d-56aac1cfde9e@103.200.28.8:25812?mode=gun&security=reality&encryption=none&pbk=3g6uVc70EKi_XPzCTcZj_p77XJPpVUZvFNUPew4s0iU&fp=firefox&type=grpc&serviceName=7acacc2cc9d3&sni=cz2.jetstoreapp.ru&sid=8643513c64b7f35e#%F0%9F%87%A8%F0%9F%87%BF
