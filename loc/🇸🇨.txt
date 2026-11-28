@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 hysteria2://cc84e386-b814-4cc8-bef1-a0732da9a6b3@201.4.100.25:5443?sni=betmenvpn.store#%F0%9F%87%B8%F0%9F%87%A8
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare-dns.com&fp=chrome&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%A8
