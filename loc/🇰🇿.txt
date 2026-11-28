@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://81f705b5-9039-4adf-8671-783095bba0e8@kz2.sky-vault.top:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz2.sky-vault.top&sid=ae64c9b46bff174a#%F0%9F%87%B0%F0%9F%87%BF
-hy2://f4b08bf1-d9bd-4755-aa88-ba922282c608@timewhite655.thebestqas.am:443/?hop_interval=10&sni=timewhite655.thebestqas.am#%F0%9F%87%B0%F0%9F%87%BF

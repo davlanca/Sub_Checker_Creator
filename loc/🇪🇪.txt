@@ -1,5 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@nl1.nuvoryxdata.com:443?security=tls&alpn=h3&insecure=0&sni=nl1.nuvoryxdata.com#%F0%9F%87%AA%F0%9F%87%AA
-vless://0063ec24-154c-4b84-8326-2ee3bf653005@es-carts-maps-revers.keno.su:443?security=reality&encryption=none&pbk=u2MBRxn1nqHc2re7sgPyszx1iiCfkkP2GoTqbkAeDzI&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es-carts-maps-revers.keno.su&sid=62d7a7462e870b5f#%F0%9F%87%AA%F0%9F%87%AA
+hysteria2://81f705b5-9039-4adf-8671-783095bba0e8@nl1.nuvoryxdata.com:443?sni=nl1.nuvoryxdata.com&security=tls#%F0%9F%87%AA%F0%9F%87%AA
