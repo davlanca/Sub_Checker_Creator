@@ -1,4 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://213224a4-6cd1-b7f4-8bbc-4f50e5ed847b@xray-ikmqcro3-rapid-river-6.cloady.io:443?security=tls&type=ws&path=%2Fc54a815e676d9acc&host=xray-ikmqcro3-rapid-river-6.cloady.io&sni=xray-ikmqcro3-rapid-river-6.cloady.io&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%B3
+vless://591e7de6-f2dd-4ff9-ae21-8e00d5affa2a@147.93.171.8:8443?encryption=none&security=tls&sni=147-93-171-8.sslip.io&fp=firefox&alpn=http%2F1.1&type=ws&host=147-93-171-8.sslip.io&path=%2Fvpn-live#%F0%9F%87%AE%F0%9F%87%B3

@@ -1,9 +1,9 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://3b0c1876-2628-4407-b328-ec7d53a58436@103.117.103.58:17486?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-FG4W4Xws3r5fllP4n51UKg4CPoGe7KgCVLu4b_T02g&security=reality&sid=de7c6503&sni=aws.amazon.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&sni=sync.2ml.bid&fp=firefox&type=grpc&authority=&serviceName=v3-direct&mode=gun#%F0%9F%87%AF%F0%9F%87%B5
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.19.12.94:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.217.240:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5
+vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.48:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5
-vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.156.62.218:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.67.156.147:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@162.159.254.3:443?type=ws&headerType=none&security=tls&encryption=none&sni=jp3.yohototo.top&fp=chrome&path=%2Ftyxyws&host=jp3.yohototo.top#%F0%9F%87%AF%F0%9F%87%B5
