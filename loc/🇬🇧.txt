@@ -1,7 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://59c583be-e58b-4ca7-8fd3-23312c3ddf21@82.202.183.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=miAzzpf234iyPJChEahIpLp_VPl9ACPDbJ5ByzRzigI&security=reality&sni=smart-api02.burevestnik.io&spx=%2Fv%2F7zpcygyz3dulk&type=raw#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@142.202.51.22:19999?#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.114.120.221:19999?#%F0%9F%87%AC%F0%9F%87%A7
 vless://7a321450-69a3-4fe5-b347-ad2169e5d284@51.89.194.151:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=OZR8SI6JUFl7nNcJHJb9gMFs_l9so3FRoYVHGNE9MFA&sid=c36042c276917a43&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
