@@ -2,3 +2,4 @@
 //profile-update-interval: 1
 
 vless://17c068a5-97cb-40a2-bf60-215b749c0508@digitalrepository.online:443?security=reality&encryption=none&pbk=bKTzJLYj74IilLkZPG0GO_WPkZdAllAFnetWRDqj5h8&host=%2F%3FTelegram---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24---%40iranping24%2F&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=digitalrepository.online&sid=8cf78b3eca7747f1#%F0%9F%87%BA%F0%9F%87%A6
+vless://17c068a5-97cb-40a2-bf60-215b749c0508@91.196.162.110:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bKTzJLYj74IilLkZPG0GO_WPkZdAllAFnetWRDqj5h8&security=reality&sid=8cf78b3eca7747f1&sni=digitalrepository.online&type=tcp#%F0%9F%87%BA%F0%9F%87%A6

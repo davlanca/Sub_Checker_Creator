@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+hy2://f4b08bf1-d9bd-4755-aa88-ba922282c608@timewhite655.thebestqas.am:443/?hop_interval=10&sni=timewhite655.thebestqas.am#%F0%9F%87%B0%F0%9F%87%BF
