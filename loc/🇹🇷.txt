@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://963A4918-A630-29DA-A873-093CDF8AD784@still-bar-5702.vpnetwork3567.workers.dev:443?encryption=none&security=tls&sni=still-bar-5702.vpnetwork3567.workers.dev&alpn=http%2F1.1&type=ws&host=still-bar-5702.vpnetwork3567.workers.dev&path=%2F#%F0%9F%87%B9%F0%9F%87%B7

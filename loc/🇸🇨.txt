@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@sweringa.rottshieldsons.pics:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sweringa.rottshieldsons.pics&sid=fb442438e2223836#%F0%9F%87%B8%F0%9F%87%A8
