@@ -1,13 +1,13 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://c8b0617e-010f-43a8-b3d0-d5358febf0c9@57.129.130.200:52014?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&packetEncoding=xudp&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
+vless://d731cf09-79a6-4647-aabe-8e0fda4fe3be@57.129.130.63:52014?security=tls&type=ws&path=/@Marisa_kristi&host=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&packetEncoding=xudp&sni=9-7u3b6e.wzkija0v0du4yhk6jfyfafml3nh22kne.workers.dev&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.107.47:19999?#%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6IjE4MDAwIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvNGJjMDI3YTQ0NTMyIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vless://100cfbe2-afd5-40cf-84df-063b010ee759@194.233.67.103:2053?security=reality&encryption=none&pbk=un_9X4oh5ODWIcXl_jiuUaox4XOJE7oZpSPWGb46tRI&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=07a66150eac3db28#%F0%9F%87%B8%F0%9F%87%AC
 trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC
 vless://75c5f51b-d548-4eab-a26e-aa10fc3dbc7b@147.93.173.45:10444?security=reality&type=tcp&packetEncoding=none&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#%F0%9F%87%B8%F0%9F%87%AC
+vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.20:8443?encryption=none&fp=firefox&host=matrix.learnpodedu.com&security=tls&sni=matrix.learnpodedu.com&type=ws#%F0%9F%87%B8%F0%9F%87%AC
 vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@news.zoom.us:8443?security=tls&type=ws&path=%2F&host=matrix.learnpodedu.com&packetEncoding=xudp&alpn=h2&sni=matrix.learnpodedu.com&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
-vless://4d8d9640-7cc7-4c55-ba54-6ce0d1709541@141.193.213.21:8443?security=tls&encryption=none&insecure=0&host=matrix.learnpodedu.com&type=ws&allowInsecure=0&sni=matrix.learnpodedu.com#%F0%9F%87%B8%F0%9F%87%AC
