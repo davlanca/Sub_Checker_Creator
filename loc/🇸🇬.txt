@@ -1,6 +1,8 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://0bb8b560-b056-4245-8b9d-231a0a78c54b@213.145.87.240:443?&security=tls&fp=chrome&sni=vip.freevpn.cloudns.biz&type=ws&headerType=none&host=vip.freevpn.cloudns.biz&path=%2F0bb8b560-b056-4245-8b9d-231a0a78c54b%3Fed%3D2048#%F0%9F%87%B8%F0%9F%87%AC
+vless://4d945644-69ab-47e0-98b3-d43a6313135d@www.buydomains.com:443?security=tls&type=ws&path=%2Fvl%2FSaXqikbSPA3ImtmZKAFin%3Fed%3D2560&host=mhoX6Xz96zGe3qv5HISuFj9B.paGeS.DEV&packetEncoding=xudp&sni=mhoX6Xz96zGe3qv5HISuFj9B.paGeS.DEV&fp=chrome&encryption=none#%F0%9F%87%B8%F0%9F%87%AC
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@149.88.106.74:19999?#%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJUZWxlZ3JhbS1MZXZpa29fdjJyYXkiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0
 trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC

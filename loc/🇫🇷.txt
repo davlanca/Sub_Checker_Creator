@@ -1,8 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@94.26.248.130:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=steam-videos.cc&type=raw#%F0%9F%87%AB%F0%9F%87%B7
-vless://edb50d20-2d3e-4c1e-8a75-a17168a89aa5@145.223.68.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qc2DcqT9zPPZr6ePZ7ukxACWrYhRNIBjDIjCK7veyQg&security=reality&sid=a44ff7d2e80213c2&sni=www.cloudflare.com&type=raw#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@57.129.76.233:19999#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#%F0%9F%87%AB%F0%9F%87%B7
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@79.137.99.183:19999?#%F0%9F%87%AB%F0%9F%87%B7
@@ -20,3 +18,4 @@ vless://c6771b7c-2ea6-4ced-afb5-f135cf2fd585@104.18.12.225:2087?encryption=none&
 vless://c0f5dd4d-8277-4eef-b27d-b211b57676f5@104.18.125.108:443?encryption=none&security=tls&sni=a1009.o7c4pzv.com&fp=chrome&type=grpc&authority=&serviceName=379cd04d96e32feabac5ed197fa65d7b&mode=gun#%F0%9F%87%AB%F0%9F%87%B7
 vless://ba373a70-295f-482d-a471-8bc17b54e23b@89.150.45.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pR39Vv5qhk8r6akOicoy6mMs4-ppSWUez8MyAXG7wwQ&security=reality&sid=27350908de933e09&sni=frb.899themes.pro&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
 vless://aa4645a0-35c4-4d5e-af13-b9e7cffc95d1@81.176.229.246:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE&security=reality&sid=8ba02790a1480848&sni=fr.cachevault.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7
+vless://ca21222b-caf1-4418-b404-345ea713daa4@leviko-tr6642.shopingggg.ir:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#%F0%9F%87%AB%F0%9F%87%B7
