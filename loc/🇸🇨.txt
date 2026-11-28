@@ -1,6 +1,4 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.29.255.123:59539?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cloudflare-dns.com&fp=chrome&pbk=R6mPqCsjZMWauci4LHw7Qp1LGKmBd-sxMXplyOn9bSQ&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%A8
-vless://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@sweringa.rottshieldsons.pics:443?security=reality&encryption=none&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sweringa.rottshieldsons.pics&sid=fb442438e2223836#%F0%9F%87%B8%F0%9F%87%A8
 vless://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@5.157.10.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&security=reality&sid=fb442438e2223836&sni=sweringa.rottshieldsons.pics&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
