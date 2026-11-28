@@ -1,5 +1,5 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://378a0205-c4a4-4c03-b015-5c4cbff77f6c@2.31.211.177:8080?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aiFPeLurQNAOYZhwdXsYwxCxBgw6qg8rt0UvdrdNPTY&security=reality&sid=ed516450fce897dd&sni=ssh.webdade.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.138.175:8443?security=reality&encryption=none&pbk=25QzRZqG6_xhYTy3Be7EXiE8UgaVyRl_GFx8mfXBLWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6aee1e2cdc4d33dd#%F0%9F%87%AB%F0%9F%87%AE
-vless://87bd811a-09d0-4eb8-a391-2d3b739ab4c3@89.167.80.209:443?encryption=none&fp=firefox&security=tls&sni=edge-test-01.arrowinout.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE

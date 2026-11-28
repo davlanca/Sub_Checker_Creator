@@ -1,0 +1,4 @@
+//profile-title: base64:Q2hlY2tlZCBjb25maWdz
+//profile-update-interval: 1
+
+vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@5.188.72.82:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=nevelo737.lkfnvflknsdn.com&pbk=x910I7Wil3raynZ53xYCmpVny4HNz-0WVgQyTGqf-hE&sid=e9b480652b6411ea&fp=firefox&encryption=none#%F0%9F%87%B7%F0%9F%87%B8

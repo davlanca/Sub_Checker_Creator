@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@212.41.7.34:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=austriamicro2.digritallol.com&pbk=g-b52Tq7nsL29QeyCTxrrdWe0fYxia9hkSQ5-W6DVQs&sid=4d6d55ea3528a736&fp=qq#%F0%9F%87%A6%F0%9F%87%B9
