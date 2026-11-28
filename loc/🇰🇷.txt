@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 
 vless://21096a6d-88df-49c7-8882-d09e73b4da95@43.155.208.90:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=J2yp_4F_8h4hHTntLf3URZRrdScOhOPOt1ct9LZJ5n4&security=reality&sid=9cab9354c40d5f68&sni=w.fugui.us&type=tcp#%F0%9F%87%B0%F0%9F%87%B7
-vless://21096a6d-88df-49c7-8882-d09e73b4da95@w.fugui.us:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=w.fugui.us&fp=chrome&pbk=J2yp_4F_8h4hHTntLf3URZRrdScOhOPOt1ct9LZJ5n4&sid=9cab9354c40d5f68&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7ciLCJhZGQiOiIxMjkuMTU0LjYxLjE5NiIsInBvcnQiOjgwMCwiaWQiOiJhOTE1YjFkNi1jZjI4LTRkYzgtZTRiNC1lMDljNDhjMzdlYzAiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
+vless://21096a6d-88df-49c7-8882-d09e73b4da95@w.fugui.us:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=w.fugui.us&fp=chrome&pbk=J2yp_4F_8h4hHTntLf3URZRrdScOhOPOt1ct9LZJ5n4&sid=9cab9354c40d5f68&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%B7

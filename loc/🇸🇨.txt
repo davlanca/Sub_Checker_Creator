@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@5.157.10.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&security=reality&sid=fb442438e2223836&sni=sweringa.rottshieldsons.pics&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
-vless://018cc321-b683-400c-84df-9f94fc14e44f@45.86.158.111:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IPe3TKJ84tWTMFnJH2ZtO93O_F548wzGKcs2Q00aCn4&security=reality&sid=aaf5efcafe9a1b1e&sni=c3f5cb9e.fi23.h1clayd.shop&type=tcp#%F0%9F%87%B8%F0%9F%87%A8
