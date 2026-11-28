@@ -1,5 +1,6 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
+vless://b63bc3fe-8852-4ead-8d25-8d8d5bae79ae@2.29.62.181:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.steampowered.com&fp=chrome&pbk=4hAezOnHPiz2LUH0NBpS7KmGVd7-AyOODfHWwyQ50kM&sid=fdea6c48da968d75&spx=/310b856fdca2513&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE
 vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@48.102.138.175:8443?security=reality&encryption=none&pbk=25QzRZqG6_xhYTy3Be7EXiE8UgaVyRl_GFx8mfXBLWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6aee1e2cdc4d33dd#%F0%9F%87%AB%F0%9F%87%AE
-vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.8.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pFmgbfd2eUSmge-8f0dF7Yjo8OFaZWuZ3UWC7EXjwmg&security=reality&sid=ae3cdc4eca7374a8&sni=lesson12.schoolpizorbz.xyz&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
+vless://55ba7b31-b0eb-4362-9c9b-fc53b0a53fab@31.77.138.211:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CfkGhr_sLpU9RJouAtTUnX1CpDTK6hRKEl01wMtN4Ro&security=reality&sid=ff67a6fea811a566&sni=fi3.setlocation.top&type=tcp#%F0%9F%87%AB%F0%9F%87%AE
