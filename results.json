@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-28T07:11:11.859013+00:00",
-  "count": 208,
+  "generated_at": "2026-11-28T07:15:49.728195+00:00",
+  "count": 223,
   "results": [
     {
       "protocol": "vless",
@@ -367,6 +367,94 @@
     },
     {
       "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "104.16.10.72",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 8102,
+      "speed_kbps": 83,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.72:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "104.18.42.98",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 3315,
+      "speed_kbps": 120,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.18.42.98:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=chrome&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "104.17.50.227",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 4408,
+      "speed_kbps": 96,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.17.50.227:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "104.27.46.35",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 6656,
+      "speed_kbps": 55,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.27.46.35:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=unsafe&encryption=none#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "xray-dmr3b3hy-calm-maple-7.cloady.io",
+      "port": 443,
+      "tag": "🇮🇳",
+      "ping_ms": 5365,
+      "speed_kbps": 50,
+      "ru_ok": null,
+      "config": "vless://06a5afa1-2bbc-a5d1-1770-becd1089c636@xray-dmr3b3hy-calm-maple-7.cloady.io:443?security=tls&type=ws&path=%2F0175469f14317d82&host=xray-dmr3b3hy-calm-maple-7.cloady.io&packetEncoding=xudp&sni=xray-dmr3b3hy-calm-maple-7.cloady.io&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "104.16.10.104",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 5309,
+      "speed_kbps": 173,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.104:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "104.24.31.89",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 8832,
+      "speed_kbps": 123,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.24.31.89:443?&security=tls&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "ws+tls",
+      "host": "172.64.190.13",
+      "port": 443,
+      "tag": "🇯🇵",
+      "ping_ms": 4109,
+      "speed_kbps": 99,
+      "ru_ok": null,
+      "config": "vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@172.64.190.13:443?&security=tls&fp=chrome&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
       "transport": "grpc+tls",
       "host": "leviko-se4581.shopingggg.ir",
       "port": 48115,
@@ -485,6 +573,28 @@
       "speed_kbps": 188,
       "ru_ok": null,
       "config": "vless://8344360f-0349-4784-a19f-33fd92e89389@172.64.80.1:443?encryption=none&fp=firefox&security=tls&serviceName=v3-direct&sni=sync.2ml.bid&type=grpc#%F0%9F%87%AF%F0%9F%87%B5"
+    },
+    {
+      "protocol": "vless",
+      "transport": "grpc+tls",
+      "host": "104.21.76.96",
+      "port": 443,
+      "tag": "🏴‍☠️",
+      "ping_ms": 11062,
+      "speed_kbps": 140,
+      "ru_ok": null,
+      "config": "vless://8344360f-0349-4784-a19f-33fd92e89389@104.21.76.96:443?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=v3-direct&allowInsecure=0&sni=sync.2ml.bid#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F"
+    },
+    {
+      "protocol": "vless",
+      "transport": "grpc+tls",
+      "host": "104.18.53.172",
+      "port": 8443,
+      "tag": "🏴‍☠️",
+      "ping_ms": 4496,
+      "speed_kbps": 100,
+      "ru_ok": null,
+      "config": "vless://8344360f-0349-4784-a19f-33fd92e89389@104.18.53.172:8443?encryption=none&security=tls&sni=sync.2ml.bid&fp=firefox&type=grpc&authority=&serviceName=v3-direct&mode=gun#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F"
     },
     {
       "protocol": "vless",
@@ -2289,6 +2399,61 @@
       "speed_kbps": 237,
       "ru_ok": null,
       "config": "vless://4201786b-d99b-4147-a5f0-20d47acddb81@196.196.148.76:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=8a2e72t.nl20.h1clayd.shop&fp=firefox&pbk=VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA&sid=8d0d0679f42ffd98&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "213.109.107.38",
+      "port": 443,
+      "tag": "🇳🇱",
+      "ping_ms": 3283,
+      "speed_kbps": 420,
+      "ru_ok": null,
+      "config": "vless://aa4645a0-35c4-4d5e-af13-b9e7cffc95d1@213.109.107.38:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XTX6Yvtj5B4HENQbNCS0MH3jDqq5vj5gWlg2nilTviE&security=reality&sid=8ba02790a1480848&sni=gr.cachevault.net&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "185.86.147.45",
+      "port": 1443,
+      "tag": "🇳🇱",
+      "ping_ms": 4390,
+      "speed_kbps": 134,
+      "ru_ok": null,
+      "config": "vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@185.86.147.45:1443?security=reality&encryption=none&pbk=zD0-d1GgeFkk7YTd_l0nio_4WHnbCg5-taaVzwHSomQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=sbmicro733.gangtype.com&sid=352d79dc4e4bd7df#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "185.231.204.70",
+      "port": 443,
+      "tag": "🇳🇱",
+      "ping_ms": 7354,
+      "speed_kbps": 351,
+      "ru_ok": null,
+      "config": "vless://318d9cc0-248f-4f44-b79a-1ba4fda95c08@185.231.204.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=esH80_84Bccc0dulU0nNn5nDlkkRUt9xy7U5op-Gdhc&security=reality&sid=cf71aa27e0f1b941&sni=www.aegon.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "31.76.8.195",
+      "port": 443,
+      "tag": "🇫🇮",
+      "ping_ms": 1247,
+      "speed_kbps": 478,
+      "ru_ok": null,
+      "config": "vless://e894c08a-fecc-46f5-bf03-c95d0274c79d@31.76.8.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=pFmgbfd2eUSmge-8f0dF7Yjo8OFaZWuZ3UWC7EXjwmg&security=reality&sid=ae3cdc4eca7374a8&sni=lesson12.schoolpizorbz.xyz&type=tcp#%F0%9F%87%AB%F0%9F%87%AE"
+    },
+    {
+      "protocol": "vless",
+      "transport": "reality",
+      "host": "nl26.umarketvpn.pro",
+      "port": 443,
+      "tag": "🇳🇱",
+      "ping_ms": 5271,
+      "speed_kbps": 582,
+      "ru_ok": null,
+      "config": "vless://318d9cc0-248f-4f44-b79a-1ba4fda95c08@nl26.umarketvpn.pro:443?security=reality&encryption=none&pbk=esH80_84Bccc0dulU0nNn5nDlkkRUt9xy7U5op-Gdhc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.aegon.com&sid=cf71aa27e0f1b941#%F0%9F%87%B3%F0%9F%87%B1"
     }
   ]
 }
