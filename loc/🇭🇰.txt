@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#%F0%9F%87%AD%F0%9F%87%B0
+vless://11a2709f-a1aa-4b97-9212-4d5cb0c83e53@38.207.178.28:20086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&fp=chrome&pbk=fSVnXtIce23KOtqQjDuwRkNCM3mvWlva7bPNMfODv04&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0
 vless://e15d36a7-18eb-4760-a62c-396e6c85286d@45.9.88.249:443?security=reality&pbk=PEaIN8cPwqeNAPRI1tR0t-0AD4JJwhxHSoAh0SoVDB8&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=s3.yandex.net&sid=fde291#%F0%9F%87%AD%F0%9F%87%B0
+hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#%F0%9F%87%AD%F0%9F%87%B0

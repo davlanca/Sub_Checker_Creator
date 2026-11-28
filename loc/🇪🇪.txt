@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-vless://0063ec24-154c-4b84-8326-2ee3bf653005@es-carts-maps-revers.keno.su:443?security=reality&encryption=none&pbk=u2MBRxn1nqHc2re7sgPyszx1iiCfkkP2GoTqbkAeDzI&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=es-carts-maps-revers.keno.su&sid=62d7a7462e870b5f#%F0%9F%87%AA%F0%9F%87%AA

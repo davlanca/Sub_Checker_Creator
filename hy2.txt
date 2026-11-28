@@ -2,11 +2,8 @@
 //profile-update-interval: 1
 
 hysteria2://68eb9113-416b-4ac9-8b10-4de023aec876@129.101.107.158:443?insecure=1&pinSHA256=bf7bebeecc1878789d73090588553cc51b17fb3b64bcefb1a39f26426ac43281&sni=hysteria-gjrao4f1.concept7.ru#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://2444df7f-4a0c-45bd-9c62-25a7ff8c4dba@193.124.66.172:443?security=tls&alpn=h3&insecure=0&sni=lv.0000000000000.space#%F0%9F%87%B1%F0%9F%87%BB
 hysteria2://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@88.119.176.54:443?sni=tuv10.harcho.shop#%F0%9F%87%B1%F0%9F%87%B9
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24403?sni=docs.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.38:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.213:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.163:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24414?sni=harbor.blog-forme.ru#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://6345ee32-7b62-4584-902d-07cfe588a02e@89.37.192.54:443?sni=ro-87-58-205-146.sslip.io#%F0%9F%87%A6%F0%9F%87%AA
+hysteria2://5ec96249-b753-317a-b065-b67ad66b8185@14.137.237.98:60001?sni=hk01.kfc-520.com#%F0%9F%87%AD%F0%9F%87%B0
