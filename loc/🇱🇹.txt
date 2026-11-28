@@ -1,4 +1,0 @@
-//profile-title: base64:Q2hlY2tlZCBjb25maWdz
-//profile-update-interval: 1
-
-hysteria2://f88bc31a-c30a-4a7f-bca6-5bc95d5bb593@88.119.176.54:443?sni=tuv10.harcho.shop#%F0%9F%87%B1%F0%9F%87%B9

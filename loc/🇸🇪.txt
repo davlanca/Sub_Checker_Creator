@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#%F0%9F%87%B8%F0%9F%87%AA
-vless://faf6b8af-e741-4ef5-b1e2-25a3f413cc8e@188.225.77.71:443?flow=xtls-rprx-vision-udp443&security=tls&sni=spb2.b2ai.top&alpn=h2&fp=firefox#%F0%9F%87%B8%F0%9F%87%AA
