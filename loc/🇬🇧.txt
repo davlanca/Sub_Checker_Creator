@@ -1,11 +1,14 @@
 //profile-title: base64:Q2hlY2tlZCBjb25maWdz
 //profile-update-interval: 1
 
-hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.38:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206WWxSQzFnTTI2VzJiOURyTkd1VzdPbCs2RDN5WmtGMnVNTGZUMURUR1BpTT0@45.15.168.192:53844#%F0%9F%87%AC%F0%9F%87%A7
+hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.38:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.163:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
 vless://7a321450-69a3-4fe5-b347-ad2169e5d284@51.89.194.151:2053?encryption=none&security=reality&sni=www.apple.com&fp=firefox&pbk=OZR8SI6JUFl7nNcJHJb9gMFs_l9so3FRoYVHGNE9MFA&sid=c36042c276917a43&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
+vless://a61ce788-6cfe-4bbe-9f81-155ea8fa8e16@82.152.18.32:443?sni=diyichongdi.us.ci&security=tls#%F0%9F%87%AC%F0%9F%87%A7
 vless://ba52cc43-700d-4040-9444-29214c98e6e0@213.176.92.168:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#%F0%9F%87%AC%F0%9F%87%A7
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@chatgpt.com:443?encryption=none&security=tls&sni=sinavm2.soft10.ir&fp=chrome&alpn=http%2F1.1&type=ws&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM#%F0%9F%87%AC%F0%9F%87%A7
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?&security=tls&fp=chrome&sni=sinavm2.soft10.ir&type=ws&headerType=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM#%F0%9F%87%AC%F0%9F%87%A7
 vless://57f7772d-f5d6-4d8f-992d-5fa5e0d6da55@193.188.21.253:10444?security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=safari&sni=video.yandex.ru&type=tcp&headerType=none&host=video.yandex.ru&path=%2F#%F0%9F%87%AC%F0%9F%87%A7
 vless://5a9af404-4b34-4f21-a6b3-5cf506579722@uk-prsv-forum-revers-go.opik.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk-prsv-forum-revers-go.opik.net&fp=firefox&pbk=o0hqQ8O0X_D6A49gBgmBPFMAce7Lnh5cte85Lym_fRk&sid=98618e4f919fa9e5&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7
 hysteria2://900c8c92-1979-4c7c-8f2f-63e87d53d8fe@128.254.186.213:13337?sni=mother-earth.fyi#%F0%9F%87%AC%F0%9F%87%A7
