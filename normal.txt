@@ -155,10 +155,15 @@ trojan://UwkcgmZpSWxLIMoLsi7sPA@185.178.208.167:443?security=tls&sni=inetdostup.
 
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-11-28 / 02:21 (Moscow)
-# Количество: 0
+# Date/Time: 2026-11-28 / 03:27 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://06faca2b-ccae-45c1-9b3a-5e927dc08efb@212.233.94.48:80?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&type=tcp&headerType=none&fp=android#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%5B%2ACIDR%5D%20VK
+vless://06faca2b-ccae-45c1-9b3a-5e927dc08efb@212.233.94.48:80?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&type=tcp&headerType=none&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%5B%2ACIDR%5D%20VK
+vless://06faca2b-ccae-45c1-9b3a-5e927dc08efb@212.233.94.48:80?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&type=tcp&headerType=none&fp=edge#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%5B%2ACIDR%5D%20VK
+vless://06faca2b-ccae-45c1-9b3a-5e927dc08efb@212.233.94.48:80?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&type=tcp&headerType=none&fp=ios#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%5B%2ACIDR%5D%20VK
+vless://06faca2b-ccae-45c1-9b3a-5e927dc08efb@212.233.94.48:80?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl.ezhiknet.work&type=tcp&headerType=none&fp=safari#%F0%9F%87%AE%F0%9F%87%A9%20Indonesia%20%7C%20%5B%2ACIDR%5D%20VK
 
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.11:445?encryption=none&fp=ios&mode=gun&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%231
 vless://37af0181-5598-4aad-a040-d926bcb65757@78.159.240.11:445?encryption=none&fp=firefox&mode=gun&pbk=VHWmCkZwC5XE-ctv0p8BinjoIx4SWgJUIsZPrhNf6TA&security=reality&serviceName=grpc&sni=passport.yandex.ru&spx=%2Fv%2F7zpgq7humsv6y&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20VK%20%E2%80%94%20%232
