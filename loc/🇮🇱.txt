@@ -2,4 +2,3 @@
 //profile-update-interval: 1
 
 vless://4748fc40-2026-4d6a-a64d-5dba4f7f6ef8@5.175.138.181:6789?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=45XSrBkQt7S1y2XaD51M3dmF4MjBfIrg5vF-56EeeEw&security=reality&sni=orvexe.app&type=tcp#%F0%9F%87%AE%F0%9F%87%B1
-vless://26843758-24de-4f76-b5d0-624038e353c4@71b840t.de7.h1clayd.click:443?encryption=none&security=reality&sni=71b840t.de7.h1clayd.click&fp=chrome&pbk=3wFF83gtIA0sXj-6GGCAa--oQbSr0MVUj0FBc-0QmiE&sid=e572b6579ea525d4&type=tcp&headerType=none&host=71b840t.de7.h1clayd.click&path=%2F#%F0%9F%87%AE%F0%9F%87%B1
